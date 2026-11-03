@@ -35,6 +35,14 @@ def text_len(html: str) -> int:
     return len(re.sub(r"\s+", " ", text).strip())
 
 
+_ILLEGAL_XML = re.compile("[\x00-\x08\x0b\x0c\x0e-\x1f\ufffe\uffff]")
+
+
+def clean(value):
+    """Quita caracteres de control que XML no admite (algunos feeds los traen)."""
+    return _ILLEGAL_XML.sub("", value or "")
+
+
 def read_feed_list():
     urls = []
     for line in FEEDS_FILE.read_text(encoding="utf-8").splitlines():
@@ -83,8 +91,8 @@ def process_feed(url, session, cache, new_cache):
     if not parsed.entries:
         raise RuntimeError("feed vacío o ilegible")
 
-    title = parsed.feed.get("title", url)
-    site = parsed.feed.get("link", url)
+    title = clean(parsed.feed.get("title", url))
+    site = clean(parsed.feed.get("link", url))
     slug = make_slug(url)
     now_iso = datetime.now(timezone.utc).isoformat()
 
@@ -131,14 +139,14 @@ def process_feed(url, session, cache, new_cache):
             latest = dt
 
         fe = fg.add_entry()
-        fe.id(e.get("id") or link)
-        fe.title(e.get("title") or "(sin título)")
-        fe.link(href=link)
+        fe.id(clean(e.get("id") or link))
+        fe.title(clean(e.get("title")) or "(sin título)")
+        fe.link(href=clean(link))
         fe.published(dt)
         fe.updated(dt)
-        fe.content(html, type="html")
+        fe.content(clean(html), type="html")
         if e.get("author"):
-            fe.author({"name": e.get("author")})
+            fe.author({"name": clean(e.get("author"))})
 
     fg.updated(latest or datetime.now(timezone.utc))
     fg.atom_file(str(OUT / f"{slug}.xml"), pretty=True)
