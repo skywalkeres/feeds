@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-02T22:09:51+00:00</updated>
+  <updated>2026-11-03T21:27:27+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,18 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136076</id>
-    <title>Deals: Up to $150 Off M6 &amp; M5 Pro Mac Mini</title>
-    <updated>2026-10-20T22:31:48+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;The Mac mini and Mac Studio are both increasingly popular, not only as desktop Macs, but also for local AI setups. Amazon is taking up to $150 off the Mac mini configs, and $200 off a well-equipped Mac Studio: M6 Mac Mini &amp;#8211; 16GB / 256GB &amp;#8211; $779 (down $120 from $899) M6 Mac mini ... &lt;a class="read-more" href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"&gt;Deals: Up to $150 Off M6 &amp;#038; M5 Pro Mac Mini&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"/>
-    <published>2026-10-20T22:31:48+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136078</id>
     <title>Add Full Screen Widgets on iPhone with iOS 27</title>
@@ -646,5 +634,36 @@ Pro, iPhone 15 Pro Max)&lt;br&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/02/get-the-default-wallpaper-from-the-proled-xdr-touchscreen-macbook-pro/"/>
     <published>2026-11-02T22:09:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136213</id>
+    <title>First Betas of iOS 27.3 &amp; MacOS 27.3 Available for Testing</title>
+    <updated>2026-11-03T21:27:27+00:00</updated>
+    <author>
+      <name>Jamie Cuevas</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg" alt="new iOS 27.3 and MacOS 27.3 betas are out" class="lazy lazy-hidden aligncenter size-large wp-image-135173" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-300x129.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-768x330.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-1536x659.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas.jpg 1584w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has issued the first beta build of iOS 27.3, iPadOS 27.3, and MacOS 27.3 Golden Gate, to users who are participating in the beta testing programs of Apple system software. &lt;/p&gt;
+&lt;p&gt;iOS 27.3 and MacOS 27.3 betas include a new vertical tab option in Safari, as well as an automatic dark mode feature for Safari. iPhone Duo gains a Reachability feature that pulls the screen content to the side to make interacting with one hand easier, new &lt;a href="https://osxdaily.com/2023/11/09/how-use-standby-mode-iphone/"&gt;Standby Mode&lt;/a&gt; clock features and options for all iPhones with iOS 27.3, more Siri functionality, and a redesigned Health app. Apple Intelligence is also set to arrive in China with theses releases.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136213"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For iPhone, iPad, and Mac users who are participating in the beta system software testing programs, you can download the latest iOS 27.3 beta 1 build in Settings &amp;gt; General &amp;gt; Software Update, whereas Mac users can find MacOS 27.3 beta 1 in System Settings &amp;gt; General &amp;gt; Software Update.&lt;/p&gt;
+&lt;p&gt;Apple usually goes through multiple iterations of beta software before releasing a final version to the general public, and Apple has previously said that iOS 27.3 will be released this December. &lt;/p&gt;
+&lt;p&gt;The most recent stable non-beta versions of system software are currently &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/03/first-betas-of-ios-27-3-macos-27-3-available-for-testing/"/>
+    <published>2026-11-03T21:27:27+00:00</published>
   </entry>
 </feed>
