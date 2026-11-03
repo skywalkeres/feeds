@@ -3,5 +3,6 @@
   <head><title>Feeds de texto completo</title></head>
   <body>
     <outline type="rss" text="Blogdebasket - Baloncesto en estado puro (texto completo)" title="Blogdebasket - Baloncesto en estado puro (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-blogdebasket-com-31775152.xml" htmlUrl="https://www.blogdebasket.com/"/>
+    <outline type="rss" text="aBaNDoMoVieZ (texto completo)" title="aBaNDoMoVieZ (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" htmlUrl="https://www.abandomoviez.net/"/>
   </body>
 </opml>
