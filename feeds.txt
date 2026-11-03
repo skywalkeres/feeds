@@ -3,3 +3,4 @@
 # https://ejemplo.com/feed/
 
 https://www.blogdebasket.com/rss.xml
+https://www.abandomoviez.net/rss.php
