@@ -8,3 +8,4 @@ https://undiscoaldia.com/feed
 https://osxdaily.com/feed/
 https://encestando.es/feed/
 https://objetos.estaticos-marca.com/rss/baloncesto/acb.xml
+https://objetos.estaticos-marca.com/rss/baloncesto/basketfeb.xml
