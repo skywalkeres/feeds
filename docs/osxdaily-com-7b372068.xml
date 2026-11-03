@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://osxdaily.com/feed/</id>
+  <title>OS X Daily (texto completo)</title>
+  <updated>2026-11-02T22:09:51+00:00</updated>
+  <author>
+    <name>OS X Daily</name>
+  </author>
+  <link href="https://osxdaily.com/" rel="alternate"/>
+  <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
+  <entry>
+    <id>https://osxdaily.com/?p=136076</id>
+    <title>Deals: Up to $150 Off M6 &amp; M5 Pro Mac Mini</title>
+    <updated>2026-10-20T22:31:48+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;The Mac mini and Mac Studio are both increasingly popular, not only as desktop Macs, but also for local AI setups. Amazon is taking up to $150 off the Mac mini configs, and $200 off a well-equipped Mac Studio: M6 Mac Mini &amp;#8211; 16GB / 256GB &amp;#8211; $779 (down $120 from $899) M6 Mac mini ... &lt;a class="read-more" href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"&gt;Deals: Up to $150 Off M6 &amp;#038; M5 Pro Mac Mini&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/10/20/deals-up-to-150-off-m6-m5-pro-mac-mini/"/>
+    <published>2026-10-20T22:31:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136078</id>
+    <title>Add Full Screen Widgets on iPhone with iOS 27</title>
+    <updated>2026-10-21T14:03:06+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg" alt="Use full screen Widgets on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136082" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;p&gt;One of the more compelling new subtler features introduced iOS 27 pertains to the ability to use full screen Widgets on iPhone. Full screen widgets can effectively turn a Home Screen page into a full mini-app of whatever the full screen widget is. &lt;/p&gt;
+&lt;p&gt;For example, you can have the full screen Weather widget, which shows a full longterm forecast and weather conditions right on the iPhone Home Screen, without having to open the Weather app. Or another popular example, is to use the full screen Photos widget, which lets you have a full Home Screen page dedicated to the photos widget and showing photos you might enjoy.&lt;/p&gt;
+&lt;p&gt;Full screen widgets are compelling for iPhone, here’s how to add one on your Home Screen.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136078"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Add &amp;amp; Use Full Screen Widgets on iPhone&lt;/h2&gt;
+&lt;p&gt;Your iPhone must have iOS 27 or later to have full screen widgets available:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Long tap anywhere on the iPhone Home Screen so icons start jiggling, then tap on the edit/paintbrush/add button in the corner and choose “Add Widget”&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-610x222.jpg" alt="Add Widget" class="lazy lazy-hidden aligncenter size-large wp-image-136079" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-610x222.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-300x109.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-768x279.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4.jpg 960w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Find a widget that is compatible with full screen widgets, for example Weather or Photos, and swipe through the widget carousel to the full screen version and tap on “Add Widget”&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-369x800.jpg" alt="Find the full screen widget and choose Add Widget" class="lazy lazy-hidden aligncenter size-large wp-image-136081" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;li&gt;The full screen widget will now take up an entire Home Screen page on your iPhone, when satisfied with where the Widget is located in your Home Screen carousel tap on the check/done button to set the widget&lt;/li&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-369x800.jpg" alt="Added the full screen widget for Weather on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136080" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2.jpg 960w" sizes="auto, (max-width: 369px) 100vw, 369px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;Now the full screen widget is in place, and if you swipe through your Home Screens on iPhone you will find the full screen weather widget, or whatever full screen widget you chose. &lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg" alt="Using a full screen Weather Widget on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136082" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1.jpg 960w" sizes="auto, (max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;p&gt;Quite a few of the default Apple apps have associated full screen widget support, including Calendar, Weather, Music, Photos, Notes, Reminders, and Home. You can even &lt;a href="https://osxdaily.com/2023/12/04/how-to-add-widgets-to-stacks-on-iphone-ipad-home-screen/"&gt;make a Widget Stack&lt;/a&gt; of full screen widgets if you’d like. &lt;/p&gt;
+&lt;p&gt;As usual, if you tap on the widget, the associated app will open. &lt;/p&gt;
+&lt;p&gt;Full screen widgets aren’t necessarily a revolutionary feature but they are convenient and worth exploring, so try them out on your iPhone and see how you like it.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/21/add-full-screen-widgets-on-iphone-with-ios-27/"/>
+    <published>2026-10-21T14:03:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136087</id>
+    <title>How to Use Edge Light in FaceTime on Mac</title>
+    <updated>2026-10-22T15:14:38+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.jpg" alt="Edge Light in FaceTime on Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136089" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-300x184.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-768x470.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac.jpg 1200w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The Edge Light feature of FaceTime for Mac enables a virtual ring light on your screen during FaceTime calls, which helps to more evenly illuminate your face. This is particularly useful in lower light conditions, and it can improve the appearance of a FaceTime call quite a bit. Ring Lighting is commonly used in media for all sorts of portraiture and photography, and in the modern era of video conferences and video chat, it’s also quite popular for average users too, so it’s a nice addition to MacOS.&lt;/p&gt;
+&lt;p&gt;Edge Lighting is not typically enabled by default in FaceTime on the Mac, but it can be enabled or disabled at ease, as we’ll show you.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136087"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edge Light / Ring Light system requirements&lt;/strong&gt;: Note that you must have an Apple Silicon Mac running macOS Tahoe 26.2 or later (yes that includes MacOS Golden Gate 27.0 and newer), to have access to the Edge Light feature in FaceTime. If you want to have the feature to automatically enable Edge Light when low lighting is detected, you’ll need a 2024 or newer Mac.&lt;/p&gt;
+&lt;h2&gt;How to Enable &amp;amp; Use Edge Light for FaceTime on Mac&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Open FaceTime on the Mac as usual, you don’t need to be on a FaceTime call yet to enable/disable this feature and test it out&lt;/li&gt;
+&lt;li&gt;Pull down the FaceTime menu from the top of the screen (it looks like a FaceTime icon) and click on “Edge Light” to enable the feature&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-610x475.jpg" alt="Enable Edge Light on Mac FaceTime" class="lazy lazy-hidden aligncenter size-large wp-image-136090" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-610x475.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-300x233.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-768x597.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime.jpg 1432w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Optionally, click on the arrow button to open more Edge Light settings, including a brightness / intensity slider, and a color temperature slider to change the ring light to more or less warm (yellow to blue)&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-610x539.jpg" alt="Customize Edge Light ring lighting effect on Mac FaceTime" class="lazy lazy-hidden aligncenter size-large wp-image-136091" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-610x539.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-300x265.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-768x679.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime.jpg 1416w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;And also optional, you can choose to enable Edge Light automatically when starting a FaceTime call and ambient lighting is low, or manually&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The Edge Light / Ring Light will appear on screen and is quite obvious – it’s a prominent bright white ring around your screen – but you will find that if you move your mouse around to access content the ring light effect will disappear under your mouse cursor. This allows you to select things on screen and interact with other content on your screen, without it being obstructed by the virtual ring light. &lt;/p&gt;
+&lt;p&gt;Note that if you take a screenshot during any FaceTime call with Edge Light enabled, the Edge Light feature will not be shown in the screenshot. The image shown here with Edge Light visible on the Mac laptop screen is courtesy of Apple.&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.png" alt="Ring lighting on FaceTime for Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136088" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.png 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-300x183.png 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-768x470.png 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-1536x939.png 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac.png 1632w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;h2&gt;How to Disable the Edge Light / Ring Light for FaceTime on Mac&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Open FaceTime on the Mac as usual&lt;/li&gt;
+&lt;li&gt;When Edge Light is already enabled, pull down the FaceTime menu from the top of the screen, and select “Edge Light” to disable the feature&lt;/li&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-610x500.jpg" alt="Disable Edge Light on FaceTime for Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136092" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-610x500.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-300x246.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-768x629.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime.jpg 1282w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;Now Edge Light is back off again. Some users may find that Edge Light has been enabled automatically on their Mac, while other Mac users discover they must manually turn the feature on.&lt;/p&gt;
+&lt;p&gt;If you don’t like this feature and turned it off, you might also appreciate knowing that you can &lt;a href="https://osxdaily.com/2023/11/20/how-to-disable-facetime-reaction-gestures-on-mac-iphone-ipad/"&gt;also disable the FaceTime reaction gestures&lt;/a&gt; which includes things like thumbs up, fireworks, hearts, and other &lt;a href="https://osxdaily.com/2023/11/16/facetime-reaction-gestures-iphone-ipad-mac/"&gt;virtual reactions based on your hand motions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Edge Light / Ring Lighting feature is useful enough that it’s a little surprising it is not available on every Apple device with FaceTime, though aside from the Mac it is available on iPhone Duo. Perhaps down the road the virtual ring lighting will arrive on more Apple devices, including all iPhone and iPad hardware too.&lt;/p&gt;
+&lt;p&gt;Have you ever used the virtual Edge Light / Ring Light feature on Mac with FaceTime? What do you think?&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/22/how-to-use-edge-light-in-facetime-on-mac/"/>
+    <published>2026-10-22T15:14:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136106</id>
+    <title>Deals: Save $900 Off 16″ MacBook Pro 36GB / 2TB</title>
+    <updated>2026-10-22T22:22:42+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/4xRZIyb" target="_blank" rel="nofollow"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/07/macbook-pro-m5-610x369.jpg" alt="M5 MacBook Pro" class="lazy lazy-hidden aligncenter size-large wp-image-135226" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/07/macbook-pro-m5-610x369.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/macbook-pro-m5-300x182.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/macbook-pro-m5-768x465.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/macbook-pro-m5.jpg 1500w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you have been shopping for a high end M5 Max MacBook Pro 16″ model with 36GB RAM and 2 TB SSD and waiting for a whopper discount, now might be time to act. Amazon is cutting a whopping $900 off the retail price of this top-of-the-line MacBook Pro, or a more modest yet still generous $500 off the 24GB/1TB model of the 16″ MBP. &lt;/p&gt;
+
+&lt;p&gt;These are incredibly powerful Macs and it’s rare to see such generous discounts available, check them out!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/22/deals-save-900-off-16-macbook-pro-36gb-2tb/"/>
+    <published>2026-10-22T22:22:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136098</id>
+    <title>How to Use Siri &amp; Visual Intelligence on Anything in MacOS 27 with a Keystroke</title>
+    <updated>2026-10-23T15:18:25+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg" alt="Use Visual Intelligence and Siri from anywhere on Mac to learn more about things on screen" class="lazy lazy-hidden aligncenter size-large wp-image-136100" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-300x240.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-768x615.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-1536x1230.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-2048x1640.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Visual Intelligence offers a set of AI features that can be used to identify objects and items in photos or things on screen, and a neat new feature available in MacOS 27 Golden Gate allows you to interact with Siri and Visual Intelligence from just about anywhere on your Mac. You can use this to help identify things in pictures, understand a document, or even to learn what a particular file or app is for if you aren’t sure.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136098"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This this feature is available in MacOS 27 or later, meaning it obviously requires MacOS 27 Golden Gate or newer to have access to this particular Siri + Visual Intelligence feature.&lt;/p&gt;
+&lt;h2&gt;How to Use Visual Intelligence &amp;amp; Ask Siri for Any Item on Mac Screen&lt;/h2&gt;
+&lt;p&gt;This trick is two parts and remarkably simple; have the item or image you are curious about as your active window on the Mac, then hit the appropriate keyboard shortcut to access Visual Intelligence to query about the active window:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shift + Command + Spacebar&lt;/strong&gt; to open Ask Siri AI with Visual Intelligence for the active window, then type your query and hit return&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This brings up a little “Ask Siri” query that you can then type your question or request into:&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-610x612.jpg" alt="Use a keyboard shortcut to access Siri Visual Intelligence from anywhere on Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136101" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-610x612.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-300x300.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-150x150.jpg 150w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-768x771.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-1531x1536.jpg 1531w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac.jpg 1793w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;For example, if you have a photo of a plant open on your Mac, hit Shift+Command+Spacebar, then type something like “what type of plant is this”, and Siri and Visual Intelligence will report back to describe and label the plant. &lt;/p&gt;
+&lt;p&gt;Or, as the screenshot examples here show, you can also have something visible on screen, and then hit Command+Shift+Spacebar and simply ask “describe this” and Siri AI Visual Intelligence will then identify and describe what the image is of. &lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-610x581.jpg" alt="Use Visual Intelligence to learn about a photo on Mac screen" class="lazy lazy-hidden aligncenter size-large wp-image-136099" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-610x581.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-300x286.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-768x732.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-1536x1463.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos.jpg 1833w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;In the photo examples here, you’ll see it’s a picture of an Apple II that Siri AI and Visual Intelligence accurately recognizes and then provides information about. &lt;/p&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg" alt="Use Visual Intelligence and Siri from anywhere on Mac to learn more about things on screen" class="lazy lazy-hidden aligncenter size-large wp-image-136100" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-300x240.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-768x615.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-1536x1230.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-2048x1640.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Another example that is quite handy; have Finder open to a random file, app, or system component that you are unsure? Hit Command+Shift+Spacebar and ask “what is this”. In the screenshot example here, we are using this tool to accurately identify a system daemon found within a system folder of MacOS.&lt;/p&gt;
+&lt;p&gt; &lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-610x639.jpg" alt="Use Visual Intelligence to learn about system files and other info on the Mac screen" class="lazy lazy-hidden aligncenter size-large wp-image-136102" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-610x639.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-286x300.jpg 286w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-768x804.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac.jpg 1228w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;This has many uses, and is really quite useful. In every test example I gave Siri AI and Apple Intelligence, it was able to accurately describe what it was provided, and to give useful and accurate information about various files, photos, webpages, and other items. &lt;/p&gt;
+&lt;p&gt;This “Ask Siri” keyboard shortcut can be accessed anywhere on the Mac, and generally behaves similar to the &lt;a href="https://osxdaily.com/2026/10/06/how-to-use-write-with-siri-on-mac-iphone-ipad/"&gt;Write with Siri&lt;/a&gt; floating button that appears in text-entry boxes in the latest MacOS versions.&lt;/p&gt;
+&lt;p&gt;For what it’s worth, you can also &lt;a href="https://osxdaily.com/2026/10/13/how-to-change-spotlight-search-to-ask-chatgpt-on-macos-27/"&gt;use the “Ask ChatGPT” feature of Spotlight&lt;/a&gt; to perform similar functionality, if you provide it with an image.&lt;/p&gt;
+&lt;p&gt;Give this feature a try, you might be surprised at how capable it is, and how useful it can be!&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/23/how-use-visual-intelligence-siri-mac-keystroke/"/>
+    <published>2026-10-23T15:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136123</id>
+    <title>Fix dasd Using 100% CPU on MacOS 27</title>
+    <updated>2026-10-26T09:51:07+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu.jpg"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-610x233.jpg" alt="dasd process on MacOS using high CPU and draining battery on MacOS 27" class="lazy lazy-hidden aligncenter size-large wp-image-136127" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-610x233.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-300x114.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-768x293.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu.jpg 1450w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I ran into a peculiar issue recently where the ‘dasd’ process had been consuming 100% CPU for several days straight. Since dasd is a system process, my initial assumption was that there must be some important background task that was going on. But, after a few days of no change and dasd constantly hovering between 90-100% CPU usage, contributing to significant battery drain and resource misallocation, I decided to dive into troubleshooting dasd consuming large amount of processor specifically in MacOS 27 Golden Gate. &lt;/p&gt;
+&lt;p&gt;With the help of some tinkering around in Console and Terminal, an agent, and ChatGPT, I discovered the problem with dasd going haywire may be related to an issue with telemetry and the PowerLog background processing database in MacOS. And, as it turns out, clearing this particular database and then restarting the Mac can resolve the problem. &lt;/p&gt;
+&lt;p&gt;Be forewarned, these steps involve using the Terminal to delete a system file that is actively being written to, so something could always go wrong. Backup your Mac before beginning. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136123"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Troubleshooting dasd with all the traditional methods, to no end&lt;/h3&gt;
+&lt;p&gt;First, I tried killing the ‘dasd’ process with &lt;a href="https://osxdaily.com/activity-monitor-for-mac/"&gt;Activity Monitor&lt;/a&gt;, which did nothing. I rebooted, that did nothing either, and dasd persisted with 100% CPU usage even after restart, unusual! Next I rebooted into Safe Mode, which also did nothing as the ‘dasd’ process continued to use excessive CPU even in Safe Mode. So I rebooted again, and after digging around in diagnostics and going back and forth between Console, sample, and tail, and ChatGPT to interpret and analyze, I arrived at this solution. &lt;/p&gt;
+&lt;h4&gt;Identifying a database linked to stuck dasd&lt;/h4&gt;
+&lt;p&gt;The database in question that dasd appears to be interacting with in some erroneous looping and stuck manner is located at the following system path:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I backed up and erased this particular database, then restarted the Mac, and that finally resolved the problem, bringing dasd back down to 0% CPU as expected.&lt;/p&gt;
+&lt;h4&gt;Backup your Mac, and the database file itself&lt;/h4&gt;
+&lt;p&gt;If you have and &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;use Time Machine for backups&lt;/a&gt; of your Mac, that’s probably sufficient, and you should absolutely make a Time Machine backup before continuing. Separately, if you’re like me and want to make a direct separate file backup as well (just in case!) on the same drive, here’s how you can do that.&lt;/p&gt;
+&lt;p&gt;From Terminal, and copy / paste or type the following command string to create a Folder on your desktop called “PowerLog-Backup” that contains a backup of the PowerLog database with permissions assigned to the current user:&lt;br&gt;
+&lt;code&gt;sudo mkdir -p ~/Desktop/PowerLog-Backup | sudo cp -p /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL* ~/Desktop/PowerLog-Backup/ | sudo chown -R "$(id -un)" ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you’d rather break that into three separate commands you can do that with:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo mkdir -p ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo cp -p /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL* ~/Desktop/PowerLog-Backup/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo chown -R "$(id -un)" ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Carefully Delete the PowerLog Database&lt;/h3&gt;
+&lt;p&gt;Now it is time to reset the PowerLog database. This involves deleting a system file so if you are not comfortable with that, or if you do not have a full backup of your data, do not use this command. The command must be entered precisely to avoid accidentally deleting the wrong system file which could result in a bigger problem:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo rm \&lt;br&gt;
+  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL \&lt;br&gt;
+  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL-wal \&lt;br&gt;
+  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL-shm&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Execute that command with root priveleges.&lt;/p&gt;
+&lt;h3&gt;Restart the Mac right away, wait a few minutes and check CPU again&lt;/h3&gt;
+&lt;p&gt;Then restart the Mac immediately, which you can &lt;a href="https://osxdaily.com/howto-restart-mac/"&gt;initiate from the  Apple menu&lt;/a&gt; or from Terminal with:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo reboot&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;After your Mac restarts, check CPU usage after the reboot settles, and again in 10 minutes or so. Now, if you review Activity Monitor, or returning to the command line with:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ps -axo pid,%cpu,etime,command | grep '[d]asd'&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You should now find that CPU usage for dasd is back down to 0% or some minimal inconsequential amount. &lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;The above steps are what worked for resolving high constant CPU usage of dasd for my Mac running MacOS 27.0.1, after the dasd process had been using 90% to 100% CPU for several days straight.&lt;/p&gt;
+&lt;h3&gt;Not common, but problems with dasd and excess CPU and memory usage are not nonexistent&lt;/h3&gt;
+&lt;p&gt;How prevalent this issue is, is not known, since it may be impacting more Mac users but they’re not actively finding the ‘dasd’ process in Activity Monitor, or don’t know to even look, despite battery draining a bit faster than normal, or their Mac feeling warm to the touch. The cause is also unknown. &lt;/p&gt;
+&lt;p&gt;If you happen to search around the web for this issue, you might discover that other Mac users around the web have complained of issues with dasd recently in MacOS 27 as well, so this could be a bug that will get ironed out in a future software update for MacOS. &lt;/p&gt;
+&lt;p&gt;Those discussions were on &lt;a href="https://www.reddit.com/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/" target="_blank" rel="nofollow"&gt;Reddit&lt;/a&gt;, &lt;a href="https://forums.macrumors.com/threads/high-cpu-usage-due-to-processes-appstoreagent-and-dasd-exactly-between-midnight-and-9-am.2490572/" target="_blank" rel="nofollow"&gt;MacRumors Forums&lt;/a&gt; (&lt;a target="_blank" rel="nofollow" href="https://forums.macrumors.com/threads/anyone-else-experiencing-dasd-memory-leak-on-beta-2.2484579/"&gt;2&lt;/a&gt;), and Apple discussion boards. You’ll also find some solutions that were not effective for me, some focused on constantly killing the process, or unloading it with launchctl, the App Store, or &lt;a href="https://ye-yu.com/en/blog/fixing-macos-high-cpu-usage-in-dasd-process-with-antigravity/" target="_blank" rel="nofollow"&gt;Apple Arcade&lt;/a&gt;, none of which were related to dasd going haywire with CPU usage in my particular case. &lt;/p&gt;
+&lt;p&gt;There are other variations of this issue with ‘dasd’ and some users find the dasd process does not hog 100% CPU but instead dasd may consume hugely inordinate amounts of RAM, or that dasd is generating enormous log files. &lt;/p&gt;
+&lt;p&gt;It’s not entirely clear what is causing the issue with dasd, and while trial and error and troubleshooting led me to the PowerLog telemetry database, that could simply be downstream of something else. If you run into this problem with dasd (or a similar one), and find another solution, or use the solution here and it works, share your experience in the comments.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/26/fix-dasd-using-100-cpu-on-macos-27/"/>
+    <published>2026-10-26T09:51:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136131</id>
+    <title>MacOS Golden Gate 27.2 Update Available to Download</title>
+    <updated>2026-10-26T21:01:37+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg" alt="MacOS 27 Golden Gate update 27.2 is available" class="lazy lazy-hidden aligncenter size-large wp-image-136132" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg 1518w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-300x203.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-610x412.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-768x519.jpg 768w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released MacOS 27.2 Golden Gate, the update includes new Siri AI features and support for Siri AI in additional languages, along with miscellaneous nonspecific bug fixes and security patches. Release notes are included below, along with download links for the full installer and IPSW file for MacOS 27.2.&lt;/p&gt;
+&lt;p&gt;Separately, Apple has also released MacOS Tahoe 26.7.2, MacOS Sequoia 15.8.2, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, along with 27.2 updates for WatchOS, tvOS, HomePod OS with SoundGlow support, and more, so check for updates on your other Apple devices as well.&lt;/p&gt;
+&lt;p&gt;And for those who are confused by versioning and numbers, apparently MacOS 27.2 leapfrogged MacOS 27.1 which was never released to the public, and the same applies to iOS 27.2 which leapfrogged iOS 27.1 that was also never released. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136131"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install MacOS 27.2 Golden Gate Update&lt;/h2&gt;
+&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup Mac with Time Machine&lt;/a&gt; or your method of choice before installing a system software update. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the  Apple menu, go to “System Settings”&lt;/li&gt;
+&lt;li&gt;Go to “General” and then choose “Software Update”&lt;/li&gt;
+&lt;li&gt;Choose to “Update Now” for MacOS 27.2 in software update&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;MacOS 27.2 will then download and install, rebooting the Mac to complete installation. &lt;/p&gt;
+&lt;p&gt;The download is over 14GB in size, and a reminder that &lt;a href="https://osxdaily.com/2025/03/12/how-long-update-macos/"&gt;installing MacOS updates can take a while&lt;/a&gt; to finish, so do not interrupt the process. &lt;/p&gt;
+&lt;p&gt;Mac users who are not running MacOS 27 will find an update to MacOS Tahoe or MacOS Sequoia available instead.&lt;/p&gt;
+&lt;h2&gt;MacOS 27.2 Full Installer &amp;amp; IPSW Direct Download Links&lt;/h2&gt;
+&lt;p&gt;Downloading the full installer or an IPSW file for MacOS 27.2 is easy through Apple CDN server links below:&lt;/p&gt;
+
+&lt;h3&gt;MacOS Tahoe 26.7.2 &amp;amp; MacOS Sequoia 15.8.2 Full Installer Download Links&lt;/h3&gt;
+
+&lt;p&gt;We &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;maintain an updated list of all available MacOS installers and IPSW files&lt;/a&gt; as well.&lt;/p&gt;
+&lt;h3&gt;MacOS 27.2 Golden Gate Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes mentioned new Siri AI features but are otherwise short and not particularly detailed in terms of what bugs are fixed or other changes are included:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This update provides enhancements to Siri AI with the ability to retain useful context from previous Siri interactions as well as draw from a wider range of personal context. It also introduces Suggestions in Messages that help you take quick actions in apps like Calendar and Reminders based on context from your conversation. This release includes additional features, bug fixes, and security updates for your Mac.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Don’t forget to update all of your other Apple devices as well, since Apple has released software updates to many other devices too.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"/>
+    <published>2026-10-26T21:01:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136134</id>
+    <title>iOS 27.2 Update for iPhone &amp; iPad Released</title>
+    <updated>2026-10-26T21:09:58+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg" alt="updates for iOS 27 and iPadOS 27 are available now" class="lazy lazy-hidden aligncenter size-large wp-image-135834" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update.jpg 1024w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released iOS 27.2 for iPhone, and ipadOS 27.2 for iPad. These updates include new Siri AI features, along with Siri AI support in new languages, unspecified bug fixes, and security patches, making them recommended for all iPhone and iPad users to install. &lt;/p&gt;
+&lt;p&gt;Additionally, Apple has also released &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 for Golden Gate&lt;/a&gt; users, MacOS Tahoe 26.7.2 update, HomePod OS 27.2 with support for Sound Glow on HomePod Mini and HomePod second gen, iOS 26.7.2, iPadOS 26.7.2, iOS 18.7.11, and iPadOS 18.7.11, tvOS 27.2, watchOS 27.2, and more, so you will want to update all of your Apple devices.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136134"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install iOS 27.2 and iPadOS 27.2 Update&lt;/h2&gt;
+&lt;p&gt;Always &lt;a href="https://osxdaily.com/how-backup-iphone-ipad-icloud/"&gt;backup iPhone or iPad to iCloud&lt;/a&gt; before beginning system software updates.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the “Settings” app on your iPhone or iPad&lt;/li&gt;
+&lt;li&gt;Go to “General” and then go to “Software Update”&lt;/li&gt;
+&lt;li&gt;Choose to “Update Now” for iOS 27.2 or iPadOS 27.2 &lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-369x800.jpg" alt="iOS 27.2 update available to download" class="lazy lazy-hidden aligncenter size-large wp-image-136135" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;The iPhone or iPad will download, restart, and install the update.&lt;/p&gt;
+&lt;p&gt;Users can also choose to update manually, or with IPSW files. &lt;/p&gt;
+&lt;h3&gt;iOS 27.2 Update Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes included with the iOS 27.2 update download are as follows:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;iOS 27.2&lt;/p&gt;
+&lt;p&gt;Siri AI (All iPhone 16 models and later, iPhone 15&lt;br&gt;
+Pro, iPhone 15 Pro Max)&lt;br&gt;
+– Siri AI can recall your past conversations, so you can ask Siri about something it told you before, like the restaurants it recommended last week&lt;br&gt;
+– Siri AI can draw from more sources to give you a great answer, including photos attached in Messages, Calendar event attendees, your voicemails, and better results from Safari history and Reading List&lt;br&gt;
+– Excluded Apps lets you choose which apps Siri, Search, and suggestions can access, all from one setting&lt;br&gt;
+– Granular text selection lets you select and copy just the part of a Siri response you need&lt;br&gt;
+– Siri AI is available in more languages, with support tor French, Japanese, Korean, Portuguese, and Spanish. Siri AI is not available in the EU or mainland China&lt;/p&gt;
+&lt;p&gt;Other&lt;br&gt;
+– Suggestions in Messages help you take action based on the context of your conversations, like adding a Calendar invite for a dinner&lt;br&gt;
+– Shared Albums in Photos adds the ability to edit captions and comments, to avoid adding duplicate photos, and can display a reminder before albums expire so participants can save important photos and videos&lt;br&gt;
+– Support for SynthID watermarking to help identify whether an image was generated or modified with generative tools in Photos and Image Playground&lt;br&gt;
+– The Home tab in the Podcasts app offers two separate sections for New Episodes and Continue Playing, letting you find the latest updates from your shows and then pick up where you left off&lt;br&gt;
+– Friends tab in the Games app provides context on friend suggestions and shows recent games played on friends’ player pages&lt;br&gt;
+– Simple Profiles in the Apple TV app lets everyone in your household have their own profile, with recommendations that fit what they like to watch&lt;br&gt;
+– FaceTime supports adding a third party sign language interpreter or live captioner to a call&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2&gt;iOS 27.2 IPSW Firmware Download Links&lt;/h2&gt;
+&lt;p&gt;The links below point iOS 27.2 IPSW on Apple CDN servers:&lt;/p&gt;
+
+&lt;h3&gt;iPadOS 27.2 IPSW&lt;/h3&gt;
+
+&lt;p&gt;Don’t forget to update your other Apple devices as well, most of which also received software updates today.&lt;/p&gt;
+&lt;h3&gt;Wait, iOS 27.2? What happened to iOS 27.1?&lt;/h3&gt;
+&lt;p&gt;As far as versioning and numerical releases go, you may have noticed this is iOS 27.2 and iPadOS 27.2, along with MacOS 27.2 and other OS 27.2 updates… and yes that means iOS 27.1, iPadOS 27.1, MacOS 27.1, and all OS 27.1 releases, were skipped by Apple. Why that is the case is not clear, but if you are confused by missing that interim update, don’t be, OS 27.2 is where we are all at with these updates.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"/>
+    <published>2026-10-26T21:09:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136149</id>
+    <title>MacOS Tahoe 26.7.2 &amp; MacOS Sequoia 15.8.2 Security Updates Released</title>
+    <updated>2026-10-27T20:03:43+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-610x506.jpg" alt="MacOS Tahoe 26 updates and MacOS Sequoia 15 updates" class="lazy lazy-hidden aligncenter size-large wp-image-133220" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-610x506.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-300x249.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-768x637.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update.jpg 1446w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;MacOS Tahoe 26.7.2 and MacOS Sequoia 15.8.2 are available now as security software updates for Mac users who are continuing to run those operating systems. Those users will also find Safari 27.2 available as an update. &lt;/p&gt;
+&lt;p&gt;These updates include hundreds of security patches and fixes making them recommended to all users who are running macOS Tahoe or Sequoia, instead of MacOS 27 Golden Gate.&lt;/p&gt;
+&lt;p&gt;Separately, Apple has also released &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, iOS 26.7.2, iPadOS 26.7.2, iOS 18.7.11, iPadOS 18.7.11, watchOS 27.2, tvOS 27.2, along with updates to just about every other Apple device, so you’ll want to check for and install updates elsewhere too.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136149"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install MacOS Tahoe 26.7.2 or MacOS Sequoia 15.8.2 Update&lt;/h2&gt;
+&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup your Mac with Time Machine&lt;/a&gt; prior to starting the updates:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the  Apple menu, go to “System Settings”&lt;/li&gt;
+&lt;li&gt;Go to “General”, and then go to “Software Update”&lt;/li&gt;
+&lt;li&gt;Ignore the prominent “MacOS 27.2” banner, and instead look below that for the small “Other Updates” section, where you can find MacOS Tahoe 26.7.2 or “MacOS Sequoia 15.8.2 available to update instead * &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-610x580.jpg" alt="MacOS Sequoia 15.8.2" class="lazy lazy-hidden aligncenter size-large wp-image-136150" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;* Note that if you click on the (i) info button to get additional information about the MacOS Tahoe or MacOS Sequoia update, you will find that MacOS 27.2 is selected instead. You need to manually unselect that, and select the update you wish to install, &lt;a href="https://osxdaily.com/2026/10/09/how-to-update-macos-sequoia-without-installing-macos-27-golden-gate/"&gt;to avoid accidentally installing MacOS Golden Gate&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Mac will restart to finish installation.&lt;/p&gt;
+&lt;h2&gt;Direct Download MacOS Tahoe 26.7.2 &amp;amp; MacOS Sequoia 15.8.2 Full Installers&lt;/h2&gt;
+&lt;p&gt;Apple CDN links for the full installers:&lt;/p&gt;
+
+&lt;p&gt;You might also appreciate bookmarking &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;our updated list of all avialable MacOS installers&lt;/a&gt; as a resource for downloads like these.&lt;/p&gt;
+&lt;h3&gt;MacOS Tahoe 26.7.2 Release Notes &amp;amp; MacOS Sequoia 15.8.2 Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes are brief:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This update provides important security fixes and is recommended for all users.&lt;/p&gt;
+&lt;p&gt;For information on the security content of Apple software updates, please visit this website: https://support.apple.com/100100
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Don’t forget to update your other Apple devices and hardware as well, since just about every supported Mac, iPhone, iPad, Apple Watch, HomePod, Apple TV, and Apple Vision Pro, has received an update today, the most prominent being the &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2 / iPadOS 27.2 updates&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate update&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/27/macos-tahoe-26-7-2-macos-sequoia-15-8-2-security-updates-released/"/>
+    <published>2026-10-27T20:03:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136156</id>
+    <title>Apple Updates MacBook Pro &amp; iMac to M6 Chip, iPad Mini with 8.5″ OLED Display</title>
+    <updated>2026-10-27T21:31:18+00:00</updated>
+    <author>
+      <name>Jamie Cuevas</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg" alt="M6 MacBook Pro" class="lazy lazy-hidden aligncenter size-large wp-image-136159" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-300x145.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-768x372.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-1536x744.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6.jpg 1760w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released a series of hardware updates this week, including an updated iPad Mini with A20 chip and OLED display, an iMac with M6 chip, and a 14″ MacBook Pro base model with M6 chip. These products were announced ahead of the &lt;a href="https://osxdaily.com/2026/10/19/apple-pro-and-tell-event-set-for-next-week/"&gt;“Pro and Tell” event&lt;/a&gt; set for tomorrow, which is expected to launch a touchscreen MacBook Pro.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136156"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;14″ MacBook Pro with M6 Chip&lt;/h3&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg" alt="MacBook Pro M6" class="lazy lazy-hidden aligncenter size-large wp-image-136159" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-300x145.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-768x372.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-1536x744.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6.jpg 1760w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The base-model MacBook Pro 14″ now includes an M6 chip with 12-core CPU and GPU, better AI performance, and improved memory bandwidth, Wi-Fi 7 support, and is available in the same color options as before. Notably, the new base model MacBook Pro comes with a 1TB SSD, along with 16GB RAM. &lt;/p&gt;
+&lt;p&gt;Pricing begins at $1999, with pre-orders on October 28.&lt;/p&gt;
+&lt;h3&gt;iMac with M6 Chip&lt;/h3&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-610x333.jpg" alt="iMac with M6 chip" class="lazy lazy-hidden aligncenter size-large wp-image-136157" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-610x333.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-300x164.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-768x419.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-1536x839.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6.jpg 1912w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has updated the 24″ iMac lineup to include the new powerful M6 chip, which boosts performance considerably with a 12-core CPU and 12-core GPU, and improved AI performance. The iMac M6 comes standard with 16GB RAM and a 256GB storage, and is available in the same set of color options as prior models, including green, blue, purple, yellow, orange, red, and silver. &lt;/p&gt;
+&lt;p&gt;Pricing starts at $1499, with pre-orders starting October 28 and availability on November 6.&lt;/p&gt;
+&lt;h3&gt;iPad Mini with A20 Chip and OLED Display&lt;/h3&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-610x387.jpg" alt="iPad Mini OLED and A20 chip" class="lazy lazy-hidden aligncenter size-large wp-image-136158" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-610x387.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-300x190.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-768x487.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-1536x974.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled.jpg 1874w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The iPad Mini has now been updated to include an A20 Pro chip, and the LCD screen has been replaced with a slightly larger 8.5″ OLED display which allows for darker blacks but comes at the cost of PWM which impacts some users eyes (yours truly included). The device also includes a 12MP center stage front-facing camera, wi-fi 7 support, Apple Pencil support, water and dust resistance, and is available in space grey and silverlight colors.&lt;/p&gt;
+&lt;p&gt;Pricing for iPad Mini now starts at $699 for wi-fi models, and $849 for cellular equipped models. Pre-orders start October 28 for November 6 delivery.&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;Not yet launched, but expected to arrive tomorrow, is the all-new touchscreen MacBook Pro. Stay tuned for more details on that, as the announcement is made. &lt;/p&gt;
+&lt;p&gt;That all covers the hardware side of things, but don’t forget the software side, where Apple has released a whole bevy of system software updates for nearly every Apple device, including &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, HomePod OS 27.2 with support for Sound Glow, watchOS 27.2, tvOS 27.2, visionOS 27.2, iOS 26.7.2, &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/27/macos-tahoe-26-7-2-macos-sequoia-15-8-2-security-updates-released/"&gt;several hundred security patches are included in both MacOS Sequoia 15.8.2 and MacOS Tahoe 26.7.2&lt;/a&gt; (and yes the same security patches are included the other software updates too).&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/27/apple-updates-macbook-pro-imac-to-m6-chip-ipad-mini-with-8-5-oled-display/"/>
+    <published>2026-10-27T21:31:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136165</id>
+    <title>Touchscreen MacBook Pro Launched by Apple</title>
+    <updated>2026-10-28T21:33:26+00:00</updated>
+    <author>
+      <name>Jamie Cuevas</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-610x418.jpg" alt="Touchscreen MacBook Pro" class="lazy lazy-hidden aligncenter size-large wp-image-136173" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-610x418.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-300x206.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-768x526.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1.jpg 1430w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has launched two all-new touchscreen MacBook Pro models, with 14″ and 16″ OLED display sizes. This marks a notable reversal from Apple against their longstanding resistance to touch screen laptops due to ergonomic issues.&lt;/p&gt;
+&lt;p&gt;The new MacBook Pro features a redesigned enclosure, M5 Pro or M5 Max chip options with up to 128GB RAM and 16GB of storage, a smaller Dynamic Island cutout replaces The Notch on the display, and is lighter weight than predecessors, weighing 3lbs for the 14″ model, and 4lbs for the 16″ model. A notable welcome return is the reintroduction of the glowing Apple logo on the back of the MacBook Pro.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136165"&gt;&lt;/span&gt;&lt;br&gt;
+&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-610x431.jpg" alt="Touchscreen MacBook Pro" class="lazy lazy-hidden aligncenter size-large wp-image-136171" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-768x542.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5.jpg 1498w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;There is full gesture support for the touchscreen, allowing for gestures like pinch to zoom, scrolling, and swiping between pages, slides, or Spaces. Apple Pencil is not supported.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-610x453.jpg" alt="Touchscreen MacBook Pro in use" class="lazy lazy-hidden aligncenter size-large wp-image-136169" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-610x453.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-300x223.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-768x571.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4.jpg 1496w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The touchscreen MacBook Pro includes a front-facing FaceTime camera, three Thunderbolt 5 / USB-C ports, HDMI port, SDXC card slot, MagSafe for power, and a headphone jack. &lt;/p&gt;
+&lt;p&gt;The touchscreen display itself is OLED, and available in both 14″ and 16″ sizes, which Apple is calling the PROLED XDR Display. Presumably the display will have perceptible PWM like most OLED and LED-adjacent screens have, which could dissuade some PWM sensitive users from being able to use the Mac.&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-610x364.jpg" alt="Touchscreen MacBook Pro" class="lazy lazy-hidden aligncenter size-large wp-image-136168" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-610x364.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-300x179.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-768x458.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-1536x916.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9.jpg 1888w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The 14″ touchscreen MacBook Pro starts at $2899, while the 16″ touchscreen MacBook Pro starts at $3399. Pre-orders are live now and the touchscreen MacBook Pro will be available on November 6. &lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-610x339.jpg" alt="Touchscreen MacBook Pro " class="lazy lazy-hidden aligncenter size-large wp-image-136170" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-610x339.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-300x167.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-768x427.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1536x855.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2.jpg 1718w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The video embedded below from X shows someone using the touch screen display to interact with MacOS:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;And another:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;And another:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;As noted earlier, the introduction of a touchscreen Mac marks a departure from Apple’s prior stance on the matter. Apple had long been skeptical of touchscreen laptops, with Steve Jobs famously lamenting on the ergonomics of such a device (videos embedded are via X, you can &lt;a href="https://x.com/osxdaily" target="_blank"&gt;find us there too&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The standard non-touch models of MacBook Pro are still available as well, the base model of which was just spec-bumped to the M6 chip. &lt;/p&gt;
+&lt;p&gt;The touchscreen MacBook Pro is the fourth major Apple product released this week, adding alongside to the &lt;a href="https://osxdaily.com/2026/10/27/apple-updates-macbook-pro-imac-to-m6-chip-ipad-mini-with-8-5-oled-display/"&gt;A20 iPad Mini, M6 MacBook Pro, and M6 iMac&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/28/touchscreen-macbook-pro-launched-by-apple/"/>
+    <published>2026-10-28T21:33:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136124</id>
+    <title>How to Boot in Safe Mode on MacBook Air, Neo, &amp; Pro (Apple Silicon)</title>
+    <updated>2026-10-29T23:48:12+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-610x365.jpg" alt="Boot into Safe Mode on MacBook Air, MacBook Pro, and MacBook Neo" class="lazy lazy-hidden aligncenter size-large wp-image-136179" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-610x365.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-300x179.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-768x459.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-1536x918.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-2048x1224.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;You may find yourself in a situation when you need to boot into Safe Mode while troubleshooting a MacBook Air, MacBook Neo, or MacBook Pro. &lt;/p&gt;
+&lt;p&gt;Safe Mode boots a Mac without loading third party login items, system extensions, and non-system fonts. Additionally, Safe Mode runs a disk check to verify the startup disk, clears system caches, and prevents third party drivers from loading, helping to narrow down potential issues, and sometimes even resolve them through the safe mode boot itself. &lt;/p&gt;
+&lt;p&gt;If you’re unfamiliar with booting into Safe Mode on modern Apple Silicon equipped MacBook laptops, including the Air, Neo, and Pro, it’s a pretty easy process that is the same on all Apple Silicon Macs, including M1, M2, M3, M4, M5, M6, A18 chips.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136124"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Boot in Safe Mode on MacBook Air, Pro, Neo&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;If the Mac is currently turned on, you need to turn it off by going go the  Apple menu and selecting “Shut Down”&lt;/li&gt;
+&lt;li&gt;When the Mac is off, now press and hold the Power button / Touch ID button, and continue holding the Power/Touch ID button until you see “Loading startup options”&lt;/li&gt;
+&lt;li&gt;At the startup disk screen, now hold down the SHIFT key and click on “Continue in Safe Mode” and select “Macintosh HD” (or your boot disk)&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo.jpg" alt="Boot into Safe Mode on MacBook Air, MacBook Pro, and MacBook Neo" class="lazy lazy-hidden aligncenter size-large wp-image-136179"&gt;&lt;/p&gt;
+&lt;li&gt;Once Safe Mode has started booting, you can release Shift key&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The Mac will now be in Safe Mode, where you can perform whatever troubleshooting tasks you had in mind. &lt;/p&gt;
+&lt;p&gt;As mentioned before, simply booting into Safe Mode can sometimes remedy an issue if it’s related to a cache or third party extension or tool. If the problem is absent in Safe Mode but you boot normally again and the problem returns, that suggests the issue is related to some third party extension, tool, login item, or otherwise. &lt;/p&gt;
+&lt;p&gt;And sometimes problems persist in Safe Mode too, which usually suggests a system level problem. I ran into that recently when &lt;a href="https://osxdaily.com/2026/10/26/fix-dasd-using-100-cpu-on-macos-27/"&gt;troubleshooting ‘dasd’ process 100% CPU usage over several days&lt;/a&gt;, even in safe mode, and eventually resolved that issue by removing a corrupt system database.&lt;/p&gt;
+&lt;h2&gt;Exiting Safe Mode and Booting Normally Again&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Simply restart the Mac as usual to boot the Mac as normal, from the  Apple menu choose “Restart”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This process obviously covers Apple Silicon Mac laptops with Touch ID and the power button, but if you have an &lt;a href="https://osxdaily.com/2010/04/20/using-safe-boot-mode-in-mac-os-x/"&gt;older Intel Mac you can use Safe Mode on those Macs too&lt;/a&gt; by simply holding Shift key during the entire boot process, arguably a bit easier. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/10/29/how-to-boot-in-safe-mode-on-macbook-air-neo-pro-apple-silicon/"/>
+    <published>2026-10-29T23:48:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136191</id>
+    <title>Deals: 4-Pack of AirTags 2 for $69</title>
+    <updated>2026-10-30T22:28:52+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;Amazon is offering a 29% discount on a 4-pack of AirTags 2, the second generation of personal trackers. These are wildly useful for many purposes whether you&amp;#8217;re tracking a bike, pet, bag, or whatever else you want to keep track of on the Find My network. AirTags 2 &amp;#8211; 4-pack &amp;#8211; $69.99 (down from $99) ... &lt;a class="read-more" href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"&gt;Deals: 4-Pack of AirTags 2 for $69&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"/>
+    <published>2026-10-30T22:28:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136198</id>
+    <title>Deals: Save $200 on M5 MacBook Air, $200 Off Mac Studio, $100 Off iPad Air, &amp; More</title>
+    <updated>2026-11-02T21:46:51+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/3TrUZVC" rel="nofollow" target="_blank"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg" alt="MacBook Air in midnight" class="lazy lazy-hidden aligncenter size-large wp-image-123638" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-300x177.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-768x452.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-1536x904.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight.jpg 1570w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is back again offering $200 off the M5 MacBook Air in both 13″ and 15″ sizes, and in all configurations and color options.&lt;/p&gt;
+&lt;h3&gt;$200 Off M5 MacBook Air 15″&lt;/h3&gt;
+
+&lt;h3&gt;$200 Off M5 MacBook Air 13″ &lt;/h3&gt;
+
+&lt;p&gt;&lt;span id="more-136198"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Mac mini &amp;amp; Mac Studio Deals&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/474b5YV" target="_blank" rel="nofollow"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/mac-studio-610x298.jpg" alt="Mac Studio" class="lazy lazy-hidden aligncenter size-large wp-image-135900" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/mac-studio-610x298.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/mac-studio-300x147.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/mac-studio-768x376.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/mac-studio.jpg 1500w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is discounting the latest Mac Studio and Mac mini models in various configurations, taking up to $200 off the price:&lt;/p&gt;
+
+&lt;h3&gt;Save $100 on M4 iPad Air 11″ and 13″&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/3V51xu0" target="_blank" rel="nofollow"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/03/m4-ipad-air-610x515.jpg" alt="M4 iPad Air" class="lazy lazy-hidden aligncenter size-large wp-image-134018" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/03/m4-ipad-air-610x515.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/m4-ipad-air-300x253.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/m4-ipad-air-768x649.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/m4-ipad-air.jpg 1018w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The M4 iPad Air is discounted $100 for both 11″ and 13″ display sizes:&lt;/p&gt;
+
+&lt;p&gt;The best accessory for iPad Air is the Magic Keyboard, which transforms the tablet into a laptop form factor, is also discounted right now.&lt;/p&gt;
+
+&lt;h3&gt;HomeView Pre-Orders with Nov 16 Delivery&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/4BbD72o" target="_blank" rel="nofollow"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-610x343.webp" alt="HomeView in Rose Pink" class="lazy lazy-hidden aligncenter size-large wp-image-136038" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-610x343.webp 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-300x169.webp 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-768x432.webp 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-1536x864.webp 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-rose-pink-2048x1152.webp 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is continuing to offer pre-orders for the HomeView with November 16 delivery, which is about 2 weeks ahead of the delivery date from pre-ordering from Apple.&lt;/p&gt;
+
+&lt;h3&gt;AirTags 2 4-pack for $70&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/3SisrgH" rel="nofollow noopener" target="_blank"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg" alt="AirTags" class="lazy lazy-hidden aligncenter size-large wp-image-124228" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-300x161.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-768x413.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-1536x826.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags.jpg 1844w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is cutting 29% off a 4-pack of AirTags 2. These are &lt;a href="https://osxdaily.com/2024/11/21/7-helpful-uses-of-airtags-from-pets-to-packages/"&gt;wildly useful for many purposes&lt;/a&gt; to track with the Find My network.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/02/deals-save-200-on-m5-macbook-air-200-off-mac-studio-100-off-ipad-air-more/"/>
+    <published>2026-11-02T21:46:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136182</id>
+    <title>Get the Default Wallpaper from the PROLED XDR Touchscreen MacBook Pro</title>
+    <updated>2026-11-02T22:09:51+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1-610x339.jpg" alt="Touchscreen MacBook Pro showing default wallpapers" class="lazy lazy-hidden aligncenter size-large wp-image-136183" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1-610x339.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1-300x167.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1-768x427.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1-1536x855.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1.jpg 1718w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The marketing images from the &lt;a href="https://osxdaily.com/2026/10/28/touchscreen-macbook-pro-launched-by-apple/"&gt;new PROLED XDR touchscreen MacBook Pro&lt;/a&gt; includes a fancy new default wallpaper that spells out “PRO” with a bunch of streaking multicolor lines. The color choices are likely designed to showcase the PROLED XDR display where deep true blacks are possible alongside contrasting vibrant highlights. &lt;/p&gt;
+&lt;p&gt;But you don’t need to spend $4000 on a new touchscreen Mac just to enjoy the new default wallpaper, you can download it in 4096 × 2698 resolution now and appreciate the new look right on your current Mac, iPhone, iPad, PC, or Android.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136182"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/oled-macbook-pro-default-wallpaper.jpg"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/oled-macbook-pro-default-wallpaper.jpg" alt="PROLED XDR touchscreen MacBook Pro default wallpaper" class="lazy lazy-hidden aligncenter size-large wp-image-136184"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cheers to &lt;a href="https://www.iclarified.com/103161/download-the-official-macbook-pro-proled-xdr-wallpaper" target="_blank" rel="nofollow"&gt;iClarified&lt;/a&gt; for tracking down the new wallpaper from the new Mac.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/02/get-the-default-wallpaper-from-the-proled-xdr-touchscreen-macbook-pro/"/>
+    <published>2026-11-02T22:09:51+00:00</published>
+  </entry>
+</feed>
