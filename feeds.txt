@@ -1,0 +1,5 @@
+# Un feed por línea (URL del RSS/Atom original). Las líneas con # son comentarios.
+# Ejemplos (sustitúyelos por los tuyos):
+# https://ejemplo.com/feed/
+
+https://www.blogdebasket.com/rss.xml
