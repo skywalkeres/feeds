@@ -149,18 +149,6 @@
 "seen": "2026-11-03T09:56:13.494182+00:00",
 "tries": 1
 },
-"https://www.abandomoviez.net/noticia.php?film=47490": {
-"feed": "https://www.abandomoviez.net/rss.php",
-"html": null,
-"seen": "2026-11-03T08:48:11.755627+00:00",
-"tries": 0
-},
-"https://www.abandomoviez.net/noticia.php?film=47491": {
-"feed": "https://www.abandomoviez.net/rss.php",
-"html": null,
-"seen": "2026-11-03T08:48:11.755627+00:00",
-"tries": 0
-},
 "https://www.abandomoviez.net/noticia.php?film=47492": {
 "feed": "https://www.abandomoviez.net/rss.php",
 "html": null,
@@ -268,6 +256,18 @@
 "html": null,
 "seen": "2026-11-03T08:48:11.755627+00:00",
 "tries": 0
+},
+"https://www.abandomoviez.net/noticia.php?film=47510": {
+"feed": "https://www.abandomoviez.net/rss.php",
+"html": null,
+"seen": "2026-11-03T11:29:44.133157+00:00",
+"tries": 0
+},
+"https://www.abandomoviez.net/noticia.php?film=47511": {
+"feed": "https://www.abandomoviez.net/rss.php",
+"html": "<div><div class=\"am-content-cuerpo\">\n    <p><a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=274277\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"actor\" data-id=\"274277\">Maika Monroe</a> regresa al terror con <i><a href=\"https://www.abandomoviez.net/db/pelicula.php?film=47866\" class=\"am-entity-link\" data-tipo=\"pelicula\" data-id=\"47866\">Victorian Psycho</a></i>, que acaba de presentar su <b>tr√°iler doblado al espa√±ol</b> antes de su estreno en nuestros cines el pr√≥ximo 13 de noviembre. La nueva pel√≠cula de <a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=114667\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"director\" data-id=\"114667\">Zachary Wigon</a> transforma una mansi√≥n de la Inglaterra victoriana en el escenario de una historia de asesinatos, secretos familiares y humor negro.\n</p>\n<p>Ambientada en 1858, la pel√≠cula sigue a Winifred Notty, una misteriosa institutriz que llega a Ensor House para encargarse de la educaci√≥n de los hijos de una familia acomodada. Sus m√©todos estrictos y su inquietante comportamiento comienzan a despertar sospechas, especialmente cuando </p><p><b>varios empleados de la mansi√≥n desaparecen sin dejar rastro</b>.\n</p>\n<p class=\"embed-responsive embed-responsive-16by9\"><iframe src=\"https://www.youtube.com/embed/EFFxryIuHUE?wmode=opaque&amp;iv_load_policy=3\" frameborder=\"0\" allowfullscreen=\"\">VIDEO</iframe></p> <h3><b>Una novela espa√±ola convertida en terror g√≥tico</b></h3><p>Uno de los aspectos m√°s interesantes de </p><p><i><a href=\"https://www.abandomoviez.net/db/pelicula.php?film=47866\" class=\"am-entity-link\" data-tipo=\"pelicula\" data-id=\"47866\">Victorian Psycho</a></i> es que adapta la novela hom√≥nima de la escritora espa√±ola <a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=570320\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"guionista\" data-id=\"570320\">Virginia Feito</a>, que tambi√©n se ha encargado de escribir el guion. La historia combina las convenciones del relato g√≥tico con una protagonista cuya aparente correcci√≥n esconde impulsos cada vez m√°s violentos.\n</p>\n<p>Junto a Monroe, conocida por </p><p><i><a href=\"https://www.abandomoviez.net/db/pelicula.php?film=44098\" class=\"am-entity-link\" data-tipo=\"pelicula\" data-id=\"44098\">Longlegs</a></i> e <i><a href=\"https://www.abandomoviez.net/db/pelicula.php?film=29174\" class=\"am-entity-link\" data-tipo=\"pelicula\" data-id=\"29174\">It Follows</a></i>, encontramos a <a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=463759\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"actor\" data-id=\"463759\">Thomasin McKenzie</a>, <a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=5677\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"actor\" data-id=\"5677\">Jason Isaacs</a> y <a href=\"https://www.abandomoviez.net/db/persona.php?id_persona=82997\" class=\"am-entity-link\" data-tipo=\"persona\" data-rol=\"actor\" data-id=\"82997\">Ruth Wilson</a>.\n</p>\n<p><i><a href=\"https://www.abandomoviez.net/db/pelicula.php?film=47866\" class=\"am-entity-link\" data-tipo=\"pelicula\" data-id=\"47866\">Victorian Psycho</a></i> llegar√° a los cines espa√±oles el <b>13 de noviembre</b> de la mano de Diamond Films, despu√©s de su paso por el Festival de Sitges.</p></div>\n\n </div>",
+"seen": "2026-11-03T11:29:44.133157+00:00",
+"tries": 1
 },
 "https://www.blogdebasket.com/2026/11/02/barca-remonta-malaga-suma-quinta-victoria-consecutiva": {
 "feed": "https://www.blogdebasket.com/rss.xml",
