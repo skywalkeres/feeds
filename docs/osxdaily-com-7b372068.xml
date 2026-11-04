@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-03T21:27:27+00:00</updated>
+  <updated>2026-11-03T22:47:20+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,101 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136078</id>
-    <title>Add Full Screen Widgets on iPhone with iOS 27</title>
-    <updated>2026-10-21T14:03:06+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg" alt="Use full screen Widgets on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136082" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;p&gt;One of the more compelling new subtler features introduced iOS 27 pertains to the ability to use full screen Widgets on iPhone. Full screen widgets can effectively turn a Home Screen page into a full mini-app of whatever the full screen widget is. &lt;/p&gt;
-&lt;p&gt;For example, you can have the full screen Weather widget, which shows a full longterm forecast and weather conditions right on the iPhone Home Screen, without having to open the Weather app. Or another popular example, is to use the full screen Photos widget, which lets you have a full Home Screen page dedicated to the photos widget and showing photos you might enjoy.&lt;/p&gt;
-&lt;p&gt;Full screen widgets are compelling for iPhone, here’s how to add one on your Home Screen.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136078"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Add &amp;amp; Use Full Screen Widgets on iPhone&lt;/h2&gt;
-&lt;p&gt;Your iPhone must have iOS 27 or later to have full screen widgets available:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Long tap anywhere on the iPhone Home Screen so icons start jiggling, then tap on the edit/paintbrush/add button in the corner and choose “Add Widget”&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-610x222.jpg" alt="Add Widget" class="lazy lazy-hidden aligncenter size-large wp-image-136079" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-610x222.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-300x109.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4-768x279.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-4.jpg 960w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;li&gt;Find a widget that is compatible with full screen widgets, for example Weather or Photos, and swipe through the widget carousel to the full screen version and tap on “Add Widget”&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-369x800.jpg" alt="Find the full screen widget and choose Add Widget" class="lazy lazy-hidden aligncenter size-large wp-image-136081" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-3.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;li&gt;The full screen widget will now take up an entire Home Screen page on your iPhone, when satisfied with where the Widget is located in your Home Screen carousel tap on the check/done button to set the widget&lt;/li&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-369x800.jpg" alt="Added the full screen widget for Weather on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136080" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-2.jpg 960w" sizes="auto, (max-width: 369px) 100vw, 369px"&gt;
-&lt;/p&gt;&lt;/ol&gt;
-&lt;p&gt;Now the full screen widget is in place, and if you swipe through your Home Screens on iPhone you will find the full screen weather widget, or whatever full screen widget you chose. &lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg" alt="Using a full screen Weather Widget on iPhone" class="lazy lazy-hidden aligncenter size-large wp-image-136082" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/add-full-screen-widget-iphone-1.jpg 960w" sizes="auto, (max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;p&gt;Quite a few of the default Apple apps have associated full screen widget support, including Calendar, Weather, Music, Photos, Notes, Reminders, and Home. You can even &lt;a href="https://osxdaily.com/2023/12/04/how-to-add-widgets-to-stacks-on-iphone-ipad-home-screen/"&gt;make a Widget Stack&lt;/a&gt; of full screen widgets if you’d like. &lt;/p&gt;
-&lt;p&gt;As usual, if you tap on the widget, the associated app will open. &lt;/p&gt;
-&lt;p&gt;Full screen widgets aren’t necessarily a revolutionary feature but they are convenient and worth exploring, so try them out on your iPhone and see how you like it.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/21/add-full-screen-widgets-on-iphone-with-ios-27/"/>
-    <published>2026-10-21T14:03:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136087</id>
-    <title>How to Use Edge Light in FaceTime on Mac</title>
-    <updated>2026-10-22T15:14:38+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.jpg" alt="Edge Light in FaceTime on Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136089" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-300x184.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-768x470.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac.jpg 1200w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The Edge Light feature of FaceTime for Mac enables a virtual ring light on your screen during FaceTime calls, which helps to more evenly illuminate your face. This is particularly useful in lower light conditions, and it can improve the appearance of a FaceTime call quite a bit. Ring Lighting is commonly used in media for all sorts of portraiture and photography, and in the modern era of video conferences and video chat, it’s also quite popular for average users too, so it’s a nice addition to MacOS.&lt;/p&gt;
-&lt;p&gt;Edge Lighting is not typically enabled by default in FaceTime on the Mac, but it can be enabled or disabled at ease, as we’ll show you.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136087"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edge Light / Ring Light system requirements&lt;/strong&gt;: Note that you must have an Apple Silicon Mac running macOS Tahoe 26.2 or later (yes that includes MacOS Golden Gate 27.0 and newer), to have access to the Edge Light feature in FaceTime. If you want to have the feature to automatically enable Edge Light when low lighting is detected, you’ll need a 2024 or newer Mac.&lt;/p&gt;
-&lt;h2&gt;How to Enable &amp;amp; Use Edge Light for FaceTime on Mac&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Open FaceTime on the Mac as usual, you don’t need to be on a FaceTime call yet to enable/disable this feature and test it out&lt;/li&gt;
-&lt;li&gt;Pull down the FaceTime menu from the top of the screen (it looks like a FaceTime icon) and click on “Edge Light” to enable the feature&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-610x475.jpg" alt="Enable Edge Light on Mac FaceTime" class="lazy lazy-hidden aligncenter size-large wp-image-136090" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-610x475.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-300x233.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime-768x597.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/enable-edge-lighting-mac-facetime.jpg 1432w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;li&gt;Optionally, click on the arrow button to open more Edge Light settings, including a brightness / intensity slider, and a color temperature slider to change the ring light to more or less warm (yellow to blue)&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-610x539.jpg" alt="Customize Edge Light ring lighting effect on Mac FaceTime" class="lazy lazy-hidden aligncenter size-large wp-image-136091" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-610x539.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-300x265.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime-768x679.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-customize-mac-facetime.jpg 1416w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;li&gt;And also optional, you can choose to enable Edge Light automatically when starting a FaceTime call and ambient lighting is low, or manually&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The Edge Light / Ring Light will appear on screen and is quite obvious – it’s a prominent bright white ring around your screen – but you will find that if you move your mouse around to access content the ring light effect will disappear under your mouse cursor. This allows you to select things on screen and interact with other content on your screen, without it being obstructed by the virtual ring light. &lt;/p&gt;
-&lt;p&gt;Note that if you take a screenshot during any FaceTime call with Edge Light enabled, the Edge Light feature will not be shown in the screenshot. The image shown here with Edge Light visible on the Mac laptop screen is courtesy of Apple.&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.png" alt="Ring lighting on FaceTime for Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136088" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-610x373.png 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-300x183.png 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-768x470.png 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac-1536x939.png 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-light-facetime-mac.png 1632w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;h2&gt;How to Disable the Edge Light / Ring Light for FaceTime on Mac&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Open FaceTime on the Mac as usual&lt;/li&gt;
-&lt;li&gt;When Edge Light is already enabled, pull down the FaceTime menu from the top of the screen, and select “Edge Light” to disable the feature&lt;/li&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-610x500.jpg" alt="Disable Edge Light on FaceTime for Mac" class="lazy lazy-hidden aligncenter size-large wp-image-136092" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-610x500.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-300x246.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime-768x629.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/edge-lighting-disabled-mac-facetime.jpg 1282w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;
-&lt;/p&gt;&lt;/ol&gt;
-&lt;p&gt;Now Edge Light is back off again. Some users may find that Edge Light has been enabled automatically on their Mac, while other Mac users discover they must manually turn the feature on.&lt;/p&gt;
-&lt;p&gt;If you don’t like this feature and turned it off, you might also appreciate knowing that you can &lt;a href="https://osxdaily.com/2023/11/20/how-to-disable-facetime-reaction-gestures-on-mac-iphone-ipad/"&gt;also disable the FaceTime reaction gestures&lt;/a&gt; which includes things like thumbs up, fireworks, hearts, and other &lt;a href="https://osxdaily.com/2023/11/16/facetime-reaction-gestures-iphone-ipad-mac/"&gt;virtual reactions based on your hand motions&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The Edge Light / Ring Lighting feature is useful enough that it’s a little surprising it is not available on every Apple device with FaceTime, though aside from the Mac it is available on iPhone Duo. Perhaps down the road the virtual ring lighting will arrive on more Apple devices, including all iPhone and iPad hardware too.&lt;/p&gt;
-&lt;p&gt;Have you ever used the virtual Edge Light / Ring Light feature on Mac with FaceTime? What do you think?&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/22/how-to-use-edge-light-in-facetime-on-mac/"/>
-    <published>2026-10-22T15:14:38+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136106</id>
     <title>Deals: Save $900 Off 16″ MacBook Pro 36GB / 2TB</title>
@@ -665,5 +570,65 @@ Pro, iPhone 15 Pro Max)&lt;br&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/03/first-betas-of-ios-27-3-macos-27-3-available-for-testing/"/>
     <published>2026-11-03T21:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136218</id>
+    <title>Deals: MacBook Neo from $670, $200 Off MacBook Air, &amp; More</title>
+    <updated>2026-11-03T22:46:24+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;MacBook Neo is already the most affordable Mac, but Amazon is cutting another $30 off the retail price in a rare discount on the popular budget laptop from Apple. You can find the $30 discount available on a few color options, though the larger storage model has less of a discount applied to it. MacBook ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"&gt;Deals: MacBook Neo from $670, $200 Off MacBook Air, &amp;#038; More&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"/>
+    <published>2026-11-03T22:46:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136202</id>
+    <title>How to Enable Sound Glow on HomePod &amp; HomePod Mini</title>
+    <updated>2026-11-03T22:47:20+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-610x423.jpg" alt="How to enable Sound Glow on HomePod and HomePod Mini" class="lazy lazy-hidden aligncenter size-large wp-image-136207" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-610x423.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-300x208.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-768x533.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1.jpg 1194w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Sound Glow is a snazzy new feature introduced for HomePod (2nd gen and later), and HomePod Mini (1st gen and later) that allows the small display on the top of the smart speaker to show a fun little ambient light effect that reacts to the rhythm, beat, and color of whatever you are playing on the device. It adds a bit of character to the HomePod that is particularly enjoyable in a dimmer or dark room. Curiously, Sound Glow is not enabled by default, so if you wish to use the feature you will have to turn it on manually, which we will show you how to do here.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136202"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Sound Glow System Requirements&lt;/h3&gt;
+&lt;p&gt;Sound Glow is compatible with HomePod (2nd gen and later), and HomePod Mini (1st gen and later). The first gen HomePod does not support the feature.&lt;/p&gt;
+&lt;p&gt;Additionally, Sound Glow requires you to update your HomePod to HomeOS 27.2 (or whatever they’re calling it). That’ll happen automatically if you have a paired iPhone or iPad with &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2&lt;/a&gt;, or a Mac with &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2&lt;/a&gt;. If your HomePod is not yet updated, you can do that manually &lt;a href="https://osxdaily.com/2022/12/26/how-to-update-homepod-from-mac-with-home-app/"&gt;from a Mac&lt;/a&gt; or &lt;a href="https://osxdaily.com/2021/06/19/how-update-homepod-software/"&gt;iPhone/iPad&lt;/a&gt; within the Home app. &lt;/p&gt;
+&lt;p&gt;You will also want to update Spotify, Podcasts, and other apps, so they can support the feature fully.&lt;/p&gt;
+&lt;h2&gt;How to Enable Sound Glow on HomePod &amp;amp; HomePod Mini&lt;/h2&gt;
+&lt;p&gt;Assuming you meet the requirements and have your devices updated, here’s how to enable Sound Glow, which curiously is not enabled by default:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the “Home” app on your iPhone, iPad, or Mac running iOS 27.2 or MacOS 27.2&lt;/li&gt;
+&lt;li&gt;Long-press or right-click on the HomePod and choose “Accessory Settings”&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-369x800.jpg" alt="How to enable Sound Glow on Homepod" class="lazy lazy-hidden aligncenter size-large wp-image-136204" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;li&gt;Scroll down and look for the “Sound Glow” option and toggle it ON&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-369x800.jpg" alt="Turn on Sound Glow on HomePod and HomePod Mini" class="lazy lazy-hidden aligncenter size-large wp-image-136205" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;li&gt;Exit out of Home app&lt;/li&gt;
+&lt;li&gt;Now open Music.app, Spotify, Podcasts, or another similar compatible app, and play audio through the HomePod to see SoundGlow in action&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should see the colors start to move and change on the little display atop HomePod right away, which will vary depending on the music and beat or what you are listening to.&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-610x352.jpg" alt="HomePod Soundglow" class="lazy lazy-hidden aligncenter size-large wp-image-136203" srcset="" data-srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-610x352.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-300x173.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-768x444.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2.jpg 1056w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The Sound Glow setting describes the feature as &lt;em&gt;“Display ambient light that responds to the colors and rhythm of what’s playing.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Note that some music and audio streams seem to be a little slower to adapt or catch onto Sound Glow, particularly through third party apps, so if you aren’t seeing immediate feedback you might try Music app or Podcasts app, and you’ll want to be sure to update Spotify and other apps to their latest versions just in case too.&lt;/p&gt;
+&lt;p&gt;If you have a HomePod, try it out yourself, it’s a fun new feature and worth enabling on your Apple smart speakers.&lt;/p&gt;
+&lt;p&gt;This is obviously for compatible HomePod devices, and it remains to be seen if HomeView will have a similar Sound Glow feature, perhaps on the screen itself, but we will find that out soon.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/03/how-to-enable-sound-glow-on-homepod-homepod-mini/"/>
+    <published>2026-11-03T22:47:20+00:00</published>
   </entry>
 </feed>
