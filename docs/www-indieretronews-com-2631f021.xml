@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.indieretronews.com/feeds/posts/default</id>
+  <title>Indie Retro News (texto completo)</title>
+  <updated>2026-11-04T10:52:39+00:00</updated>
+  <author>
+    <name>Indie Retro News</name>
+  </author>
+  <link href="https://www.indieretronews.com/" rel="alternate"/>
+  <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7175297992577443565</id>
+    <title>Prehistorik -  Titus Software 90's platformer gets an AI Amiga AGA fan edition</title>
+    <updated>2026-10-29T20:00:38+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKroXHLERG2s0q7TkWYG4YcnPEmxzruKZ8NEFCSIKR09qijjsz-0tDsdjm8qG9AeTsx93WJ3UnpD9YDJyZTW8hNytB5TpxU1MJy1ipuAA2raetmfVZrtOue3oV2Wq7Qmj6CpNBbJT67I1piQ8QDhu8-oPNrJqH-fCCrVELZ706XlkIqqGAtleWRFjYf4/w640-h382/preh0.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7175297992577443565" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Looking through the EAB forums, I've just found out that Depechem70 has released Prehistorik AGA, a complete fan overhaul of Titus's classic 1991 platformer Prehistorik. The creator has enhanced the contrast and fine detail across every background, item, and environmental texture into 256 colour palettes, while intentionally leaving the game’s bold outlines and quirky character designs intact. To make the world feel more dynamic, the update infuses animation frames into everything from dinosaurs, birds, and fish to winter-themed polar bears, penguins, walruses, and snowmen. Amiga owners will also encounter reworked boss graphics, animated backdrops, more satisfying hit visual cues, rising bubbles tiny drifting fish in aquatic stages, and realistic falling snow beneath a subtly twinkling starry night sky.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/WJX9wNrf7-A" youtube-src-id="WJX9wNrf7-A"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Furthermore, the new release smooths out room-to-room screen transitions and squashes a long list of legacy loading, gameplay, and graphical bugs found in the original. The core code and memory architecture have been tightly optimised around the 68020 processor. For those playing via WHDLoad or on a CD32 console, Depechem70 has bundled an entirely new, family-centric introduction sequence alongside a fully animated custom ending movie. CD32 owners get extra goodies too, as that specific version pulls the CD audio soundtracks straight from the CDTV release. Perhaps the most amusing addition is a newly programmed idle quirk: if you leave the joystick untouched for over 20 seconds, the hungry caveman will casually pull out a vape, blowing thick, animated vapor clouds that slowly dissolve off the screen.&lt;/p&gt;&lt;p&gt;- Requirements: AGA/68020, 2 MB Chip RAM and 4 MB Fast RAM, including the CD32 edition.&lt;/p&gt;&lt;p&gt;( For those of you who shout AI slop, just stick with the original which is just as fun as it was all those years ago )&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eab.abime.net/showthread.php?t=124148"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/prehistorik-titus-software-90s.html"/>
+    <published>2026-10-29T20:00:38+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-9168208208624858024</id>
+    <title>Super Pac Man - Namco's maze chomping sequel has arrived on the Commodore VIC-20 32K</title>
+    <updated>2026-10-30T10:25:54+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">For those of you who hate AI then here's one for you, as Milasoft has brought over Super Pac-Man to the Commodore VIC-20. Originally released by Namco in 1982 as the official arcade sequel to the 1980 phenomenon, the Toru Iwatani-designed title has finally landed on the VIC-20. To handle the maze-chomping gameplay and assorted level graphics, the port requires a 32K RAM expansion, cleverly</content>
+    <link href="https://www.indieretronews.com/2026/10/super-pac-man-namcos-maze-chomping.html"/>
+    <published>2026-10-30T10:25:54+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8578691663427311970</id>
+    <title>Pyjamarama - Mikro-Gen's classic has arrived on the Commodore Vic-20 35k by AI/gekka</title>
+    <updated>2026-10-30T10:44:33+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUtkbUiOsQNzz2N_dfZUjNw5jL68LlYJhO-U6KHv0kBw-3F0UDz9pdtQRRUTsF4o36zCuvDuMcZbHaguw2c7KmxY6UVDcUINnMKRpsmUyMOY3XsmOscUTLQhs2ihthHd-UvsOhW1tsOi5rMlkgKSAfVN0FKUHY1y_sCPJh5qAj28Hebxx1X8MQihSFt7g/w640-h394/pyj.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8578691663427311970" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Gekka has successfully brought Mikro-Gen's 1984 classic Pyjamarama to the Commodore VIC-20 with the assistance of AI tools. Inspired by the beloved original ZX Spectrum title, this unofficial adaptation marks the first time Wally Week's famous sleepwalking adventure has made its way to the classic VIC-20. To accommodate the expansive journey through Wally's nightmares, the game requires a VIC-20 equipped with a 35K RAM expansion, fully supporting both PAL and NTSC systems alongside standard keyboard and joystick inputs.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/OtftzNXapeQ" youtube-src-id="OtftzNXapeQ"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The release marks a thrilling new chapter for a franchise that originally spanned the ZX Spectrum, Amstrad CPC, and Commodore 64 as the second instalment in the iconic Wally Week series. Players dive into a surreal world that captures the essence of the classic Mikro-Gen era, which eventually spawned four other sequels including Automania and Everyone's A Wally. Whether navigating the dreamscapes to the tones of "Popcorn" or the game's alternative original soundtrack, retro gamers can finally experience this piece of computer history on the VIC-20 35k.&lt;/p&gt;&lt;p&gt;The Wally Collection via Plus/4 World includes all five games:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;- Automania&lt;/li&gt;&lt;li&gt;- Pyjamarama&lt;/li&gt;&lt;li&gt;- Everyone s a Wally&lt;/li&gt;&lt;li&gt;- Herbert s Dummy Run&lt;/li&gt;&lt;li&gt;- Three Weeks in Paradise&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1)&lt;a href="https://sleepingelephant.com/ipw-web/bulletin/bb/viewtopic.php?t=11651&amp;amp;start=15"&gt; Source&lt;/a&gt; 2) &lt;a href="https://plus4world.powweb.com/software/Wally_Collection"&gt;Wally Collection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/pyjamarama-mikro-gens-classic-has.html"/>
+    <published>2026-10-30T10:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5710373441035512327</id>
+    <title>Breathless A32 - A 1995 Amiga FPS with modern controls and better performance via AI and EismanBerlin</title>
+    <updated>2026-10-30T11:14:11+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQlkjNGzKTdUEt1KF2LNK0wtRHwZqqO8uqMY_6nqIoOhxwQA9UbQXFHw048M3YPbypfvGHgB8jqh6zu0fkGo1V3G4BH805GJ_JkwjV7UEoBz2299lU6OwpkxXe9LsAtIr-LogmlwBPhWf_y03l5aSWbZaKyuIIn-Cf-veCVLAFUjjY2xuQduaqBtLnvI/w640-h426/GtKQ3P.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5710373441035512327" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The classic 1995 Amiga 1200 first-person shooter Breathless has received a slight overhaul courtesy of EismanBerlin. Originally developed by Fields of Vision and published by Power Computing, this new update—dubbed Breathless A32—seeks to preserve the spirit of the original game while introducing performance enhancements and quality-of-life features. Released on itch.io with the full blessing and approval of original programmer Alberto Longo, this version boasts smoother gameplay making it much more playable even on older 68030 systems that previously struggled to run it.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/YIW0kmKUHIQ" youtube-src-id="YIW0kmKUHIQ"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Original&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/i3utUM8aNzg" youtube-src-id="i3utUM8aNzg"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Breathless A32&lt;/p&gt;&lt;p&gt;This enhancement adds support for standard AGA graphics and P96 setups alongside contemporary WASD keyboard and full mouselook configurations. CD32 owners are in for a treat as well, thanks to robust CD32 joypad adaptations that allow users to switch weapons, strafe, look around, and interact with objects entirely without a keyboard, saving these configurations directly to the console's memory. Beyond controls, players will face smarter, cover-seeking enemy AI and wield weapons outfitted with sharper full-resolution graphics and reworked muzzle flashes. Amiga owners can also manually toggle the audio filter or remove the classic helmet cockpit overlay at will, making this the more comfortable way to play this classic FPS.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Feed back so far seems rather positive :)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Brilliant! Thanks so much for putting this together.&lt;/li&gt;&lt;li&gt;AWESOME!!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eismanberlin.itch.io/breathless-a32"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/breathless-1995-amiga-fps-with-modern.html"/>
+    <published>2026-10-30T11:14:11+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1031104694504983361</id>
+    <title>Vespertino - This upcoming Racing Simulator for the Amstrad CPC looks incredible [UPDATE]</title>
+    <updated>2026-10-30T16:27:50+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">If you thought Alien 3 and&amp;nbsp;Xevious 128k was going to be the only highlight this year, then prepare for a shock. As we've just been tweeted via a good friend of ours that the upcoming Amstrad CPC racing game called 'Vespertino World Racing", is not only still being worked on, but as of this week a new trailer has been launched showing just how good this game looks. Yes indeed from the same</content>
+    <link href="https://www.indieretronews.com/2026/10/vespertino-this-upcoming-racing.html"/>
+    <published>2026-10-30T16:27:50+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1439760042260490263</id>
+    <title>Awesome SlamSibs Infinite - A Super Smash Bros like game arrives on the C64 via Søren Trautner Madsen and team!</title>
+    <updated>2026-10-30T16:46:02+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEapaeCauzvyYB4shCac4sQ9R1vzI1vxN0ZZJ200jqesz5RLHaoB0AESAnOSBei93LYpfcKWb0ifOgWh8ayxRXYUq8hLZBfGG1XEXrVzoGbigvr8iT6lqdlKlgLf34iQr5PqE3NQZNQcJb903bNcKA-zqATVNCsJOZH1Am9P_TBtbxPCbTdcDhKD6Ul20/w640-h474/slam.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1439760042260490263" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well here's a game I didn't expect to see today, as developer Søren Trautner Madsen and team have released Awesome SlamSibs Infinite, an awesome new fighting game for the Commodore 64. Described by its creator as a nostalgic love letter to Super Smash Bros. Ultimate, the title blends iconic characters, classic games, and vintage music into a chaotic multiplayer brawler. Developed as a passion project rather than commercial, the game challenges players to pick a fighter, grab a joystick, and battle either a friend or a computer opponent. Squeezing a full-blown fighting game into the C64’s restrictive 64 kilobytes of memory proved to be a massive technical hurdle, requiring creative workarounds for sprites, animations, and stage effects.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/qeguKDO36gA" youtube-src-id="qeguKDO36gA"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;What makes the project even more remarkable is its traditional, hands-on development process. Madsen crafted every single line of code, sprite, and animation entirely by hand the old-fashioned way, steering clear of modern AI tools until minor bug-hunting at the very end. While Madsen admits this handcrafted approach is a ridiculously inefficient way to build a game today, he notes that overcoming those limitations is exactly where the charm and fun of the machine lie. The developer didn't fly solo, however; he credited Jesper Rune Larsen for assisting with the menu system and extra code, and Jarkko Salminen for designing the menu graphics, alongside a dedicated community that contributed pixels and music. For Madsen, the ultimate goal is to keep traditions alive, recommending that players sit side-by-side with a friend to enjoy the game exactly how retro brawlers were meant to be played.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://csdb.dk/release/?id=265225"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/awesome-slamsibs-infinite-super-smash.html"/>
+    <published>2026-10-30T16:46:02+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3050329565521163645</id>
+    <title>Street Fighter II - An overhauled version of a classic fighting game for the Amiga via AI and Str1der</title>
+    <updated>2026-10-30T21:21:38+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZEWLazFEvGwD2G7X8Iuo7tGenq3BrHAmRL77mWfKWel66pqdnnOzHhcMeUIcHJIZgHg9cckRBSmNq9Nu3t7c-y1mmAjapx4hhnivymFZ70FevWh0Zr9EaN5us_4VkGDdADycZx1tzjaUodZ0K4_VCF4Uf5kCrhO7lN-6LNy7MxuTQvUxxv5D_dARBxM/w640-h402/Clipboard_10-27-2026_01.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3050329565521163645" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I'm sure many of you remember the Street Fighter games, more especially Street Fighter 2; a game which originally appeared on the Arcades, and was then ported to pretty much every system you could think of, including such systems as the Amiga, Atari St and even the ZX Spectrum.  Well fast forward to today however, and a developer by the name of Str1der with the help of AI, has released an improved version of Street Fighter 2 for the AMIGA to bring it more in line with the Arcades and better than the original US Gold port released in the 90s.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/0xdqa29CEWw" youtube-src-id="0xdqa29CEWw"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;US GOLD 1992&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/GgFZFEWU_98" youtube-src-id="GgFZFEWU_98"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;AGA&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;According to the EAB thread, Str1der has completely rewritten Street Fighter II from scratch while working with the limitations of the Amiga hardware. This latest iteration promises to be the definitive version, packing in all original stages, fully functional two-player joystick controls, corrected bugs, and the iconic bonus stages. By utilizing AI as a strategic asset to optimize development, Str1der has overhauled the engine to deliver much faster blitting speeds that consistently hit a smooth 50 frames per second. The visual upgrade is looks pretty decent as well, featuring graphics ripped directly from the PC-Engine, an optimized color palette using up to 45 colors on OCS/ECS (and up to 80 on AGA) without even touching the copper, and an uncompromised animation budget featuring all 250 frames for every fighter. &lt;/p&gt;&lt;div class="separator"&gt;&lt;ul&gt;&lt;li&gt;Amiga 68000, ECS, 1mb chip and 2 mb fast at 50 fps&lt;/li&gt;&lt;li&gt;Wide sprites (mimic PC Engine TV stretch), full speed on 68020 ECS or a faster 68000 like an ACA500 card&lt;/li&gt;&lt;li&gt;Amiga AGA 68020, 2mb chip and some fast RAM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p class="separator"&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://eab.abime.net/showthread.php?t=124168"&gt;Download/Source&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/street-fighter-ii-improved-version-of.html"/>
+    <published>2026-10-30T21:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8936525152229534209</id>
+    <title>Roc'n Rope - Konami's 1983 arcade climber for the Commodore 64 via BrokenBytes</title>
+    <updated>2026-10-31T10:52:33+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkaaGiIcoaxk6xDq5z7SlldrcBl-QN8QXocqhhcC_45ur8SL-SIlAq_s8qin-Uzi45LQL8_hyphenhyphenYUL6-9z2hbQ8qUidaxCQPESUwSAxKIIT4W5ZncvnqtErg_SLUpqX_FEf4RH1pRvOf9dZ_SzjoE_sn-nfibSj-sP3vZhpWaRNaQjQ1zZ2rhO3d43ZlbaM/w640-h454/roc.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8936525152229534209" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Broken Bytes has began a project to bring over Konami’s 1983 arcade classic Roc’n Rope to the Commodore 64 without any AI! This faithful conversion tasks players with ascending treacherous, multi-tiered stages using nothing but a harpoon gun and sheer determination to reach a mythical phoenix. Navigating the vertical landscapes requires timing, as players must anchor ropes across treacherous gaps and climb to safety while dodging a barrage of falling rocks, aggressive dinosaurs, and hostile cavemen. To survive the onslaught, climbers can blind foes with a flashlight, snatch up power pills and feathers for a competitive edge, and chain together actions to keep their high-score bonus ticking across four distinct environments—ranging from jungle ledges, icy caves, spinning wheels to a towering waterfall.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/e_hboNheRw4" youtube-src-id="e_hboNheRw4"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The presentation stands out by utilizing full-screen overscan to deliver an impressive 320×248 pixel playfield that bleeds directly into the C64 borders, keeping the HUD cleanly tucked below the action. The technical wizardry extends to the physics engine, which employs sub-pixel positioning and frame timing tailored to PAL refresh rates to recreate the exact feel of the original cabinet. Dynamic rope mechanics ensure that climbing feels perfectly fluid as well, with the software seamlessly shifting anchored rope segments into bitmap data when the screen becomes crowded with prehistoric threats. Finally the four detailed worlds within the game make full use of the C64 palette.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Code: Antonio Savona&lt;/li&gt;&lt;li&gt;Graphics: Steve Day&lt;/li&gt;&lt;li&gt;Music &amp;amp; sound: Aldo Chiummo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;[UPDATE] &lt;/b&gt;: I've been told the development status hasn't been updated, but the game is out now!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://brokenbytes.itch.io/roc-n-rope"&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/rocn-rope-konamis-1983-arcade-climber.html"/>
+    <published>2026-10-31T10:52:33+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2677946777368974572</id>
+    <title>Van Helsing - Could this be another C64 hit from GriffonSoft and Psytronik Software?</title>
+    <updated>2026-10-31T11:14:13+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQ1Rmw84Ql-B2qP4_MLt7wq3dACEImgwnm62jnJXUjm3sDLsM1crKMFlJcnjsnYTqHkj-QHV6VeeQD-Cq_XoVkvf2oCvvORkm75CAL9Dra_YoRsonNo7K3LYqbw4VIfATaMfTS5dYtuzTi2cv90lBpyqu1zt0V1zbbuNbkg9S-rpD4XKsqiU2VTnBD7A/w640-h406/van.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2677946777368974572" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Psytronik Software, the retro-publishing powerhouse behind recent hits like Sherwood and Musketeer, has officially launched Van Helsing on the Commodore 64. Developed by GriffonSoft as their most ambitious project to date, this atmospheric side-scroller transports players back to the grim autumn of 1893. The story kicks off during a celebratory gathering at the Harker residence, marking Jonathan's return from Transylvania, which is abruptly shattered by a bloodcurdling scream. A horrific, winged creature tears through the balcony to abduct Lucy Westenra into the night, leaving behind nothing but a gruesome trail of blood. Stepping into the boots of the legendary monster hunter Van Helsing, players must bravely pursue the fiend directly into Dracula’s dark domain, fighting off hordes of terrifying enemies across eight massive, intricately detailed scrolling levels.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/1VVwFneLE2A" youtube-src-id="1VVwFneLE2A"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The game boasts ultra-responsive controls and a flawlessly animated protagonist. Combat is highly dynamic, giving players an arsenal of collectable weaponry to fend off Dracula's forces, alongside native two-button joystick support that separates firing from jumping for tighter platforming. The title offers global accessibility with native PAL and NTSC compatibility, and looks to run flawlessly on the Commodore 64 as well as modern setups like the C64 Mini, Maxi, and Ultimate. For retro collectors looking to physicalise their collection, the deluxe digital download bundle packages the full game alongside its official soundtrack, stunning promotional artwork, and printable disk labels and sleeves.&lt;/p&gt;&lt;p&gt;( VIDEO SOON )&lt;/p&gt;&lt;p&gt;&lt;b&gt;CREDITS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Code - Ola Zandelin&lt;/li&gt;&lt;li&gt;Music + SFX - Saul Cross&lt;/li&gt;&lt;li&gt;Graphics + Inlay Artwork - Dennis Gustafsson&lt;/li&gt;&lt;li&gt;Key testers - Daniel Zandelin, Mikael Linusson, Dan Saedén, Åke Forslund, Ditlew.&lt;/li&gt;&lt;li&gt;Tape Loading + Cartridge intro music - Richard Bayliss&lt;/li&gt;&lt;li&gt;Tape Loader Source - Martin Piper&lt;/li&gt;&lt;li&gt;Tape Master - Richard Bayliss&lt;/li&gt;&lt;li&gt;Cartridge Coding + Disk Loader - Mike Robertson&lt;/li&gt;&lt;li&gt;Packaging - Jason 'Kenz' Mackenzie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; 1) &lt;a href="https://psytronik.itch.io/vanhelsing"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/van-helsing-could-this-be-another-c64.html"/>
+    <published>2026-10-31T11:14:13+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3996774564813249617</id>
+    <title>Cauldron - Halloween Edition - A brilliant game from the 1980's gets an improvement via AI/Devil-System</title>
+    <updated>2026-10-31T12:51:03+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Devil-System has resurrected Palace Software’s 1985 classic with the release of Cauldron: Halloween Edition for the Amstrad CPC. Originally designed by Steve Brown and Richard Leinfellner as a genre-blending platformer and horizontally scrolling shoot 'em up, the game follows a witch's perilous quest to defeat the "Pumpking" and claim her title as the Witch Queen. While the original release</content>
+    <link href="https://www.indieretronews.com/2026/10/cauldron-halloween-edition-brilliant.html"/>
+    <published>2026-10-31T12:51:03+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4629459277302773246</id>
+    <title>Super Mario Land ZX - Gameboy Super Mario Land arrives on the ZX Spectrum via AI/kirby2000</title>
+    <updated>2026-10-31T16:41:50+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUgoh1u98g2bjlbb3fLiatY3IDMS902KoXuYxvTIMw5COiI3J8aQuTBr1pbgGP8bWgm0YEL-OGMzwivj6_SHaDEjp9PrTN2q8CuLpVPjGrPPwPZOYauHMYdTVP-EJ8n-k3ZSmZsivHXXYi6D8tuwM4ngDiPAObXCPKf0ti0eljuFWvIzbw9NF5LryJmVM/w640-h464/super.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4629459277302773246" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kirby2000 has released a public beta of Super Mario Land ZX for the ZX Spectrum 128K. This AI demake crams Nintendo's entire 1989 Game Boy launch title into a single 128K load. Players can tackle all 12 levels across four distinct worlds using either a keyboard or a Sinclair joystick. Every single element of the original looks to have been converted, including the memorable submarine and aeroplane shoot-’em-up stages, alongside 18 tunes rearranged for the Spectrum's AY audio chip. While the game is in beta however, the creator is currently seeking community feedback on this early build, expressing a particular interest in how the software performs when running on real, hardware.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/EuSlEU3ItYg" youtube-src-id="EuSlEU3ItYg"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The original game boy version sold 25 million copies, cementing itself as the fourth best-selling Game Boy title of all time. Though brief, the 1989 original was highly praised for successfully shrinking Mario's side-scrolling formula into a pocket-sized handheld experience, notably introducing Princess Daisy to the franchise (wiki). The game's massive success eventually birthed Super Mario Land 2: 6 Golden Coins and Wario Land, which launched Wario's own standalone spin-off series. While official re-releases have brought the classic to the Nintendo 3DS Virtual Console and Nintendo Switch Online, it's still nice to play this game again, albeit on the ZX Spectrum.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://kirby2000.itch.io/super-mario-land-zx"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/super-mario-land-zx-gameboy-super-mario.html"/>
+    <published>2026-10-31T16:41:50+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1718136556872934810</id>
+    <title>The Legend of Zelda - Nintendo's hit game comes to the Commodore 64 via Goldfinger</title>
+    <updated>2026-10-31T17:05:06+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-dUVoA5QNtS6j1tb32h6lX4RRJVCXdUwQDWZyIiWhYXOT1Ao176b7HxH0SuMImUhWgGxzkprc1CBngGFhIyvLHVuLIr4pKc1mvlsi8Fcg-W6YOlEjvURVjneCGa-tWuOz71p_6MuuRHDnnc0DaSJmXXmXyR25omIPlKrtzzWK-e76tKOpHOQBzsKDTo/w640-h542/zelda.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1718136556872934810" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The iconic NES classic The Legend of Zelda is making its way to the Commodore 64, thanks to a dedicated new port by developer Goldfinger. Built using Aldo Núñez’s commented Assembly source code from GitHub, this project aims to cram Nintendo's massive adventure onto an Easy Flash 3 cartridge. While Goldfinger’s current build slightly exceeds the original NES version's 128 KB limit, they plan to optimize and claw back precious memory during development. The game features full NTSC and PAL auto-detection, and features a complete overworld, dungeon levels, scrolling rooms, functional item screens, and progress saving directly to the cartridge.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/Yn-LmGI8QL0" youtube-src-id="Yn-LmGI8QL0"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Though the developer playfully describes the retro graphics as "lame," the port does have music, sound effects, an authentic attract-mode intro, and complete save-file character creation. Looking ahead, Goldfinger hopes to eventually implement native 1541 floppy disk support to mirror the game's original release on Nintendo's Famicom Disk System. While there are still a few minor bugs to iron out during upcoming playtests, the creator has noted that while game speeds are basically on par with the NES. And there's more to come, it's possible the C64 version could even play with no slowdowns (unlike the NES). Finally the developer's biggest hurdle may be legal; though Goldfinger wants to release the complete source code so the community can improve or repurpose the engine, copyright concerns regarding Nintendo's intellectual property leave the official public release up in the air.&lt;/p&gt;&lt;p&gt;&lt;b&gt;According to CSdb : Contains NO AI generated content&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://www.lemon64.com/forum/viewtopic.php?t=89695&amp;amp;start=45"&gt;Forum Updates&lt;/a&gt; 2) &lt;a href="https://csdb.dk/release/?id=265398"&gt;Download ( Current Version )&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/10/the-legend-of-zelda-nintendos-hit-game.html"/>
+    <published>2026-10-31T17:05:06+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1048177900722539092</id>
+    <title>Lost Souls - Arcade horror from Megastyle for the C64 ( preorder boxed via Bitmap Soft)</title>
+    <updated>2026-11-01T11:24:04+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV4TZNnKNcpONzOissRkrnlbaJ4iYya2sXaO6f_vsmE5jf_c3-Ysp1pRUFOC-jtuK1-URlMsww7S1Z4sG15aIt1K-lK9OHujVwdm8keJx5SXdX5k3W-XW5hVT1aRhH1FFzANeRJznoIwdHOqRt2QHgE8NJHFN4Uo7w9ZJjrOldGccvNZxqgzWdr0tgTBI/w442-h640/lost.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1048177900722539092" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Fancy playing another creepy game for Halloween weekend, then Megastyle has you covered with their latest game Lost Souls, an atmospheric arcade horror game that tasks players with saving a spirit trapped between worlds. Set within a forgotten, whisper-filled graveyard, the game requires players to brave a haunted path to ignite 25 lanterns resting upon ancient gravestones. However, players must work quickly against a strict time limit; all the lanterns must be lit before the clock strikes midnight, or the lost soul will remain trapped in the darkness forever.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/ukAas2i6UE0" youtube-src-id="ukAas2i6UE0"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The gameplay features tense moments with precise evasion as players navigate the cemetery's lower grounds to gather essential torches. While the creatures and shadows lurking in the dark won't outright end the player's life, a single touch from them will instantly banish the player back to the very beginning of their quest, wiping out precious progress. It is a high-stakes race against time where only perfect navigation and a steady hand will lift the veil, awaken the spirit, and restore the soul to peace.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Programming: Kåre Johansen&lt;/li&gt;&lt;li&gt;Graphics, loading music and game concept: Roy Widding&lt;/li&gt;&lt;li&gt;Music: Magnar Harestad&lt;/li&gt;&lt;li&gt;Tap version mastered by Tom Roger Skauen&lt;/li&gt;&lt;li&gt;CRT version by Geir Straume&lt;/li&gt;&lt;li&gt;D64 version directory art by Roy Widding&lt;/li&gt;&lt;li&gt;All versions linked by Six&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A limited physical release is available at &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.bitmapsoft.co.uk/product/gridlock-c64/"&gt;Bitmap Soft&lt;/a&gt;. Bitmap Soft is a joint venture of Darren Doyle and Jamie Battison&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://docster.itch.io/lost-souls-commodore-64"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/lost-souls-arcade-horror-from-megastyle.html"/>
+    <published>2026-11-01T11:24:04+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5830770634116734225</id>
+    <title>Big Ball Back Breaker - Bouncing balls in this new Commodore 64 game by Richard Bayliss of TND</title>
+    <updated>2026-11-01T11:48:52+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRrNkyy2-iToAy_djvDpXL-XejWjRQxp5F7bHW4H1Ce75WG3m2XOgIKutw4k5DK0UZhnhFrCVzza9KxamaxIkjuxd54YwDMbzX00uQhC8i9AOHEHOcya4N-fuzRxkVXffy64nK-LrzGnfnm5nc_vjGUAQTO2a3vzr4oVkyyleKsJNzifJFH0nN4Q0vXTk/w640-h436/big%20ball.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5830770634116734225" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;For those of you who hate AI will be pleased to know that The New Dimension (TND) has officially launched Big Ball Back Breaker, a hectic and addictive new arcade title for the Commodore 64 developed by the prolific Richard Bayliss. Bringing a dose of bizarre madness to the classic C64, this energetic "run, jump, and collect 'em up" spans 16 action-packed levels of ball-dodging chaos. Players are treated to a polished package right from the start, kicking off with an eye-catching cartoon-style loading bitmap illustrated by Alf Yngve, alongside a slick front-end presentation and a competitive high-score table to track the best runs.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/7CfJJdl8EE8" youtube-src-id="7CfJJdl8EE8"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The gameplay itself pairs crazy survival mechanics with an array of items to grab, offering helpful power-ups mixed with devious, nasty surprises to keep players on their toes. Backed by a thumping, uptempo soundtrack and custom sound effects by Richard Bayliss, the game is built to fully accommodate those with a C64, offering PAL and NTSC system compatibility right out of the box. Additionally, Commodore 64 owners can also choose their preferred media format, with the disk version featuring a functional high-score saver and the tape version utilizing a classic-looking retro tape loader.&lt;/p&gt;&lt;p&gt;&lt;b&gt;CREDITS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Programming, game design, graphics, sound effects and music by RICHARD BAYLISS&lt;/li&gt;&lt;li&gt;TND Intro graphics by CHESSER/BLAZON&lt;/li&gt;&lt;li&gt;Tape loader system by  MARTIN PIPER and RICHARD BAYLISS&lt;/li&gt;&lt;li&gt;Multicoloured loading bitmap artwork by ALF YNGVE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://richard-tnd.itch.io/bigball"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/big-ball-back-breaker-bouncing-balls-in.html"/>
+    <published>2026-11-01T11:48:52+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-668464767222619975</id>
+    <title>Ghouls 'n Ghosts - Modern Vintage Gamer sets out to improve an Amiga port of an Arcade classic</title>
+    <updated>2026-11-02T14:01:47+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotLEpSMhLMG399CQko02Szjx5N1QRqPFQg1ZvI0jV3lQRhqGwhWGfdC9R5aFDtzkmh_RNceL5cdlRMf0WP0NS-dQuGlc8g4sSrjisVkmUj47O-Q9rznXP9f5gDDYSPmFmaaRQ2FH-DCkjVUg9CSfhIkSh6hGWXWHwc2xtSklb6h5pU5WRWKil_jVJid4/w518-h640/ghouls.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-668464767222619975" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The 1989 Commodore Amiga port of Capcom’s arcade classic Ghouls 'n Ghosts looks to be getting a face-lift courtesy of Modern Vintage Gamer. While the original Software Creations port—published by U.S. Gold—was a respectable attempt for its time, it famously suffered from a common issue among era-specific ports by failing to utilise any of the Amiga’s powerful custom hardware. The new  enhancement directly addresses these shortcomings by injecting vibrant copper skies, an optimised, faster renderer, and a much-needed splash of colour into this classic game. Visually, the upgrade completely transforms the experience to introduce silky-smooth 50 Hz scrolling, fluid object motion, and a hardware-sprite-based Arthur.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/v_0nCm4TrsY" youtube-src-id="v_0nCm4TrsY"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Beyond the  graphical overhaul, the project’s development process also uncovered long-hidden secrets buried deep within the game's original code. However, Amiga purists will be glad to know that the core game logic remains entirely untouched, running at its exact native speed. Retro gamers should still expect some performance dips when the screen becomes cluttered with multiple large enemies, but the combination of hardware-driven fluidity and faithful gameplay makes this latest update a definitive love letter to Amiga enthusiasts.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt;: 1) &lt;a href="https://drive.google.com/file/d/1HDngiwY-BJSp51USpBDxp93AEUyg2036/view"&gt;GNG Enhanced BPS Patch &lt;/a&gt; 2) &lt;a href="https://www.marcrobledo.com/RomPatcher.js/"&gt;Online BPS Patcher&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/ghouls-n-ghosts-modern-vintage-gamer.html"/>
+    <published>2026-11-02T14:01:47+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3937220343577956750</id>
+    <title>The Legend of the Little Chicken - Another fabulous ZX Spectrum game from Furillo Productions</title>
+    <updated>2026-11-02T14:19:34+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGX54NJvmuxilegKhKDdUlDOnLxN6qe5HE8dJ6sCBj3ae-lkb4CjS_fboQ3cU5dhlDrGMQv1V80IR0Cw9qW429UGXxiGZ8XYuuAj1VRViWBHGGkzBxme2J_l1EMotOUrkRRk3oroGHORYMoRn3S8u8iFcaEgerOq-7EK_tdEI3dQSie27Hh3tQ7Di5LzM/w640-h482/polito.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3937220343577956750" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Furillo Productions has unleashed They Called Him El Pollito (The Legend of the Little Chicken), a vibrant new shoot 'em up that injects a heavy dose of Spaghetti Western flair for the ZX Spectrum. Set in the lawless badlands of Bernard Valley, the game casts players as a feather-ruffling vigilante known simply as "The Chick." When the local schoolteacher and ultimate love interest, Rosita, is abruptly kidnapped, our gunslinging hero must hit the trail to rescue her. Rumours point to the notorious "Joe the Mad Miner" as the captor, but a deeper conspiracy suggests a much more powerful puppet master is pulling the strings from the shadows of this dusty frontier.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/el0PuCfnyFo" youtube-src-id="el0PuCfnyFo"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The game was built using a heavily customized version of Jonathan Cauldwell’s celebrated SEUD (Shoot-Em-Up Designer), seamlessly paired with Furillo Productions' own proprietary "ambush module" designed for the Mojon Twins’ MK1 engine. While the team behind this game has utilized some free asset libraries to flesh out environmental tiles like rocks and serpents, the core gameplay is a unique, high-energy arcade romp. For Spectrum fans looking for a fresh challenge, the stage is set, the revolver is loaded, and the fate of Bernard Valley rests entirely in your hands. As the website says "Now it's all up to you, Chick! Go get them!"&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://furilloproductions.itch.io/le-llamaban-el-pollito"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/the-legend-of-little-chicken-another.html"/>
+    <published>2026-11-02T14:19:34+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7863308266799596273</id>
+    <title>Caveman - Dodge prehistoric creatures in this new arcade game from Bonnette2020</title>
+    <updated>2026-11-02T14:37:42+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh17abO2MajPRjCN5kjg9N-VwsFnD80XrGLgHAxxu4zDnKXoZ4CfnPGiudELvuvfWCICffBAsaNfXZrGsW7A4J718_IiM_s3_v7d0TlcNhhxMrzRX87PVLF2uKxDxuxgnJlD_CaIRFagrQlBNccXLtGTABZYHuKxjDu58zP0oQ6bUhh-AYxoi-tovGYOag/w640-h426/cave.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7863308266799596273" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Welcome to 'Caveman' (also known as Cavernario), a vibrant new C64 title from developer Bonnette2020 that has already captured top honors in the retro community. Programmed in C and compiled using the modern Oscar64 toolchain, the game recently secured first place in the Independent Video Games Category at the FlashParty 2026 demoparty in Buenos Aires. The title beautifully channels the spirit of 1980s arcade classics, blending colorful graphics and fluid animations with puzzle-solving elements.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/C71rDCa0GK8" youtube-src-id="C71rDCa0GK8"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;C64 gamers are invited to navigate a gauntlet of increasingly difficult action-packed levels, jumping between precarious platforms, collecting key items, and dodging hostile prehistoric creatures to unlock the path forward. As players venture deeper into these mysterious, danger-filled caverns, the scaling difficulty promises a true test of reflexes and strategy. It ultimately leaves retro fans with one definitive question: do you have the gaming chops required to conquer every subterranean challenge and cement your legacy as the ultimate Caveman? &lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Game Dev : Bonnette2020&lt;/li&gt;&lt;li&gt;Music : Richard Bayliss &lt;/li&gt;&lt;li&gt;Extra Support : @1mariela8 , @danasalvati , @milibonnette_, @gonzalezj.ar&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1)&lt;a href="https://bonnette2020.itch.io/cavernario-commodore-64-pal-n-ntsc"&gt; Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/caveman-dodge-prehistoric-creatures-in.html"/>
+    <published>2026-11-02T14:37:42+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-593141366988816857</id>
+    <title>The House on the Borderland - First person survival horror game for the C64 by AI/Michael Cox</title>
+    <updated>2026-11-02T14:55:06+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Another C64 game to play with the release of The House on the Borderland, a first person survival horror game created by developer Michael Cox. Drawing direct inspiration from William Hope Hodgson’s classic 1908 novel, the game tasks players with a desperate stand to protect their home, their sister, and their loyal dog from an onslaught of marauding swine-things. Survival hinges on enduring</content>
+    <link href="https://www.indieretronews.com/2026/11/the-house-on-borderland-first-person.html"/>
+    <published>2026-11-02T14:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3242451862770233100</id>
+    <title>Tiltrune - A room flipping puzzler for the Amiga and C64 by AI/Gaboo Arts Entertainment</title>
+    <updated>2026-11-02T15:20:19+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQHyndavOIerH2kgSwGeyUR673jtA6s7hVT3jQ6g4FmjrUaOd9XN7YnqkDgcMwJ23pu4owfeHrfDOgFzgUt-XM7qEB0nuN-krfd-fv2k_eMA0yUXo3iVb3U55UoAcM5ysNbvfoWTUuun3QmMVFsZNhwVZFzNmShp4iQaObMrQe2HBfxvEBYGoRSoFqGk/w640-h448/tilt.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3242451862770233100" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Gaboo Arts Entertainment with the help of AI has released Tiltrune, a clever new gravity-shifting puzzle game simultaneously targeting both the Amiga and the Commodore 64. The core mechanic turns the entire room into a mechanism, allowing players to rotate the screen left or right by 90 degrees. This rotation alters gravity, causing the explorer, crates, and gems to tumble into completely new configurations, effectively transforming what was once a blocking wall into a walkable floor. To succeed, players must meticulously plan their moves, pushing crates into position to absorb dangerous falls, dodging lethal spikes, and collecting every single gem before charting a path to the green exit.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/QSqjrnnuta4" youtube-src-id="QSqjrnnuta4"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The game boasts over 80 main puzzle rooms spread across five distinct vaults, alongside a special final chamber and unlockable post-game bonus challenges. Given the danger of falling debris, the developer has cleverly included a generous 100-state undo buffer and unlimited retries to encourage loose experimentation and creative problem-solving. Completing the package is a suite of features, including par targets, star ratings, and comprehensive performance statistics, all tied together by an animated end-of-run tally and disk-saved high scores.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TILTRUNE for Amiga brings our original Commodore 64 puzzle game (TILTRUNE C64 version) to the Commodore Amiga, with reworked graphics, animated title and reward screens, and Amiga music and sound effects. It preserves the original rooms, rules and controls.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics, Sounds, Text&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://gabooae.itch.io/tiltrune-for-amiga"&gt;Amiga&lt;/a&gt; 2) &lt;a href="https://gabooae.itch.io/tiltrune"&gt;C64&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/tiltrune-room-flipping-puzzler-for.html"/>
+    <published>2026-11-02T15:20:19+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-970984599745390775</id>
+    <title>Kizuna - Another monochrome game appears and this time for the ZX Spectrum by Xeif</title>
+    <updated>2026-11-04T10:52:39+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUL9zaUjU0vXDZWG5j0oXdhE1DaPhG_vvcvYLl5xZJu0acorDkV9FTUahUsYnVoEHXA2qQNqF4WZIFrmJk9EWGwerThmjTcVrOE25kPBLEKhwhqai6D4VCzRq-XzV-MPnxIqnSCXwXVE2lUdt9mwaLHb4daoMDiILeuTo6l2J6RUIoC5bwm-x9Y1nvHk/w640-h468/kinzua.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-970984599745390775" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A new monochrome platformer has sliced its way onto the ZX Spectrum, courtesy of developer Keif. Titled as 'Kizuna', this stylized black-and-white release frames its story through the lens of a classic comic book, using expressive pixel art to transform each game screen into a comic panel. The story follows the ninja Hanzo on a high-stakes mission to escort a young girl named Hana through a treacherous world cloaked in shadow. Rather than relying solely on mindless combat, the game challenges players with varied gameplay scenarios and obstacles that require patience, and clever problem-solving to overcome.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/Wwmb2VCboeM" youtube-src-id="Wwmb2VCboeM"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;According to the website at the heart of the game is the evolving relationship between the two main characters, shifting from protection into a profound, fated connection. Hanzo and Hana must actively cooperate to survive the relentless gauntlet of enemies and environmental hazards blocking their path. Kizuna ultimately promises a journey where a sharp sword isn't enough to solve every crisis, proving instead that the emotional bond forged between two souls can be the ultimate tool for survival—and the most difficult thing to break.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Content&lt;span&gt;	&lt;/span&gt;No generative AI was used&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://xeif.itch.io/kizuna-zx-spectrum"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/kizuna-another-monochrome-game-appears.html"/>
+    <published>2026-11-04T10:52:39+00:00</published>
+  </entry>
+</feed>
