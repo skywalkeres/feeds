@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-04T10:52:39+00:00</updated>
+  <updated>2026-11-04T11:42:18+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7175297992577443565</id>
-    <title>Prehistorik -  Titus Software 90's platformer gets an AI Amiga AGA fan edition</title>
-    <updated>2026-10-29T20:00:38+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKroXHLERG2s0q7TkWYG4YcnPEmxzruKZ8NEFCSIKR09qijjsz-0tDsdjm8qG9AeTsx93WJ3UnpD9YDJyZTW8hNytB5TpxU1MJy1ipuAA2raetmfVZrtOue3oV2Wq7Qmj6CpNBbJT67I1piQ8QDhu8-oPNrJqH-fCCrVELZ706XlkIqqGAtleWRFjYf4/w640-h382/preh0.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7175297992577443565" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Looking through the EAB forums, I've just found out that Depechem70 has released Prehistorik AGA, a complete fan overhaul of Titus's classic 1991 platformer Prehistorik. The creator has enhanced the contrast and fine detail across every background, item, and environmental texture into 256 colour palettes, while intentionally leaving the game’s bold outlines and quirky character designs intact. To make the world feel more dynamic, the update infuses animation frames into everything from dinosaurs, birds, and fish to winter-themed polar bears, penguins, walruses, and snowmen. Amiga owners will also encounter reworked boss graphics, animated backdrops, more satisfying hit visual cues, rising bubbles tiny drifting fish in aquatic stages, and realistic falling snow beneath a subtly twinkling starry night sky.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/WJX9wNrf7-A" youtube-src-id="WJX9wNrf7-A"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Furthermore, the new release smooths out room-to-room screen transitions and squashes a long list of legacy loading, gameplay, and graphical bugs found in the original. The core code and memory architecture have been tightly optimised around the 68020 processor. For those playing via WHDLoad or on a CD32 console, Depechem70 has bundled an entirely new, family-centric introduction sequence alongside a fully animated custom ending movie. CD32 owners get extra goodies too, as that specific version pulls the CD audio soundtracks straight from the CDTV release. Perhaps the most amusing addition is a newly programmed idle quirk: if you leave the joystick untouched for over 20 seconds, the hungry caveman will casually pull out a vape, blowing thick, animated vapor clouds that slowly dissolve off the screen.&lt;/p&gt;&lt;p&gt;- Requirements: AGA/68020, 2 MB Chip RAM and 4 MB Fast RAM, including the CD32 edition.&lt;/p&gt;&lt;p&gt;( For those of you who shout AI slop, just stick with the original which is just as fun as it was all those years ago )&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eab.abime.net/showthread.php?t=124148"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/prehistorik-titus-software-90s.html"/>
-    <published>2026-10-29T20:00:38+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-9168208208624858024</id>
-    <title>Super Pac Man - Namco's maze chomping sequel has arrived on the Commodore VIC-20 32K</title>
-    <updated>2026-10-30T10:25:54+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqkMyfKNzvzYeBblQ3eKpaxNKoQNVW_m3aN6rUn7agSfEH8y7VBr1_W7JGxDTVKCD8QjtWMQKv26ctwBS3zl8Q91A9zmqSX5sINAQF9dD7tY3rANxkQrmcD0O0Nn__S6wNdvdQxigmXseVXFzqIhRWQzlaIWd1DK7MYzZ8_WiBkXo1wmc4I5gFRQ4PQFI/w640-h320/pac.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-9168208208624858024" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;For those of you who hate AI then here's one for you, as Milasoft has brought over Super Pac-Man to the Commodore VIC-20. Originally released by Namco in 1982 as the official arcade sequel to the 1980 phenomenon, the Toru Iwatani-designed title has finally landed on the VIC-20. To handle the maze-chomping gameplay and assorted level graphics, the port requires a 32K RAM expansion, cleverly utilising 8K memory blocks mapped at $2000, $4000, \(6000, and\)A000. &lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiI_Do9ZCM8M5tSgcSntsEohiLzEMqGZyCnjaDAGWkriZnZ13lrGv7ZWKbB2BuExnN1TotVGnUrwv2SipCmyLDzW72-groJnOWDDbkq8v04TWbeQnq3B4C2vYLqtVyzNYS1fQu52LefPxkGk5-_TiOUsa4coNpWMWjJUPVa56HvZrY56BLqaca5XG3z-c/s568/rJNk+O.png" imageanchor="1"&gt;&lt;img border="0" data-original-height="284" data-original-width="568" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiI_Do9ZCM8M5tSgcSntsEohiLzEMqGZyCnjaDAGWkriZnZ13lrGv7ZWKbB2BuExnN1TotVGnUrwv2SipCmyLDzW72-groJnOWDDbkq8v04TWbeQnq3B4C2vYLqtVyzNYS1fQu52LefPxkGk5-_TiOUsa4coNpWMWjJUPVa56HvZrY56BLqaca5XG3z-c/w640-h320/rJNk+O.png"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;As it's Milasoft who created this port, the software is built entirely with genuine machine-language programming—ported using PowerPlay with absolutely no AI assistance. The release includes support for alternating one or two-player modes and features a built-in high-score saving system to track your best runs. For fans who remember the 1983 Bally Midway North American release, this new home conversion offers the perfect blend of nostalgic arcade accuracy and impressive technical achievement on classic hardware. So yes, for those of you who hate AI, this is one of those games by a developer that requires your full attention and respect ;).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://milasoft64.itch.io/super-pac-man-commodore-vic-20"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/super-pac-man-namcos-maze-chomping.html"/>
-    <published>2026-10-30T10:25:54+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-8578691663427311970</id>
     <title>Pyjamarama - Mikro-Gen's classic has arrived on the Commodore Vic-20 35k by AI/gekka</title>
@@ -65,12 +33,7 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQlkjNGzKTdUEt1KF2LNK0wtRHwZqqO8uqMY_6nqIoOhxwQA9UbQXFHw048M3YPbypfvGHgB8jqh6zu0fkGo1V3G4BH805GJ_JkwjV7UEoBz2299lU6OwpkxXe9LsAtIr-LogmlwBPhWf_y03l5aSWbZaKyuIIn-Cf-veCVLAFUjjY2xuQduaqBtLnvI/w640-h426/GtKQ3P.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5710373441035512327" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The classic 1995 Amiga 1200 first-person shooter Breathless has received a slight overhaul courtesy of EismanBerlin. Originally developed by Fields of Vision and published by Power Computing, this new update—dubbed Breathless A32—seeks to preserve the spirit of the original game while introducing performance enhancements and quality-of-life features. Released on itch.io with the full blessing and approval of original programmer Alberto Longo, this version boasts smoother gameplay making it much more playable even on older 68030 systems that previously struggled to run it.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/YIW0kmKUHIQ" youtube-src-id="YIW0kmKUHIQ"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Original&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/i3utUM8aNzg" youtube-src-id="i3utUM8aNzg"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Breathless A32&lt;/p&gt;&lt;p&gt;This enhancement adds support for standard AGA graphics and P96 setups alongside contemporary WASD keyboard and full mouselook configurations. CD32 owners are in for a treat as well, thanks to robust CD32 joypad adaptations that allow users to switch weapons, strafe, look around, and interact with objects entirely without a keyboard, saving these configurations directly to the console's memory. Beyond controls, players will face smarter, cover-seeking enemy AI and wield weapons outfitted with sharper full-resolution graphics and reworked muzzle flashes. Amiga owners can also manually toggle the audio filter or remove the classic helmet cockpit overlay at will, making this the more comfortable way to play this classic FPS.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Feed back so far seems rather positive :)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Brilliant! Thanks so much for putting this together.&lt;/li&gt;&lt;li&gt;AWESOME!!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eismanberlin.itch.io/breathless-a32"&gt;Source &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
+    <content type="html">The classic 1995 Amiga 1200 first-person shooter Breathless has received a slight overhaul courtesy of EismanBerlin. Originally developed by Fields of Vision and published by Power Computing, this new update—dubbed Breathless A32—seeks to preserve the spirit of the original game while introducing performance enhancements and quality-of-life features. Released on itch.io with the full blessing and</content>
     <link href="https://www.indieretronews.com/2026/10/breathless-1995-amiga-fps-with-modern.html"/>
     <published>2026-10-30T11:14:11+00:00</published>
   </entry>
@@ -117,12 +80,7 @@ If you thought Alien 3 and Xevious 128k was going to be the only highlight this
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZEWLazFEvGwD2G7X8Iuo7tGenq3BrHAmRL77mWfKWel66pqdnnOzHhcMeUIcHJIZgHg9cckRBSmNq9Nu3t7c-y1mmAjapx4hhnivymFZ70FevWh0Zr9EaN5us_4VkGDdADycZx1tzjaUodZ0K4_VCF4Uf5kCrhO7lN-6LNy7MxuTQvUxxv5D_dARBxM/w640-h402/Clipboard_10-27-2026_01.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3050329565521163645" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I'm sure many of you remember the Street Fighter games, more especially Street Fighter 2; a game which originally appeared on the Arcades, and was then ported to pretty much every system you could think of, including such systems as the Amiga, Atari St and even the ZX Spectrum.  Well fast forward to today however, and a developer by the name of Str1der with the help of AI, has released an improved version of Street Fighter 2 for the AMIGA to bring it more in line with the Arcades and better than the original US Gold port released in the 90s.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/0xdqa29CEWw" youtube-src-id="0xdqa29CEWw"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;US GOLD 1992&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/GgFZFEWU_98" youtube-src-id="GgFZFEWU_98"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;AGA&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;According to the EAB thread, Str1der has completely rewritten Street Fighter II from scratch while working with the limitations of the Amiga hardware. This latest iteration promises to be the definitive version, packing in all original stages, fully functional two-player joystick controls, corrected bugs, and the iconic bonus stages. By utilizing AI as a strategic asset to optimize development, Str1der has overhauled the engine to deliver much faster blitting speeds that consistently hit a smooth 50 frames per second. The visual upgrade is looks pretty decent as well, featuring graphics ripped directly from the PC-Engine, an optimized color palette using up to 45 colors on OCS/ECS (and up to 80 on AGA) without even touching the copper, and an uncompromised animation budget featuring all 250 frames for every fighter. &lt;/p&gt;&lt;div class="separator"&gt;&lt;ul&gt;&lt;li&gt;Amiga 68000, ECS, 1mb chip and 2 mb fast at 50 fps&lt;/li&gt;&lt;li&gt;Wide sprites (mimic PC Engine TV stretch), full speed on 68020 ECS or a faster 68000 like an ACA500 card&lt;/li&gt;&lt;li&gt;Amiga AGA 68020, 2mb chip and some fast RAM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p class="separator"&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://eab.abime.net/showthread.php?t=124168"&gt;Download/Source&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
+    <content type="html">I'm sure many of you remember the Street Fighter games, more especially Street Fighter 2; a game which originally appeared on the Arcades, and was then ported to pretty much every system you could think of, including such systems as the Amiga, Atari St and even the ZX Spectrum.&amp;nbsp; Well fast forward to today however, and a developer by the name of&amp;nbsp;Str1der with the help of AI, has released</content>
     <link href="https://www.indieretronews.com/2026/10/street-fighter-ii-improved-version-of.html"/>
     <published>2026-10-30T21:21:38+00:00</published>
   </entry>
@@ -309,12 +267,7 @@ If you thought Alien 3 and Xevious 128k was going to be the only highlight this
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQHyndavOIerH2kgSwGeyUR673jtA6s7hVT3jQ6g4FmjrUaOd9XN7YnqkDgcMwJ23pu4owfeHrfDOgFzgUt-XM7qEB0nuN-krfd-fv2k_eMA0yUXo3iVb3U55UoAcM5ysNbvfoWTUuun3QmMVFsZNhwVZFzNmShp4iQaObMrQe2HBfxvEBYGoRSoFqGk/w640-h448/tilt.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3242451862770233100" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Gaboo Arts Entertainment with the help of AI has released Tiltrune, a clever new gravity-shifting puzzle game simultaneously targeting both the Amiga and the Commodore 64. The core mechanic turns the entire room into a mechanism, allowing players to rotate the screen left or right by 90 degrees. This rotation alters gravity, causing the explorer, crates, and gems to tumble into completely new configurations, effectively transforming what was once a blocking wall into a walkable floor. To succeed, players must meticulously plan their moves, pushing crates into position to absorb dangerous falls, dodging lethal spikes, and collecting every single gem before charting a path to the green exit.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/QSqjrnnuta4" youtube-src-id="QSqjrnnuta4"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The game boasts over 80 main puzzle rooms spread across five distinct vaults, alongside a special final chamber and unlockable post-game bonus challenges. Given the danger of falling debris, the developer has cleverly included a generous 100-state undo buffer and unlimited retries to encourage loose experimentation and creative problem-solving. Completing the package is a suite of features, including par targets, star ratings, and comprehensive performance statistics, all tied together by an animated end-of-run tally and disk-saved high scores.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TILTRUNE for Amiga brings our original Commodore 64 puzzle game (TILTRUNE C64 version) to the Commodore Amiga, with reworked graphics, animated title and reward screens, and Amiga music and sound effects. It preserves the original rooms, rules and controls.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics, Sounds, Text&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://gabooae.itch.io/tiltrune-for-amiga"&gt;Amiga&lt;/a&gt; 2) &lt;a href="https://gabooae.itch.io/tiltrune"&gt;C64&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
+    <content type="html">Gaboo Arts Entertainment with the help of AI has released Tiltrune, a clever new gravity-shifting puzzle game simultaneously targeting both the Amiga and the Commodore 64. The core mechanic turns the entire room into a mechanism, allowing players to rotate the screen left or right by 90 degrees. This rotation alters gravity, causing the explorer, crates, and gems to tumble into completely new</content>
     <link href="https://www.indieretronews.com/2026/11/tiltrune-room-flipping-puzzler-for.html"/>
     <published>2026-11-02T15:20:19+00:00</published>
   </entry>
@@ -333,5 +286,37 @@ If you thought Alien 3 and Xevious 128k was going to be the only highlight this
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/kizuna-another-monochrome-game-appears.html"/>
     <published>2026-11-04T10:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8728574680498538727</id>
+    <title>Skyshift - This Arcade inspired Amstrad Shooter by TITAN looks well worth playing!</title>
+    <updated>2026-11-04T11:12:11+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIDnJj-s8Ea1PDcuVA7w1bpBsQ8Yl-StzLQg9HX5yU68Bz6n_upkVJ6OSnBixjT3a_cxM4_j3GbvxWIBCjqrByppvZTJIPXa2wbO3Z_K4gDWkxorLbLMzWo0UXz52ZCswDduSG9ukmk5Rjm4MuxSb9y2pNvIlc76BNitjSIi-ul1gO3Zp3IHzF3Nk9GrY/w640-h426/sky.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8728574680498538727" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A rather fabulous arcade-inspired shooter has been released for the Amstrad CPC by Titan. Titled as 'Skyshift', the project draws heavy inspiration from classic vertical shooters like 1943. To maximize programming efficiency and ensure crisp readability on the Amstrad CPC, Titan has said that they have opted for a specialized 128x256 pixel gameplay window running in the Amstrad's distinct Mode 0. The game introduces players to a World War I Allied flying ace who, while dogfighting over the front lines in the spring of 1918, is suddenly swallowed by a bizarre, luminous cloud. He emerges into a radically changed sky, facing hyper-advanced, propellerless enemy aircraft that far outclass his fragile biplane.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/CiPrfIGkJf8" youtube-src-id="CiPrfIGkJf8"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Believing he has simply broken the time barrier and landed in 1945, the isolated pilot fights on alone against an increasingly improbable armada of jet engines and alien technologies. However, as the familiar landscapes morph into an eerie, unrecognizable landscape, a chilling truth begins to dawn. The cosmic phenomenon didn't just catapult him forward in time; it ripped him into an alternate reality entirely. marooned on a dystopian, parallel Earth where humanity has completely surrendered the skies to an oppressive alien empire, this lone multi-universal survivor must outmanoeuvre a relentlessly evolving military force to unlock the secrets of this strange dimension before his time runs out.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Concept &amp;amp; Scenario: TITAN (Eric Cubizolle)&lt;/li&gt;&lt;li&gt;Graphics: TITAN (Eric Cubizolle)&lt;/li&gt;&lt;li&gt;Programming: TITAN &amp;amp; CLAUDE&lt;/li&gt;&lt;li&gt;Music: TITAN &amp;amp; CLAUDE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://amstradmuseum.emu-france.info/Fichiers/Projets/Skyshift_CPC/Skyshift.htm"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/skyshift-this-arcade-inspired-amstrad.html"/>
+    <published>2026-11-04T11:12:11+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6758176597782942163</id>
+    <title>IL MARINAIO - This latest Amstrad CPC 128k game by Andrea "Mr. DVG" Pastore is inspired by 1982 Arcade classic Popeye</title>
+    <updated>2026-11-04T11:42:18+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOmFI7zeZcsZQqbPI7pX4bza_LXsOChuD2iOk2Lzzq7seTBe48YFyIjniHEU-hm0zdVNuuyVgj7pp-ARZee964k-yEYlxmcTtVn5x-LJ9822L_F28herlpkbtsNFZpmztJmQVWzpnmNMevHHXf0N2fUlbHgXebsjCpyAmxV8NYfrE2brvHpV-cKOvKOKA/w640-h420/il%20mariniao.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6758176597782942163" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Thanks to a heads up by Xenomorph we've been told that Andrea "Mr. DVG" Pastore has released their latest game of IL MARINAIO, a brand-new Amstrad CPC release built entirely from scratch in pure Z80 assembly language with the help of AI. Inspired by the iconic 1982 game Popeye from the arcades , the game hopefully captures the charm of the original. Players step into the shoes of a lovesick sailor tasked with catching hearts, musical notes, and love letters dropped from above by his sweetheart, all while staying clear of the freezing waters below. Standing in his way is a brutish bully who stalks the stages, alongside a bottle-flinging witch who begins hurling bouncing skulls at higher difficulty rounds. Fortunately, the classic spinach power-up makes a welcome return, granting temporary invincibility and allowing the nimble sailor to knock his rival into the sea with a satisfying punch.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/uun50pwKs0Y" youtube-src-id="uun50pwKs0Y"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The game unfolds across three faithfully recreated stages, packed with environmental mechanics with 16-colour Mode 0 graphics. Players will navigate the Docks to capture 24 hearts, utilizing a well-placed bucket to trap the bully's head; move to the Streets to gather 16 musical notes under a moon using a seesaw catapult; and finally board the Ship to spell out H-E-L-P, evading a diving bird to scale the main mast. As for game features, it runs at 25 updates per second using flicker-free double buffering, has custom AY-chip sound effects—including retro-styled crunch when landing a hit, and includes menus, high-score tracking, and gameplay configuration toggles to customize lives and starting levels.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits: programming by Claude (Anthropic) AI, direction by Mr. DVG.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; 1) &lt;a href="https://andrea-mr-dvg-pastore.itch.io/il-marinaio-amstrad-cpc"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/il-marinaio-this-latest-amstrad-cpc.html"/>
+    <published>2026-11-04T11:42:18+00:00</published>
   </entry>
 </feed>
