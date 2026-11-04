@@ -12,3 +12,4 @@ https://objetos.estaticos-marca.com/rss/baloncesto/basketfeb.xml
 https://stephenking.com.ar/feed/
 https://dentrodelmonolito.com/feed
 https://www.indieretronews.com/feeds/posts/default
+https://www.elmundodelspectrum.com/feed
