@@ -8,7 +8,7 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import feedparser
 import lxml.html
@@ -65,6 +65,70 @@ def entry_dt(e):
     return None
 
 
+EMBED_HOSTS = ("youtube.com", "youtube-nocookie.com", "youtu.be", "vimeo.com",
+               "spotify.com", "bandcamp.com", "soundcloud.com", "dailymotion.com")
+YT_ID = re.compile(r"(?:embed/|v=|youtu\.be/)([\w-]{11})")
+
+
+def _host_ok(src):
+    host = urlparse(src).netloc.lower()
+    return any(host == h or host.endswith("." + h) for h in EMBED_HOSTS)
+
+
+def _stem(u):
+    name = os.path.splitext(os.path.basename(urlparse(u).path))[0]
+    return re.sub(r"-\d+x\d+$", "", name).lower()
+
+
+def fix_lazy(tree):
+    """Convierte los atributos de carga diferida (data-src...) en src/srcset reales."""
+    for el in tree.iter("img", "iframe", "source"):
+        if el.tag in ("img", "iframe"):
+            for attr in ("data-src", "data-lazy-src", "data-original", "data-orig-file"):
+                v = el.get(attr)
+                if v and not v.startswith("data:"):
+                    el.set("src", v)
+                    break
+        for attr in ("data-srcset", "data-lazy-srcset"):
+            v = el.get(attr)
+            if v:
+                el.set("srcset", v)
+                break
+
+
+def find_embeds(tree, base_url):
+    """Busca vídeos/audios incrustados (YouTube, Vimeo, Spotify...) dentro del artículo."""
+    found, seen = [], set()
+    for box in (tree.xpath("//article") or [tree]):
+        for el in box.iter():
+            if not isinstance(el.tag, str) or el.tag not in ("iframe", "div", "span"):
+                continue
+            src = el.get("src") or ""
+            if not src or src.startswith(("about:", "data:")):
+                src = el.get("data-src") or ""
+            if not src:
+                continue
+            src = urljoin(base_url, src)
+            if _host_ok(src) and src not in seen:
+                seen.add(src)
+                found.append(src)
+    return found[:3]
+
+
+def embed_html(src):
+    m = YT_ID.search(src)
+    if m and "youtu" in src:
+        vid = m.group(1)
+        embed = f"https://www.youtube.com/embed/{vid}"
+        watch = f"https://www.youtube.com/watch?v={vid}"
+        label = "▶ Ver vídeo en YouTube"
+    else:
+        embed, watch, label = src, src, "▶ Abrir contenido incrustado"
+    return (f'<p><iframe src="{htmllib.escape(embed, quote=True)}" width="560" height="315" '
+            f'allowfullscreen></iframe></p>'
+            f'<p><a href="{htmllib.escape(watch, quote=True)}">{label}</a></p>')
+
+
 def extract_full(session, url):
     """Descarga el artículo y devuelve el HTML limpio del cuerpo, o None si falla."""
     try:
@@ -73,12 +137,38 @@ def extract_full(session, url):
         ctype = r.headers.get("content-type", "").lower()
         if r.encoding is None or (r.encoding.lower() == "iso-8859-1" and "charset" not in ctype):
             r.encoding = r.apparent_encoding
-        content = Document(r.text).summary(html_partial=True)
+        try:
+            tree = lxml.html.fromstring(r.text)
+        except ValueError:
+            tree = lxml.html.fromstring(r.content)
+        fix_lazy(tree)
+        page_html = lxml.html.tostring(tree, encoding="unicode")
+
+        content = Document(page_html).summary(html_partial=True)
         frag = lxml.html.fragment_fromstring(content, create_parent="div")
         frag.make_links_absolute(url)
         inner = (frag.text or "") + "".join(
             lxml.html.tostring(c, encoding="unicode") for c in frag)
-        return inner.strip() or None
+        inner = inner.strip()
+        if not inner:
+            return None
+
+        extras = ""
+        # imagen destacada (suele estar fuera del cuerpo del artículo)
+        og = tree.xpath('//meta[@property="og:image"]/@content')
+        if og:
+            og_url = urljoin(url, og[0].strip())
+            have = {_stem(i) for i in frag.xpath(".//img/@src")}
+            stem = _stem(og_url)
+            if stem and stem not in have and "logo" not in stem:
+                extras += f'<p><img src="{htmllib.escape(og_url, quote=True)}"></p>'
+        # vídeos / audios incrustados que el extractor suele descartar
+        for src in find_embeds(tree, url):
+            m = YT_ID.search(src)
+            key = m.group(1) if (m and "youtu" in src) else src
+            if key not in inner:
+                extras += embed_html(src)
+        return (extras + inner).strip()
     except Exception as exc:  # noqa: BLE001
         print(f"    ! no se pudo extraer {url}: {exc}")
         return None
