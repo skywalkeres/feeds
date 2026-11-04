@@ -80,6 +80,22 @@ def _stem(u):
     return re.sub(r"-\d+x\d+$", "", name).lower()
 
 
+def fix_noscript(tree):
+    """Muchas webs ponen la imagen real dentro de <noscript> junto a un marcador de carga
+    diferida. Nos quedamos con la imagen real y quitamos el marcador y el <noscript>."""
+    for ns in list(tree.iter("noscript")):
+        parent = ns.getparent()
+        imgs = ns.xpath(".//img")
+        if parent is None:
+            continue
+        if imgs:
+            prev = ns.getprevious()
+            if prev is not None and prev.tag == "img":
+                parent.remove(prev)
+            ns.addprevious(imgs[0])
+        ns.drop_tree()
+
+
 def fix_lazy(tree):
     """Convierte los atributos de carga diferida (data-src...) en src/srcset reales."""
     for el in tree.iter("img", "iframe", "source"):
@@ -94,6 +110,39 @@ def fix_lazy(tree):
             if v:
                 el.set("srcset", v)
                 break
+
+
+def header_images(tree, frag, base_url):
+    """Imágenes situadas entre el título y el primer párrafo del artículo, que el extractor
+    suele descartar por no llevar texto."""
+    first_p = None
+    for p in frag.iter("p"):
+        t = " ".join(p.text_content().split())
+        if len(t) > 100:
+            first_p = t[:60]
+            break
+    if not first_p:
+        return []
+    found = []
+    for el in tree.iter():
+        if not isinstance(el.tag, str):
+            continue
+        if el.tag in ("h1", "h2", "h3"):
+            found = []  # solo valen las imágenes posteriores al último título anterior al texto
+        elif el.tag == "p" and " ".join(el.text_content().split()).startswith(first_p):
+            break
+        elif el.tag == "img":
+            src = el.get("src") or ""
+            if not src or src.startswith("data:"):
+                continue
+            src = urljoin(base_url, src)
+            w = el.get("width") or ""
+            small = w.isdigit() and int(w) < 150
+            if not small and not re.search(r"logo|avatar|gravatar|icon|sprite|pixel|banner", src, re.I):
+                found.append(src)
+    else:
+        return []  # no se localizó el primer párrafo: mejor no añadir nada
+    return found[:2]
 
 
 def find_embeds(tree, base_url):
@@ -141,6 +190,7 @@ def extract_full(session, url):
             tree = lxml.html.fromstring(r.text)
         except ValueError:
             tree = lxml.html.fromstring(r.content)
+        fix_noscript(tree)
         fix_lazy(tree)
         page_html = lxml.html.tostring(tree, encoding="unicode")
 
@@ -154,11 +204,16 @@ def extract_full(session, url):
             return None
 
         extras = ""
+        have = {_stem(i) for i in frag.xpath(".//img/@src")}
+        # imágenes de cabecera (entre el título y el primer párrafo)
+        for src in header_images(tree, frag, url):
+            if _stem(src) not in have:
+                have.add(_stem(src))
+                extras += f'<p><img src="{htmllib.escape(src, quote=True)}"></p>'
         # imagen destacada (suele estar fuera del cuerpo del artículo)
         og = tree.xpath('//meta[@property="og:image"]/@content')
         if og:
             og_url = urljoin(url, og[0].strip())
-            have = {_stem(i) for i in frag.xpath(".//img/@src")}
             stem = _stem(og_url)
             if stem and stem not in have and "logo" not in stem:
                 extras += f'<p><img src="{htmllib.escape(og_url, quote=True)}"></p>'
