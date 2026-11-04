@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-04T15:25:32+00:00</updated>
+  <updated>2026-11-04T20:11:28+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5710373441035512327</id>
-    <title>Breathless A32 - A 1995 Amiga FPS with modern controls and better performance via AI and EismanBerlin</title>
-    <updated>2026-10-30T11:14:11+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQlkjNGzKTdUEt1KF2LNK0wtRHwZqqO8uqMY_6nqIoOhxwQA9UbQXFHw048M3YPbypfvGHgB8jqh6zu0fkGo1V3G4BH805GJ_JkwjV7UEoBz2299lU6OwpkxXe9LsAtIr-LogmlwBPhWf_y03l5aSWbZaKyuIIn-Cf-veCVLAFUjjY2xuQduaqBtLnvI/w640-h426/GtKQ3P.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5710373441035512327" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The classic 1995 Amiga 1200 first-person shooter Breathless has received a slight overhaul courtesy of EismanBerlin. Originally developed by Fields of Vision and published by Power Computing, this new update—dubbed Breathless A32—seeks to preserve the spirit of the original game while introducing performance enhancements and quality-of-life features. Released on itch.io with the full blessing and approval of original programmer Alberto Longo, this version boasts smoother gameplay making it much more playable even on older 68030 systems that previously struggled to run it.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/YIW0kmKUHIQ" youtube-src-id="YIW0kmKUHIQ"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Original&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/i3utUM8aNzg" youtube-src-id="i3utUM8aNzg"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;Breathless A32&lt;/p&gt;&lt;p&gt;This enhancement adds support for standard AGA graphics and P96 setups alongside contemporary WASD keyboard and full mouselook configurations. CD32 owners are in for a treat as well, thanks to robust CD32 joypad adaptations that allow users to switch weapons, strafe, look around, and interact with objects entirely without a keyboard, saving these configurations directly to the console's memory. Beyond controls, players will face smarter, cover-seeking enemy AI and wield weapons outfitted with sharper full-resolution graphics and reworked muzzle flashes. Amiga owners can also manually toggle the audio filter or remove the classic helmet cockpit overlay at will, making this the more comfortable way to play this classic FPS.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Feed back so far seems rather positive :)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Brilliant! Thanks so much for putting this together.&lt;/li&gt;&lt;li&gt;AWESOME!!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eismanberlin.itch.io/breathless-a32"&gt;Source &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/breathless-1995-amiga-fps-with-modern.html"/>
-    <published>2026-10-30T11:14:11+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-1031104694504983361</id>
     <title>Vespertino - This upcoming Racing Simulator for the Amstrad CPC looks incredible [UPDATE]</title>
@@ -333,5 +317,21 @@ If you thought Alien 3 and Xevious 128k was going to be the only highlight this
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/godgame-in-dev-populous-inspiration-for.html"/>
     <published>2026-11-04T15:25:32+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8476528783912008938</id>
+    <title>Fix-It Felix Jr has now arrived on the Amiga and it looks really good!</title>
+    <updated>2026-11-04T20:11:28+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTP00Dkwaiy4B_6AsAQ1iIvBDYhxgvut0BtPnip6on7Pe97s9JJT3yL0ZcEHWofh78dmWN0oC3zTscTzwD_23IzTHyusTKI1_sdlV3xAOqU67F7VYGrDR_iWe7yczCzcFYghxABvv4Vagf1K8LZ_tK1EJxkwrpeOMik20aarraeqVLWs87qPugQyBM9vo/w640-h512/fix%20it.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8476528783912008938" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The classic arcade vibe of Wreck-It Ralph which leapt off the cinema screen on to the Commodore 64, and then on to the ZX Spectrum Next, has now arrived on the Commodore Amiga thanks to BrokenBytes. While fans have spent years recreating the movie's fictional 1982 arcade hit Fix-It Felix Jr. on everything from mobile phones to the ZX Spectrum, a definitive new version has appeared as a port to the Commodore Amiga. While Steven Day recently reached out to us to share this exciting news, you can check out the latest screenshots and details below.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/QeRIpZaeEvI" youtube-src-id="QeRIpZaeEvI"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p class="separator"&gt;ZX Spectrum Next - Amiga Gameplay Soon!&lt;/p&gt;&lt;p&gt;The game faithfully reimagines the chaotic story of Ralph raging against the Nicelanders who bulldozed his forest home to build an apartment complex. Players step into the shoes of the town's brave handyman, Felix Jr., scaling the building to repair every broken window with his father's magic golden hammer while avoiding falling bricks thrown by Ralph and passing ducks. To survive the timer across each floor, players can grab piping-hot apple pies left on window sills by grateful residents, granting Felix temporary invincibility, brick-smashing power, and scoring multipliers.&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsgKQLPcJgYKsQckWyNE2FE-23W3naIVkTw5ATrosmjos5kELATEoNXGs6gEICMeAF1YnZ4IDb6sep5rEnKx8DHk_J6z5S1xyX3dFuoHVUak_Y5Sa-zEaTDNGe1-EGsC0E-YVm0NZQmdC1JxV5JYdmE_fK6kdV1LHDmNkGthW5An06sBa4gH-0Op9Vrg/s640/image1788359653.png"&gt;&lt;img border="0" data-original-height="512" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsgKQLPcJgYKsQckWyNE2FE-23W3naIVkTw5ATrosmjos5kELATEoNXGs6gEICMeAF1YnZ4IDb6sep5rEnKx8DHk_J6z5S1xyX3dFuoHVUak_Y5Sa-zEaTDNGe1-EGsC0E-YVm0NZQmdC1JxV5JYdmE_fK6kdV1LHDmNkGthW5An06sBa4gH-0Op9Vrg/w640-h512/image1788359653.png"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This new Amiga version delivers an incredibly authentic arcade experience. The release boasts striking PAL OCS graphics, fluid hardware animations, fully animated cinematic cutscenes—including the iconic rooftop victory celebration, smooth building scrolling and moving clouds, original artwork, sampled sound effects and speech, three-channel music and so much more. So yes, an incredible release and worthy of a big feature on IndieRetroNews.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Amiga conversion: Antonio Savona (Broken Bytes)&lt;/li&gt;&lt;li&gt;Graphics &amp;amp; visual art: Steven Day&lt;/li&gt;&lt;li&gt;Music &amp;amp; sound design: Aldo Chiummo&lt;/li&gt;&lt;li&gt;Original score &amp;amp; tunes: Saul Cross&lt;/li&gt;&lt;li&gt;Original concept &amp;amp; lore: Tobikomi Company / Walt Disney Animation Studios&lt;/li&gt;&lt;li&gt;(C) 1982, 2026 Tobikomi / Broken Bytes. All rights reserved.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://brokenbytes.itch.io/fix-it-felix-jr-amiga"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/fix-it-felix-jr-has-now-arrived-on.html"/>
+    <published>2026-11-04T20:11:28+00:00</published>
   </entry>
 </feed>
