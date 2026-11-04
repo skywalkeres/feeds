@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-04T07:55:45+00:00</updated>
+  <updated>2026-11-04T16:23:22+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,79 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47507</id>
-    <title>El Salvaje Oeste se llena de máquinas asesinas y monstruos: “Bass X Machina” se estrena hoy en Netflix</title>
-    <updated>2026-11-03T07:23:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47507.jpg" /&gt;&lt;/p&gt;El Salvaje Oeste nunca había sido tan peligroso. &lt;b&gt;Netflix estrena hoy, 3 de noviembre, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=6525"&gt;Bass X Machina&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;, una nueva serie de animación para adultos que reinventa las historias de pistoleros y forajidos en un mundo dominado por máquinas letales, criaturas sobrenaturales y una tecnología que parece haberse adelantado a su tiempo.
-&lt;br /&gt;
-&lt;br /&gt;La historia recupera la figura de Bass Reeves, uno de los primeros agentes federales afroamericanos del Oeste estadounidense, pero lo traslada a una realidad alternativa donde las amenazas van mucho más allá de los criminales habituales. Interpretado por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=439892"&gt;Brian Tyree Henry&lt;/a&gt;, el protagonista deberá convertirse en juez, jurado y verdugo para proteger a su familia, aunque sus decisiones podrían terminar alejándolo de las personas que intenta salvar.
-&lt;br /&gt;
-&lt;br /&gt; &lt;b&gt;De los creadores de “Yasuke” y el estudio de “Devil May Cry”&lt;/b&gt;Detrás de la serie encontramos a LeSean Thomas, responsable de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=4472"&gt;Yasuke&lt;/a&gt;&lt;/i&gt; y &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=3851"&gt;Cannon Busters&lt;/a&gt;&lt;/i&gt;, mientras que la animación corre a cargo de Studio Mir, el estudio surcoreano que ha trabajado en &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=3751"&gt;Devil May Cry&lt;/a&gt;&lt;/i&gt; y &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=1146"&gt;La leyenda de Korra&lt;/a&gt;&lt;/i&gt;.
-&lt;br /&gt;
-&lt;br /&gt;El reparto de voces cuenta también con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=334607"&gt;Janelle Monáe&lt;/a&gt; como Glory, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=483363"&gt;Tati Gabrielle&lt;/a&gt; como Dana, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=70444"&gt;Cree Summer&lt;/a&gt; como Ahni y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=352906"&gt;Chaske Spencer&lt;/a&gt; como Lighthorse. La banda sonora original está compuesta por Roman GianArthur y Nate Wonder, con Monáe interpretando además el tema de apertura.
-&lt;br /&gt;
-&lt;br /&gt;Con una estética que mezcla la maquinaria industrial con los paisajes del western clásico, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=6525"&gt;Bass X Machina&lt;/a&gt;&lt;/i&gt; apuesta por la acción, la fantasía oscura y los elementos sobrenaturales. La serie ya forma parte de las novedades de Netflix España de este martes.
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47507"/>
-    <published>2026-11-03T07:23:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47508</id>
-    <title>Los actores de “El Instituto” quieren un crossover con la serie “Carrie” de Mike Flanagan</title>
-    <updated>2026-11-03T07:29:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47508.jpg" /&gt;&lt;/p&gt;¿Podría Carrie White terminar cruzándose con los jóvenes de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=5264"&gt;El Instituto&lt;/a&gt;&lt;/i&gt;? La idea entusiasma a dos de los actores de la serie de MGM+, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=672453"&gt;Fionn Laird&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=808624"&gt;Arlen So&lt;/a&gt;, que han expresado públicamente su deseo de conectar su historia con la nueva &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=4913"&gt;Carrie&lt;/a&gt;&lt;/i&gt; de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=59699"&gt;Mike Flanagan&lt;/a&gt;, estrenada recientemente en Prime Video.
-&lt;br /&gt;
-&lt;br /&gt;Durante una entrevista con el periodista Grant Hermanns, Laird lanzó incluso una petición directa a los responsables de ambas producciones: &lt;b&gt;“Jack Bender, Mike Flanagan, hagámoslo realidad”&lt;/b&gt;. Su compañero Arlen So se mostró igualmente entusiasmado y aseguró que participar en un encuentro entre las dos series sería un sueño.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Dos historias de Stephen King unidas por los poderes psíquicos&lt;/b&gt;La propuesta tiene una conexión evidente. &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=5264"&gt;El Instituto&lt;/a&gt;&lt;/i&gt; sigue a un grupo de niños con habilidades telequinéticas y telepáticas que son retenidos en unas instalaciones secretas para someterlos a experimentos. Por su parte, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=4913"&gt;Carrie&lt;/a&gt;&lt;/i&gt; explora los poderes de una adolescente que descubre que sus capacidades forman parte de un mundo sobrenatural mucho más amplio de lo que imaginaba.
-&lt;br /&gt;
-&lt;br /&gt;Además, Flanagan ya ha manifestado su interés por conectar su adaptación con el universo compartido de Stephen King, especialmente a través de los personajes dotados de capacidades psíquicas. La segunda temporada de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=4913"&gt;Carrie&lt;/a&gt;&lt;/i&gt; está confirmada, mientras que &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=5264"&gt;El Instituto&lt;/a&gt;&lt;/i&gt; también tiene asegurada su continuidad.
-&lt;br /&gt;
-&lt;br /&gt;Sin embargo, &lt;b&gt;el crossover no está en desarrollo ni ha sido anunciado por sus responsables&lt;/b&gt;. Por ahora se trata únicamente de una idea planteada por los actores, aunque las similitudes entre ambas historias y sus posibilidades de continuación hacen que resulte especialmente curiosa.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47508"/>
-    <published>2026-11-03T07:29:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47509</id>
-    <title>“Nadie se dio cuenta”: el director de “Obsession” descubre un secreto escondido en una fotografía</title>
-    <updated>2026-11-03T07:48:34+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47509.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=584067"&gt;Curry Barker&lt;/a&gt; sigue desvelando secretos de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48920"&gt;Obsession&lt;/a&gt;&lt;/i&gt;, y uno de ellos llevaba escondido a plena vista desde el estreno de la película. El cineasta ha explicado que &lt;b&gt;una de las fotografías que Nikki entrega a Bear contiene un detalle especialmente perturbador que, según asegura, nadie había detectado&lt;/b&gt;.
-&lt;br /&gt;
-&lt;br /&gt;La escena muestra a Bear (&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=380696"&gt;Michael Johnston&lt;/a&gt;) abriendo una fiambrera preparada por Nikki (&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=545093"&gt;Inde Navarrette&lt;/a&gt;), en cuyo interior encuentra dos fotografías Polaroid. Una muestra al protagonista con la palabra “You” (tú), mientras que la otra presenta a Nikki junto a Bear dormido con el mensaje “Not me” (no soy yo), una pista sobre la pérdida de control que está experimentando el personaje.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Una fotografía tomada desde un lugar imposible&lt;/b&gt;En una entrevista con Movie TV News, recogida por &lt;a href="https://bloody-disgusting.com/movie/3974333/obsession-easter-egg-polaroids-explained/" rel="noopener noreferrer" target="_blank"&gt;Bloody Disgusting&lt;/a&gt;, Barker ha revelado que &lt;b&gt;la fotografía de Bear está tomada desde el techo de la habitación&lt;/b&gt;. Su perspectiva indica que Nikki tuvo que situarse justo encima de él para conseguirla, algo que introduce una inquietante incógnita sobre lo que realmente puede hacer.
-&lt;br /&gt;
-&lt;br /&gt;El director reconoce que incluyó deliberadamente ese detalle para provocar inquietud, pero que ningún espectador pareció reparar en él. Tampoco ha explicado cómo consiguió Nikki alcanzar aquella posición, dejando abierta la posibilidad de que el deseo sobrenatural que transformó sus sentimientos también haya alterado sus capacidades físicas.
-&lt;br /&gt;
-&lt;br /&gt;La revelación llega después de que Barker hablara sobre su deseo de recuperar unos 20 minutos de escenas eliminadas para una posible versión extendida de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48920"&gt;Obsession&lt;/a&gt;&lt;/i&gt;. Aunque todavía no hay planes confirmados para ese montaje, la película continúa ofreciendo pequeñas pistas que invitan a revisitarla y prestar atención a todo lo que sucede en segundo plano.
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47509"/>
-    <published>2026-11-03T07:48:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47510</id>
-    <title>Johnny Depp quiere darle a Jack Sparrow el final que merece: así podría regresar a “Piratas del Caribe”</title>
-    <updated>2026-11-03T10:54:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47510.jpg" /&gt;&lt;/p&gt;x&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=60"&gt;Johnny Depp&lt;/a&gt; está dispuesto a volver a ponerse el sombrero del capitán Jack Sparrow, pero no quiere hacerlo de cualquier manera. El actor ha hablado sobre su posible regreso en &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=19171"&gt;Piratas del Caribe 6&lt;/a&gt;&lt;/i&gt; y ha dejado claro que &lt;b&gt;su principal interés sería ofrecer a la franquicia un desenlace más satisfactorio&lt;/b&gt;, después de casi una década alejado de uno de sus personajes más populares.
-&lt;br /&gt;
-&lt;br /&gt;Durante una entrevista con Entertainment Tonight, Depp explicó que aceptaría participar si las condiciones creativas fueran las adecuadas para cerrar la historia. También dejó claro que mantiene una excelente relación con el productor &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=132800"&gt;Jerry Bruckheimer&lt;/a&gt;: &lt;b&gt;“Trabajaría mañana mismo con Bruckheimer en cualquier cosa. Confío en él. Tenemos una gran amistad”&lt;/b&gt;.
-&lt;br /&gt;
-&lt;br /&gt;Las declaraciones llegan después de que Bruckheimer confirmara el pasado agosto que Disney estaba manteniendo conversaciones con el actor y trabajando en un nuevo guion. Sin embargo, &lt;b&gt;el regreso de Depp todavía no está cerrado oficialmente&lt;/b&gt; y la nueva película continúa en fase de desarrollo.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;¿Será la despedida definitiva de Jack Sparrow?&lt;/b&gt;La última aparición de Depp en la franquicia fue en &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=16432"&gt;Piratas del Caribe 5: La venganza de Salazar&lt;/a&gt;&lt;/i&gt; (2017), que recaudó cerca de 800 millones de dólares en todo el mundo, aunque recibió una acogida crítica inferior a la de las primeras entregas.
-&lt;br /&gt;
-&lt;br /&gt;Disney lleva años intentando encontrar el camino adecuado para recuperar una saga que ha generado alrededor de 4.500 millones de dólares en taquilla. Entre los proyectos desarrollados figura una nueva versión con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=82492"&gt;Margot Robbie&lt;/a&gt;, mientras que el guionista &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=101720"&gt;Jeff Nathanson&lt;/a&gt; ha trabajado en otra propuesta para relanzar las aventuras de los piratas.
-&lt;br /&gt;
-&lt;br /&gt;El productor también había señalado que la participación de Depp dependería de que le convenciera el guion. Ahora, las palabras del actor refuerzan esa posibilidad, aunque no aclaran si Jack Sparrow tendría un papel protagonista o una intervención destinada a cerrar su historia.
-&lt;br /&gt;
-&lt;br /&gt;Según recoge &lt;a href="https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/" rel="noopener noreferrer" target="_blank"&gt;Deadline&lt;/a&gt;, Depp mantiene abierta la puerta a regresar a la franquicia. Por ahora, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=19171"&gt;Piratas del Caribe 6&lt;/a&gt;&lt;/i&gt; no tiene director, reparto definitivo ni fecha de estreno anunciados.
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47510"/>
-    <published>2026-11-03T10:54:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47511</id>
     <title>Maika Monroe es una institutriz con instintos asesinos: tráiler en español de “Victorian Psycho”</title>
@@ -394,5 +321,83 @@
 &lt;br /&gt;Ambientada en 1977, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48591"&gt;Las aventuras de Cliff Booth&lt;/a&gt;&lt;/i&gt; recupera al personaje ocho años después de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/indie/pelicula.php?film=35125"&gt;Érase una vez en... Hollywood&lt;/a&gt;&lt;/i&gt;, convertido ahora en un solucionador de problemas para la industria cinematográfica. La película llegará a determinadas salas IMAX estadounidenses el &lt;b&gt;25 de noviembre&lt;/b&gt;, antes de incorporarse a Netflix el &lt;b&gt;23 de diciembre&lt;/b&gt;.</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47526"/>
     <published>2026-11-04T07:55:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47527</id>
+    <title>Muere Tinto Brass a los 93 años, director de “Calígula” y referente del cine erótico italiano</title>
+    <updated>2026-11-04T14:53:18+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47527.jpg" /&gt;&lt;/p&gt;El cine italiano pierde a uno de sus directores más provocadores. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53533"&gt;Tinto Brass&lt;/a&gt;, responsable de la controvertida &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=2018"&gt;Calígula&lt;/a&gt;&lt;/i&gt; (1979) y figura destacada del cine erótico europeo, &lt;b&gt;ha fallecido este miércoles 4 de noviembre en Roma a los 93 años&lt;/b&gt;. La noticia ha sido comunicada por su esposa, Caterina Varzi, y sus hijos Bonifacio y Beatrice Brass, que han anunciado un funeral estrictamente privado.
+&lt;br /&gt;
+&lt;br /&gt;Nacido en Milán en 1933, Brass desarrolló una trayectoria que comenzó lejos del erotismo por el que acabaría siendo conocido. Tras trabajar en la Cinémathèque de París y colaborar con cineastas como Roberto Rossellini, debutó en la dirección en 1963 y pronto destacó por su espíritu experimental y sus enfrentamientos con la censura.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;“Calígula”, la película que marcó su carrera&lt;/b&gt;Uno de sus trabajos más recordados fue &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=2018"&gt;Calígula&lt;/a&gt;&lt;/i&gt;, la ambiciosa recreación de la Roma imperial protagonizada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1685"&gt;Malcolm McDowell&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7222"&gt;Helen Mirren&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7223"&gt;Peter O'Toole&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=4152"&gt;John Gielgud&lt;/a&gt;. La producción terminó convirtiéndose en un enorme escándalo por su contenido sexual y violento, además de los conflictos entre el director y el productor Bob Guccione.
+&lt;br /&gt;
+&lt;br /&gt;Brass acabó distanciándose del resultado estrenado comercialmente, después de que Guccione modificara el montaje e incorporara material explícito rodado sin su participación. Aquella disputa convirtió la película en uno de los ejemplos más conocidos de enfrentamiento entre un cineasta y los responsables de su producción.
+&lt;br /&gt;
+&lt;br /&gt;Su filmografía también incluye &lt;i&gt;Salón Kitty&lt;/i&gt; (1976), &lt;i&gt;La llave secreta&lt;/i&gt; (1983), &lt;i&gt;Miranda&lt;/i&gt; (1985), &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/indie/pelicula.php?film=12818"&gt;Los burdeles de Paprika&lt;/a&gt;&lt;/i&gt; (1991) y &lt;i&gt;Monella&lt;/i&gt; (1998), títulos con los que consolidó un estilo centrado en el erotismo, la provocación y la libertad sexual.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Una trayectoria marcada por la controversia&lt;/b&gt;Más allá de su fama como director erótico, Brass también cultivó el thriller, la sátira y el cine experimental. Su obra estuvo acompañada de numerosas polémicas, pero también de reconocimientos a su particular lenguaje cinematográfico y a su defensa de la libertad creativa.
+&lt;br /&gt;
+&lt;br /&gt;El pasado septiembre, el Festival de Venecia le rindió homenaje con una proyección restaurada de &lt;i&gt;Con el corazón en la garganta&lt;/i&gt; (1967), uno de sus primeros trabajos. El cineasta no pudo asistir debido a su delicado estado de salud.
+&lt;br /&gt;
+&lt;br /&gt;Su fallecimiento ha sido confirmado por la agencia italiana &lt;a href="https://videoembed.ansa.it/english/news/2026/11/04/italian-director-tinto-brass-dies-aged-93_d93ebf46-0989-4736-8969-5896249e46b6.html" rel="noopener noreferrer" target="_blank"&gt;ANSA&lt;/a&gt;, que ha recogido el comunicado de su familia.</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47527"/>
+    <published>2026-11-04T14:53:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47528</id>
+    <title>Batman cae y Azrael ocupa su lugar: la violenta “Knightfall Parte 2” ya tiene fecha de estreno</title>
+    <updated>2026-11-04T15:16:34+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47528.jpg" /&gt;&lt;/p&gt;El Caballero Oscuro está derrotado y Gotham necesita un nuevo protector. &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50113"&gt;Batman: Knightfall Part 2: Knightquest&lt;/a&gt;&lt;/i&gt; ya tiene fecha de estreno digital en Estados Unidos para el &lt;b&gt;8 de diciembre&lt;/b&gt;, continuando la trilogía animada de Warner Bros. basada en uno de los arcos más conocidos de los cómics de DC.
+&lt;br /&gt;
+&lt;br /&gt;La película retomará los acontecimientos de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=49712"&gt;El ocaso del Caballero Oscuro (Primera Parte)&lt;/a&gt;&lt;/i&gt;, después de que Bane dejara a Bruce Wayne con graves lesiones que le impiden seguir siendo Batman. Su sustituto será &lt;b&gt;Jean-Paul Valley, también conocido como Azrael&lt;/b&gt;, un nuevo vigilante cuyos métodos mucho más violentos amenazan con convertirlo en una figura tan temible como los criminales a los que persigue.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Un Batman más violento y una segunda entrega para adultos&lt;/b&gt;La Motion Picture Association ha confirmado que &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50113"&gt;Batman: Knightfall Part 2: Knightquest&lt;/a&gt;&lt;/i&gt; tendrá calificación &lt;b&gt;R en Estados Unidos por su intensa violencia sangrienta&lt;/b&gt;, manteniendo así el tono adulto de la primera película. La historia adaptará la etapa de los cómics en la que Azrael asume la identidad del Caballero Oscuro mientras Bruce Wayne intenta recuperarse.
+&lt;br /&gt;
+&lt;br /&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=550845"&gt;Jeff Wamester&lt;/a&gt; vuelve a dirigir esta segunda parte, escrita por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=575212"&gt;Jeremy Adams&lt;/a&gt;. El reparto original de voces incluye a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=17531"&gt;Anson Mount&lt;/a&gt; como Bruce Wayne, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=31777"&gt;Michael Mando&lt;/a&gt; como Bane y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=78548"&gt;Pablo Schreiber&lt;/a&gt; como Jean-Paul Valley, además de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=329698"&gt;Jack Griffo&lt;/a&gt; como Robin.
+&lt;br /&gt;
+&lt;br /&gt;El estreno estadounidense está fijado para el 8 de diciembre mientras que para España no hay fecha prevista. La primera entrega se estrenó en nuestras fronteras el mismo día que en USA pero solo en versión original subtitulada.
+&lt;br /&gt;
+&lt;br /&gt;La trilogía concluirá en 2027 con &lt;i&gt;Batman: Knightfall Part 3: KnightsEnd&lt;/i&gt;, que completará la adaptación de la historia publicada originalmente entre 1993 y 1994.
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47528"/>
+    <published>2026-11-04T15:16:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47529</id>
+    <title>“Jennifer’s Body 2” prepara el reencuentro de Megan Fox y Amanda Seyfried 17 años después</title>
+    <updated>2026-11-04T15:23:42+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47529.jpg" /&gt;&lt;/p&gt;La esperada continuación de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=9397"&gt;Jennifer's Body&lt;/a&gt;&lt;/i&gt; podría reunir finalmente a sus dos protagonistas originales. Según una nueva información del periodista Daniel Richtman, &lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=11286"&gt;Megan Fox&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=16381"&gt;Amanda Seyfried&lt;/a&gt; regresarían como Jennifer Check y Anita “Needy” Lesnicki&lt;/b&gt; en la secuela de la película de terror estrenada en 2009.
+&lt;br /&gt;
+&lt;br /&gt;La información, recogida por &lt;a href="https://www.dreadcentral.com/news/595154/jennifers-body-2-amanda-seyfried-megan-fox/" rel="noopener noreferrer" target="_blank"&gt;Dread Central&lt;/a&gt;, sitúa el proyecto en 20th Century Studios, con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=54268"&gt;Karyn Kusama&lt;/a&gt; nuevamente en la dirección y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=105077"&gt;Diablo Cody&lt;/a&gt; como responsable del guion. Aunque el regreso de Fox ya había trascendido anteriormente, la posible incorporación de Seyfried era una de las principales incógnitas.
+&lt;br /&gt;
+&lt;br /&gt;La propia actriz había adelantado el pasado octubre que &lt;b&gt;la secuela figuraba en su calendario para 2027&lt;/b&gt;. En una entrevista con WWD, Seyfried recordó lo especial que había sido trabajar con el equipo original y expresó su confianza en que pudieran repetir aquella experiencia.
+&lt;br /&gt;
+&lt;br /&gt;  &lt;b&gt;Jennifer y Needy podrían reencontrarse casi dos décadas después&lt;/b&gt;La película original seguía a Jennifer, una popular estudiante de instituto que terminaba convertida en una criatura demoníaca con un apetito insaciable por sus compañeros. Su mejor amiga, Needy, descubría progresivamente lo que estaba sucediendo mientras intentaba detener los asesinatos.
+&lt;br /&gt;
+&lt;br /&gt;Diablo Cody ya ha terminado el guion de la continuación y recientemente explicó que su intención es profundizar en la soledad y la vulnerabilidad de Jennifer, dos aspectos que considera fundamentales para comprender al personaje más allá de su naturaleza monstruosa.
+&lt;br /&gt;
+&lt;br /&gt;Por ahora, &lt;b&gt;20th Century Studios no ha confirmado oficialmente los fichajes ni una fecha de rodaje&lt;/b&gt;. Tampoco se conoce cómo continuará la historia de Jennifer y Needy después de los acontecimientos de la primera película, que pasó de obtener unos resultados comerciales discretos a convertirse en un título de culto del terror adolescente.
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47529"/>
+    <published>2026-11-04T15:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47530</id>
+    <title>Los Labubu ya tienen su versión de terror: un muñeco maldito exige almas en el tráiler de “Lazuzu”</title>
+    <updated>2026-11-04T16:23:22+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47530.jpg" /&gt;&lt;/p&gt;Los populares muñecos Labubu han inspirado una nueva producción de terror que no tiene precisamente intenciones de resultar adorable. Se trata de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50293"&gt;Lazuzu&lt;/a&gt;&lt;/i&gt;, una película británica de bajo presupuesto que acaba de presentar su tráiler y que convierte a una criatura de aspecto aparentemente inofensivo en &lt;b&gt;un objeto maldito que exige almas humanas&lt;/b&gt;.
+&lt;br /&gt;
+&lt;br /&gt;La historia sigue a Sam, un joven aficionado a los videojuegos que adquiere un misterioso muñeco Lazuzu y desarrolla una peligrosa obsesión por él. Lo que parecía una simple compra termina convirtiéndose en una pesadilla cuando el objeto comienza a provocar acontecimientos sobrenaturales y las personas de su entorno empiezan a morir de forma violenta.
+&lt;br /&gt;
+&lt;br /&gt; &lt;b&gt;El fenómeno Labubu también llega al terror de serie B&lt;/b&gt;Dirigida por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=814772"&gt;Nathan Geering&lt;/a&gt; y escrita por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=354313"&gt;Craig McLearie&lt;/a&gt;, la película está protagonizada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=666460"&gt;Jack Hyde&lt;/a&gt; y combina el terror de muñecos malditos con la estética de los populares juguetes coleccionables. La producción se rodó en Suffolk, Inglaterra, y anteriormente se conocía como &lt;i&gt;Curse of Lazuzu Doll&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;La propuesta no tiene relación oficial con Labubu, la marca de figuras creada por Kasing Lung y comercializada por Pop Mart. De hecho, Sony Pictures está desarrollando una adaptación autorizada de estos personajes, que contará con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=56918"&gt;Paul King&lt;/a&gt;, responsable de &lt;i&gt;Paddington&lt;/i&gt; y &lt;i&gt;Wonka&lt;/i&gt;, como director.
+&lt;br /&gt;
+&lt;br /&gt;&lt;i&gt;Lazuzu&lt;/i&gt; apuesta por un camino muy diferente, aprovechando la popularidad de los muñecos de dientes afilados para trasladarlos al cine de terror independiente. ITN Movies ya ha difundido su tráiler, aunque por ahora no se ha anunciado una fecha de estreno en España.
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47530"/>
+    <published>2026-11-04T16:23:22+00:00</published>
   </entry>
 </feed>
