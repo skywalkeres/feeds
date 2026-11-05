@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-05T09:34:18+00:00</updated>
+  <updated>2026-11-05T09:42:57+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,30 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47524</id>
-    <title>De sobrevivir al Raptor en “Black Phone” a convertirse en Robin: Mason Thames ficha por DC</title>
-    <updated>2026-11-03T22:20:14+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47524.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=540631"&gt;Mason Thames&lt;/a&gt;, protagonista de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41203"&gt;Black Phone&lt;/a&gt;&lt;/i&gt; y su secuela, será oficialmente uno de los nuevos Robin del cine. &lt;b&gt;Peter Safran, copresidente de DC Studios, ha confirmado que el actor pondrá voz a Dick Grayson en &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48126"&gt;Dynamic Duo&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;, una película de animación que reunirá a los dos primeros compañeros de Batman.
-&lt;br /&gt;
-&lt;br /&gt;Aunque su fichaje ya había trascendido en septiembre, Safran ha explicado ahora a &lt;a href="https://collider.com/dynamic-duo-mason-thames-dick-grayson-robin-casting/" rel="noopener noreferrer" target="_blank"&gt;Collider&lt;/a&gt; cómo consiguió el papel. Según el ejecutivo, Thames estaba especialmente interesado en interpretar a Dick Grayson y realizó una audición que terminó convenciendo al estudio. El joven actor incluso visitó las oficinas de DC acompañado de su padre y quiso fotografiarse con numerosos objetos de sus archivos.
-&lt;br /&gt;
-&lt;br /&gt;La película seguirá a Dick Grayson y Jason Todd, dos jóvenes huérfanos que comienzan siendo amigos antes de tomar caminos muy diferentes. Mientras Dick termina convirtiéndose en el protegido de Batman, Jason se aproxima al mundo criminal de Gotham. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=516013"&gt;Logan Kim&lt;/a&gt; prestará su voz a Todd, mientras que &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=17347"&gt;Lee Pace&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1497"&gt;Steve Buscemi&lt;/a&gt; también forman parte del reparto.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Una película de Batman con una animación muy diferente&lt;/b&gt;Uno de los grandes atractivos de &lt;i&gt;Dynamic Duo&lt;/i&gt; será su apartado visual. El proyecto está dirigido por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=652289"&gt;Arthur Mintz&lt;/a&gt; y utiliza una tecnología desarrollada por Swaybox Studios que combina &lt;b&gt;marionetas físicas filmadas con cámaras reales y animación generada por ordenador&lt;/b&gt;.
-&lt;br /&gt;
-&lt;br /&gt;Safran ha comparado la originalidad de este procedimiento con el impacto que tuvo &lt;i&gt;Toy Story&lt;/i&gt; en los años noventa. Según el productor, trabajar con elementos físicos aporta una sensación de movimiento y acción difícil de conseguir mediante la animación convencional.
-&lt;br /&gt;
-&lt;br /&gt;Thames continúa así una carrera que comenzó a destacar con &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41203"&gt;Black Phone&lt;/a&gt;&lt;/i&gt; y &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44357"&gt;Black Phone 2&lt;/a&gt;&lt;/i&gt;, y que recientemente lo llevó a interpretar a Hipo en &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44788"&gt;Cómo entrenar a tu dragón&lt;/a&gt;&lt;/i&gt;.
-&lt;br /&gt;
-&lt;br /&gt;Por ahora, su participación está confirmada únicamente como actor de voz. DC Studios no ha anunciado que vaya a interpretar también a Dick Grayson en una futura película de imagen real.
-&lt;br /&gt;
-&lt;br /&gt;&lt;i&gt;Dynamic Duo&lt;/i&gt; tiene previsto estrenarse en Estados Unidos el &lt;b&gt;22 de septiembre de 2028&lt;/b&gt;, aunque todavía no se ha confirmado una fecha definitiva para España.
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47524"/>
-    <published>2026-11-03T22:20:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47525</id>
     <title>Su hermana desaparece y todo el pueblo parece ocultar la verdad: tráiler de “After the Silence”</title>
@@ -412,5 +388,23 @@
 &lt;br /&gt;Ahora, si me disculpáis, voy a cerrar la puerta. No temo que entre un zombi. Temo que entre un guionista gritando «¡tenemos ideas para la tercera!».</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47543"/>
     <published>2026-11-05T09:34:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47544</id>
+    <title>“Los ojos del diablo” presenta su tráiler y cartel antes de estrenarse mañana en los cines españoles</title>
+    <updated>2026-11-05T09:42:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47544.jpg" /&gt;&lt;/p&gt;¿Y si la mejor manera de demostrar que Dios existe fuera invocar al mismísimo demonio? Esa es la premisa de &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50298"&gt;Los ojos del diablo&lt;/a&gt;&lt;/i&gt;, la nueva película de terror española de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=187827"&gt;Paco Arasanz&lt;/a&gt;, que acaba de presentar su &lt;b&gt;cartel y tráiler oficial antes de llegar mañana, 6 de noviembre, a los cines&lt;/b&gt; de la mano de Moon Entertainment.
+&lt;br /&gt;
+&lt;br /&gt;La historia sigue a unos influencers que deciden realizar una invocación demoníaca en directo ante miles de seguidores. Lo que comienza como un desafío para conseguir audiencia termina convirtiéndose en una pesadilla cuando algo responde a su llamada. Con las cámaras todavía grabando, sus protagonistas tendrán que enfrentarse a una entidad que parece haber estado esperando ese momento.
+&lt;br /&gt;
+&lt;br /&gt; &lt;b&gt;Terror en primera persona dentro de un antiguo psiquiátrico&lt;/b&gt;La película se ha rodado en el antiguo hospital psiquiátrico del Monasterio de San Salvador de Oña, en Burgos, aprovechando sus pasillos y habitaciones para construir una historia de posesiones en formato &lt;i&gt;found footage&lt;/i&gt;. Uno de sus elementos es una cámara maldita que permite ver aquello que normalmente permanece oculto y que conecta la historia con el universo de &lt;i&gt;Obayifo Project&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;Según explica el equipo en el material promocional, durante el rodaje se realizó una invocación ritual ante las cámaras y se utilizaron como referencia procedimientos de exorcismo descritos por el sacerdote José Antonio Fortea. Los responsables también aseguran que algunos sonidos registrados en el edificio fueron incorporados a la película sin recrearlos posteriormente.
+&lt;br /&gt;
+&lt;br /&gt;Protagonizada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=394030"&gt;Tatiana Del Real&lt;/a&gt;, &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50298"&gt;Los ojos del diablo&lt;/a&gt;&lt;/i&gt; cuenta también con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=454362"&gt;Frank Rodríguez&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=672218"&gt;Pao Soppe&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=814882"&gt;Rosa Portela&lt;/a&gt; y &lt;a class="am-entity-link am-entity-missing" href=""&gt;Juan Sut&lt;/a&gt;. La producción tiene una duración de 83 minutos y está calificada como no recomendada para menores de 16 años.
+&lt;br /&gt;
+&lt;br /&gt;&lt;a class="fancybox img-hover-v1" href="https://images.abandomoviez.net/db/poster/db_posterss_86663.jpg" rel="gallery3" title="Los ojos del diablo"&gt;&lt;/a&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47544"/>
+    <published>2026-11-05T09:42:57+00:00</published>
   </entry>
 </feed>

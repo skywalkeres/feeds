@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-04T10:00:10+00:00</updated>
+  <updated>2026-11-05T10:47:58+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,73 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709732</id>
-    <title>Shadows of Belial, vuelve Sir Fred, vuelve Retroworks</title>
-    <updated>2026-09-18T07:07:21+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;article id="the-post" class="container-wrapper post-content tie-standard"&gt;
-
-		
-
-		&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Tuvimos en Julio en &lt;a href="https://www.elmundodelspectrum.com/el-mundo-del-spectrum-podcast-14x04-juegos-a-dobles-retroworks/"&gt;El Mundo del Spectrum Podcast a Retroworks&lt;/a&gt; en una amplia entrevista. Allí escuchamos que emprendían proyectos interesantes y hoy ya podemos ver sus frutos. Aquí tenéis el tráiler que han publicado en sus redes:&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;No podemos estar más felices gracias al regreso una vez más de &lt;a href="https://www.elmundodelspectrum.com/sir-fred-1986-made-in-spain/"&gt;Sir Fred&lt;/a&gt;. Y no ha podido volver en mejores manos, las del grupo de desarrollo RetroWorks. Sobrados de talento, estamos seguros de que vamos a poder disfrutar de un gran título. Eso es lo que vemos en el tráiler de &lt;strong&gt;Shadows of Belial&lt;/strong&gt;. Nos ofrecen una aventura plataformera inspirada en el concepto original de Sir Fred.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Gáficamente es una maravilla. Podemos ver numerosos sprites con el encanto habitual de Retroworks y decorados variados y coloridos en un castillo, cuevas y zonas acuáticas. Como en el original podremos hacer múltiples acciones. En este caso nadar, trepar, lanzar flechas, etc. La jugabilidad parece que va a ser su punto fuerte.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Este nuevo proyecto se basa en &lt;a href="https://www.elmundodelspectrum.com/old-fred-gamesoft-demo-de-sir-fred-2/"&gt;Old Fred&lt;/a&gt;. Os hablamos en primicia largo y tendido en El Mundo del Spectru y es que el mítico juego de Made in Spain nos marcó muy profundamente.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Informaremos con todas las novedades en torno a Shadows of Belial.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Actualización 24/09/2026: Pantalla de carga e intro.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;p class="clearfix"&gt;&lt;/p&gt;
-		
-
-		
-
-		
-	&lt;/article&gt;
-
-	
-	&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/shadows-of-belial-vuelve-sir-fred-vuelve-retroworks/"/>
-    <published>2026-09-18T07:07:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709738</id>
     <title>Flashback podría llegar al ZX Spectrum</title>
@@ -2058,5 +1991,59 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/la-multinacional-una-aventura-de-sigilo-y-ficcion-interactiva/"/>
     <published>2026-11-04T10:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709877</id>
+    <title>ZXGEN, nace un nuevo Generador de Juegos para ZX Spectrum</title>
+    <updated>2026-11-05T10:47:58+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_11zxgen__del_editor_al_juego.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Los motores para crear videojuegos en nuestro querido Spectrum no dejan de evolucionar. Hoy os presentamos &lt;strong&gt;ZXGEN&lt;/strong&gt;, una nueva herramienta creada por buenos amigos que permite desarrollar juegos para ZX Spectrum 128K sin necesidad de escribir código. Y lo cierto es que sus posibilidades son bastante más amplias de lo que podríamos esperar.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Se trata de un generador con editor visual que permite crear juegos con scroll vertical, horizontal, plataformas, pantalla a pantalla e incluso movimiento libre en ocho direcciones. Podemos diseñar nuestros propios escenarios, dibujar y animar personajes, colocar enemigos, objetos y puertas, y configurar diferentes aspectos de la jugabilidad.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Entre sus características encontramos &lt;strong&gt;tiles de 8×8 y 16×16 píxeles&lt;/strong&gt;, efectos de profundidad que permiten pasar por delante o por detrás de determinados elementos del escenario, inventario, reglas para desarrollar pequeñas aventuras, música PT3 y efectos de sonido. También incluye un curioso modo mezcla que permite conseguir tonalidades adicionales mediante la alternancia de pantallas.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Todo ello funciona sobre un motor escrito en ensamblador Z80. Una vez terminado nuestro proyecto, el generador crea directamente un archivo &lt;strong&gt;.tap&lt;/strong&gt; que podemos cargar en un emulador o en un Spectrum 128K real.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Para quienes quieran empezar a experimentar, el paquete incluye varios juegos de ejemplo, como TERRA ZX, que permiten comprobar sus posibilidades y aprender a utilizar las diferentes herramientas del editor.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Otro aspecto interesante es que en su desarrollo se ha utilizado &lt;strong&gt;Claude, la inteligencia artificial de Anthropic&lt;/strong&gt;. Precisamente hace poco hablábamos en El Mundo del Spectrum sobre la irrupción de la IA en la escena homebrew. Este proyecto es otro ejemplo de hasta dónde está llegando esta tecnología.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;ZXGEN ya está disponible en su versión 1.1.0&lt;/strong&gt;, con ejecutables para Windows, Linux y macOS, además del código fuente y un completo manual de uso. Todo se distribuye gratuitamente bajo licencia MIT, con la intención de compartirlo con la comunidad y que cualquiera pueda experimentar con él.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://github.com/estopon/zxgen/" target="_blank" rel="noreferrer noopener nofollow"&gt;Podéis descargarlo desde &lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;, donde encontraréis todos los archivos necesarios para empezar a crear vuestros propios juegos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Y ahora os toca a vosotros. ¿Qué os parece este nuevo motor? Si os animáis a probarlo, dejadnos vuestras impresiones, sugerencias y descubrimientos en los comentarios. ¡Quién sabe si alguno de los próximos juegos que anunciemos por aquí terminará saliendo de ZXGEN!&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/zxgen-nace-un-nuevo-generador-de-juegos-para-zx-spectrum/"/>
+    <published>2026-11-05T10:47:58+00:00</published>
   </entry>
 </feed>
