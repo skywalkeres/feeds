@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-04T22:34:48+00:00</updated>
+  <updated>2026-11-05T06:38:44+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,52 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136098</id>
-    <title>How to Use Siri &amp; Visual Intelligence on Anything in MacOS 27 with a Keystroke</title>
-    <updated>2026-10-23T15:18:25+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg" alt="Use Visual Intelligence and Siri from anywhere on Mac to learn more about things on screen" class="aligncenter size-large wp-image-136100" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-300x240.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-768x615.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-1536x1230.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-2048x1640.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Visual Intelligence offers a set of AI features that can be used to identify objects and items in photos or things on screen, and a neat new feature available in MacOS 27 Golden Gate allows you to interact with Siri and Visual Intelligence from just about anywhere on your Mac. You can use this to help identify things in pictures, understand a document, or even to learn what a particular file or app is for if you aren’t sure.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136098"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This this feature is available in MacOS 27 or later, meaning it obviously requires MacOS 27 Golden Gate or newer to have access to this particular Siri + Visual Intelligence feature.&lt;/p&gt;
-&lt;h2&gt;How to Use Visual Intelligence &amp;amp; Ask Siri for Any Item on Mac Screen&lt;/h2&gt;
-&lt;p&gt;This trick is two parts and remarkably simple; have the item or image you are curious about as your active window on the Mac, then hit the appropriate keyboard shortcut to access Visual Intelligence to query about the active window:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Shift + Command + Spacebar&lt;/strong&gt; to open Ask Siri AI with Visual Intelligence for the active window, then type your query and hit return&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This brings up a little “Ask Siri” query that you can then type your question or request into:&lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-610x612.jpg" alt="Use a keyboard shortcut to access Siri Visual Intelligence from anywhere on Mac" class="aligncenter size-large wp-image-136101" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-610x612.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-300x300.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-150x150.jpg 150w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-768x771.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac-1531x1536.jpg 1531w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ask-siri-ai-visual-intelligence-about-whats-on-screen-mac.jpg 1793w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;For example, if you have a photo of a plant open on your Mac, hit Shift+Command+Spacebar, then type something like “what type of plant is this”, and Siri and Visual Intelligence will report back to describe and label the plant. &lt;/p&gt;
-&lt;p&gt;Or, as the screenshot examples here show, you can also have something visible on screen, and then hit Command+Shift+Spacebar and simply ask “describe this” and Siri AI Visual Intelligence will then identify and describe what the image is of. &lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-610x581.jpg" alt="Use Visual Intelligence to learn about a photo on Mac screen" class="aligncenter size-large wp-image-136099" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-610x581.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-300x286.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-768x732.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos-1536x1463.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/use-visual-intelligence-to-learn-about-items-on-screen-macos.jpg 1833w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;In the photo examples here, you’ll see it’s a picture of an Apple II that Siri AI and Visual Intelligence accurately recognizes and then provides information about. &lt;/p&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg" alt="Use Visual Intelligence and Siri from anywhere on Mac to learn more about things on screen" class="aligncenter size-large wp-image-136100" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-610x488.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-300x240.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-768x615.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-1536x1230.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-and-siri-reporting-back-info-macos-2048x1640.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Another example that is quite handy; have Finder open to a random file, app, or system component that you are unsure? Hit Command+Shift+Spacebar and ask “what is this”. In the screenshot example here, we are using this tool to accurately identify a system daemon found within a system folder of MacOS.&lt;/p&gt;
-&lt;p&gt; &lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-610x639.jpg" alt="Use Visual Intelligence to learn about system files and other info on the Mac screen" class="aligncenter size-large wp-image-136102" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-610x639.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-286x300.jpg 286w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac-768x804.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/visual-intelligence-siri-providing-info-about-system-file-mac.jpg 1228w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;This has many uses, and is really quite useful. In every test example I gave Siri AI and Apple Intelligence, it was able to accurately describe what it was provided, and to give useful and accurate information about various files, photos, webpages, and other items. &lt;/p&gt;
-&lt;p&gt;This “Ask Siri” keyboard shortcut can be accessed anywhere on the Mac, and generally behaves similar to the &lt;a href="https://osxdaily.com/2026/10/06/how-to-use-write-with-siri-on-mac-iphone-ipad/"&gt;Write with Siri&lt;/a&gt; floating button that appears in text-entry boxes in the latest MacOS versions.&lt;/p&gt;
-&lt;p&gt;For what it’s worth, you can also &lt;a href="https://osxdaily.com/2026/10/13/how-to-change-spotlight-search-to-ask-chatgpt-on-macos-27/"&gt;use the “Ask ChatGPT” feature of Spotlight&lt;/a&gt; to perform similar functionality, if you provide it with an image.&lt;/p&gt;
-&lt;p&gt;Give this feature a try, you might be surprised at how capable it is, and how useful it can be!&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/23/how-use-visual-intelligence-siri-mac-keystroke/"/>
-    <published>2026-10-23T15:18:25+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136123</id>
     <title>Fix dasd Using 100% CPU on MacOS 27</title>
@@ -632,5 +586,35 @@ Pro, iPhone 15 Pro Max)&lt;br&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/04/watch-charlie-brown-thanksgiving-free-on-apple-tv-2026/"/>
     <published>2026-11-04T22:34:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136229</id>
+    <title>Pre-Orders for HomeView Back to $289 at Amazon</title>
+    <updated>2026-11-05T06:38:44+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/06/amazon-apple-deals.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://link.amazon/B0bmggpyf" target="_blank" rel="nofollow"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2.jpeg" alt="HomeView" class="aligncenter size-full wp-image-135999" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2.jpeg 470w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2-207x300.jpeg 207w" sizes="(max-width: 470px) 100vw, 470px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HomeView pre-orders are back again with a discount offered via Amazon, taking $10 off the retail price. Furthermore, it appears Amazon ship dates are earlier than HomeView bought directly from Apple, where their delivery estimates are shipping later in the month if not into December. If you’re in the market for a HomeView, this is the best deal yet.&lt;/p&gt;
+
+&lt;p&gt;Currently the discount price is available for HomeView in Space Gray, but Amazon shifts stock around often and previously they had the discount applied to all color models.&lt;/p&gt;
+&lt;p&gt;HomeView looks to be a fascinating new Apple device, featuring a 7″ display that shows a clock, widgets, photo slideshows, and a Home Screen that is similar to iPhone or iPad. HomeView will change depending on the user interacting with it, using facial recognition and iPhone proximity to determine who is who and adjust the device accordingly, and there is a less customized guest mode available as well. HomeView has support for FaceTime, Safari, Messages, Reminders, Podcasts, Music, Siri AI, and some interesting features like Safari being able to convert a recipe webpage into a swipe-able virtual cookbook. HomeView will also support third party apps that have CarPlay support, meaning apps like Spotify and Pandora should be supported as well.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/04/pre-orders-for-homeview-back-to-289-at-amazon/"/>
+    <published>2026-11-05T06:38:44+00:00</published>
   </entry>
 </feed>
