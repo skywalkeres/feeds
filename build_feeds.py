@@ -331,15 +331,47 @@ def _has_class(name):
     return f'contains(concat(" ", normalize-space(@class), " "), " {name} ")'
 
 
-def fix_abandomoviez(frag, base_url):
+_ABANDO_TIPOS = (("/dbs/", "serie"), ("/indie/", "indie"), ("/dbc/", "corto"),
+                 ("/dbj/", "juego"), ("/dbl/", "libro"))
+
+
+def abando_trailer(session, page_url, film_id, tipo):
+    """Pide a Abandomoviez el tráiler de su ficha (el mismo servicio que usa el botón 'TRÁILER' de
+    la web) y devuelve la URL de incrustación de YouTube/Vimeo, o None si la ficha no tiene vídeo."""
+    try:
+        r = session.get(urljoin(page_url, "/ajax/trailer_preferido.php"),
+                        params={"id_peli": film_id, "tipo": tipo},
+                        headers={"Referer": page_url, "X-Requested-With": "XMLHttpRequest"},
+                        timeout=15)
+        r.raise_for_status()
+        doc = lxml.html.fromstring(decode_html(r))
+        for el in doc.iter("iframe"):
+            src = urljoin(page_url, (el.get("src") or "").strip())
+            if _host_ok(src):  # descarta el iframe de publicidad del propio sitio
+                return src
+    except Exception as exc:  # noqa: BLE001
+        print(f"    ! sin tráiler para {film_id}: {exc}")
+    finally:
+        time.sleep(DELAY)
+    return None
+
+
+def fix_abandomoviez(frag, page_url, session):
     """Abandomoviez: cada estreno es un bloque 'top-card' con la imagen, un botón 'TRÁILER' que
-    abre el vídeo con JavaScript, la fecha y el título. Sin JavaScript el botón queda como el texto
-    suelto 'TRÁILER12 NOVAllen (2026)'. Lo convertimos en imagen enlazada + título + enlace."""
+    abre el vídeo con JavaScript, la fecha y el título. Sin JavaScript queda el texto suelto
+    'TRÁILER12 NOVAllen (2026)'. Lo convertimos en imagen enlazada + título + enlace a la ficha y,
+    si la ficha tiene tráiler, el vídeo incrustado."""
     for card in frag.xpath(f'.//*[{_has_class("top-card")}]'):
         links = card.xpath('.//a[@href][.//img]')
-        href = urljoin(base_url, links[0].get("href")) if links else None
+        href = urljoin(page_url, links[0].get("href")) if links else None
         title = _norm(" ".join(card.xpath(f'.//*[{_has_class("top-titulo")}]//text()')))
         date = _norm(" ".join(card.xpath(f'.//*[{_has_class("top-numero")}]//text()')))
+        ids = card.xpath(".//*[@data-id-peli]/@data-id-peli")
+        video = None
+        if ids and re.fullmatch(r"\d+", ids[0]):
+            tipo = next((t for frag_path, t in _ABANDO_TIPOS if href and frag_path in href), "pelicula")
+            video = abando_trailer(session, page_url, ids[0], tipo)
+
         new = lxml.html.Element("div")
         imgs = card.xpath(".//img")
         if imgs:
@@ -348,14 +380,18 @@ def fix_abandomoviez(frag, base_url):
             holder.append(copy.deepcopy(imgs[0]))
         p2 = lxml.etree.SubElement(new, "p")
         label = " · ".join(x for x in (date, title) if x)
+        strong = None
         if label:
             strong = lxml.etree.SubElement(p2, "strong")
             strong.text = label
         if href:
-            if label:
+            if strong is not None:
                 strong.tail = " — "
             a = lxml.etree.SubElement(p2, "a", href=href)
-            a.text = "▶ Ver ficha y tráiler"
+            a.text = "Ver ficha"
+        if video:
+            # iframe suelto: normalize_kept_embeds lo convertirá en iframe + enlace de respaldo
+            lxml.etree.SubElement(new, "iframe", src=video)
         card.addprevious(new)
         card.drop_tree()
 
@@ -363,12 +399,12 @@ def fix_abandomoviez(frag, base_url):
 SITE_RULES = {"abandomoviez.net": fix_abandomoviez}
 
 
-def apply_site_rules(frag, url):
+def apply_site_rules(frag, url, session):
     host = urlparse(url).netloc.lower()
     host = host[4:] if host.startswith("www.") else host
     rule = SITE_RULES.get(host)
     if rule:
-        rule(frag, url)
+        rule(frag, url, session)
 
 
 def extract_full(session, url):
@@ -386,7 +422,7 @@ def extract_full(session, url):
 
         content = Document(page_html).summary(html_partial=True)
         frag = lxml.html.fragment_fromstring(content, create_parent="div")
-        apply_site_rules(frag, url)
+        apply_site_rules(frag, url, session)
         frag.make_links_absolute(url)
         inner = _inner(frag)
         if not inner:
