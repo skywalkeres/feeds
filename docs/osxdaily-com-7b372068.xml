@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-05T06:38:44+00:00</updated>
+  <updated>2026-11-05T16:40:26+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,70 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136123</id>
-    <title>Fix dasd Using 100% CPU on MacOS 27</title>
-    <updated>2026-10-26T09:51:07+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu.jpg"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-610x233.jpg" alt="dasd process on MacOS using high CPU and draining battery on MacOS 27" class="aligncenter size-large wp-image-136127" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-610x233.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-300x114.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu-768x293.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/dasd-mac-process-high-cpu.jpg 1450w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I ran into a peculiar issue recently where the ‘dasd’ process had been consuming 100% CPU for several days straight. Since dasd is a system process, my initial assumption was that there must be some important background task that was going on. But, after a few days of no change and dasd constantly hovering between 90-100% CPU usage, contributing to significant battery drain and resource misallocation, I decided to dive into troubleshooting dasd consuming large amount of processor specifically in MacOS 27 Golden Gate. &lt;/p&gt;
-&lt;p&gt;With the help of some tinkering around in Console and Terminal, an agent, and ChatGPT, I discovered the problem with dasd going haywire may be related to an issue with telemetry and the PowerLog background processing database in MacOS. And, as it turns out, clearing this particular database and then restarting the Mac can resolve the problem. &lt;/p&gt;
-&lt;p&gt;Be forewarned, these steps involve using the Terminal to delete a system file that is actively being written to, so something could always go wrong. Backup your Mac before beginning. &lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136123"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Troubleshooting dasd with all the traditional methods, to no end&lt;/h3&gt;
-&lt;p&gt;First, I tried killing the ‘dasd’ process with &lt;a href="https://osxdaily.com/activity-monitor-for-mac/"&gt;Activity Monitor&lt;/a&gt;, which did nothing. I rebooted, that did nothing either, and dasd persisted with 100% CPU usage even after restart, unusual! Next I rebooted into Safe Mode, which also did nothing as the ‘dasd’ process continued to use excessive CPU even in Safe Mode. So I rebooted again, and after digging around in diagnostics and going back and forth between Console, sample, and tail, and ChatGPT to interpret and analyze, I arrived at this solution. &lt;/p&gt;
-&lt;h4&gt;Identifying a database linked to stuck dasd&lt;/h4&gt;
-&lt;p&gt;The database in question that dasd appears to be interacting with in some erroneous looping and stuck manner is located at the following system path:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;/private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I backed up and erased this particular database, then restarted the Mac, and that finally resolved the problem, bringing dasd back down to 0% CPU as expected.&lt;/p&gt;
-&lt;h4&gt;Backup your Mac, and the database file itself&lt;/h4&gt;
-&lt;p&gt;If you have and &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;use Time Machine for backups&lt;/a&gt; of your Mac, that’s probably sufficient, and you should absolutely make a Time Machine backup before continuing. Separately, if you’re like me and want to make a direct separate file backup as well (just in case!) on the same drive, here’s how you can do that.&lt;/p&gt;
-&lt;p&gt;From Terminal, and copy / paste or type the following command string to create a Folder on your desktop called “PowerLog-Backup” that contains a backup of the PowerLog database with permissions assigned to the current user:&lt;br&gt;
-&lt;code&gt;sudo mkdir -p ~/Desktop/PowerLog-Backup | sudo cp -p /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL* ~/Desktop/PowerLog-Backup/ | sudo chown -R "$(id -un)" ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;If you’d rather break that into three separate commands you can do that with:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;sudo mkdir -p ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;sudo cp -p /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL* ~/Desktop/PowerLog-Backup/&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;sudo chown -R "$(id -un)" ~/Desktop/PowerLog-Backup&lt;/code&gt;&lt;/p&gt;
-&lt;h3&gt;Carefully Delete the PowerLog Database&lt;/h3&gt;
-&lt;p&gt;Now it is time to reset the PowerLog database. This involves deleting a system file so if you are not comfortable with that, or if you do not have a full backup of your data, do not use this command. The command must be entered precisely to avoid accidentally deleting the wrong system file which could result in a bigger problem:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;sudo rm \&lt;br&gt;
-  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL \&lt;br&gt;
-  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL-wal \&lt;br&gt;
-  /private/var/db/powerlog/Library/PerfPowerTelemetry/BackgroundProcessing/CurrentBackgroundProcessingDB.BGSQL-shm&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Execute that command with root priveleges.&lt;/p&gt;
-&lt;h3&gt;Restart the Mac right away, wait a few minutes and check CPU again&lt;/h3&gt;
-&lt;p&gt;Then restart the Mac immediately, which you can &lt;a href="https://osxdaily.com/howto-restart-mac/"&gt;initiate from the  Apple menu&lt;/a&gt; or from Terminal with:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;sudo reboot&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;After your Mac restarts, check CPU usage after the reboot settles, and again in 10 minutes or so. Now, if you review Activity Monitor, or returning to the command line with:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;ps -axo pid,%cpu,etime,command | grep '[d]asd'&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;You should now find that CPU usage for dasd is back down to 0% or some minimal inconsequential amount. &lt;/p&gt;
-&lt;p&gt;–&lt;/p&gt;
-&lt;p&gt;The above steps are what worked for resolving high constant CPU usage of dasd for my Mac running MacOS 27.0.1, after the dasd process had been using 90% to 100% CPU for several days straight.&lt;/p&gt;
-&lt;h3&gt;Not common, but problems with dasd and excess CPU and memory usage are not nonexistent&lt;/h3&gt;
-&lt;p&gt;How prevalent this issue is, is not known, since it may be impacting more Mac users but they’re not actively finding the ‘dasd’ process in Activity Monitor, or don’t know to even look, despite battery draining a bit faster than normal, or their Mac feeling warm to the touch. The cause is also unknown. &lt;/p&gt;
-&lt;p&gt;If you happen to search around the web for this issue, you might discover that other Mac users around the web have complained of issues with dasd recently in MacOS 27 as well, so this could be a bug that will get ironed out in a future software update for MacOS. &lt;/p&gt;
-&lt;p&gt;Those discussions were on &lt;a href="https://www.reddit.com/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/" target="_blank" rel="nofollow"&gt;Reddit&lt;/a&gt;, &lt;a href="https://forums.macrumors.com/threads/high-cpu-usage-due-to-processes-appstoreagent-and-dasd-exactly-between-midnight-and-9-am.2490572/" target="_blank" rel="nofollow"&gt;MacRumors Forums&lt;/a&gt; (&lt;a target="_blank" rel="nofollow" href="https://forums.macrumors.com/threads/anyone-else-experiencing-dasd-memory-leak-on-beta-2.2484579/"&gt;2&lt;/a&gt;), and Apple discussion boards. You’ll also find some solutions that were not effective for me, some focused on constantly killing the process, or unloading it with launchctl, the App Store, or &lt;a href="https://ye-yu.com/en/blog/fixing-macos-high-cpu-usage-in-dasd-process-with-antigravity/" target="_blank" rel="nofollow"&gt;Apple Arcade&lt;/a&gt;, none of which were related to dasd going haywire with CPU usage in my particular case. &lt;/p&gt;
-&lt;p&gt;There are other variations of this issue with ‘dasd’ and some users find the dasd process does not hog 100% CPU but instead dasd may consume hugely inordinate amounts of RAM, or that dasd is generating enormous log files. &lt;/p&gt;
-&lt;p&gt;It’s not entirely clear what is causing the issue with dasd, and while trial and error and troubleshooting led me to the PowerLog telemetry database, that could simply be downstream of something else. If you run into this problem with dasd (or a similar one), and find another solution, or use the solution here and it works, share your experience in the comments.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/26/fix-dasd-using-100-cpu-on-macos-27/"/>
-    <published>2026-10-26T09:51:07+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136131</id>
     <title>MacOS Golden Gate 27.2 Update Available to Download</title>
@@ -616,5 +552,47 @@ Pro, iPhone 15 Pro Max)&lt;br&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/04/pre-orders-for-homeview-back-to-289-at-amazon/"/>
     <published>2026-11-05T06:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136234</id>
+    <title>Run Mac OS X Tiger, Snow Leopard, Lion, etc on Apple Silicon Macs with Virtual Intel Mac</title>
+    <updated>2026-11-05T16:40:26+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac.jpg" alt="Running Mac OS X Tiger on a modern Mac" class="aligncenter size-large"&gt;&lt;/p&gt;
+&lt;p&gt;Apple Silicon Mac users can now install and run any Intel version of MacOS and Mac OS X directly on their modern Mac, with great performance, thanks to the Virtual Intel Mac project.&lt;/p&gt;
+&lt;p&gt;Virtual Intel Mac, which has a fairly self explanatory name, allows you to run any Intel version of MacOS on a modern Apple Silicon Mac, ranging from Mac OS X 10.4 Tiger to MacOS 11 Big Sur. Yes that means you can install Mac OS X Snow Leopard 10.6, or OS X Mountain Lion 10.8, right now on your modern Apple Silicon Mac. This allows you to be able to run older 32-bit Intel apps on a modern Mac, and even some PPC apps too, even on Apple Silicon. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136234"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Using Virtual Intel Mac is remarkably simple and easy, upon first launch (you’ll probably need to &lt;a href="https://osxdaily.com/2025/04/22/how-allow-open-apps-anywhere-macos-sequoia/"&gt;bypass Gatekeeper&lt;/a&gt; first) you can choose whichever Intel MacOS version you’d like to run. &lt;/p&gt;
+&lt;p&gt;Supported Mac OS X versions by Virtual Intel Mac include; Mac OS X Tiger 10.4, Mac OS X Leopard 10.5, Mac OS X Snow Leopard 10.6, Mac OS X Lion 10.7, OS X Mountain Lion 10.8, OS X Mavericks 10.9, OS X Yosemite 10.10, OS X El Capitan 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, macOS Catalina 10.15, macOS Big Sur 11, and MacOS Monterey 12. Later versions of MacOS can be run on a modern Mac as any standard virtual machine by &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;downloading the desired macOS installer or IPSW&lt;/a&gt; and setting them up in a virtual machine.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-610x431.jpg" alt="Create a virtual Intel Mac by choosing which system software to install" class="aligncenter size-large wp-image-136240" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-768x543.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-1536x1086.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm.jpg 1968w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Just pick the version you’d like to install and go through the simple walkthrough, Virtual Intel Mac will then download and install the version of MacOS for you.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-610x431.jpg" alt="Downloading and installing Mac OS X Tiger" class="aligncenter size-large wp-image-136242" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-768x543.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-1536x1086.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger.jpg 1968w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;You’ll go through the typical installation process of the version of Mac OS X that you chose to install. &lt;/p&gt;
+&lt;p&gt;Note that some versions of Mac OS X will go through an automatic setup process by the app itself that can take up to 30 minutes&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-610x436.jpg" alt="Install Mac OS X Snow Leopard on a modern Apple Silicon Mac" class="aligncenter size-large wp-image-136238" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-610x436.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-300x214.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-768x548.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-1536x1097.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-2048x1463.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;And soon enough, you’ll be at the desktop of your old Mac OS version of choice. &lt;/p&gt;
+&lt;p&gt;In this screenshot example, Mac OS X 10.4 Tiger is running atop MacOS Golden Gate 27:&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-610x436.jpg" alt="Running Mac OS X Tiger on a modern Mac" class="aligncenter size-large wp-image-136237" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-610x436.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-300x214.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-768x548.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-1536x1097.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-2048x1463.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Virtual Intel Mac supports USB and audio passthrough, networking, file sharing, remote login, and more, so you can use older hardware and software that is compatible if you’d like to.&lt;/p&gt;
+&lt;p&gt;This is a really great project, and if you’re a fan of virtualization, emulators, or older versions of MacOS, you’re sure to appreciate Virtual Intel Mac.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/05/run-mac-os-x-tiger-snow-leopard-lion-etc-on-apple-silicon-macs-with-virtual-intel-mac/"/>
+    <published>2026-11-05T16:40:26+00:00</published>
   </entry>
 </feed>
