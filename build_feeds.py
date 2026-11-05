@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Genera feeds Atom con el artículo completo a partir de feeds que solo traen extractos."""
+import copy
 import hashlib
 import html as htmllib
 import json
@@ -11,6 +12,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 import feedparser
+import lxml.etree
 import lxml.html
 import requests
 from feedgen.feed import FeedGenerator
@@ -76,7 +78,10 @@ def _host_ok(src):
 
 
 def _stem(u):
-    name = os.path.splitext(os.path.basename(urlparse(u).path))[0]
+    """Nombre base de una imagen, sin extensiones (incluso dobles como '.jpg.avif') ni sufijos de
+    tamaño ('-610x352'), para reconocer la misma foto aunque venga en versiones distintas."""
+    name = os.path.basename(urlparse(u).path)
+    name = re.sub(r"(\.(jpe?g|png|gif|webp|avif|bmp|svg))+$", "", name, flags=re.I)
     return re.sub(r"-\d+x\d+$", "", name).lower()
 
 
@@ -178,16 +183,201 @@ def embed_html(src):
             f'<p><a href="{htmllib.escape(watch, quote=True)}">{label}</a></p>')
 
 
+def decode_html(r):
+    """Decodifica la página probando primero la cabecera, luego UTF-8 y luego la etiqueta meta.
+    Evita adivinar la codificación, que a veces confunde UTF-8 con otras (p. ej. 'así' -> 'as√≠')."""
+    content = r.content
+    candidates = []
+    m = re.search(r"charset=([\w.-]+)", r.headers.get("content-type", ""), re.I)
+    if m:
+        candidates.append(m.group(1))
+    candidates.append("utf-8")
+    m2 = re.search(rb'<meta[^>]+charset=["\']?\s*([\w.-]+)', content[:4096], re.I)
+    if m2:
+        candidates.append(m2.group(1).decode("ascii", "ignore"))
+    for enc in candidates:
+        try:
+            return content.decode(enc)
+        except (UnicodeDecodeError, LookupError):
+            continue
+    return content.decode(r.apparent_encoding or "latin-1", errors="replace")
+
+
+_EMBED_TAGS = ("iframe", "embed", "div", "span", "lite-youtube", "amp-youtube")
+_URL_ATTRS = ("src", "data-src", "data-lazy-src", "data-url", "data-embed", "data-video-url")
+_YT_ID_ATTRS = ("videoid", "data-youtube-id", "data-yt-id")
+
+
+def _norm(text):
+    return " ".join(text.split())
+
+
+def embed_src(el, base_url):
+    """URL de vídeo/audio incrustado (YouTube, Vimeo, Spotify...) que representa este elemento."""
+    if not isinstance(el.tag, str) or el.tag not in _EMBED_TAGS:
+        return None
+    for attr in _URL_ATTRS:
+        v = (el.get(attr) or "").strip()
+        if v and not v.startswith(("about:", "data:", "javascript:")):
+            v = urljoin(base_url, v)
+            if _host_ok(v):
+                return v
+    for attr in _YT_ID_ATTRS:
+        v = (el.get(attr) or "").strip()
+        if re.fullmatch(r"[\w-]{11}", v):
+            return f"https://www.youtube.com/embed/{v}"
+    return None
+
+
+def _embed_key(src):
+    m = YT_ID.search(src)
+    return m.group(1) if (m and "youtu" in src) else src
+
+
+def _paragraph_map(frag):
+    paras = {}
+    for p in frag.iter("p"):
+        k = _norm(p.text_content())[:60]
+        if len(k) >= 40:
+            paras.setdefault(k, p)
+    return paras
+
+
+def collect_embeds(tree, frag, base_url):
+    """Vídeos/audios incrustados situados dentro del artículo, con el párrafo al que siguen.
+    Devuelve None si no se pudo localizar el artículo en la página original."""
+    paras = _paragraph_map(frag)
+    if not paras:
+        return None
+    last_key = list(paras)[-1]
+    pending, found, seen = [], [], set()
+    started, anchor = False, None
+    for el in tree.iter():
+        if not isinstance(el.tag, str):
+            continue
+        if el.tag in ("h1", "h2", "h3"):
+            if started and anchor == last_key:
+                break  # ya pasamos el último párrafo del artículo
+            if not started:
+                pending = []  # solo valen los incrustados posteriores al último título previo al texto
+            continue
+        if el.tag == "p":
+            k = _norm(el.text_content())[:60]
+            if k in paras:
+                if not started:
+                    started = True
+                    found.extend((None, s) for s in pending)
+                anchor = k
+                continue
+        src = embed_src(el, base_url)
+        if src:
+            (found if started else pending).append((anchor, src) if started else src)
+    if not started:
+        return None
+    out = []
+    for a, s in found:
+        key = _embed_key(s)
+        if key not in seen:
+            seen.add(key)
+            out.append((a, s))
+    return out[:6]
+
+
+def insert_embeds(frag, embeds):
+    """Inserta cada incrustado justo después del párrafo que lo precedía en la web original."""
+    paras = _paragraph_map(frag)
+    last, top = {}, []
+    for anchor, src in embeds:
+        wrapper = lxml.html.fragment_fromstring(embed_html(src), create_parent="div")
+        els = list(wrapper)
+        if anchor is None or anchor not in paras:
+            top.extend(els)
+            continue
+        ref = last.get(anchor, paras[anchor])
+        for e in els:
+            ref.addnext(e)
+            ref = e
+        last[anchor] = ref
+    for i, e in enumerate(top):
+        frag.insert(i, e)
+
+
+def normalize_kept_embeds(frag, base_url):
+    """Sustituye los vídeos que el extractor conservó (con restos como el texto 'VIDEO') por
+    nuestro bloque estándar: iframe + enlace de respaldo. Devuelve sus claves."""
+    keys = set()
+    for el in list(frag.iter("iframe", "embed")):
+        src = embed_src(el, base_url)
+        if not src:
+            continue
+        keys.add(_embed_key(src))
+        els = list(lxml.html.fragment_fromstring(embed_html(src), create_parent="div"))
+        parent = el.getparent()
+        anchor = parent if (parent is not None and parent.tag == "p") else el
+        ref = anchor
+        for e in els:
+            ref.addnext(e)
+            ref = e
+        el.drop_tree()
+    return keys
+
+
+def _inner(frag):
+    return ((frag.text or "") + "".join(
+        lxml.html.tostring(c, encoding="unicode") for c in frag)).strip()
+
+
+def _has_class(name):
+    return f'contains(concat(" ", normalize-space(@class), " "), " {name} ")'
+
+
+def fix_abandomoviez(frag, base_url):
+    """Abandomoviez: cada estreno es un bloque 'top-card' con la imagen, un botón 'TRÁILER' que
+    abre el vídeo con JavaScript, la fecha y el título. Sin JavaScript el botón queda como el texto
+    suelto 'TRÁILER12 NOVAllen (2026)'. Lo convertimos en imagen enlazada + título + enlace."""
+    for card in frag.xpath(f'.//*[{_has_class("top-card")}]'):
+        links = card.xpath('.//a[@href][.//img]')
+        href = urljoin(base_url, links[0].get("href")) if links else None
+        title = _norm(" ".join(card.xpath(f'.//*[{_has_class("top-titulo")}]//text()')))
+        date = _norm(" ".join(card.xpath(f'.//*[{_has_class("top-numero")}]//text()')))
+        new = lxml.html.Element("div")
+        imgs = card.xpath(".//img")
+        if imgs:
+            p1 = lxml.etree.SubElement(new, "p")
+            holder = lxml.etree.SubElement(p1, "a", href=href) if href else p1
+            holder.append(copy.deepcopy(imgs[0]))
+        p2 = lxml.etree.SubElement(new, "p")
+        label = " · ".join(x for x in (date, title) if x)
+        if label:
+            strong = lxml.etree.SubElement(p2, "strong")
+            strong.text = label
+        if href:
+            if label:
+                strong.tail = " — "
+            a = lxml.etree.SubElement(p2, "a", href=href)
+            a.text = "▶ Ver ficha y tráiler"
+        card.addprevious(new)
+        card.drop_tree()
+
+
+SITE_RULES = {"abandomoviez.net": fix_abandomoviez}
+
+
+def apply_site_rules(frag, url):
+    host = urlparse(url).netloc.lower()
+    host = host[4:] if host.startswith("www.") else host
+    rule = SITE_RULES.get(host)
+    if rule:
+        rule(frag, url)
+
+
 def extract_full(session, url):
     """Descarga el artículo y devuelve el HTML limpio del cuerpo, o None si falla."""
     try:
         r = session.get(url, timeout=30)
         r.raise_for_status()
-        ctype = r.headers.get("content-type", "").lower()
-        if r.encoding is None or (r.encoding.lower() == "iso-8859-1" and "charset" not in ctype):
-            r.encoding = r.apparent_encoding
         try:
-            tree = lxml.html.fromstring(r.text)
+            tree = lxml.html.fromstring(decode_html(r))
         except ValueError:
             tree = lxml.html.fromstring(r.content)
         fix_noscript(tree)
@@ -196,10 +386,9 @@ def extract_full(session, url):
 
         content = Document(page_html).summary(html_partial=True)
         frag = lxml.html.fragment_fromstring(content, create_parent="div")
+        apply_site_rules(frag, url)
         frag.make_links_absolute(url)
-        inner = (frag.text or "") + "".join(
-            lxml.html.tostring(c, encoding="unicode") for c in frag)
-        inner = inner.strip()
+        inner = _inner(frag)
         if not inner:
             return None
 
@@ -211,19 +400,22 @@ def extract_full(session, url):
                 have.add(_stem(src))
                 extras += f'<p><img src="{htmllib.escape(src, quote=True)}"></p>'
         # imagen destacada (suele estar fuera del cuerpo del artículo)
-        og = tree.xpath('//meta[@property="og:image"]/@content')
-        if og:
-            og_url = urljoin(url, og[0].strip())
+        meta = (tree.xpath('//meta[@property="og:image"]/@content')
+                or tree.xpath('//meta[@name="og:image"]/@content')
+                or tree.xpath('//meta[@name="twitter:image"]/@content'))
+        if meta:
+            og_url = urljoin(url, meta[0].strip())
             stem = _stem(og_url)
             if stem and stem not in have and "logo" not in stem:
                 extras += f'<p><img src="{htmllib.escape(og_url, quote=True)}"></p>'
-        # vídeos / audios incrustados que el extractor suele descartar
-        for src in find_embeds(tree, url):
-            m = YT_ID.search(src)
-            key = m.group(1) if (m and "youtu" in src) else src
-            if key not in inner:
-                extras += embed_html(src)
-        return (extras + inner).strip()
+        # vídeos / audios incrustados que el extractor suele descartar, en su sitio
+        already = normalize_kept_embeds(frag, url)
+        embeds = collect_embeds(tree, frag, url)
+        if embeds is None:
+            embeds = [(None, s) for s in find_embeds(tree, url)]
+        embeds = [(a, s) for a, s in embeds if _embed_key(s) not in already]
+        insert_embeds(frag, embeds)
+        return (extras + _inner(frag)).strip()
     except Exception as exc:  # noqa: BLE001
         print(f"    ! no se pudo extraer {url}: {exc}")
         return None
