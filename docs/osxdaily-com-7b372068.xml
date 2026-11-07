@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-05T16:40:26+00:00</updated>
+  <updated>2026-11-07T00:01:07+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,119 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136131</id>
-    <title>MacOS Golden Gate 27.2 Update Available to Download</title>
-    <updated>2026-10-26T21:01:37+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg" alt="MacOS 27 Golden Gate update 27.2 is available" class="aligncenter size-large wp-image-136132" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg 1518w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-300x203.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-610x412.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-768x519.jpg 768w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has released MacOS 27.2 Golden Gate, the update includes new Siri AI features and support for Siri AI in additional languages, along with miscellaneous nonspecific bug fixes and security patches. Release notes are included below, along with download links for the full installer and IPSW file for MacOS 27.2.&lt;/p&gt;
-&lt;p&gt;Separately, Apple has also released MacOS Tahoe 26.7.2, MacOS Sequoia 15.8.2, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, along with 27.2 updates for WatchOS, tvOS, HomePod OS with SoundGlow support, and more, so check for updates on your other Apple devices as well.&lt;/p&gt;
-&lt;p&gt;And for those who are confused by versioning and numbers, apparently MacOS 27.2 leapfrogged MacOS 27.1 which was never released to the public, and the same applies to iOS 27.2 which leapfrogged iOS 27.1 that was also never released. &lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136131"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install MacOS 27.2 Golden Gate Update&lt;/h2&gt;
-&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup Mac with Time Machine&lt;/a&gt; or your method of choice before installing a system software update. &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;From the  Apple menu, go to “System Settings”&lt;/li&gt;
-&lt;li&gt;Go to “General” and then choose “Software Update”&lt;/li&gt;
-&lt;li&gt;Choose to “Update Now” for MacOS 27.2 in software update&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;MacOS 27.2 will then download and install, rebooting the Mac to complete installation. &lt;/p&gt;
-&lt;p&gt;The download is over 14GB in size, and a reminder that &lt;a href="https://osxdaily.com/2025/03/12/how-long-update-macos/"&gt;installing MacOS updates can take a while&lt;/a&gt; to finish, so do not interrupt the process. &lt;/p&gt;
-&lt;p&gt;Mac users who are not running MacOS 27 will find an update to MacOS Tahoe or MacOS Sequoia available instead.&lt;/p&gt;
-&lt;h2&gt;MacOS 27.2 Full Installer &amp;amp; IPSW Direct Download Links&lt;/h2&gt;
-&lt;p&gt;Downloading the full installer or an IPSW file for MacOS 27.2 is easy through Apple CDN server links below:&lt;/p&gt;
-
-&lt;h3&gt;MacOS Tahoe 26.7.2 &amp;amp; MacOS Sequoia 15.8.2 Full Installer Download Links&lt;/h3&gt;
-
-&lt;p&gt;We &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;maintain an updated list of all available MacOS installers and IPSW files&lt;/a&gt; as well.&lt;/p&gt;
-&lt;h3&gt;MacOS 27.2 Golden Gate Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes mentioned new Siri AI features but are otherwise short and not particularly detailed in terms of what bugs are fixed or other changes are included:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;This update provides enhancements to Siri AI with the ability to retain useful context from previous Siri interactions as well as draw from a wider range of personal context. It also introduces Suggestions in Messages that help you take quick actions in apps like Calendar and Reminders based on context from your conversation. This release includes additional features, bug fixes, and security updates for your Mac.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Don’t forget to update all of your other Apple devices as well, since Apple has released software updates to many other devices too.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"/>
-    <published>2026-10-26T21:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136134</id>
-    <title>iOS 27.2 Update for iPhone &amp; iPad Released</title>
-    <updated>2026-10-26T21:09:58+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg" alt="updates for iOS 27 and iPadOS 27 are available now" class="aligncenter size-large wp-image-135834" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update.jpg 1024w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has released iOS 27.2 for iPhone, and ipadOS 27.2 for iPad. These updates include new Siri AI features, along with Siri AI support in new languages, unspecified bug fixes, and security patches, making them recommended for all iPhone and iPad users to install. &lt;/p&gt;
-&lt;p&gt;Additionally, Apple has also released &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 for Golden Gate&lt;/a&gt; users, MacOS Tahoe 26.7.2 update, HomePod OS 27.2 with support for Sound Glow on HomePod Mini and HomePod second gen, iOS 26.7.2, iPadOS 26.7.2, iOS 18.7.11, and iPadOS 18.7.11, tvOS 27.2, watchOS 27.2, and more, so you will want to update all of your Apple devices.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136134"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install iOS 27.2 and iPadOS 27.2 Update&lt;/h2&gt;
-&lt;p&gt;Always &lt;a href="https://osxdaily.com/how-backup-iphone-ipad-icloud/"&gt;backup iPhone or iPad to iCloud&lt;/a&gt; before beginning system software updates.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Open the “Settings” app on your iPhone or iPad&lt;/li&gt;
-&lt;li&gt;Go to “General” and then go to “Software Update”&lt;/li&gt;
-&lt;li&gt;Choose to “Update Now” for iOS 27.2 or iPadOS 27.2 &lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-369x800.jpg" alt="iOS 27.2 update available to download" class="aligncenter size-large wp-image-136135" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ios-27-2-update-download-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
-&lt;/p&gt;&lt;/ol&gt;
-&lt;p&gt;The iPhone or iPad will download, restart, and install the update.&lt;/p&gt;
-&lt;p&gt;Users can also choose to update manually, or with IPSW files. &lt;/p&gt;
-&lt;h3&gt;iOS 27.2 Update Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes included with the iOS 27.2 update download are as follows:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;iOS 27.2&lt;/p&gt;
-&lt;p&gt;Siri AI (All iPhone 16 models and later, iPhone 15&lt;br&gt;
-Pro, iPhone 15 Pro Max)&lt;br&gt;
-– Siri AI can recall your past conversations, so you can ask Siri about something it told you before, like the restaurants it recommended last week&lt;br&gt;
-– Siri AI can draw from more sources to give you a great answer, including photos attached in Messages, Calendar event attendees, your voicemails, and better results from Safari history and Reading List&lt;br&gt;
-– Excluded Apps lets you choose which apps Siri, Search, and suggestions can access, all from one setting&lt;br&gt;
-– Granular text selection lets you select and copy just the part of a Siri response you need&lt;br&gt;
-– Siri AI is available in more languages, with support tor French, Japanese, Korean, Portuguese, and Spanish. Siri AI is not available in the EU or mainland China&lt;/p&gt;
-&lt;p&gt;Other&lt;br&gt;
-– Suggestions in Messages help you take action based on the context of your conversations, like adding a Calendar invite for a dinner&lt;br&gt;
-– Shared Albums in Photos adds the ability to edit captions and comments, to avoid adding duplicate photos, and can display a reminder before albums expire so participants can save important photos and videos&lt;br&gt;
-– Support for SynthID watermarking to help identify whether an image was generated or modified with generative tools in Photos and Image Playground&lt;br&gt;
-– The Home tab in the Podcasts app offers two separate sections for New Episodes and Continue Playing, letting you find the latest updates from your shows and then pick up where you left off&lt;br&gt;
-– Friends tab in the Games app provides context on friend suggestions and shows recent games played on friends’ player pages&lt;br&gt;
-– Simple Profiles in the Apple TV app lets everyone in your household have their own profile, with recommendations that fit what they like to watch&lt;br&gt;
-– FaceTime supports adding a third party sign language interpreter or live captioner to a call&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2&gt;iOS 27.2 IPSW Firmware Download Links&lt;/h2&gt;
-&lt;p&gt;The links below point iOS 27.2 IPSW on Apple CDN servers:&lt;/p&gt;
-
-&lt;h3&gt;iPadOS 27.2 IPSW&lt;/h3&gt;
-
-&lt;p&gt;Don’t forget to update your other Apple devices as well, most of which also received software updates today.&lt;/p&gt;
-&lt;h3&gt;Wait, iOS 27.2? What happened to iOS 27.1?&lt;/h3&gt;
-&lt;p&gt;As far as versioning and numerical releases go, you may have noticed this is iOS 27.2 and iPadOS 27.2, along with MacOS 27.2 and other OS 27.2 updates… and yes that means iOS 27.1, iPadOS 27.1, MacOS 27.1, and all OS 27.1 releases, were skipped by Apple. Why that is the case is not clear, but if you are confused by missing that interim update, don’t be, OS 27.2 is where we are all at with these updates.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"/>
-    <published>2026-10-26T21:09:58+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136149</id>
     <title>MacOS Tahoe 26.7.2 &amp; MacOS Sequoia 15.8.2 Security Updates Released</title>
@@ -594,5 +481,55 @@ Pro, iPhone 15 Pro Max)&lt;br&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/05/run-mac-os-x-tiger-snow-leopard-lion-etc-on-apple-silicon-macs-with-virtual-intel-mac/"/>
     <published>2026-11-05T16:40:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136247</id>
+    <title>Deals: Up to $250 Off M5 MacBook Air</title>
+    <updated>2026-11-06T23:56:03+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;Amazon is now cutting up to $250 off the price of the M5 MacBook Air in select models, colors, and configurations. Up to $250 Off M5 MacBook Air 15&amp;#8243; 15&amp;#8243; M5 MacBook Air &amp;#8211; 16GB &amp;#8211; 1TB &amp;#8211; $1549 ($250 off) 15&amp;#8243; M5 MacBook Air &amp;#8211; 24GB &amp;#8211; 1TB &amp;#8211; $1799 ($200 off) 15&amp;#8243; M5 ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"&gt;Deals: Up to $250 Off M5 MacBook Air&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"/>
+    <published>2026-11-06T23:56:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136111</id>
+    <title>Get the iPhone Duo Default Wallpapers Here</title>
+    <updated>2026-11-07T00:01:07+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-610x463.jpg" alt="iPhone Duo default wallpapers" class="aligncenter size-large wp-image-136112" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-610x463.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-300x228.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-768x582.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-1536x1165.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/iphone-duo-default-wallpapers-2048x1553.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The iPhone Duo is out and it comes with a beautiful default wallpaper of a sand dune in front of a mountain landscape, that is available in both dark and light versions. &lt;/p&gt;
+&lt;p&gt;While iPhone Duo is a very compelling device that is basically an iPhone that transforms into an iPad, you don’t need to spend several thousand dollars to get the iPhone Duo wallpaper look on any of your own devices, because you can download the default iPhone Duo wallpapers and &lt;a href="https://osxdaily.com/2023/02/02/how-change-wallpaper-macos-ventura/"&gt;set them on your Mac&lt;/a&gt;, &lt;a href="https://osxdaily.com/2022/11/01/how-set-different-wallpaper-home-screen-lock-screen-iphone/"&gt;iPhone, iPad&lt;/a&gt;, or whatever else on your own.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136111"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Click any of the images below to open the full sized version into a new window, save it to your device locally, and set it as your wallpaper. You’ll find two versions of Dark and two versions of Light available, each variation is subtly different.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Dark_2.jpg"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Dark_2.jpg" alt="iPhone duo default wallpaper" class="aligncenter size-large wp-image-136116"&gt;&lt;br&gt;
+iPhone Duo default wallpaper – dark 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Dark.jpg"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Dark.jpg" alt="iPhone duo default wallpaper" class="aligncenter size-large wp-image-136115"&gt;&lt;br&gt;
+iPhone Duo default wallpaper – dark 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Light_2.jpg"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper_A_Light_2.jpg" alt="iPhone duo default wallpaper" class="aligncenter size-large wp-image-136114"&gt;&lt;br&gt;
+iPhone Duo default wallpaper – light 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper-_A_Light.jpg"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/iPhone-Duo-wallpaper-_A_Light.jpg" alt="iPhone duo default wallpaper" class="aligncenter size-large wp-image-136113"&gt;&lt;br&gt;
+iPhone Duo default wallpaper – light 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;These images arrive courtesy of &lt;a href="https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/" target="_blank"&gt;9to5mac&lt;/a&gt; so cheers to them for uncovering the wallpapers. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/06/get-the-iphone-duo-default-wallpapers-here/"/>
+    <published>2026-11-07T00:01:07+00:00</published>
   </entry>
 </feed>
