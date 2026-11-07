@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-07T14:44:43+00:00</updated>
+  <updated>2026-11-07T15:54:26+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1718136556872934810</id>
-    <title>The Legend of Zelda - Nintendo's hit game comes to the Commodore 64 via Goldfinger</title>
-    <updated>2026-10-31T17:05:06+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-dUVoA5QNtS6j1tb32h6lX4RRJVCXdUwQDWZyIiWhYXOT1Ao176b7HxH0SuMImUhWgGxzkprc1CBngGFhIyvLHVuLIr4pKc1mvlsi8Fcg-W6YOlEjvURVjneCGa-tWuOz71p_6MuuRHDnnc0DaSJmXXmXyR25omIPlKrtzzWK-e76tKOpHOQBzsKDTo/w640-h542/zelda.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1718136556872934810" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The iconic NES classic The Legend of Zelda is making its way to the Commodore 64, thanks to a dedicated new port by developer Goldfinger. Built using Aldo Núñez’s commented Assembly source code from GitHub, this project aims to cram Nintendo's massive adventure onto an Easy Flash 3 cartridge. While Goldfinger’s current build slightly exceeds the original NES version's 128 KB limit, they plan to optimize and claw back precious memory during development. The game features full NTSC and PAL auto-detection, and features a complete overworld, dungeon levels, scrolling rooms, functional item screens, and progress saving directly to the cartridge.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/Yn-LmGI8QL0" youtube-src-id="Yn-LmGI8QL0"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Though the developer playfully describes the retro graphics as "lame," the port does have music, sound effects, an authentic attract-mode intro, and complete save-file character creation. Looking ahead, Goldfinger hopes to eventually implement native 1541 floppy disk support to mirror the game's original release on Nintendo's Famicom Disk System. While there are still a few minor bugs to iron out during upcoming playtests, the creator has noted that while game speeds are basically on par with the NES. And there's more to come, it's possible the C64 version could even play with no slowdowns (unlike the NES). Finally the developer's biggest hurdle may be legal; though Goldfinger wants to release the complete source code so the community can improve or repurpose the engine, copyright concerns regarding Nintendo's intellectual property leave the official public release up in the air.&lt;/p&gt;&lt;p&gt;&lt;b&gt;According to CSdb : Contains NO AI generated content&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://www.lemon64.com/forum/viewtopic.php?t=89695&amp;amp;start=45"&gt;Forum Updates&lt;/a&gt; 2) &lt;a href="https://csdb.dk/release/?id=265398"&gt;Download ( Current Version )&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/the-legend-of-zelda-nintendos-hit-game.html"/>
-    <published>2026-10-31T17:05:06+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-1048177900722539092</id>
     <title>Lost Souls - Arcade horror from Megastyle for the C64 ( preorder boxed via Bitmap Soft)</title>
@@ -273,7 +257,12 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">Amiga owners you could be in for a bit of a treat, as Origin Systems PC classic space combat simulator sequel&amp;nbsp;Wing Commander II could be coming to the AMIGA AGA via AcidBottle. Following recent news regarding community efforts to enhance classic Amiga titles with performance boosts and crucial bug fixes, word spread on Facebook that Electronic Arts had launched remastered versions of the</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xegRVZXRRy9VCC4Ep91uaKY49dtlo94HUtmPwjxWkTntY4pQznpRTZ3dCMnAwINMf90nppqMM6PR31SzI0puYEnI_V4MN0TKBsofjNBRmFB3wyKYtQ1T7GRoLSbaKljjHlMtZUhTecKYiVk21lbB6TLbpHVqVisJakz-WNYW2x237St31xBTz2tUAYY/w640-h390/wing.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7597135794086966680" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Amiga owners you could be in for a bit of a treat, as Origin Systems PC classic space combat simulator sequel Wing Commander II could be coming to the AMIGA AGA via AcidBottle. Following recent news regarding community efforts to enhance classic Amiga titles with performance boosts and crucial bug fixes, word spread on Facebook that Electronic Arts had launched remastered versions of the entire Wing Commander series on Steam. This prompted some fans to ask for AI-driven treatment for Wing Commander II, to bring it to the Commodore Amiga. Well it looks like that could be happening, as AcidBottle has answered the call by dropping a major update on a brand-new project titled Wing Commander II Dx.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/SeAVUNq_PZI" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=SeAVUNq_PZI"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The newly teased build is based on the comprehensive Deluxe Edition of the game, fully equipped with extra missions and the highly sought-after speech pack. While AcidBottle is currently keeping another major project in a closed beta phase, this particular release has been pushed out to testers as 100% complete, though the developer notes that some bugs may still linger during this beta period. For the time being, the game is packaged exclusively as a WHDLoad installation to ensure smooth compatibility. Amiga owners need to act fast, as the files will only remain hosted online for a few days to gather community feedback and bug reports before links are officially available.&lt;/p&gt;&lt;p&gt;Craig Coope your request is fulfilled! :D&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;1:) &lt;a href="https://eab.abime.net/showthread.php?t=124315"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/wing-commander-ii-dx-origin-systems-pc.html"/>
     <published>2026-11-07T13:42:49+00:00</published>
   </entry>
@@ -284,7 +273,12 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">Welcome to Ash, an ambitious new platformer currently in development for the Commodore Amiga by Thomas Mayer Foss. The game draws deep inspiration from Norwegian folklore, centering on the traditional tales of Askeladden. Players will guide the underestimated youngest brother on a grand quest to win a princess and half a kingdom. To overcome the game's various obstacles, players can dynamically</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijXOaCfIOhtwvAZEgdna4ZXCp1XdGWSHySxQ4cDyrcbxcoJsTzy2xmgSBdc8KXuKPBZnlxMp1fScUt7ffiglWtM81rtnDEO3pUHYBvhhfkKzZSev1svWPvewnvJqNwLBmbs-lKKGYpvWbqX0QG4ySXFux6QhsDZ6LOJ_vDOCOu6J6CIgqidmM4bTZF9hc/w640-h512/ash.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1447398097806836773" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Welcome to Ash, an ambitious new platformer currently in development for the Commodore Amiga by Thomas Mayer Foss. The game draws deep inspiration from Norwegian folklore, centering on the traditional tales of Askeladden. Players will guide the underestimated youngest brother on a grand quest to win a princess and half a kingdom. To overcome the game's various obstacles, players can dynamically swap between three unique companions met along the way: the Stone Eater, the Light-Footed One, and the One of Thirteen Winters and Seven Summers, each possessing distinct abilities essential for progression. The adventure will span five beautifully detailed worlds, guiding players from dense forests and rugged mountains up into the clouds, ultimately leading to a final showdown at the king's court and the mountain troll's lair.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/JXWV8ydvUwc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JXWV8ydvUwc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Built as a passionate hobby project with a commitment to completion, Foss is designing the game specifically to push original hardware limitations without any AI graphics. The custom game engine is written entirely in Assembler code to deliver rich graphics, complex mechanics, and true parallax scrolling on a standard Amiga 500 OCS with just 512KB chip RAM and 512KB slow RAM. Early gameplay footage showcasing the vibrant forest world confirms the title runs at a smooth 50 frames per second on real hardware. While the game's soundtrack remains a work in progress, Amiga gamers can follow regular devlogs, concept art updates, and full world previews directly on the official project page, Ash - a game for Amiga.&lt;/p&gt;&lt;p&gt;&lt;b&gt;[UPDATE] &lt;/b&gt;A demo has been released with the following being said "  This is an early prototype. The level in this build is a test playground for showing off features, not a real level from the game. Expect rough edges, placeholder content and lots of changes. "&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://luduriusgibs.itch.io/ash"&gt; Source  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/10/ash-lovely-looking-amiga-platformer.html"/>
     <published>2026-11-07T13:53:50+00:00</published>
   </entry>
@@ -295,7 +289,12 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">Even more Amiga news for you today as RMJ and JoeJoe, has released a 1:1 conversion of Konami’s 1982 classic Time Pilot to the Amiga 500 and 1200. Rather than a standard emulation or loose recreation, this involved translating the original arcade machine's Z80 processor instructions entirely into 68000 assembly code, instruction by instruction. Furthermore, this conversion replicates the intense</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWlM3ZtO0kY1ZzmxDZ0R8aQRZZ_L_r7nW5AfPuyigx3SgO92ovQm2ncMEBctlHfm14HuS_gWUlpse50YETSgv4URqJrvi9sEhfkUWsSsQK_qxcExIHBHYLrTSHIhvI1A6PUxJLnO8N_OzFFhJxwObQrGDnIMF5RpmZNW0Y7E58HZuqPOlxT5hu3dsMaxc/w484-h640/time.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4370057883602738430" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Even more Amiga news for you today as RMJ and JoeJoe, has released a 1:1 conversion of Konami’s 1982 classic Time Pilot to the Amiga 500 and 1200. Rather than a standard emulation or loose recreation, this involved translating the original arcade machine's Z80 processor instructions entirely into 68000 assembly code, instruction by instruction. Furthermore, this conversion replicates the intense aerial combat of the multidirectional shooter, where players pilot a jet through an indefinitely scrolling open airspace. Each distinct stage shifts the battlefield to a completely different historical time period, staying completely faithful to the legendary arcade game originally distributed by Centuri and Atari.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/iRSdXrfKTRQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iRSdXrfKTRQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;According to the wiki page "this game originally dominated arcades before seeing early home ports on systems like the Atari 2600, MSX, and ColecoVision in 1983. While Konami would later pivot the series with a top-down arcade sequel in 1984, Time Pilot '84, that follow-up completely abandoned the signature time-travel theme in favour of a purely futuristic backdrop." By focusing strictly on the charm of the 1982 original, RMJ and JoeJoe have delivered a rather decent retro preservation project that gives both standard OCS Amiga 500 users and AGA Amiga 1200 owners a way to experience one of gaming's foundational arcade shooters.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Although the website description does look as if it was done by AI, there's no mention if the game was developed with the help of AI either on the page or as a disclaimer. So make of that as you will.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://rmjoejoe.itch.io/timepilot"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/time-pilot-konamis-1982-arcade-game-has.html"/>
     <published>2026-11-07T14:27:41+00:00</published>
   </entry>
@@ -306,8 +305,29 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">The upcoming Commodore 64 platform adventure, Captain Victor Stormbeard and the Undead Treasure by KD Software, has officially been teased with another playable demo. Commodore 64 enthusiasts can now download and test the initial stage of this highly anticipated title, offering a substantial look at what the full game will provide. In fact if you do end up playing it, you'll experience the</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCIpj-HOLB7WU1GcNfk6rrOBYo_HUA7d8qlZ47BBpXW1GVZnwPqhhthYdvMeWx1XWfQ-zhQhFGQcwc2PJlL_lL0FTUETKYr1Pa2XjbPrkxonIXV4jaR4TWNGr3VScJJqWyJ9QWN03xTht4kQoNk_uvBEwmb_5nw3YsEfS2rpSG8Mpt_lNDSHjw2lbbHWk/w640-h436/captain.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5349071516440319180" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The upcoming Commodore 64 platform adventure, Captain Victor Stormbeard and the Undead Treasure by KD Software, has officially been teased with another playable demo. Commodore 64 enthusiasts can now download and test the initial stage of this highly anticipated title, offering a substantial look at what the full game will provide. In fact if you do end up playing it, you'll experience the complete third and fourth level of the game, featuring 20 interconnected screens to explore, enemies to defeat, secrets to discover, and treasures to collect.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/vMbk-pFa_18" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vMbk-pFa_18"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The latest preview for the Commodore 64 title Captain Victor Stormbeard and the Undead Treasure sheds light on the game's dark story setup with a souls-like design. Players step into the boots of a daring pirate captain who is explicitly driven by tales of a mythical, long-lost fortune buried deep within a heavily cursed island—a place where every previous treasure hunter has vanished without a trace. The island is no longer what it once was. It is now overrun by the undead, filled with deadly traps, forgotten passages, and remnants of those who failed. Every step forward brings you closer to the treasure… but also deeper into danger. To succeed, you must explore carefully, find keys to unlock new paths, gather what remains of lost riches, and survive encounters with both enemies and the environment itself.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://kdebczynski.itch.io/captain-victor-stormbeard-and-the-undead-treasure-demo"&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/06/captain-victor-stormbeard-and-undead.html"/>
     <published>2026-11-07T14:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6273452749431752182</id>
+    <title>Pinball Illusions – The Vikings table arrives on the Amiga AGA via PC {AI WIP}</title>
+    <updated>2026-11-07T15:54:26+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5SsiWLeszMANKKnNtpTFtepIzRpUB6y5sqWVkubtOPcTKxhaZJjoFvqj0l2Isf9IPwha0pqlf_zNy6gck8G6nUO6qb56au1iO_OuZiVNb030ObUDby3d-S8eSjkZ5PJU9ru97W1e7McQ_KMkEyScBSXoaetVW0uPW0hq5Zkg4mDKPOdaROM2KYpLuTGQ/w640-h442/vikings.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6273452749431752182" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well, here's some interesting news for the weekend, as the elusive fourth table, The Vikings, is unofficially making its way to the Amiga A1200 (AGA). While the original 1995 release of Pinball Illusions famously included only three tables on the Amiga, the PC version was fortunate enough to receive the Norse-themed addition. Now, thanks to a dedicated developer by the name of MrDig, with the help of Claude AI to migrate the PC data, the table is being converted to run natively on the original Amiga engine. The port integrates into the classic menu as a proper fourth selection, complete with its own dedicated high-score list, menu picture, and custom info text.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/-ok4k_HSo-Q" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-ok4k_HSo-Q"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The project has already achieved a small milestone, with full gameplay proving highly stable on both physical A1200 hardware and the FS-UAE emulator. Packed using Imploder to save valuable chip RAM, the conversion successfully runs all core mechanics, including the dot-matrix ship mini-game, Thor and Labrador multiballs, and end-of-ball bonuses. While the table is fully playable via hard-disk installation and WHDLoad, the developer is currently polishing the remaining animations, synchronising the audio with the PC original, and exploring an optional feature to centre the game screen on modern monitors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Via the sourced linked forum thread you will find table4 bin files you can place in the WHDLoad version "PinballIllusions v2.2 AGA". See the readme.txt for instructions. Expect bugs, and do report them (preferably screenshots/videos of the bugs) so I can feed those to claude and make it better.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124334"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/pinball-illusions-vikings-table-arrives.html"/>
+    <published>2026-11-07T15:54:26+00:00</published>
   </entry>
 </feed>
