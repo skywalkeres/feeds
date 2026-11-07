@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-06T20:52:23+00:00</updated>
+  <updated>2026-11-07T14:44:43+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,70 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8936525152229534209</id>
-    <title>Roc'n Rope - Konami's 1983 arcade climber for the Commodore 64 via BrokenBytes</title>
-    <updated>2026-10-31T10:52:33+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkaaGiIcoaxk6xDq5z7SlldrcBl-QN8QXocqhhcC_45ur8SL-SIlAq_s8qin-Uzi45LQL8_hyphenhyphenYUL6-9z2hbQ8qUidaxCQPESUwSAxKIIT4W5ZncvnqtErg_SLUpqX_FEf4RH1pRvOf9dZ_SzjoE_sn-nfibSj-sP3vZhpWaRNaQjQ1zZ2rhO3d43ZlbaM/w640-h454/roc.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8936525152229534209" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Broken Bytes has began a project to bring over Konami’s 1983 arcade classic Roc’n Rope to the Commodore 64 without any AI! This faithful conversion tasks players with ascending treacherous, multi-tiered stages using nothing but a harpoon gun and sheer determination to reach a mythical phoenix. Navigating the vertical landscapes requires timing, as players must anchor ropes across treacherous gaps and climb to safety while dodging a barrage of falling rocks, aggressive dinosaurs, and hostile cavemen. To survive the onslaught, climbers can blind foes with a flashlight, snatch up power pills and feathers for a competitive edge, and chain together actions to keep their high-score bonus ticking across four distinct environments—ranging from jungle ledges, icy caves, spinning wheels to a towering waterfall.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/e_hboNheRw4" youtube-src-id="e_hboNheRw4"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The presentation stands out by utilizing full-screen overscan to deliver an impressive 320×248 pixel playfield that bleeds directly into the C64 borders, keeping the HUD cleanly tucked below the action. The technical wizardry extends to the physics engine, which employs sub-pixel positioning and frame timing tailored to PAL refresh rates to recreate the exact feel of the original cabinet. Dynamic rope mechanics ensure that climbing feels perfectly fluid as well, with the software seamlessly shifting anchored rope segments into bitmap data when the screen becomes crowded with prehistoric threats. Finally the four detailed worlds within the game make full use of the C64 palette.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Code: Antonio Savona&lt;/li&gt;&lt;li&gt;Graphics: Steve Day&lt;/li&gt;&lt;li&gt;Music &amp;amp; sound: Aldo Chiummo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;[UPDATE] &lt;/b&gt;: I've been told the development status hasn't been updated, but the game is out now!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://brokenbytes.itch.io/roc-n-rope"&gt;Download&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/rocn-rope-konamis-1983-arcade-climber.html"/>
-    <published>2026-10-31T10:52:33+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2677946777368974572</id>
-    <title>Van Helsing - Could this be another C64 hit from GriffonSoft and Psytronik Software?</title>
-    <updated>2026-10-31T11:14:13+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQ1Rmw84Ql-B2qP4_MLt7wq3dACEImgwnm62jnJXUjm3sDLsM1crKMFlJcnjsnYTqHkj-QHV6VeeQD-Cq_XoVkvf2oCvvORkm75CAL9Dra_YoRsonNo7K3LYqbw4VIfATaMfTS5dYtuzTi2cv90lBpyqu1zt0V1zbbuNbkg9S-rpD4XKsqiU2VTnBD7A/w640-h406/van.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2677946777368974572" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Psytronik Software, the retro-publishing powerhouse behind recent hits like Sherwood and Musketeer, has officially launched Van Helsing on the Commodore 64. Developed by GriffonSoft as their most ambitious project to date, this atmospheric side-scroller transports players back to the grim autumn of 1893. The story kicks off during a celebratory gathering at the Harker residence, marking Jonathan's return from Transylvania, which is abruptly shattered by a bloodcurdling scream. A horrific, winged creature tears through the balcony to abduct Lucy Westenra into the night, leaving behind nothing but a gruesome trail of blood. Stepping into the boots of the legendary monster hunter Van Helsing, players must bravely pursue the fiend directly into Dracula’s dark domain, fighting off hordes of terrifying enemies across eight massive, intricately detailed scrolling levels.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/1VVwFneLE2A" youtube-src-id="1VVwFneLE2A"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The game boasts ultra-responsive controls and a flawlessly animated protagonist. Combat is highly dynamic, giving players an arsenal of collectable weaponry to fend off Dracula's forces, alongside native two-button joystick support that separates firing from jumping for tighter platforming. The title offers global accessibility with native PAL and NTSC compatibility, and looks to run flawlessly on the Commodore 64 as well as modern setups like the C64 Mini, Maxi, and Ultimate. For retro collectors looking to physicalise their collection, the deluxe digital download bundle packages the full game alongside its official soundtrack, stunning promotional artwork, and printable disk labels and sleeves.&lt;/p&gt;&lt;p&gt;( VIDEO SOON )&lt;/p&gt;&lt;p&gt;&lt;b&gt;CREDITS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Code - Ola Zandelin&lt;/li&gt;&lt;li&gt;Music + SFX - Saul Cross&lt;/li&gt;&lt;li&gt;Graphics + Inlay Artwork - Dennis Gustafsson&lt;/li&gt;&lt;li&gt;Key testers - Daniel Zandelin, Mikael Linusson, Dan Saedén, Åke Forslund, Ditlew.&lt;/li&gt;&lt;li&gt;Tape Loading + Cartridge intro music - Richard Bayliss&lt;/li&gt;&lt;li&gt;Tape Loader Source - Martin Piper&lt;/li&gt;&lt;li&gt;Tape Master - Richard Bayliss&lt;/li&gt;&lt;li&gt;Cartridge Coding + Disk Loader - Mike Robertson&lt;/li&gt;&lt;li&gt;Packaging - Jason 'Kenz' Mackenzie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; 1) &lt;a href="https://psytronik.itch.io/vanhelsing"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/van-helsing-could-this-be-another-c64.html"/>
-    <published>2026-10-31T11:14:13+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3996774564813249617</id>
-    <title>Cauldron - Halloween Edition - A brilliant game from the 1980's gets an improvement via AI/Devil-System</title>
-    <updated>2026-10-31T12:51:03+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivb6V6chUwuysgDVsmSGUVN3bUFxU24f1JGkjmBD16yYg63lmhva9HsWTvtW2hOOVxCVIaFsnZlGqrR8ig6DWkYv73JsQcKycisUN5w1H3o8_CMs-Jnkvh_ZFyKO9CsICGEhQaCEXpQU5X2VJIYhjfXHsgdPlRMTQ2dm4VAdgVza99qHQalVtGOtXGOHQ/w640-h438/cauldronm.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3996774564813249617" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Devil-System has resurrected Palace Software’s 1985 classic with the release of Cauldron: Halloween Edition for the Amstrad CPC. Originally designed by Steve Brown and Richard Leinfellner as a genre-blending platformer and horizontally scrolling shoot 'em up, the game follows a witch's perilous quest to defeat the "Pumpking" and claim her title as the Witch Queen. While the original release garnered praise for its dual gameplay modes and visuals, it was notoriously infamous for its punishing, excessive difficulty. This new edition helps that issue by packing in three distinct difficulty levels, a dedicated training mode for relaxed exploration, a built-in map, and modern conveniences like a pause feature, a high-score table, and essential game-saving capabilities across four supported languages.&lt;/p&gt;&lt;p class="separator"&gt;More detail in the trees&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/T49b8i369Ys" youtube-src-id="T49b8i369Ys"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Furthermore this improved version also includes both a "Classic" and "Enhanced" mode on every single disk, allowing players to choose between the familiar nostalgic aesthetic or a refreshed presentation featuring updated details such as the trees in the image above. Beneath the hood, the controls and physics have been completely overhauled as well introducing gradual acceleration, gentle braking, and fluid animations to match. Combined with optimized rendering and a tuned gameplay pace, navigating the treacherous world on a broomstick has never felt smoother. Although purists like us, would probably prefer to stick to the insanely difficult original loaded up on a green screen monitor ;)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://cauldron.devil-system.de/index.html?lang=en"&gt;Source &lt;/a&gt; 2) &lt;a href="https://youtu.be/3VRv-3jQ0Mg"&gt;Original Game&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/cauldron-halloween-edition-brilliant.html"/>
-    <published>2026-10-31T12:51:03+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4629459277302773246</id>
-    <title>Super Mario Land ZX - Gameboy Super Mario Land arrives on the ZX Spectrum via AI/kirby2000</title>
-    <updated>2026-10-31T16:41:50+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUgoh1u98g2bjlbb3fLiatY3IDMS902KoXuYxvTIMw5COiI3J8aQuTBr1pbgGP8bWgm0YEL-OGMzwivj6_SHaDEjp9PrTN2q8CuLpVPjGrPPwPZOYauHMYdTVP-EJ8n-k3ZSmZsivHXXYi6D8tuwM4ngDiPAObXCPKf0ti0eljuFWvIzbw9NF5LryJmVM/w640-h464/super.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4629459277302773246" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kirby2000 has released a public beta of Super Mario Land ZX for the ZX Spectrum 128K. This AI demake crams Nintendo's entire 1989 Game Boy launch title into a single 128K load. Players can tackle all 12 levels across four distinct worlds using either a keyboard or a Sinclair joystick. Every single element of the original looks to have been converted, including the memorable submarine and aeroplane shoot-’em-up stages, alongside 18 tunes rearranged for the Spectrum's AY audio chip. While the game is in beta however, the creator is currently seeking community feedback on this early build, expressing a particular interest in how the software performs when running on real, hardware.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/EuSlEU3ItYg" youtube-src-id="EuSlEU3ItYg"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The original game boy version sold 25 million copies, cementing itself as the fourth best-selling Game Boy title of all time. Though brief, the 1989 original was highly praised for successfully shrinking Mario's side-scrolling formula into a pocket-sized handheld experience, notably introducing Princess Daisy to the franchise (wiki). The game's massive success eventually birthed Super Mario Land 2: 6 Golden Coins and Wario Land, which launched Wario's own standalone spin-off series. While official re-releases have brought the classic to the Nintendo 3DS Virtual Console and Nintendo Switch Online, it's still nice to play this game again, albeit on the ZX Spectrum.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://kirby2000.itch.io/super-mario-land-zx"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/10/super-mario-land-zx-gameboy-super-mario.html"/>
-    <published>2026-10-31T16:41:50+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-1718136556872934810</id>
     <title>The Legend of Zelda - Nintendo's hit game comes to the Commodore 64 via Goldfinger</title>
@@ -329,5 +265,49 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/the-curse-of-sherwood-sunteam-delivers.html"/>
     <published>2026-11-06T20:52:23+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7597135794086966680</id>
+    <title>Wing Commander II Dx - Origin Systems PC space combat sim sequel could be coming to the Amiga AGA</title>
+    <updated>2026-11-07T13:42:49+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Amiga owners you could be in for a bit of a treat, as Origin Systems PC classic space combat simulator sequel&amp;nbsp;Wing Commander II could be coming to the AMIGA AGA via AcidBottle. Following recent news regarding community efforts to enhance classic Amiga titles with performance boosts and crucial bug fixes, word spread on Facebook that Electronic Arts had launched remastered versions of the</content>
+    <link href="https://www.indieretronews.com/2026/11/wing-commander-ii-dx-origin-systems-pc.html"/>
+    <published>2026-11-07T13:42:49+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1447398097806836773</id>
+    <title>Ash - A lovely looking Amiga platformer based on the Norwegian folk tales of Askeladden is teased [UPDATE]</title>
+    <updated>2026-11-07T13:53:50+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Welcome to Ash, an ambitious new platformer currently in development for the Commodore Amiga by Thomas Mayer Foss. The game draws deep inspiration from Norwegian folklore, centering on the traditional tales of Askeladden. Players will guide the underestimated youngest brother on a grand quest to win a princess and half a kingdom. To overcome the game's various obstacles, players can dynamically</content>
+    <link href="https://www.indieretronews.com/2026/10/ash-lovely-looking-amiga-platformer.html"/>
+    <published>2026-11-07T13:53:50+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4370057883602738430</id>
+    <title>Time Pilot - Konami's 1982 Arcade game has been ported over to the Amiga</title>
+    <updated>2026-11-07T14:27:41+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Even more Amiga news for you today as RMJ and JoeJoe, has released a 1:1 conversion of Konami’s 1982 classic Time Pilot to the Amiga 500 and 1200. Rather than a standard emulation or loose recreation, this involved translating the original arcade machine's Z80 processor instructions entirely into 68000 assembly code, instruction by instruction. Furthermore, this conversion replicates the intense</content>
+    <link href="https://www.indieretronews.com/2026/11/time-pilot-konamis-1982-arcade-game-has.html"/>
+    <published>2026-11-07T14:27:41+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5349071516440319180</id>
+    <title>Captain Victor Stormbeard And The Undead Treasure - An upcoming C64 platformer from KD Software gets a demo</title>
+    <updated>2026-11-07T14:44:43+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">The upcoming Commodore 64 platform adventure, Captain Victor Stormbeard and the Undead Treasure by KD Software, has officially been teased with another playable demo. Commodore 64 enthusiasts can now download and test the initial stage of this highly anticipated title, offering a substantial look at what the full game will provide. In fact if you do end up playing it, you'll experience the</content>
+    <link href="https://www.indieretronews.com/2026/06/captain-victor-stormbeard-and-undead.html"/>
+    <published>2026-11-07T14:44:43+00:00</published>
   </entry>
 </feed>
