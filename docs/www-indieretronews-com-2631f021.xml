@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-08T14:35:33+00:00</updated>
+  <updated>2026-11-08T18:58:10+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-593141366988816857</id>
-    <title>The House on the Borderland - First person survival horror game for the C64 by AI/Michael Cox</title>
-    <updated>2026-11-02T14:55:06+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvT4hQKGzZzLNu9lKZPhRqvtLsKg7USr4dv9Qk8LOq6lHE3xAIXJGwg2-ZHdFA0Ysj_RdSSZvl_lF8SSJntTygjpMza8MPN7b-mILZuB2MNkHyEO6P7HNhzSDc-2WFVdXA6VEgwCePYLL-cquaLMScr9nK4ZpJP1eDWC828n0b4ntAxrt4h3kgxORS4G8/w640-h402/horror.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-593141366988816857" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Another C64 game to play with the release of The House on the Borderland, a first person survival horror game created by developer Michael Cox. Drawing direct inspiration from William Hope Hodgson’s classic 1908 novel, the game tasks players with a desperate stand to protect their home, their sister, and their loyal dog from an onslaught of marauding swine-things. Survival hinges on enduring three brutal nights of siege, where daylight hours must be carefully spent resting, repairing fortifications, and tending to the wounded. Compounding the tension is a strict lack of re-supply, forcing players to meticulously ration their starting stock across the entire ordeal while managing a unique "dread" meter. If this gauge climbs too high due to darkness, eerie silence, or structural damage, your character's perception will warp, leaving you completely paralysed by fear.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/8N5bFRobcWo" youtube-src-id="8N5bFRobcWo"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Although this game was created with assistance from Claude Code, the game according to the developer was extensively play-tested on actual Commodore 64 hardware. While the gameplay concept, intricate design, and retro graphics are entirely original creations, the game's audio design evolved uniquely during production; the music was carefully adapted over time, and the eerie sound effects actually originated as AI-generated placeholders that proved effective enough to be kept for the final release. So if this sounds like your sort of horror, make sure to check it out below.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Sound&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://shinmc.itch.io/the-house-on-the-borderland"&gt;Source &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/the-house-on-borderland-first-person.html"/>
-    <published>2026-11-02T14:55:06+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-3242451862770233100</id>
     <title>Tiltrune - A room flipping puzzler for the Amiga and C64 by AI/Gaboo Arts Entertainment</title>
@@ -304,5 +288,16 @@
     <content type="html">On this Remembrance Sunday, I thought it would be worth mentioning that the legendary MS-DOS combat flight simulator Aces of the Pacific, has un-officially received a modern PC port. Dubbed Aces of the Pacific: Enhanced, this project was developed by Kylofon through reverse-engineering with the help of AI. While completely revitalizing the classic with upgraded modern performance and improved</content>
     <link href="https://www.indieretronews.com/2026/11/aces-of-pacific-ms-dos-combat-flight.html"/>
     <published>2026-11-08T14:35:33+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3950889416921508373</id>
+    <title>Maldita Castilla - Locomalito's awesome platformer could be coming to the Amiga (AGA) via MainakeProject</title>
+    <updated>2026-11-08T18:58:10+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">An exciting new release is headed to the Commodore Amiga AGA, courtesy of developer MainakeProject. Announced via itch io, this is an upcoming port of Maldita Castilla (also known as Cursed Castilla), a critically acclaimed action-platformer originally created by Locomalito in 2012. Developed with the full blessing and support of the original creator, this homebrew port utilizes authentic game</content>
+    <link href="https://www.indieretronews.com/2026/11/maldita-castilla-locomalitos-awesome.html"/>
+    <published>2026-11-08T18:58:10+00:00</published>
   </entry>
 </feed>
