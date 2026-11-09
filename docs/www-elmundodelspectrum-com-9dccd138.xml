@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-05T10:47:58+00:00</updated>
+  <updated>2026-11-09T18:09:19+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,102 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709738</id>
-    <title>Flashback podría llegar al ZX Spectrum</title>
-    <updated>2026-09-21T08:39:57+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/flashback-spectrum.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Uno de los grandes clásicos de los años 90 podría acabar teniendo su propia versión para ZX Spectrum. Dmytro Arkhypenko ha mostrado en vídeo sus primeros avances con Flashback y, pese a encontrarse todavía en una fase muy temprana, las animaciones de Conrad resultan sorprendentemente fluidas.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Hay proyectos que llaman la atención simplemente por lo loco de la propuesta. Y llevar Flashback al ZX Spectrum entra de lleno en esa categoría. ¿Quién se puede imaginar que Flashback es posible en el Spectrum? Sí, tuvimos una versión de Prince of Persia pero esto podría ser incluso todavía más complicado de llevar a cabo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Sin embargo Dmytro Arkhypenko ha mostrado públicamente un primer intento de trasladar a la máquina de Sinclair el mítico título de Delphine Software, con un vídeo de casi cinco minutos en el que ya puede verse a Conrad moviéndose por buena parte del primer nivel.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Por ahora hay que hablar de una demostración en desarrollo y no de una conversión terminada. El propio Arkhypenko define el trabajo como un primer intento de portar Flashback al Spectrum. Sin embargo, lo mostrado resulta especialmente prometedor porque uno de los aspectos más difíciles de trasladar del original parece haber sido precisamente uno de los primeros en los que ha centrado sus esfuerzos: las animaciones de Conrad.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Según explica su autor, ya se han implementado la mayoría de los movimientos del protagonista, incluyendo la posibilidad de agacharse, correr, realizar la característica transición de la carrera a una parada brusca, saltar e incluso algunas de las animaciones relacionadas con el uso del arma.&lt;/p&gt;
-
-
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;“Este es un primer intento de portar Flashback a ZX Spectrum. Se han implementado la mayoría de las animaciones de Conrad, el personaje principal, incluyendo agacharse, transiciones de correr a detenerse bruscamente, saltar y algunas animaciones de armas”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y precisamente es ahí donde esta primera demostración sorprende especialmente. El movimiento de Conrad conserva buena parte de esa sensación de fluidez que convirtió al juego original en algo tan reconocible. Ver al personaje correr, detenerse o saltar con movimientos tan cercanos a los que recordamos del clásico resulta especialmente llamativo teniendo en cuenta las enormes diferencias técnicas entre las máquinas para las que fue concebido Flashback y el hardware del ZX Spectrum.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El vídeo permite recorrer el escenario selvático con una soltura realmente notable. Visualmente todavía estamos ante un trabajo en construcción, pero la intención de reproducir no solamente los escenarios, sino también la personalidad de las animaciones originales, resulta evidente desde los primeros segundos.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Queda, eso sí, muchísimo trabajo por delante. El primer nivel todavía no contiene enemigos, objetos ni ascensores y todas las puertas permanecen abiertas. Ni siquiera es posible completar actualmente todo el recorrido, ya que el puente generado mediante un campo de fuerza todavía no funciona.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Arkhypenko lo explica claramente:&lt;/p&gt;
-
-
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;“El primer nivel no tiene enemigos, ni objetos, ni ascensores, y todas las puertas están abiertas. Sin embargo, esto no es suficiente para recorrer el nivel: el puente de campo de fuerza está desactivado, y eso es probablemente lo que debería arreglar a continuación”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Por tanto, estamos ante una especie de prueba técnica avanzada del movimiento y del escenario, más que ante una versión jugable propiamente dicha. No se ha publicado por el momento una demo para descargar y tampoco se ha concretado hasta dónde pretende llegar finalmente el proyecto.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Pero lo cierto es que lo visto abre unas posibilidades tremendamente interesantes. Trasladar un juego con la complejidad de Flashback al Spectrum implicaría enfrentarse no solamente a sus gráficos y animaciones, sino también a enemigos, objetos, ascensores, disparos, inventario, puzles, cinemáticas y toda la lógica necesaria para recrear sus diferentes escenarios. Si el desarrollo sigue avanzando, estaremos sin duda ante uno de esos proyectos que merece la pena seguir muy de cerca.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Un clásico que marcó una época&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Flashback apareció originalmente en 1992, desarrollado por la compañía francesa Delphine Software y con Paul Cuisset como principal responsable del proyecto. Aunque originalmente se concibió para Mega Drive, la primera plataforma en la que estrenó este título fue el Amiga. Después acabaría apareciendo en numerosos sistemas, entre ellos MS-DOS PC, Super Nintendo, Mega-CD, 3DO, CD-i, Macintosh o Atari Jaguar. Se convirtió además en uno de los mayores éxitos internacionales del videojuego francés y llegó a ser reconocido por Guinness como el videojuego francés más vendido de su época.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Se trataba de una mezcla de plataformas, acción, aventura y resolución de pequeños puzles, desarrollada desde una perspectiva lateral y con un tratamiento marcadamente cinematográfico. El jugador controlaba a Conrad B. Hart, que despertaba sin memoria en las junglas de Titán y debía comenzar una búsqueda para descubrir su identidad y desentrañar una trama relacionada con una raza extraterrestre infiltrada entre los humanos. Pero si por algo destacó especialmente Flashback fue por sus extraordinarias animaciones, realizadas mediante técnicas de rotoscopia, que proporcionaban a Conrad unos movimientos de enorme realismo para comienzos de los años noventa.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Más de tres décadas después, contemplar esos mismos movimientos intentando abrirse paso dentro de un ZX Spectrum resulta casi inevitablemente fascinante. Queda mucho camino por recorrer y todavía es pronto para saber hasta dónde llegará Dmytro Arkhypenko con esta conversión, pero este primer vídeo deja una excelente impresión. Si aquello que hoy es una demostración termina transformándose algún día en un Flashback completo y jugable en Spectrum, podríamos encontrarnos ante una de las conversiones más sorprendentes de los últimos tiempos.&lt;/p&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/flashback-podria-llegar-al-zx-spectrum/"/>
-    <published>2026-09-21T08:39:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709741</id>
     <title>Munch Infinity, un Pacman griego súper adictivo</title>
@@ -2045,5 +1949,63 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/zxgen-nace-un-nuevo-generador-de-juegos-para-zx-spectrum/"/>
     <published>2026-11-05T10:47:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709887</id>
+    <title>Una BBS como las de antaño lista para trastear desde un Spectrum real</title>
+    <updated>2026-11-09T18:09:19+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/Televisor_retro_y_cable_Ethernet_en_escritorio.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;De entre todas las cosas que existen para cacharrear con un Spectrum, lo que siempre nos ha llamado más la atención es &lt;a href="https://www.elmundodelspectrum.com/twitter-en-un-spectrum/" target="_blank" rel="noreferrer noopener nofollow"&gt;conectarlo en red o navegar por internet con él&lt;/a&gt;. Hoy os vamos a hablar de un proyecto que tiene la tira de años pero que recientemente ha sido rediseñado y del que seguramente no teníais noticias (hasta ahora).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hace ya una década que Outsoftware puso en marcha su primer BBS dedicado al Spectrum. Ahora lo ha rediseñado por completo y lo presenta como &lt;strong&gt;bbs.outsoftware.it&lt;/strong&gt;, un servicio renovado que funciona desde 2016 y que acaba de dar un salto importante.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El nuevo BBS ofrece un montón de servicios para usuarios registrados, aunque también permite acceso gratuito como invitado para probar varias funciones. Lo más interesante para la comunidad Spectrum es que se puede conectar directamente desde una máquina original. Normalmente se hace con Spectranet y el terminal SnapCTerm, y Simone ha habilitado un acceso/puerto dedicado precisamente para Spectrum.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Quienes no tengan un Spectrum real ni Spectranet pueden probarlo igualmente en línea: en la propia web hay un emulador integrado. La dirección es &lt;a href="https://bbs.outsoftware.it/" target="_blank" rel="noopener"&gt;https://bbs.outsoftware.it&lt;/a&gt; y el acceso Telnet es el clásico: bbs.outsoftware.it puerto 23.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Entre las novedades destaca un quiosco con revistas indexadas. Hay títulos clásicos en inglés como &lt;em&gt;Sinclair User&lt;/em&gt; y &lt;em&gt;Crash&lt;/em&gt;, y también publicaciones más recientes como &lt;em&gt;Retro Magazine&lt;/em&gt; o &lt;em&gt;EZX News&lt;/em&gt; (italianas, pero con contenido en inglés). Se puede buscar un número concreto y leer las reseñas que se han publicado. Simone comenta que es fácil extender lo mismo a &lt;em&gt;MicroHobby&lt;/em&gt; y a otras revistas en español.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El BBS incluye además chat (compatible con otros sistemas como cechatt.pt), descargas de juegos caseros y sesiones de descarga, y muchas otras utilidades. Según su autor, no existe otro BBS de Sinclair con este nivel de servicios. Hace diez años fue el primero; ahora es una evolución total.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En la versión web emulada hay un botón en la parte inferior que muestra diferentes máquinas. Se han emulado unos 15 o 20 ordenadores distintos, incluido el ZX81. Cada máquina tiene su propio acceso, tanto en la simulación de la web como en la realidad: Simone prueba todo en hardware real (tiene las máquinas conectadas y casi todas a Internet). No es solo virtual.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El BBS resulta especialmente interesante para usuarios de ZX Spectrum Next, que ya disponen de un terminal Telnet actualizado que se conecta al puerto 23 y muestra el BBS igual que en un PC. Hay un vídeo de la conexión a la versión antigua aquí: &lt;a href="https://www.youtube.com/watch?v=WTLTgfIPXBA" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=WTLTgfIPXBA&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Según Simone todo está probado en máquinas reales. Le agradecemos que cuente con nosotros para anunciar sus proyectos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Puedes entrar y probarlo en: &lt;a href="https://bbs.outsoftware.it/" target="_blank" rel="noopener"&gt;https://bbs.outsoftware.it&lt;/a&gt;&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/una-bbs-como-las-de-antano-lista-para-trastear-desde-un-spectrum-real/"/>
+    <published>2026-11-09T18:09:19+00:00</published>
   </entry>
 </feed>

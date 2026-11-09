@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-08T18:58:10+00:00</updated>
+  <updated>2026-11-09T18:29:40+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3242451862770233100</id>
-    <title>Tiltrune - A room flipping puzzler for the Amiga and C64 by AI/Gaboo Arts Entertainment</title>
-    <updated>2026-11-02T15:20:19+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQHyndavOIerH2kgSwGeyUR673jtA6s7hVT3jQ6g4FmjrUaOd9XN7YnqkDgcMwJ23pu4owfeHrfDOgFzgUt-XM7qEB0nuN-krfd-fv2k_eMA0yUXo3iVb3U55UoAcM5ysNbvfoWTUuun3QmMVFsZNhwVZFzNmShp4iQaObMrQe2HBfxvEBYGoRSoFqGk/w640-h448/tilt.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3242451862770233100" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Gaboo Arts Entertainment with the help of AI has released Tiltrune, a clever new gravity-shifting puzzle game simultaneously targeting both the Amiga and the Commodore 64. The core mechanic turns the entire room into a mechanism, allowing players to rotate the screen left or right by 90 degrees. This rotation alters gravity, causing the explorer, crates, and gems to tumble into completely new configurations, effectively transforming what was once a blocking wall into a walkable floor. To succeed, players must meticulously plan their moves, pushing crates into position to absorb dangerous falls, dodging lethal spikes, and collecting every single gem before charting a path to the green exit.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;iframe allowfullscreen="" class="BLOG_video_class" src="https://www.youtube.com/embed/QSqjrnnuta4" youtube-src-id="QSqjrnnuta4"&gt;VIDEO&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;The game boasts over 80 main puzzle rooms spread across five distinct vaults, alongside a special final chamber and unlockable post-game bonus challenges. Given the danger of falling debris, the developer has cleverly included a generous 100-state undo buffer and unlimited retries to encourage loose experimentation and creative problem-solving. Completing the package is a suite of features, including par targets, star ratings, and comprehensive performance statistics, all tied together by an animated end-of-run tally and disk-saved high scores.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TILTRUNE for Amiga brings our original Commodore 64 puzzle game (TILTRUNE C64 version) to the Commodore Amiga, with reworked graphics, animated title and reward screens, and Amiga music and sound effects. It preserves the original rooms, rules and controls.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics, Sounds, Text&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://gabooae.itch.io/tiltrune-for-amiga"&gt;Amiga&lt;/a&gt; 2) &lt;a href="https://gabooae.itch.io/tiltrune"&gt;C64&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/tiltrune-room-flipping-puzzler-for.html"/>
-    <published>2026-11-02T15:20:19+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-970984599745390775</id>
     <title>Kizuna - Another monochrome game appears and this time for the ZX Spectrum by Xeif</title>
@@ -329,5 +313,21 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/maldita-castilla-locomalitos-awesome.html"/>
     <published>2026-11-08T18:58:10+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2245471017740024062</id>
+    <title>The Great Giana Sisters - A famous platformer from the 1980's appears on the ZX Spectrum via AI/kirby2000</title>
+    <updated>2026-11-09T18:29:40+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpMgg3H6YBLFIk8FXPkKy_MIcB5DHLhiTdb5FBa6LZ5-1sttAlBNDQWRmDjdyHqoKMq8BwKRdyGHLvU3yHPVlNQrbpRow_lvKJknxwBeaxqPoFOfIQw89jSbgHZpx1fE2IPwPEFsoPEj1t8xV-1UD0SdMnfXDNmMdXMrCBc0hgwNV45Mx1xGnAYwaObJA/w640-h468/giana.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2245471017740024062" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kirby2000 has set his sights on another classic game, as he has released a brand-new unofficial conversion of The Great Giana Sisters for the ZX Spectrum. While a version of the classic platformer was originally reviewed by magazines back in 1988, it was abruptly withdrawn from production before ever hitting store shelves, leaving no known surviving copies. This anticipated release finally fills that decades-old gap in the microcomputer's speccy library, giving fans a chance to experience the legendary title on the ZX Spectrum as if it was released all those years ago by Time Warp with publishing by Rainbow Arts.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/sswv2Qy3YEM" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sswv2Qy3YEM"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/mceWDoc68Dc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mceWDoc68Dc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The ambitious port is a rather decent recreation, packing all 33 original stages of platforming action alongside secret bonus rooms and hidden warps. Players can hunt down eight distinct power-ups, compete for the top spot on a high-score table, and enjoy flexible joystick support covering Kempston, Sinclair, and Cursor setups (with custom key mapping also available). Aside from a multiload version  for 48K speccies, the release even features a fully functional two-player mode, breathing new life into a lost piece of gaming history.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://kirby2000.itch.io/great-giana-sisters-zx"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/the-great-giana-sisters-famous.html"/>
+    <published>2026-11-09T18:29:40+00:00</published>
   </entry>
 </feed>

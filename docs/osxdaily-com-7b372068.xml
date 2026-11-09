@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-07T00:01:07+00:00</updated>
+  <updated>2026-11-09T20:38:01+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,97 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136149</id>
-    <title>MacOS Tahoe 26.7.2 &amp; MacOS Sequoia 15.8.2 Security Updates Released</title>
-    <updated>2026-10-27T20:03:43+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-610x506.jpg" alt="MacOS Tahoe 26 updates and MacOS Sequoia 15 updates" class="aligncenter size-large wp-image-133220" srcset="https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-610x506.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-300x249.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update-768x637.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2025/09/macos-tahoe-update.jpg 1446w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;MacOS Tahoe 26.7.2 and MacOS Sequoia 15.8.2 are available now as security software updates for Mac users who are continuing to run those operating systems. Those users will also find Safari 27.2 available as an update. &lt;/p&gt;
-&lt;p&gt;These updates include hundreds of security patches and fixes making them recommended to all users who are running macOS Tahoe or Sequoia, instead of MacOS 27 Golden Gate.&lt;/p&gt;
-&lt;p&gt;Separately, Apple has also released &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, iOS 26.7.2, iPadOS 26.7.2, iOS 18.7.11, iPadOS 18.7.11, watchOS 27.2, tvOS 27.2, along with updates to just about every other Apple device, so you’ll want to check for and install updates elsewhere too.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136149"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install MacOS Tahoe 26.7.2 or MacOS Sequoia 15.8.2 Update&lt;/h2&gt;
-&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup your Mac with Time Machine&lt;/a&gt; prior to starting the updates:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;From the  Apple menu, go to “System Settings”&lt;/li&gt;
-&lt;li&gt;Go to “General”, and then go to “Software Update”&lt;/li&gt;
-&lt;li&gt;Ignore the prominent “MacOS 27.2” banner, and instead look below that for the small “Other Updates” section, where you can find MacOS Tahoe 26.7.2 or “MacOS Sequoia 15.8.2 available to update instead * &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-610x580.jpg" alt="MacOS Sequoia 15.8.2" class="aligncenter size-large wp-image-136150" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-sequoia-15-8-2-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;* Note that if you click on the (i) info button to get additional information about the MacOS Tahoe or MacOS Sequoia update, you will find that MacOS 27.2 is selected instead. You need to manually unselect that, and select the update you wish to install, &lt;a href="https://osxdaily.com/2026/10/09/how-to-update-macos-sequoia-without-installing-macos-27-golden-gate/"&gt;to avoid accidentally installing MacOS Golden Gate&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The Mac will restart to finish installation.&lt;/p&gt;
-&lt;h2&gt;Direct Download MacOS Tahoe 26.7.2 &amp;amp; MacOS Sequoia 15.8.2 Full Installers&lt;/h2&gt;
-&lt;p&gt;Apple CDN links for the full installers:&lt;/p&gt;
-
-&lt;p&gt;You might also appreciate bookmarking &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;our updated list of all avialable MacOS installers&lt;/a&gt; as a resource for downloads like these.&lt;/p&gt;
-&lt;h3&gt;MacOS Tahoe 26.7.2 Release Notes &amp;amp; MacOS Sequoia 15.8.2 Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes are brief:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;This update provides important security fixes and is recommended for all users.&lt;/p&gt;
-&lt;p&gt;For information on the security content of Apple software updates, please visit this website: https://support.apple.com/100100
-&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Don’t forget to update your other Apple devices and hardware as well, since just about every supported Mac, iPhone, iPad, Apple Watch, HomePod, Apple TV, and Apple Vision Pro, has received an update today, the most prominent being the &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2 / iPadOS 27.2 updates&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate update&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/27/macos-tahoe-26-7-2-macos-sequoia-15-8-2-security-updates-released/"/>
-    <published>2026-10-27T20:03:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136156</id>
-    <title>Apple Updates MacBook Pro &amp; iMac to M6 Chip, iPad Mini with 8.5″ OLED Display</title>
-    <updated>2026-10-27T21:31:18+00:00</updated>
-    <author>
-      <name>Jamie Cuevas</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg" alt="M6 MacBook Pro" class="aligncenter size-large wp-image-136159" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-300x145.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-768x372.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-1536x744.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6.jpg 1760w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has released a series of hardware updates this week, including an updated iPad Mini with A20 chip and OLED display, an iMac with M6 chip, and a 14″ MacBook Pro base model with M6 chip. These products were announced ahead of the &lt;a href="https://osxdaily.com/2026/10/19/apple-pro-and-tell-event-set-for-next-week/"&gt;“Pro and Tell” event&lt;/a&gt; set for tomorrow, which is expected to launch a touchscreen MacBook Pro.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136156"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;14″ MacBook Pro with M6 Chip&lt;/h3&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg" alt="MacBook Pro M6" class="aligncenter size-large wp-image-136159" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-610x295.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-300x145.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-768x372.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6-1536x744.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macbook-pro-m6.jpg 1760w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The base-model MacBook Pro 14″ now includes an M6 chip with 12-core CPU and GPU, better AI performance, and improved memory bandwidth, Wi-Fi 7 support, and is available in the same color options as before. Notably, the new base model MacBook Pro comes with a 1TB SSD, along with 16GB RAM. &lt;/p&gt;
-&lt;p&gt;Pricing begins at $1999, with pre-orders on October 28.&lt;/p&gt;
-&lt;h3&gt;iMac with M6 Chip&lt;/h3&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-610x333.jpg" alt="iMac with M6 chip" class="aligncenter size-large wp-image-136157" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-610x333.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-300x164.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-768x419.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6-1536x839.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/imac-m6.jpg 1912w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has updated the 24″ iMac lineup to include the new powerful M6 chip, which boosts performance considerably with a 12-core CPU and 12-core GPU, and improved AI performance. The iMac M6 comes standard with 16GB RAM and a 256GB storage, and is available in the same set of color options as prior models, including green, blue, purple, yellow, orange, red, and silver. &lt;/p&gt;
-&lt;p&gt;Pricing starts at $1499, with pre-orders starting October 28 and availability on November 6.&lt;/p&gt;
-&lt;h3&gt;iPad Mini with A20 Chip and OLED Display&lt;/h3&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-610x387.jpg" alt="iPad Mini OLED and A20 chip" class="aligncenter size-large wp-image-136158" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-610x387.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-300x190.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-768x487.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled-1536x974.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/ipad-mini-oled.jpg 1874w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The iPad Mini has now been updated to include an A20 Pro chip, and the LCD screen has been replaced with a slightly larger 8.5″ OLED display which allows for darker blacks but comes at the cost of PWM which impacts some users eyes (yours truly included). The device also includes a 12MP center stage front-facing camera, wi-fi 7 support, Apple Pencil support, water and dust resistance, and is available in space grey and silverlight colors.&lt;/p&gt;
-&lt;p&gt;Pricing for iPad Mini now starts at $699 for wi-fi models, and $849 for cellular equipped models. Pre-orders start October 28 for November 6 delivery.&lt;/p&gt;
-&lt;p&gt;–&lt;/p&gt;
-&lt;p&gt;Not yet launched, but expected to arrive tomorrow, is the all-new touchscreen MacBook Pro. Stay tuned for more details on that, as the announcement is made. &lt;/p&gt;
-&lt;p&gt;That all covers the hardware side of things, but don’t forget the software side, where Apple has released a whole bevy of system software updates for nearly every Apple device, including &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, HomePod OS 27.2 with support for Sound Glow, watchOS 27.2, tvOS 27.2, visionOS 27.2, iOS 26.7.2, &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/27/macos-tahoe-26-7-2-macos-sequoia-15-8-2-security-updates-released/"&gt;several hundred security patches are included in both MacOS Sequoia 15.8.2 and MacOS Tahoe 26.7.2&lt;/a&gt; (and yes the same security patches are included the other software updates too).&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/27/apple-updates-macbook-pro-imac-to-m6-chip-ipad-mini-with-8-5-oled-display/"/>
-    <published>2026-10-27T21:31:18+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136165</id>
     <title>Touchscreen MacBook Pro Launched by Apple</title>
@@ -531,5 +440,104 @@ iPhone Duo default wallpaper – light 1&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/06/get-the-iphone-duo-default-wallpapers-here/"/>
     <published>2026-11-07T00:01:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136253</id>
+    <title>iOS 27.2.1 Update Released for iPhone &amp; iPad with Bug Fixes</title>
+    <updated>2026-11-09T18:38:10+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg" alt="updates for iOS 27 and iPadOS 27 are available now" class="aligncenter size-large wp-image-135834" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update.jpg 1024w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;iOS 27.2.1 and iPadOS 27.2.1 have been released by Apple for iPhone and iPad, respectively. These new system software updates include unspecified bug fixes and security fixes, and are recommended for all users to install on their devices.&lt;/p&gt;
+&lt;p&gt;Separately, Apple has also released &lt;a href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"&gt;macOS 27.2.1 Golden Gate&lt;/a&gt;, updates for MacOS Tahoe 26 and Sequoia 15, watchOS 27.2.1, iOS 26.7.3, and iOS 18.7.12 as software updates.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136253"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install iOS 27.2.1 and iPadOS 27.2.1 Update&lt;/h2&gt;
+&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-backup-iphone-ipad-icloud/"&gt;backup iPhone or iPad to iCloud&lt;/a&gt; or a computer before starting a system software update:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the “Settings” app on iPhone or iPad&lt;/li&gt;
+&lt;li&gt;Go to “General”, and then to “Software Update”&lt;/li&gt;
+&lt;li&gt;Select “Update Now” for iOS 27.2.1 or iPadOS 27.2.1 &lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-369x800.jpg" alt="iOS 27.2.1 update" class="aligncenter size-large wp-image-136254" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;Your iPhone or iPad will need to restart to finish installation. &lt;/p&gt;
+&lt;h3&gt;iOS 27.2.1 Update Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes for iOS 27.2.1 update are short:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;iOS 27.2.1&lt;/p&gt;
+&lt;p&gt;This update provides bug fixes and security updates for your iPhone.&lt;/p&gt;
+&lt;p&gt;For information on the security content of Apple software updates, please visit:&lt;br&gt;
+https://support.apple.com/
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2&gt;iOS 27.2.1 IPSW Firmware Download Links&lt;/h2&gt;
+&lt;p&gt;iOS 27.2.1 IPSW files on Apple CDN servers are linked below:&lt;/p&gt;
+
+&lt;h3&gt;iPadOS 27.2.1 IPSW&lt;/h3&gt;
+
+&lt;p&gt;Don’t forget to update your other Apple devices as well, most of which also received software updates today.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"/>
+    <published>2026-11-09T18:38:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136256</id>
+    <title>MacOS Golden Gate 27.2.1 Update with Security Patches &amp; Bug Fixes Released</title>
+    <updated>2026-11-09T20:38:01+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg" alt="MacOS 27 Golden Gate update 27.2.1 is available" class="aligncenter size-large wp-image-136132" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg 1518w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-300x203.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-610x412.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-768x519.jpg 768w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;MacOS 27.2.1 Golden Gate has been released by Apple as a system software update for Mac users. The update includes non-specific bug fixes and security patches, and is recommended for all Mac users running Golden Gate to install. &lt;/p&gt;
+&lt;p&gt;Separately, Apple has released MacOS Tahoe 26.7.3, MacOS Sequoia 15.8.3, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1 update, and more. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136256"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install MacOS 27.2.1 Golden Gate Update&lt;/h2&gt;
+&lt;p&gt;Don’t forget to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup Mac with Time Machine&lt;/a&gt; prior to installing any system software update.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the  Apple menu and go to “System Settings”&lt;/li&gt;
+&lt;li&gt;Go to “General”, and then go to “Software Update”&lt;/li&gt;
+&lt;li&gt;Choose “Update Now” to install MacOS 27.2.1 in software update&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-610x552.jpg" alt="MacOS 27.2.1 update" class="aligncenter size-large wp-image-136258" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-610x552.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-300x271.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-768x695.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-1536x1390.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update.jpg 1704w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The Mac must restart to complete installation.&lt;/p&gt;
+&lt;p&gt;The update is a bit over 3GB in size, and can take a while to install. &lt;/p&gt;
+&lt;p&gt;If you are not currently running MacOS 27 Golden Gate then will instead find an update to MacOS Tahoe or MacOS Sequoia available instead.&lt;/p&gt;
+&lt;h2&gt;MacOS 27.2.1 Golden Gate Full Installer &amp;amp; IPSW Direct Download Links&lt;/h2&gt;
+&lt;p&gt;You can download the full installer or IPSW file for MacOS 27.2.1 from the Apple CDN links below:&lt;/p&gt;
+
+&lt;h3&gt;MacOS Tahoe 26.7.3 &amp;amp; MacOS Sequoia 15.8.3 Full Installer Download Links&lt;/h3&gt;
+
+&lt;p&gt;You can also refer to &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;our updated list of available MacOS installers and IPSW files here&lt;/a&gt; as a helpful resource.&lt;/p&gt;
+&lt;h3&gt;MacOS 27.2.1 Golden Gate Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes are short and nonspecific:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This update provides bug fixes and security updates for your Mac.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Don’t forget to update your other Apple devices as well, as basically every Apple device has an update available, including &lt;a href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1, and more.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"/>
+    <published>2026-11-09T20:38:01+00:00</published>
   </entry>
 </feed>
