@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-09T18:09:19+00:00</updated>
+  <updated>2026-11-10T12:18:59+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,67 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709741</id>
-    <title>Munch Infinity, un Pacman griego súper adictivo</title>
-    <updated>2026-09-24T11:05:06+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;article id="the-post" class="container-wrapper post-content tie-standard"&gt;
-
-		
-
-		&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Gracias a &lt;a href="https://t.me/+WOvg6RFanvcK3Loe"&gt;nuestro canal de Telegram&lt;/a&gt; nos enteramos de la existencia de este juego de origen griego. Poco sabemos de éste ya que no existe una página «oficial» del mismo. Solo sabemos que es griego y obra de AnestisZX y que data de este año. Toda la información que recopilemos sobre su autor la incluiremos en esta entrada.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El juego se llama &lt;strong&gt;Munch Infinity&lt;/strong&gt; y se trata de un Pacman de scroll vertical infinitivo difícil y adictivo como pocos. Las teclas OPQAZ nos permitirán movernos por el típico circuito de Pacman que va bajando hasta el infinitivo a una velocidad considerable. Nuestro objetivo es no morir aplastado ni atrapado por los fantasmas haciendo la máxima puntuación posible.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Para ello contaremos con las típicas esferas que convierten a los fantasmas en azules y por lo tanto en «comibles» así como la tecla Z que nos permitirá ser invisible para nuestros enemigos durante 2 segundos. Esto puede usarse 3 veces por vida.&lt;/p&gt;
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Gráficamente es austero y minimalista. Musicalmente tendremos el típico sonido del «comecome» del pacman así como su melodía típica. Como veréis su fuerte es la jugabilidad y su concepto donde prima la adicción. Lo logra y con nota.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A falta de más información sobre este proyecto (no nos viene mucho material de Grecia) queremos recomendarlo encarecidamente.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Podéis descargarlo aquí: &lt;a href="https://drive.google.com/file/d/17oESQum8p3hg1O6ZIkyB4jKrdvIqF6Th/view?usp=drive_link" target="_blank" rel="noreferrer noopener"&gt;Descargar Munch Infinity (2026) AnestisZX&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Gracias «ste» por avisarnos y por el enlace en Telegram.&lt;/p&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;p class="clearfix"&gt;&lt;/p&gt;
-		
-
-		
-
-		
-	&lt;/article&gt;
-
-	
-	&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/munch-infinity-un-pacman-griego-super-adictivo/"/>
-    <published>2026-09-24T11:05:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709752</id>
     <title>Los Bingueros llegan al Spectrum 47 años después</title>
@@ -2007,5 +1946,109 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/una-bbs-como-las-de-antano-lista-para-trastear-desde-un-spectrum-real/"/>
     <published>2026-11-09T18:09:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709893</id>
+    <title>The Great Giana Sisters llega por fin al ZX Spectrum: la conversión del clásico que nunca vio la luz</title>
+    <updated>2026-11-10T12:18:59+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum-cassette.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Tras casi cuatro décadas de espera, el mítico The Great Giana Sisters (el Mario Bros para ordenadores) llega por fin al ZX Spectrum. El desarrollador kirby2000 (Pete Naylor) acaba de publicar una conversión muy buena de un juego anunciado en revistas pero que nunca llegó a ver la luz.&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;Un clásico que nunca debió faltar en el Spectrum&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;The Great Giana Sisters&lt;/em&gt; nació en 1987 de la mano del estudio alemán Time Warp (bajo el sello Rainbow Arts). Diseñado por Armin Gessert y Manfred Trenz, con una banda sonora inolvidable de Chris Huelsbeck, el juego era la respuesta europea al vacío que existía en ordenadores domésticos: no había &lt;em&gt;Super Mario Bros&lt;/em&gt; en C64, Amiga o Atari ST.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum-1024x800.png" alt="Grear Giana Sisters Spectrum" class="wp-image-197709898" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum-1024x800.png 1024w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum-300x234.png 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum-768x600.png 768w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-spectrum.png 1142w" sizes="(max-width: 1024px) 100vw, 1024px"&gt;&lt;figcaption class="wp-element-caption"&gt;Estéticamente es muy fiel a las capturas que se vieron en revistas&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Rainbow Arts pidió directamente un clon “legalmente distinguible” de Mario, y el resultado fue uno de los plataformas más adictivos y pulidos de la era de los 8 bits. Giana (y su hermana María en modo dos jugadores) sueña y se adentra en un mundo repleto de plataformas, bloques, enemigos estrafalarios (buhos, ojos, langostas, abejas…), power-ups y secretos. El objetivo: encontrar el diamante mágico que le permita despertar.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Fue un éxito inmediato en Commodore 64, Amiga, Atari ST, Amstrad CPC y MSX. Pero Nintendo no tardó en reaccionar. Tras la llegada al mercado británico (a través de Go! / U.S. Gold), Rainbow Arts recibió una “carta desagradable” de Nintendo que detallaba las similitudes de diseño de niveles con &lt;em&gt;Super Mario Bros.&lt;/em&gt; No hubo demanda formal, pero sí un acuerdo extrajudicial y la retirada del juego de las tiendas. El eslogan de la caja británica (“The Brothers are History!”) no ayudó. La versión de ZX Spectrum, que ya estaba en marcha y anunciada, corrió la misma suerte. Si hubieran sido un poco más rápidos también hubiera salido para nuestra máquina y luego hubieran circulado copias pero nada, se perdió en el olvido.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En &lt;em&gt;Crash&lt;/em&gt; número 54 (julio de 1988, página 110) apareció el preview del juego para Spectrum. La revista lo presentaba como la llegada inminente de las “hermanas punk” de Rainbow Arts, un plataformas horizontal de 32 niveles en el que Giana debía explorar un mundo de pesadilla lleno de criaturas y trampas para encontrar el diamante mágico. Se destacaba el estilo cartoon, los power-ups y la jugabilidad adictiva al más puro estilo Mario. Un mes después, en el &lt;em&gt;Crash&lt;/em&gt; 55 (agosto de 1988), el juego recibió una reseña completa y un &lt;strong&gt;Crash Smash del 92%&lt;/strong&gt;, con elogios a su variedad, animación y adictividad (“en términos de jugabilidad, esos Super Mario Bros. han encontrado la horma de su zapato”). Sinclair User y Your Sinclair también lo analizaron.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Nadie sabía entonces que aquella versión nunca llegaría a las tiendas y que no sobreviviría ninguna copia comercial.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-anuncio-spectrum.jpg" alt="Grear Giana Sisters Spectrum" class="wp-image-197709896" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-anuncio-spectrum.jpg 500w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-anuncio-spectrum-208x300.jpg 208w" sizes="auto, (max-width: 500px) 100vw, 500px"&gt;&lt;figcaption class="wp-element-caption"&gt;Anuncio que salió en revistas&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;h3 class="wp-block-heading"&gt;La conversión de 2026: completa y muy bien hecha&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La nueva versión de kirby2000 no es un simple homenaje: es una conversión que recrea &lt;strong&gt;las 33 fases&lt;/strong&gt;, las salas bonus, los warps ocultos y &lt;strong&gt;los 8 power-ups&lt;/strong&gt; originales. Incluye tabla de high-scores, soporte de joystick (Kempston, Sinclair y Cursor) o teclas personalizables, y modo dos jugadores en la mayoría de las versiones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El paquete incluye cuatro versiones para cubrir todas las necesidades:&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;48K multiload&lt;/strong&gt;: cada fase carga desde cinta (un jugador, efectos beeper).&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;48K single load&lt;/strong&gt;: todo el juego en una sola carga (~4 minutos) o snapshot .z80. Un jugador o dos.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;128K&lt;/strong&gt;: música AY completa, animaciones extra, elevadores animados, más enemigos y presentación mejorada. Una o dos cargas (~12 minutos) o .z80.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;+3 disk&lt;/strong&gt;: todo lo anterior más carga en unos 8 segundos.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Además se ofrecen dos carátulas y pantallas de carga: la británica de Rainbow Arts y la alemana de Time Warp, cada una con su inlay imprimible. Los juegos son idénticos y en inglés.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-crash.jpg" alt="Grear Giana Sisters Spectrum" class="wp-image-197709895" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-crash.jpg 378w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/great-giana-sisters-crash-213x300.jpg 213w" sizes="auto, (max-width: 378px) 100vw, 378px"&gt;&lt;figcaption class="wp-element-caption"&gt;La reseña que salió en Crash con captura y todo&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Técnicamente está muy bien resuelto. El autor ha trabajado a partir de capturas y reseñas de la época, layouts de la versión Amstrad y audio de la Atari ST, con ayuda de IA en la codificación. El resultado es jugable, fluido (dentro de las limitaciones del Spectrum) y fiel al espíritu original. Los que lo han probado destacan precisamente eso: que se siente bien tanto a nivel técnico como jugable, algo que no siempre se logra en estas conversiones de juegos “perdidos”.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Es un proyecto de aficionado, no comercial, y se descarga desde la página oficial en itch.io:&lt;br&gt;&lt;strong&gt;&lt;a href="https://kirby2000.itch.io/great-giana-sisters-zx" target="_blank" rel="noopener"&gt;https://kirby2000.itch.io/great-giana-sisters-zx&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Casi 38 años después de que se anunciara y se reseñara, &lt;em&gt;The Great Giana Sisters&lt;/em&gt; está por fin en el Spectrum.&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/the-great-giana-sisters-llega-por-fin-al-zx-spectrum-la-conversion-del-clasico-que-nunca-vio-la-luz/"/>
+    <published>2026-11-10T12:18:59+00:00</published>
   </entry>
 </feed>
