@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-09T20:38:01+00:00</updated>
+  <updated>2026-11-09T23:22:01+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,56 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136165</id>
-    <title>Touchscreen MacBook Pro Launched by Apple</title>
-    <updated>2026-10-28T21:33:26+00:00</updated>
-    <author>
-      <name>Jamie Cuevas</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-610x418.jpg" alt="Touchscreen MacBook Pro" class="aligncenter size-large wp-image-136173" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-610x418.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-300x206.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1-768x526.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-1.jpg 1430w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has launched two all-new touchscreen MacBook Pro models, with 14″ and 16″ OLED display sizes. This marks a notable reversal from Apple against their longstanding resistance to touch screen laptops due to ergonomic issues.&lt;/p&gt;
-&lt;p&gt;The new MacBook Pro features a redesigned enclosure, M5 Pro or M5 Max chip options with up to 128GB RAM and 16GB of storage, a smaller Dynamic Island cutout replaces The Notch on the display, and is lighter weight than predecessors, weighing 3lbs for the 14″ model, and 4lbs for the 16″ model. A notable welcome return is the reintroduction of the glowing Apple logo on the back of the MacBook Pro.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136165"&gt;&lt;/span&gt;&lt;br&gt;
-&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-610x431.jpg" alt="Touchscreen MacBook Pro" class="aligncenter size-large wp-image-136171" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5-768x542.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-5.jpg 1498w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;There is full gesture support for the touchscreen, allowing for gestures like pinch to zoom, scrolling, and swiping between pages, slides, or Spaces. Apple Pencil is not supported.&lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-610x453.jpg" alt="Touchscreen MacBook Pro in use" class="aligncenter size-large wp-image-136169" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-610x453.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-300x223.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4-768x571.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-4.jpg 1496w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The touchscreen MacBook Pro includes a front-facing FaceTime camera, three Thunderbolt 5 / USB-C ports, HDMI port, SDXC card slot, MagSafe for power, and a headphone jack. &lt;/p&gt;
-&lt;p&gt;The touchscreen display itself is OLED, and available in both 14″ and 16″ sizes, which Apple is calling the PROLED XDR Display. Presumably the display will have perceptible PWM like most OLED and LED-adjacent screens have, which could dissuade some PWM sensitive users from being able to use the Mac.&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-610x364.jpg" alt="Touchscreen MacBook Pro" class="aligncenter size-large wp-image-136168" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-610x364.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-300x179.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-768x458.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9-1536x916.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-9.jpg 1888w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The 14″ touchscreen MacBook Pro starts at $2899, while the 16″ touchscreen MacBook Pro starts at $3399. Pre-orders are live now and the touchscreen MacBook Pro will be available on November 6. &lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-610x339.jpg" alt="Touchscreen MacBook Pro " class="aligncenter size-large wp-image-136170" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-610x339.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-300x167.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-768x427.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2-1536x855.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/touchscreen-macbook-pro-2.jpg 1718w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The video embedded below from X shows someone using the touch screen display to interact with MacOS:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;And another:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;And another:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;As noted earlier, the introduction of a touchscreen Mac marks a departure from Apple’s prior stance on the matter. Apple had long been skeptical of touchscreen laptops, with Steve Jobs famously lamenting on the ergonomics of such a device (videos embedded are via X, you can &lt;a href="https://x.com/osxdaily" target="_blank"&gt;find us there too&lt;/a&gt;):&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;The standard non-touch models of MacBook Pro are still available as well, the base model of which was just spec-bumped to the M6 chip. &lt;/p&gt;
-&lt;p&gt;The touchscreen MacBook Pro is the fourth major Apple product released this week, adding alongside to the &lt;a href="https://osxdaily.com/2026/10/27/apple-updates-macbook-pro-imac-to-m6-chip-ipad-mini-with-8-5-oled-display/"&gt;A20 iPad Mini, M6 MacBook Pro, and M6 iMac&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/28/touchscreen-macbook-pro-launched-by-apple/"/>
-    <published>2026-10-28T21:33:26+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136124</id>
     <title>How to Boot in Safe Mode on MacBook Air, Neo, &amp; Pro (Apple Silicon)</title>
@@ -492,9 +442,42 @@ https://support.apple.com/
     <published>2026-11-09T18:38:10+00:00</published>
   </entry>
   <entry>
+    <id>https://osxdaily.com/?p=136268</id>
+    <title>Pre-Order HomeView for $289, and $250 Off M5 MacBook Air 13″ &amp; 15″</title>
+    <updated>2026-11-09T23:09:35+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://link.amazon/B0bmggpyf" target="_blank" rel="nofollow"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-610x723.jpg" alt="HomeView with speaker base" class="aligncenter size-large wp-image-136007" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-610x723.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-253x300.jpg 253w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-768x910.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base.jpg 1266w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you’re considering buying an Apple HomeView, pre-ordering at Amazon remains the only place to get a discount on the upcoming device. The discounted price is available for the Space Gray color, but some users have reported other colors too.&lt;/p&gt;
+
+&lt;p&gt;HomeView is sure to be a popular gift for Apple households this holiday season, so whether you want one for yourself or someone else, enjoy the discount.&lt;/p&gt;
+&lt;h3&gt;Up to $250 Off M5 MacBook Air 15″ &amp;amp; 13″&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://link.amazon/B08sfKk3q" rel="nofollow" target="_blank"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg" alt="MacBook Air in midnight" class="aligncenter size-large wp-image-123638" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-300x177.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-768x452.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-1536x904.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight.jpg 1570w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is taking up to $250 off the price of the M5 MacBook Air in select models, colors, and configurations, in both screen sizes:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/09/pre-order-homeview-289-and-250-off-m5-macbook-air/"/>
+    <published>2026-11-09T23:09:35+00:00</published>
+  </entry>
+  <entry>
     <id>https://osxdaily.com/?p=136256</id>
     <title>MacOS Golden Gate 27.2.1 Update with Security Patches &amp; Bug Fixes Released</title>
-    <updated>2026-11-09T20:38:01+00:00</updated>
+    <updated>2026-11-09T23:22:01+00:00</updated>
     <author>
       <name>Paul Horowitz</name>
     </author>
@@ -538,6 +521,6 @@ https://support.apple.com/
 
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"/>
-    <published>2026-11-09T20:38:01+00:00</published>
+    <published>2026-11-09T23:22:01+00:00</published>
   </entry>
 </feed>
