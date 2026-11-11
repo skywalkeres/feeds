@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-09T23:22:01+00:00</updated>
+  <updated>2026-11-10T23:23:28+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,63 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136124</id>
-    <title>How to Boot in Safe Mode on MacBook Air, Neo, &amp; Pro (Apple Silicon)</title>
-    <updated>2026-10-29T23:48:12+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-610x365.jpg" alt="Boot into Safe Mode on MacBook Air, MacBook Pro, and MacBook Neo" class="aligncenter size-large wp-image-136179" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-610x365.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-300x179.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-768x459.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-1536x918.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo-2048x1224.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;You may find yourself in a situation when you need to boot into Safe Mode while troubleshooting a MacBook Air, MacBook Neo, or MacBook Pro. &lt;/p&gt;
-&lt;p&gt;Safe Mode boots a Mac without loading third party login items, system extensions, and non-system fonts. Additionally, Safe Mode runs a disk check to verify the startup disk, clears system caches, and prevents third party drivers from loading, helping to narrow down potential issues, and sometimes even resolve them through the safe mode boot itself. &lt;/p&gt;
-&lt;p&gt;If you’re unfamiliar with booting into Safe Mode on modern Apple Silicon equipped MacBook laptops, including the Air, Neo, and Pro, it’s a pretty easy process that is the same on all Apple Silicon Macs, including M1, M2, M3, M4, M5, M6, A18 chips.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136124"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Boot in Safe Mode on MacBook Air, Pro, Neo&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;If the Mac is currently turned on, you need to turn it off by going go the  Apple menu and selecting “Shut Down”&lt;/li&gt;
-&lt;li&gt;When the Mac is off, now press and hold the Power button / Touch ID button, and continue holding the Power/Touch ID button until you see “Loading startup options”&lt;/li&gt;
-&lt;li&gt;At the startup disk screen, now hold down the SHIFT key and click on “Continue in Safe Mode” and select “Macintosh HD” (or your boot disk)&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/boot-safe-mode-macbook-pro-air-neo.jpg" alt="Boot into Safe Mode on MacBook Air, MacBook Pro, and MacBook Neo" class="aligncenter size-large wp-image-136179"&gt;&lt;/p&gt;
-&lt;li&gt;Once Safe Mode has started booting, you can release Shift key&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The Mac will now be in Safe Mode, where you can perform whatever troubleshooting tasks you had in mind. &lt;/p&gt;
-&lt;p&gt;As mentioned before, simply booting into Safe Mode can sometimes remedy an issue if it’s related to a cache or third party extension or tool. If the problem is absent in Safe Mode but you boot normally again and the problem returns, that suggests the issue is related to some third party extension, tool, login item, or otherwise. &lt;/p&gt;
-&lt;p&gt;And sometimes problems persist in Safe Mode too, which usually suggests a system level problem. I ran into that recently when &lt;a href="https://osxdaily.com/2026/10/26/fix-dasd-using-100-cpu-on-macos-27/"&gt;troubleshooting ‘dasd’ process 100% CPU usage over several days&lt;/a&gt;, even in safe mode, and eventually resolved that issue by removing a corrupt system database.&lt;/p&gt;
-&lt;h2&gt;Exiting Safe Mode and Booting Normally Again&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Simply restart the Mac as usual to boot the Mac as normal, from the  Apple menu choose “Restart”&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;This process obviously covers Apple Silicon Mac laptops with Touch ID and the power button, but if you have an &lt;a href="https://osxdaily.com/2010/04/20/using-safe-boot-mode-in-mac-os-x/"&gt;older Intel Mac you can use Safe Mode on those Macs too&lt;/a&gt; by simply holding Shift key during the entire boot process, arguably a bit easier. &lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/10/29/how-to-boot-in-safe-mode-on-macbook-air-neo-pro-apple-silicon/"/>
-    <published>2026-10-29T23:48:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136191</id>
-    <title>Deals: 4-Pack of AirTags 2 for $69</title>
-    <updated>2026-10-30T22:28:52+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;Amazon is offering a 29% discount on a 4-pack of AirTags 2, the second generation of personal trackers. These are wildly useful for many purposes whether you&amp;#8217;re tracking a bike, pet, bag, or whatever else you want to keep track of on the Find My network. AirTags 2 &amp;#8211; 4-pack &amp;#8211; $69.99 (down from $99) ... &lt;a class="read-more" href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"&gt;Deals: 4-Pack of AirTags 2 for $69&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://osxdaily.com/2026/10/30/deals-4-pack-of-airtags-2-for-69/"/>
-    <published>2026-10-30T22:28:52+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136198</id>
     <title>Deals: Save $200 on M5 MacBook Air, $200 Off Mac Studio, $100 Off iPad Air, &amp; More</title>
@@ -522,5 +465,96 @@ https://support.apple.com/
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"/>
     <published>2026-11-09T23:22:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136279</id>
+    <title>MacOS Sequoia 15.8.3 &amp; MacOS Tahoe 26.7.3 Security Updates Released</title>
+    <updated>2026-11-10T22:19:48+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg" alt="MacOS Sequoia 15.8.3 update" class="aligncenter size-large wp-image-136280" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released MacOS Tahoe 26.7.3 and MacOS Sequoia 15.8.3 as software updates for Mac users who are not running the Golden Gate operating system. The updates are said to include security patches and bug fixes, and are recommended to all users. &lt;/p&gt;
+&lt;p&gt;Separately, Apple has release &lt;a href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"&gt;MacOS 27.2.1 Golden Gate&lt;/a&gt;, &lt;a href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1, iOS 26.7.3, iOS 18.7.12, and other updates as well.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136279"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Download &amp;amp; Install MacOS Sequoia 15.8.3 Update or MacOS Tahoe 26.7.3 Update&lt;/h2&gt;
+&lt;p&gt;Always &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup your Mac with Time Machine&lt;/a&gt; before installing any system software update. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the  Apple menu, choose “System Settings”&lt;/li&gt;
+&lt;li&gt;Go to “General”, and then choose “Software Update”&lt;/li&gt;
+&lt;li&gt;Scroll down below the “MacOS 27.2.1” banner promoting Golden Gate, and look for the “Other Updates” section where you can choose to install MacOS Tahoe 26.7.3 or MacOS Sequoia 15.8.3 instead * &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg" alt="MacOS Sequoia 15.8.3 update" class="aligncenter size-large wp-image-136280" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;* Be mindful that if you click the (i) info button to get additional information about the MacOS Sequoia or Tahoe update, then MacOS 27.2.1 update will be selected to install by default. Uncheck that, and check the Tahoe or Sequoia update instead. You can &lt;a href="https://osxdaily.com/2026/10/09/how-to-update-macos-sequoia-without-installing-macos-27-golden-gate/"&gt;read more about avoiding accidentally installing MacOS Golden Gate here&lt;/a&gt; if you’d like. &lt;/p&gt;
+&lt;p&gt;Your Mac must restart to complete installation. &lt;/p&gt;
+&lt;h3&gt;MacOS Sequoia 15.8.3 &amp;amp; MacOS Tahoe 26.7.3 Full Installer Download Links&lt;/h3&gt;
+
+&lt;p&gt;We maintain an &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;updated list of all available MacOS installers here&lt;/a&gt; as a helpful resource.&lt;/p&gt;
+&lt;h3&gt;MacOS Sequoia 15.8.3 &amp;amp; MacOS Tahoe 26.7.3 Release Notes Release Notes&lt;/h3&gt;
+&lt;p&gt;Release notes are brief:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This update provides important security fixes and is recommended for all users.&lt;/p&gt;
+&lt;p&gt;For information on the security content of Apple software updates, please visit this website: https://support.apple.com/100100
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You will want to update your other Apple devices as well, as just about everything received security updates.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/10/macos-sequoia-15-8-3-macos-tahoe-26-7-3-security-updates-released/"/>
+    <published>2026-11-10T22:19:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136285</id>
+    <title>How to Set WhatsApp as Default Messaging App on iPhone &amp; iPad</title>
+    <updated>2026-11-10T23:23:28+00:00</updated>
+    <author>
+      <name>Ali Khan</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-610x426.jpg" alt="Set WhatsApp as the default messaging app on iPhone or iPad" class="aligncenter size-large wp-image-136290" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-610x426.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-300x209.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-768x536.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-1536x1072.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone.jpg 1650w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;The latest versions of system software for iPhone and iPad allow you to set WhatsApp as the default messaging app, which can be very handy for many users who rely on WhatsApp as their primary communications method. Whether you’re using WhatsApp as your primary messaging app, or just while traveling abroad, here’s how you can change the default messenger client from Messages to WhatsApp on iPhone and iPad.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136285"&gt;&lt;/span&gt;&lt;br&gt;
+Requirements are pretty basic for this. You will obviously need WhatsApp already installed and setup on your iPhone or iPad to be able to select it as your messaging app. You will also need a modern version of iOS/iPadOS system software, from 26.0 and later.&lt;/p&gt;
+&lt;h2&gt;How to Make WhatsApp the Default Messaging App on iPhone &amp;amp; iPad&lt;/h2&gt;
+&lt;p&gt;Assuming you’re on a compatible iOS/iPadOS verson and you have WhatsApp already installed on your device, here’s how to use it as the default messager:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to “Settings” on iPhone or ipad&lt;/li&gt;
+&lt;li&gt;Scroll down and choose “Apps”&lt;/li&gt;
+&lt;li&gt;At the top of the Apps screen tap on “Default Apps”&lt;/li&gt;
+&lt;li&gt;Tap on “Messaging”&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-369x800.jpg" alt="Change your default apps" class="size-large wp-image-136286" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
+&lt;li&gt;Select “WhatsApp” as the default messaging app&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-369x800.jpg" alt="Select WhatsApp as the default messaging app" class="aligncenter size-large wp-image-136287" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;Now anytime you go to send a message from another app, share something, or any other task that involves opening the default messaging app, WhatsApp will now open instead of Messages.&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon.jpg" alt="WhatsApp icon" class="aligncenter size-full wp-image-81079" srcset="https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon.jpg 362w, https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon-292x300.jpg 292w" sizes="auto, (max-width: 362px) 100vw, 362px"&gt;&lt;/p&gt;
+&lt;p&gt;Messages and iMessages is wildly popular and super convenient, and there’s no denying that. But with that said, WhatsApp is incredibly popular as well, especially abroad, and so whether you are traveling, visiting relatives, living abroad, or just find yourself using WhatsApp most often, setting WhatsApp as the default messager can be a powerful choice.&lt;/p&gt;
+&lt;p&gt;If you don’t use WhatsApp all the time, you probably do not want to make this change, and it is best to avoid messing with default settings like this. &lt;/p&gt;
+&lt;p&gt;Check out &lt;a href="https://osxdaily.com/tag/whatsapp/"&gt;more WhatsApp tips here&lt;/a&gt; if you’d like. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/10/how-to-set-whatsapp-as-default-messaging-app-on-iphone-ipad/"/>
+    <published>2026-11-10T23:23:28+00:00</published>
   </entry>
 </feed>
