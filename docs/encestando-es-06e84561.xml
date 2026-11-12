@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://encestando.es/feed/</id>
   <title>Encestando (texto completo)</title>
-  <updated>2026-11-11T11:40:00+00:00</updated>
+  <updated>2026-11-11T22:46:00+00:00</updated>
   <author>
     <name>Encestando</name>
   </author>
@@ -10,17 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/encestando-es-06e84561.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://encestando.es/feed/</subtitle>
-  <entry>
-    <id>https://encestando.es/?p=1004757</id>
-    <title>Horarios: duras salidas mañana para el Baskonia, el Barça y el Valencia Basket</title>
-    <updated>2026-11-04T15:34:00+00:00</updated>
-    <author>
-      <name>Rodrigo Crespo</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://encestando.es/fotos/2026/11/1793807252218-f67f0bb8.webp"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="prosa mt-7 prosa--con-arranque"&gt;&lt;p&gt;La décima jornada de la Euroliga nos depara un jueves apasionante con tres equipos españoles jugando a domicilio. Si ganar fuera siempre es complicado, el reto para el Baskonia en la pista del Fenerbahce es mayúsculo y más con la baja de última hora de Marcio Santos, aunque se espera el regreso de Duarte. El Valencia Basket se desplaza a Milán para pescar en la crisis del equipo italiano. Mientras, el Barça afronta a un Hapoel en gran momento de forma.&lt;/p&gt;&lt;p&gt;JUEVES&lt;/p&gt;&lt;p&gt;Efes-Paris Basketball (18.15h)&lt;/p&gt;&lt;p&gt;Fenerbahce-Baskonia (19h)&lt;/p&gt;&lt;p&gt;Hapoel-Barcelona (19.45h)&lt;/p&gt;&lt;p&gt;Asvel V.-Bayern Munich (20h)&lt;/p&gt;&lt;p&gt;A. Milán-Valencia Basket (20.30h)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content>
-    <link href="https://encestando.es/horarios-duras-salidas-manana-para-el-baskonia-el-barca-y-el-valencia-basket/"/>
-    <published>2026-11-04T15:34:00+00:00</published>
-  </entry>
   <entry>
     <id>https://encestando.es/?p=1004756</id>
     <title>Victorias del Unicaja, el Joventut y el Manresa</title>
@@ -229,5 +218,16 @@
     <content type="html">&lt;p&gt;&lt;img src="https://encestando.es/fotos/2026/11/1794398050196-80b5b4c4.webp"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="prosa mt-7"&gt;&lt;p&gt;Este miércoles tuvo un momento histórico al anunciar Marcelinho Huertas su marcha de La Laguna Tenerife después de siete años y medio en el club lagunero. El motivo es que el pasado viernes recibió una oferta del Dubai BC, el sábado se lo trasladó a la entidad y el domingo jugó su último partido con el equipo aurinegro. El base anunció su marcha entre lágrimas y con bonitas palabras de recuerdo para el club, los trabajadores y sus compañeros, con los que quiere estar este sábado en Andorra como despedida.&lt;/p&gt;&lt;p&gt;A sus 43 años, Huertas vuelve a la Euroliga, que ya disputó con el Barcelona y el Baskonia. Uno de los veinte jugadores más importantes seguramente de la liga española se va a vivir un último capítulo en su larga carrera profesional. Hace dos temporadas y media, cuando el Paris Basketball estaba entrenado por Tiago Splitter, ya pudo jugar con ellos la Euroliga y la negociación estuvo en marcha. Luego el Barcelona y el Armani Milán, entre otros pensaron en Huertas.&lt;/p&gt;&lt;p&gt;Por su parte, el Baskonia anunció a Rolands Smits como nueva incorporación. El jugador letón regresa así al baloncesto español pues ya militó en el Barcelona. Su último club en la Euroliga fue el Efes, el pasado verano pudo firmar con la entidad baskonista tanto en junio, como en julio como en agosto. En tres ocasiones se echó atrás lo negociado. Ahora, tras jugar dos meses en China, Smits sí es firmado. De 31 años y 2,07, con un juego interior precario y lesiones estas semanas, el equipo vitoriano recurre al internacional letón.&lt;/p&gt;&lt;p&gt;Por su parte, el Maccabi ficha al escolta Kamar Baldwin, que llega desde el Bayern Munich, donde no tenía apenas minutos. En el Partizan quieren sacar del Fenerbahce al pívot Chris Silva.&lt;/p&gt;&lt;p&gt;El mercado está seco de nombres y cuesta mucho fichar, queda claro.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content>
     <link href="https://encestando.es/marcelinho-huertas-se-va-al-dubai-bc-y-rolands-smits-nuevo-pivot-del-baskonia/"/>
     <published>2026-11-11T11:40:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://encestando.es/?p=1004777</id>
+    <title>Nueva derrota de un Baskonia sin remisión; Hifi tumbó sobre la bocina al Fenerbahce</title>
+    <updated>2026-11-11T22:46:00+00:00</updated>
+    <author>
+      <name>Rodrigo Crespo</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://encestando.es/fotos/2026/11/1794437616244-9f84a3fb.webp"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="prosa mt-7 prosa--con-arranque"&gt;&lt;p&gt;El Baskonia encadenó la décima derrota seguida en la Euroliga, un desastre sin remisión y que les va a hacer estar meses y meses en el pozo y sin objetivo alguno en esta competición. Los errores del verano y el despido posterior de Galbiati se pagan caros.&lt;/p&gt;&lt;p&gt;Aunque durante tres cuartos y pico dieron la cara ante el Partizan, a la hora de la verdad e cansancio, la falta de acierto y un rival más entero acabaron con los de Perasovic, que se fueron al descanso con un 42-38.&lt;/p&gt;&lt;p&gt;En la reanudación, Tanaskovic llevó la máxima al luminoso en favor de los serbios (52-42) y el Baskonia reaccionó con Matteo Spagnolo y Kenneth Faried, pero de nuevo los de Joan Peñarroya tuvieron más armas para seguir al mando.&lt;/p&gt;&lt;p&gt;Jones volvió a la carga y, pese a un par de triples lejanos de Rodions Kurucs y Clément Frisch, los de Vitoria solo maquillaron esa desventaja (65-60) de cara al último cuarto. Para complicarse otro poco, los de Perasovic encadenaron varias pérdidas en ese parcial definitivo y la solidez local se hizo insalvable para un Baskonia con la confianza muy tocada en lo que se refiera a Euroliga. Los vascos se precipitaron, con la falta de puntos que lastra su temporada, y Alessandro Pajola, con su segundo y tercer triple de la noche, dio el golpe definitivo. Los de Perasovic, con casi un mes en el cargo y muy poco fondo de armario, se quedaron en seis puntos en los últimos diez minutos alargando una mala temporada que, de momento, no tiene remedio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;80 - Partizan (23+19+23+15): &lt;/strong&gt;Carlik Jones (16), Ethan Thompson (4), Robert Franks (7), Vanja Marinkovic (6) y Tonye Jekiri (17) -cinco inicial-, Luca Vildoza (2), Nikola Tanaskovic (14), Antonio Reeves (-), Arijan Lakic (5) y Alessandro Pajola (9).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;66 - Kosner Baskonia (18+20+22+6):&lt;/strong&gt; Kobi Simmons (5), DJ Stewart (6), Chris Duarte (15), Stefan Joksimovic (2) y Clement Frisch (8) -cinco inicial-, A.J. Lawson (6), Rodions Kurucs (10), Matteo Spagnolo (6) y Kenneth Faried (8).&lt;/p&gt;&lt;p&gt;En París, triunfo del equipo francés por 111-109 frente a un Fenerbahce que sigue de bajón. Estuvo todo el partido perdiendo, hasta por 15, remontó, de nuevo siete abajo a falta de dos minutos con el 91-84 pero el Paris Basketball se empeño en regalar balones, rebotes ofensivos, Hifi se jugó dos tiros locos al máximo... y llegó la prórroga con empate a 92.&lt;/p&gt;&lt;p&gt;Unos y otros se pusieron por delante, pero llegó un buen triple de para el 109-106 de Ntilikina restando ocho segundos. Tiempo muerto de Jasikevicius y respuesta rápida de tres de Shields. El conjunto galo tenía cinco segundos y Hifi logró una bandeja con su mano mala sobre la bocina para un triunfo en una pésima noche suya, 4de 18 en sus lanzamientos y 4 pérdidas de balón.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content>
+    <link href="https://encestando.es/nueva-derrota-de-un-baskonia-sin-remision-hifi-tumbo-sobre-la-bocina-al-fenerbahce/"/>
+    <published>2026-11-11T22:46:00+00:00</published>
   </entry>
 </feed>
