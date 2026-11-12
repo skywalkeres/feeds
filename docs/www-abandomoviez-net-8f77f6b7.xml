@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-12T00:10:09+00:00</updated>
+  <updated>2026-11-12T07:36:30+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,47 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47608</id>
-    <title>El universo DC podría cambiar de rumbo tras la salida de James Gunn y Peter Safran</title>
-    <updated>2026-11-10T17:25:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47608.jpg" /&gt;&lt;/p&gt;La &lt;a href="https://www.abandomoviez.net/noticia.php?film=47596"&gt;salida de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=11002"&gt;James Gunn&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=111945"&gt;Peter Safran&lt;/a&gt; de la dirección de DC Studios&lt;/a&gt; podría afectar a más proyectos de los que se conocen hasta ahora. Según una información de &lt;a href="https://puck.news/newsletters/what-im-hearing/what-im-hearing-dcs-endless-reboot-netflixs-ted-test-disney-defenders"&gt;Matthew Belloni en Puck&lt;/a&gt;, recogida por &lt;a href="https://www.joblo.com/dc-studios-third-reboot/"&gt;JoBlo&lt;/a&gt;, Skydance estaría preparando cambios en buena parte de la hoja de ruta que ambos habían diseñado para el universo DC.
-&lt;br /&gt;
-&lt;br /&gt;El informe no anuncia la cancelación de películas concretas ni confirma que se vaya a empezar otra vez desde cero. La distinción importa: revisar las historias previstas para los próximos años no exige necesariamente sustituir a los actores ni borrar lo que ya se ha estrenado.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;¿Qué ocurre con las películas en marcha?&lt;/b&gt;Belloni sitúa fuera de esa posible revisión inmediata a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48830"&gt;El hombre del mañana&lt;/a&gt;, la próxima película de Superman dirigida por Gunn, y a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41348"&gt;The Batman: Part II&lt;/a&gt;, actualmente en producción. Esta última pertenece, además, a la continuidad independiente que desarrolla Matt Reeves. El informe también menciona una serie de HBO en marcha, sin aclarar el futuro del resto de proyectos.
-&lt;br /&gt;
-&lt;br /&gt;Jeremy Latcham asumirá la dirección creativa de DC Studios el 1 de diciembre. Hasta que el estudio detalle sus decisiones, el alcance de los cambios sigue siendo una incógnita: por ahora hay una información sobre los planes de la nueva dirección, pero no un tercer reinicio confirmado.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47608"/>
-    <published>2026-11-10T17:25:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47609</id>
-    <title>Warner cancela su proyecto de  “Pesadilla en Elm Street”; Paramount mantiene el suyo</title>
-    <updated>2026-11-10T20:12:51+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
-            La versión internacional para la que se tanteó a Lee Cronin deja de avanzar. La película de Paramount Primal sigue en desarrollo con los herederos de Wes Craven.        &lt;/p&gt;
-        &lt;div class="am-content-card"&gt;
-
-                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47609.jpg" class="img-responsive center-block am-content-img-noticia" alt="Warner cancela su proyecto de  “Pesadilla en Elm Street”; Paramount mantiene el suyo" title="Warner cancela su proyecto de  “Pesadilla en Elm Street”; Paramount mantiene el suyo" decoding="async" fetchpriority="high"&gt;
-        
-        
- 
-&lt;p class="am-content-cuerpo"&gt;
-    Las dos películas de &lt;i&gt;Pesadilla en Elm Street&lt;/i&gt; que se preparaban en paralelo ya no compiten por llegar primero al cine. &lt;a href="https://www.dreadcentral.com/exclusive/595769/nightmare-elm-street-lee-cronin-project-dead-paramount/"&gt;Dread Central informa en exclusiva&lt;/a&gt; de que Warner Bros. ha abandonado su proyecto, para el que &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=413234" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="413234"&gt;Lee Cronin&lt;/a&gt; había mantenido conversaciones. La película impulsada por Paramount Primal continúa en desarrollo.
-&lt;br&gt;
-&lt;br&gt;La situación respondía a una división de derechos: Paramount había llegado a un acuerdo con los herederos de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=110" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="110"&gt;Wes Craven&lt;/a&gt; para desarrollar una película a partir de su guion original, mientras Warner Bros. conservaba derechos internacionales de la franquicia y exploraba una producción distinta. Tras la unión de ambas compañías bajo el mismo propietario, esa segunda vía se ha cerrado.
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;¿Qué se sabe de la nueva película?&lt;/b&gt;&lt;/h3&gt;El proyecto de Paramount, &lt;a href="https://www.abandomoviez.net/noticia.php?film=46435"&gt;anunciado en julio&lt;/a&gt;, cuenta con la participación de la familia Craven y se ambientará en el mundo de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=7" class="am-entity-link" data-tipo="pelicula" data-id="7"&gt;Pesadilla en Elm Street&lt;/a&gt;. Partir del guion de 1984 no significa que vaya a reproducir la película escena por escena: su historia todavía no se ha dado a conocer.
-&lt;br&gt;
-&lt;br&gt;Paramount Primal no ha anunciado director, guionista, reparto ni fecha de estreno. La última película de la saga sigue siendo &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=6713" class="am-entity-link" data-tipo="pelicula" data-id="6713"&gt;Pesadilla en Elm Street. El origen&lt;/a&gt;, el remake de 2010 en el que &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=1068" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="1068"&gt;Jackie Earle Haley&lt;/a&gt; interpretó a Freddy Krueger.
-
- 
-&lt;/div&gt;
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47609"/>
-    <published>2026-11-10T20:12:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47610</id>
     <title>Un tiburón y una prisión en alta mar: primera imagen de “Tiburón Negro 2: Atlantis”</title>
@@ -403,5 +362,40 @@
 &lt;br /&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47627"/>
     <published>2026-11-12T00:10:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47628</id>
+    <title>“Constantine 2” tiene guion, pero aún necesita el sí de DC: Francis Lawrence recupera la esperanza</title>
+    <updated>2026-11-12T07:24:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47628.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53479"&gt;Francis Lawrence&lt;/a&gt; vuelve a confiar en que &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=8044"&gt;Constantine 2&lt;/a&gt; pueda salir adelante. En una &lt;a href="https://collider.com/constantine-2-update-keanu-reeves-francis-lawrence-dc/"&gt;entrevista con Collider&lt;/a&gt;, el director ha explicado que ya tienen una idea y un guion, pero que necesitan el respaldo de los responsables de DC y de los estudios implicados. A su juicio, la reciente salida de James Gunn y Peter Safran de la dirección de DC Studios podría darles otra oportunidad para conseguirlo.
+&lt;br /&gt;
+&lt;br /&gt;Lawrence ha sido especialmente claro sobre el bloqueo que, según él, ha sufrido el proyecto: considera que quienes dirigían DC eran «un impedimento» para hacer la película. Ha matizado que no celebra que nadie pierda su puesto y que &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=387"&gt;Keanu Reeves&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=105177"&gt;Akiva Goldsman&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=200183"&gt;J. J. Abrams&lt;/a&gt; y él siguen interesados en continuar la historia. &lt;b&gt;Su renovada esperanza no equivale, por ahora, a una aprobación oficial.&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Dos posibles versiones de Constantine&lt;/b&gt;La secuela que defiende Lawrence retomaría al John Constantine que Reeves interpretó en &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=1914"&gt;Constantine&lt;/a&gt;, estrenada en 2005. Mientras tanto, DC Studios prepara &lt;a href="https://www.thewrap.com/creative-content/movies/constantine-film-in-the-works-dc-studios/"&gt;otra película sobre el personaje&lt;/a&gt; con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=590057"&gt;Francis Galluppi&lt;/a&gt; al frente. Lawrence cree que ambas versiones podrían coexistir y asegura que un plan para integrar a otro Constantine en un universo compartido no cambiaría su deseo de rodar la continuación de la suya.
+&lt;br /&gt;
+&lt;br /&gt;El director también ha precisado qué clase de secuela quiere hacer. Recuerda que la primera película obtuvo en Estados Unidos una calificación para adultos pese a que se había concebido siguiendo las pautas de una clasificación menos restrictiva. Por eso, si consigue sacar adelante &lt;i&gt;Constantine 2&lt;/i&gt;, su intención es aprovechar desde el principio esa libertad y realizar una entrega más dura.
+&lt;br /&gt;
+&lt;br /&gt;Lawrence reconoce, además, que el presupuesto tendrá que ser contenido y que tanto él como Reeves estarían dispuestos a ajustar sus honorarios. La voluntad del equipo y la existencia de un guion mantienen vivo el proyecto, pero la decisión de ponerlo en marcha sigue pendiente.</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47628"/>
+    <published>2026-11-12T07:24:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47629</id>
+    <title>Un gato, tres pesadillas y Stephen King: “Los ojos del gato” se incorpora a Prime Video</title>
+    <updated>2026-11-12T07:36:30+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47629.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;
+    &lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=349" class="am-entity-link" data-tipo="pelicula" data-id="349"&gt;Los ojos del gato&lt;/a&gt; se ha incorporado hoy a &lt;a href="https://www.primevideo.com/-/es/detail/0POTO41OTG390XL7NBHRU4K5RU"&gt;Prime Video en España&lt;/a&gt;. La película de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=52634" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="52634"&gt;Lewis Teague&lt;/a&gt; propone tres historias de terror unidas por el viaje de un gato callejero: una buena ocasión para descubrirla o volver a ella sin tener que elegir entre un largometraje y una sesión de relatos cortos.
+&lt;/p&gt;
+&lt;p&gt;La primera historia sigue a un hombre interpretado por &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=1182" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="1182"&gt;James Woods&lt;/a&gt; que acude a una empresa para dejar de fumar y descubre que sus métodos tienen consecuencias aterradoras. En la segunda, una apuesta obliga a otro personaje a recorrer la cornisa de un edificio. Ambas parten de relatos de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=516" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="516"&gt;Stephen King&lt;/a&gt; publicados en &lt;i&gt;El umbral de la noche&lt;/i&gt; y juegan con temores bastante reconocibles antes de llevarlos al extremo.
+&lt;/p&gt;
+&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;  &lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/rN5wz8h_xJM" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rN5wz8h_xJM"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Cuando el gato deja de ser un espectador&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;El último episodio cambia de registro: una niña interpretada por &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=647" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="647"&gt;Drew Barrymore&lt;/a&gt; está amenazada por una criatura que aparece en su habitación, y el gato se convierte en su posible protector. King escribió esta historia para la película. Así, el animal que parecía limitarse a pasar de un relato a otro acaba dando sentido al conjunto.
+&lt;/p&gt;
+&lt;p&gt;Ese recorrido entre el humor negro, el suspense y la fantasía es buena parte del atractivo de &lt;/p&gt;&lt;p&gt;&lt;i&gt;Los ojos del gato&lt;/i&gt;. Teague ya había dirigido otra adaptación de King, &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=262" class="am-entity-link" data-tipo="pelicula" data-id="262"&gt;Cujo&lt;/a&gt;, pero aquí el peligro adopta formas muy distintas en apenas hora y media. 
+&lt;/p&gt;
+&lt;p&gt;Para quienes quieran profundizar después del visionado, os recordamos nuestro reportaje &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/noticia.php?film=44191"&gt;En Defensa de Los Ojos del Gato&lt;/a&gt; que publicamos en su día..&lt;/p&gt;&lt;/div&gt;
+
+ &lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47629"/>
+    <published>2026-11-12T07:36:30+00:00</published>
   </entry>
 </feed>
