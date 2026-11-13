@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-12T20:17:28+00:00</updated>
+  <updated>2026-11-12T23:38:29+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,33 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47618</id>
-    <title>Gore, violencia inquietante y agresión sexual: la calificación de “Licántropo” revela sus motivos</title>
-    <updated>2026-11-11T15:08:12+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
-            La nueva película de hombres lobo de Robert Eggers recibe la calificación R en Estados Unidos. Su estreno en los cines españoles está previsto para el 8 de enero.        &lt;/p&gt;
-        &lt;div class="am-content-card"&gt;
-
-                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47618.jpg" class="img-responsive center-block am-content-img-noticia" alt="Gore, violencia inquietante y agresión sexual: la calificación de “Licántropo” revela sus motivos" title="Gore, violencia inquietante y agresión sexual: la calificación de “Licántropo” revela sus motivos" decoding="async" fetchpriority="high"&gt;
-        
-        
- 
-&lt;p class="am-content-cuerpo"&gt;
-    &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=225645" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="225645"&gt;Robert Eggers&lt;/a&gt; había descrito &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=48258" class="am-entity-link" data-tipo="pelicula" data-id="48258"&gt;Licántropo&lt;/a&gt;, titulada &lt;i&gt;Werwulf&lt;/i&gt; en su versión original, como lo más oscuro que había escrito. Ahora, la &lt;a href="https://www.filmratings.com/all-search-results/?mr=R"&gt;Motion Picture Association&lt;/a&gt; le ha otorgado la calificación R en Estados Unidos y ha detallado los motivos: &lt;b&gt;violencia sangrienta e inquietante, gore, agresión sexual, desnudez explícita y fuerte contenido sexual&lt;/b&gt;.
-&lt;br&gt;
-&lt;br&gt;La clasificación confirma que la película está dirigida a un público adulto, pero su descripción no permite saber cómo aparecen esos elementos en la historia ni revela escenas concretas. Es una calificación estadounidense; la película todavía deberá recibir la clasificación por edades que corresponda en España.
-&lt;br&gt;
-&lt;br&gt;Eggers traslada el mito del hombre lobo a la Inglaterra del siglo XIII, donde una misteriosa criatura comienza a aterrorizar a una comunidad marcada por las supersticiones. El guion lo firma junto a &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=111295" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="111295"&gt;Sjón&lt;/a&gt;, con quien ya trabajó en &lt;i&gt;El hombre del norte&lt;/i&gt;. El reparto reúne a &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=16830" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="16830"&gt;Aaron Taylor-Johnson&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=349598" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="349598"&gt;Lily-Rose Depp&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=849" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="849"&gt;Willem Dafoe&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=230188" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="230188"&gt;Ralph Ineson&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;&lt;bi&gt;Licántropo&lt;/bi&gt; tiene previsto estrenarse en Estados Unidos el 25 de diciembre de 2026 y en los cines españoles el &lt;b&gt;8 de enero de 2027&lt;/b&gt;.&lt;/p&gt;
-
- 
-&lt;/div&gt;
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47618"/>
-    <published>2026-11-11T15:08:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47619</id>
     <title>El Libro de los Muertos despertará de nuevo a Imhotep: Arnold Vosloo confirma su regreso</title>
@@ -383,5 +356,32 @@
  &lt;/div&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47637"/>
     <published>2026-11-12T20:17:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47638</id>
+    <title>La historia de Tanjiro se acerca al final, pero Sony piensa en “Guardianes de la noche” a cien años vista</title>
+    <updated>2026-11-12T23:38:29+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+            El presidente de Aniplex quiere que “Kimetsu no Yaiba” perdure durante generaciones, aunque no ha anunciado historias posteriores a la trilogía de “La Fortaleza Infinita”.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47638.jpg" class="img-responsive center-block am-content-img-noticia" alt=" La historia de Tanjiro se acerca al final, pero Sony piensa en “Guardianes de la noche” a cien años vista" title=" La historia de Tanjiro se acerca al final, pero Sony piensa en “Guardianes de la noche” a cien años vista" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    A &lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=3818" class="am-entity-link" data-tipo="serie" data-id="3818"&gt;Guardianes de la noche: Kimetsu no Yaiba&lt;/a&gt; todavía le quedan dos películas para completar la trilogía de &lt;i&gt;La Fortaleza Infinita&lt;/i&gt;. Atsuhiro Iwakami, presidente del consejo de administración de Aniplex y de Sony Music Entertainment Japan, ya piensa en un horizonte mucho más lejano: quiere que la franquicia siga vigente durante décadas.
+&lt;br&gt;
+&lt;br&gt;En una &lt;a href="https://www.bloomberg.com/news/features/2026-11-10/sony-bets-on-anime-to-become-intellectual-property-giant-fuel-future-growth"&gt;entrevista con Bloomberg&lt;/a&gt;, Iwakami habló de mantener &lt;i&gt;Kimetsu no Yaiba&lt;/i&gt; durante diez o veinte años, «si no cincuenta o cien». Citó &lt;i&gt;Dragon Ball&lt;/i&gt; y &lt;i&gt;One Piece&lt;/i&gt; como ejemplos de historias que han pasado de padres a hijos. &lt;b&gt;Expresó una ambición para la franquicia, pero no anunció una nueva serie ni películas posteriores al final de la trilogía.&lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Primero, terminar “La Fortaleza Infinita”&lt;/b&gt;&lt;/h3&gt;La primera entrega, &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=48088" class="am-entity-link" data-tipo="pelicula" data-id="48088"&gt;Guardianes de la noche: Kimetsu no Yaiba - La Fortaleza Infinita&lt;/a&gt;, llegó a los cines españoles en septiembre de 2025. Quedan otras dos películas previstas para cerrar la adaptación de la historia de Tanjiro, pero la siguiente todavía no tiene fecha oficial de estreno en España.
+&lt;br&gt;
+&lt;br&gt;Las palabras de Iwakami forman parte de una apuesta más amplia de Sony por el anime. Aniplex participa en la producción de las series y películas, mientras Crunchyroll permite llevarlas a espectadores de otros países. El directivo quiere desarrollar franquicias con recorrido a largo plazo; cómo podría continuar &lt;i&gt;Guardianes de la noche&lt;/i&gt; una vez concluida la historia principal sigue sin concretarse.
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47638"/>
+    <published>2026-11-12T23:38:29+00:00</published>
   </entry>
 </feed>
