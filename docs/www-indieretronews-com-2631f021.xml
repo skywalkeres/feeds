@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-13T14:42:01+00:00</updated>
+  <updated>2026-11-13T23:48:35+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4370057883602738430</id>
-    <title>Time Pilot - Konami's 1982 Arcade game has been ported over to the Amiga</title>
-    <updated>2026-11-07T14:27:41+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWlM3ZtO0kY1ZzmxDZ0R8aQRZZ_L_r7nW5AfPuyigx3SgO92ovQm2ncMEBctlHfm14HuS_gWUlpse50YETSgv4URqJrvi9sEhfkUWsSsQK_qxcExIHBHYLrTSHIhvI1A6PUxJLnO8N_OzFFhJxwObQrGDnIMF5RpmZNW0Y7E58HZuqPOlxT5hu3dsMaxc/w484-h640/time.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4370057883602738430" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Even more Amiga news for you today as RMJ and JoeJoe, has released a 1:1 conversion of Konami’s 1982 classic Time Pilot to the Amiga 500 and 1200. Rather than a standard emulation or loose recreation, this involved translating the original arcade machine's Z80 processor instructions entirely into 68000 assembly code, instruction by instruction. Furthermore, this conversion replicates the intense aerial combat of the multidirectional shooter, where players pilot a jet through an indefinitely scrolling open airspace. Each distinct stage shifts the battlefield to a completely different historical time period, staying completely faithful to the legendary arcade game originally distributed by Centuri and Atari.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/iRSdXrfKTRQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iRSdXrfKTRQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;According to the wiki page "this game originally dominated arcades before seeing early home ports on systems like the Atari 2600, MSX, and ColecoVision in 1983. While Konami would later pivot the series with a top-down arcade sequel in 1984, Time Pilot '84, that follow-up completely abandoned the signature time-travel theme in favour of a purely futuristic backdrop." By focusing strictly on the charm of the 1982 original, RMJ and JoeJoe have delivered a rather decent retro preservation project that gives both standard OCS Amiga 500 users and AGA Amiga 1200 owners a way to experience one of gaming's foundational arcade shooters.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Although the website description does look as if it was done by AI, there's no mention if the game was developed with the help of AI either on the page or as a disclaimer. So make of that as you will.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://rmjoejoe.itch.io/timepilot"&gt;Source &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/time-pilot-konamis-1982-arcade-game-has.html"/>
-    <published>2026-11-07T14:27:41+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5349071516440319180</id>
-    <title>Captain Victor Stormbeard And The Undead Treasure - An upcoming C64 platformer from KD Software gets a demo</title>
-    <updated>2026-11-07T14:44:43+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCIpj-HOLB7WU1GcNfk6rrOBYo_HUA7d8qlZ47BBpXW1GVZnwPqhhthYdvMeWx1XWfQ-zhQhFGQcwc2PJlL_lL0FTUETKYr1Pa2XjbPrkxonIXV4jaR4TWNGr3VScJJqWyJ9QWN03xTht4kQoNk_uvBEwmb_5nw3YsEfS2rpSG8Mpt_lNDSHjw2lbbHWk/w640-h436/captain.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5349071516440319180" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The upcoming Commodore 64 platform adventure, Captain Victor Stormbeard and the Undead Treasure by KD Software, has officially been teased with another playable demo. Commodore 64 enthusiasts can now download and test the initial stage of this highly anticipated title, offering a substantial look at what the full game will provide. In fact if you do end up playing it, you'll experience the complete third and fourth level of the game, featuring 20 interconnected screens to explore, enemies to defeat, secrets to discover, and treasures to collect.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/vMbk-pFa_18" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vMbk-pFa_18"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The latest preview for the Commodore 64 title Captain Victor Stormbeard and the Undead Treasure sheds light on the game's dark story setup with a souls-like design. Players step into the boots of a daring pirate captain who is explicitly driven by tales of a mythical, long-lost fortune buried deep within a heavily cursed island—a place where every previous treasure hunter has vanished without a trace. The island is no longer what it once was. It is now overrun by the undead, filled with deadly traps, forgotten passages, and remnants of those who failed. Every step forward brings you closer to the treasure… but also deeper into danger. To succeed, you must explore carefully, find keys to unlock new paths, gather what remains of lost riches, and survive encounters with both enemies and the environment itself.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://kdebczynski.itch.io/captain-victor-stormbeard-and-the-undead-treasure-demo"&gt;Demo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/06/captain-victor-stormbeard-and-undead.html"/>
-    <published>2026-11-07T14:44:43+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-6273452749431752182</id>
     <title>Pinball Illusions – The Vikings table arrives on the Amiga AGA via PC {AI WIP}</title>
@@ -305,13 +273,18 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">Throughout the years we've featured many different types of news stories, from gaming updates, to music disks and even scene demos. Well here with another eye opening news story I think you'll like, as if you have a Commodore Amiga, then it might be worth checking out the latest download of Wolf500 by serpentchain for the Unexpanded Amiga 500. The developers aim to port the classic first-person</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3uq4sojaRg6CQ4qoPxIMMnJmfOqBzn2LetzajVXScFfBd528uvhumxy2pyinjZQtprz8fUd1aPrPXLaB9I15COUaaBkbcbLn7JUnLJKssJIw4EzkylXP-A-E9YAKnuziCAjv6FlP7AvhTrXeZriWLLgEHOfB00pr5LD445OBAS3_s5WT6QcVUni11pdA/w640-h380/olfen.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6539964706488825254" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Throughout the years we've featured many different types of news stories, from gaming updates, to music disks and even scene demos. Well here with another eye opening news story I think you'll like, as if you have a Commodore Amiga, then it might be worth checking out the latest download of Wolf500 by serpentchain for the Unexpanded Amiga 500. The developers aim to port the classic first-person shooter Wolfenstein 3D! The game puts you in the boots of an infiltrator caught trying to steal the plans for Operation Eisenfaust. Thrown into a deep Nazi dungeon while waiting for execution, you manage to overpower your cell guard, grab his knife and pistol, and start fighting your way out through nine packed floors of Castle Wolfenstein to win your freedom. &lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/o1l9gmtbGwI" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=o1l9gmtbGwI"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;What makes this release really stand out is how cleanly it runs on base hardware, requiring only an Amiga 500 OCS with 512 KB of RAM. The entire game plays and saves directly from a single 880 KB floppy disk, offering both PAL and NTSC support right out of the box. Whether you are running a completely stock setup or a machine with extra memory, serpentchain has included support for both unexpanded and expanded modes so anyone with classic Amiga can hopefully jump straight into the action.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://serpentchain.itch.io/wolf500"&gt; Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/wolfenstein-3d-classic-first-person.html"/>
     <published>2026-11-13T13:13:57+00:00</published>
   </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-9013428007013089827</id>
-    <title>Buggy Boy - A Buggy Boy Bonanza! C64 to Amiga port and enhanced!</title>
+    <title>Buggy Boy - A Buggy Boy Bonanza! C64 to Amiga port and enhanced versions!</title>
     <updated>2026-11-13T14:42:01+00:00</updated>
     <author>
       <name>Unknown (noreply@blogger.com)</name>
@@ -319,5 +292,27 @@
     <content type="html">Amiga owners who remember the 1985 off-road arcade racer Buggy Boy are in for a bit of a treat. While the game famously made its way to home computers like the Amstrad and Amiga back in the day, two fans have just worked on this classic that will hopefully give you another reason to fire it up at home on original hardware or via emulation. Whether you want a smoother take on the original Amiga</content>
     <link href="https://www.indieretronews.com/2026/11/buggy-boy-buggy-boy-bonanza-c64-to.html"/>
     <published>2026-11-13T14:42:01+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8483768179937387382</id>
+    <title>Icicle Joe - An Amiga remake of the 1985 C64 game Icicle works</title>
+    <updated>2026-11-13T19:54:42+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">With the festive season fast approaching it seemed just right for developer Peppe74 to release Icicle Joe—subtitled Icicle Works Returns!—a Commodore Amiga remake of the 1985 Commodore 64 classic Icicle Works. Designed to run on a stock Amiga 500 with 512K of RAM or an expanded Amiga 1000, the game puts players in the boots of Joe, a down-on-his-luck Santa impersonator complete with a cheap fake</content>
+    <link href="https://www.indieretronews.com/2026/11/icicle-joe-amiga-remake-of-1985-c64.html"/>
+    <published>2026-11-13T19:54:42+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7101226456326366773</id>
+    <title>Aonic - HOT NEWS as Sonic the Hedgehog gets an early v2 demo on the Amiga and it's impressive! [UPDATE]</title>
+    <updated>2026-11-13T23:48:35+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Well this is incredible news, and one I didn't expect for a bank holiday Monday. As a classic gaming icon has made a surprising leap over to the Commodore Amiga 1200 as a highly anticipated work-in-progress demo of Sonic the Hedgehog. Titled as Aonic and released by reassembler, this impressive technical feat ports the blue spinning hedgehog over from the Sega Mega Drive to the Amiga. This</content>
+    <link href="https://www.indieretronews.com/2026/08/aonic-hot-news-as-sonic-hedgehog-gets.html"/>
+    <published>2026-11-13T23:48:35+00:00</published>
   </entry>
 </feed>
