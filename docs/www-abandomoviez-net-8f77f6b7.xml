@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-13T07:54:56+00:00</updated>
+  <updated>2026-11-13T16:41:44+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,33 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47621</id>
-    <title>El guionista de “Linternas” frena los rumores de cancelación: “No se ha cancelado nada”</title>
-    <updated>2026-11-11T18:22:53+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
-            La salida de James Gunn y Peter Safran de DC Studios ha reavivado las dudas sobre la serie, que todavía no tiene confirmada una segunda temporada.        &lt;/p&gt;
-        &lt;div class="am-content-card"&gt;
-
-                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47621.jpg" class="img-responsive center-block am-content-img-noticia" alt="El guionista de “Linternas” frena los rumores de cancelación: “No se ha cancelado nada”" title="El guionista de “Linternas” frena los rumores de cancelación: “No se ha cancelado nada”" decoding="async" fetchpriority="high"&gt;
-        
-        
- 
-&lt;p class="am-content-cuerpo"&gt;
-    La segunda temporada de &lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=4430" class="am-entity-link" data-tipo="serie" data-id="4430"&gt;Linternas&lt;/a&gt; sigue en el aire, pero &lt;b&gt;no se ha anunciado su cancelación&lt;/b&gt;. &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=229590" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="229590"&gt;Christopher Cantwell&lt;/a&gt;, guionista vinculado a la posible continuación, ha respondido a los rumores con un mensaje en &lt;a href="https://bsky.app/profile/ifyoucantwell.bsky.social/post/3mzyzp2cq2k2t"&gt;Bluesky&lt;/a&gt;: «No se ha cancelado nada. Tranquilizaos». Sus palabras frenan una conclusión precipitada, aunque tampoco confirman que HBO vaya a encargar nuevos episodios.
-&lt;br&gt;
-&lt;br&gt;Las dudas han cobrado fuerza tras la salida de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=11002" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="11002"&gt;James Gunn&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=111945" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="111945"&gt;Peter Safran&lt;/a&gt; de la dirección de DC Studios. Un &lt;a href="https://au.variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-42461/"&gt;reportaje de Variety&lt;/a&gt; señala que la serie obtuvo una audiencia aceptable, pero recoge la opinión de una fuente interna según la cual no ha generado el impacto esperado. La ausencia de renovación se interpretó entonces como una decisión definitiva, cuando &lt;b&gt;HBO aún no ha comunicado qué hará con la serie&lt;/b&gt;.
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Una continuación que ya estaba por decidir&lt;/b&gt;&lt;/h3&gt;La incertidumbre no comenzó con el cambio de responsables en DC. Antes de dejar su cargo, Safran explicó que una segunda temporada dependía de encontrar una historia a la altura de la primera. El equipo creativo ya había trabajado en posibilidades para continuar, pero ese desarrollo no equivalía a una renovación.
-&lt;br&gt;
-&lt;br&gt;La primera temporada, protagonizada por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=8115" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="8115"&gt;Kyle Chandler&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=454243" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="454243"&gt;Aaron Pierre&lt;/a&gt; como Hal Jordan y John Stewart, arrancó con 9,3 millones de espectadores en sus tres primeros días entre HBO y HBO Max. Ahora la decisión sobre su continuidad llegará con una nueva dirección en DC Studios: Jeremy Latcham sustituirá a Gunn y Safran 
-
- 
-&lt;/div&gt;
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47621"/>
-    <published>2026-11-11T18:22:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47622</id>
     <title>Don Mancini prepara su futuro con Chucky y proyectos de terror fuera de la saga</title>
@@ -381,5 +354,32 @@
 &lt;br /&gt;Entre las dos historias transcurren cuatro décadas: Snow pasa de intentar salvar el futuro de su familia a presidir el país que envía a Haymitch a la arena. En la nueva película será &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=2215"&gt;Ralph Fiennes&lt;/a&gt; quien interprete a ese Snow ya adulto.</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47640"/>
     <published>2026-11-13T07:54:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47641</id>
+    <title>Jason vuelve al cine con el director que le puso la máscara de hockey</title>
+    <updated>2026-11-13T16:41:44+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+            Steve Miner, responsable de la segunda y tercera entrega de “Viernes 13”, dirigirá la nueva película de la saga, prevista para 2027.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47641.jpg" class="img-responsive center-block am-content-img-noticia" alt="Jason vuelve al cine con el director que le puso la máscara de hockey" title="Jason vuelve al cine con el director que le puso la máscara de hockey" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    Jason Voorhees regresará a los cines de la mano de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=52551" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="52551"&gt;Steve Miner&lt;/a&gt;. El director de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=107" class="am-entity-link" data-tipo="pelicula" data-id="107"&gt;Viernes 13 (2.ª Parte)&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=109" class="am-entity-link" data-tipo="pelicula" data-id="109"&gt;Viernes 13 (Parte III)&lt;/a&gt; se pondrá al frente de una nueva película de la saga, según &lt;a href="https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/"&gt;adelanta en exclusiva Deadline&lt;/a&gt;. &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=535296" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="535296"&gt;David Fliegel&lt;/a&gt; firma el guion y el proyecto apunta a un estreno en 2027, aunque todavía no tiene una fecha concreta ni se han anunciado el argumento o el reparto.
+&lt;br&gt;
+&lt;br&gt;La elección de Miner va más allá de recuperar un nombre asociado a la franquicia. En la segunda película, Jason pasó a ocupar el centro de las matanzas; en la tercera encontró la máscara de hockey que lo acompaña desde entonces. &lt;b&gt;Será la primera película de “Viernes 13” desde el reinicio de 2009&lt;/b&gt;, después de años de proyectos que no llegaron a las salas.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Un regreso producido desde la propia franquicia&lt;/b&gt;&lt;/h3&gt;La familia Barsamian financiará y producirá la película a través de Horror, Inc., la compañía que controla la saga. CatchLight Studios participará en la producción y Cineverse se encargará de la distribución en Norteamérica, también en cines. Por ahora no hay distribuidora ni fecha anunciadas para España.
+&lt;br&gt;
+&lt;br&gt;El anuncio llega después del estreno en Peacock de &lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=4780" class="am-entity-link" data-tipo="serie" data-id="4780"&gt;Crystal Lake&lt;/a&gt;, la serie que explora los orígenes de Jason y Pamela Voorhees. La nueva película será otra historia de la franquicia: todavía no se ha explicado si tendrá alguna relación narrativa con la serie. Sus responsables sí han adelantado que quieren recuperar los asesinatos realizados con efectos prácticos.
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47641"/>
+    <published>2026-11-13T16:41:44+00:00</published>
   </entry>
 </feed>

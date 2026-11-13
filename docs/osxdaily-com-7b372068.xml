@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-12T13:24:32+00:00</updated>
+  <updated>2026-11-13T13:40:13+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,37 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136213</id>
-    <title>First Betas of iOS 27.3 &amp; MacOS 27.3 Available for Testing</title>
-    <updated>2026-11-03T21:27:27+00:00</updated>
-    <author>
-      <name>Jamie Cuevas</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg" alt="new iOS 27.3 and MacOS 27.3 betas are out" class="aligncenter size-large wp-image-135173" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-300x129.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-768x330.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-1536x659.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas.jpg 1584w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has issued the first beta build of iOS 27.3, iPadOS 27.3, and MacOS 27.3 Golden Gate, to users who are participating in the beta testing programs of Apple system software. &lt;/p&gt;
-&lt;p&gt;iOS 27.3 and MacOS 27.3 betas include a new vertical tab option in Safari, as well as an automatic dark mode feature for Safari. iPhone Duo gains a Reachability feature that pulls the screen content to the side to make interacting with one hand easier, new &lt;a href="https://osxdaily.com/2023/11/09/how-use-standby-mode-iphone/"&gt;Standby Mode&lt;/a&gt; clock features and options for all iPhones with iOS 27.3, more Siri functionality, and a redesigned Health app. Apple Intelligence is also set to arrive in China with theses releases.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136213"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;For iPhone, iPad, and Mac users who are participating in the beta system software testing programs, you can download the latest iOS 27.3 beta 1 build in Settings &amp;gt; General &amp;gt; Software Update, whereas Mac users can find MacOS 27.3 beta 1 in System Settings &amp;gt; General &amp;gt; Software Update.&lt;/p&gt;
-&lt;p&gt;Apple usually goes through multiple iterations of beta software before releasing a final version to the general public, and Apple has previously said that iOS 27.3 will be released this December. &lt;/p&gt;
-&lt;p&gt;The most recent stable non-beta versions of system software are currently &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2, iPadOS 27.2&lt;/a&gt;, and &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2 Golden Gate&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/03/first-betas-of-ios-27-3-macos-27-3-available-for-testing/"/>
-    <published>2026-11-03T21:27:27+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136218</id>
     <title>Deals: MacBook Neo from $670, $200 Off MacBook Air, &amp; More</title>
@@ -561,5 +530,46 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/12/how-to-save-video-frame-as-still-photo-on-iphone-ipad/"/>
     <published>2026-11-12T13:24:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136028</id>
+    <title>How to Adjust Liquid Glass in MacOS 27 Golden Gate</title>
+    <updated>2026-11-13T13:40:13+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3-610x506.jpg" alt="How to adjust Liquid Glass transparent or opacity on Mac" class="aligncenter size-large wp-image-136055" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3-610x506.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3-300x249.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3-768x637.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3-1536x1274.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-3.jpg 1856w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;MacOS 27 Golden Gate brought with it a variety of tweaks and adjustments to the Liquid Glass interface that was first introduced in Tahoe, and overall it’s a much more refined experience with a cleaner visual aesthetic. And, new to the latest versions of MacOS from 27 onward, you can now adjust Liquid Glass to control how transparent or tinted the user interface is with granular control. &lt;/p&gt;
+&lt;p&gt;This new setting differs from Tahoe, where users just had the “Clear” or “Tinted” options to choose from, and combined with the other visual refinements to the user interface in MacOS 27 Golden Gate, Mac users should be able to find a look they’re happy with. If you’re already familiar with &lt;a href="https://osxdaily.com/2026/10/07/how-to-adjust-liquid-glass-on-iphone-ipad/"&gt;tweaking Liquid Glass on an iPhone or iPad&lt;/a&gt;, this will be familiar to you. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136028"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Adjust Liquid Glass in MacOS&lt;/h2&gt;
+&lt;p&gt;From MacOS 27 Golden Gate onward, here’s how you can change and adjust the intensity of Liquid Glass:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the  Apple menu, choose ‘System Settings’&lt;/li&gt;
+&lt;li&gt;Choose “Appearance”&lt;/li&gt;
+&lt;li&gt;Locate the “Liquid Glass” section and adjust the slider as you like, all the way to the left is fully transparent Liquid Glass, whereas all the way to the right is an opaque tinted look, you can choose anywhere in between the extremes as well to completely customize the look&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1-610x552.jpg" alt="How to adjust Liquid Glass on Mac" class="aligncenter size-large wp-image-136053" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1-610x552.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1-300x271.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1-768x695.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1-1536x1390.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-1.jpg 1704w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;The visual change is instantaneously applied throughout MacOS and you can see live feedback as you adjust, so if you aren’t happy with the look you can easily change it again&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4-610x552.jpg" alt="Liquid Glass adjusted to be fully glass and transparent" class="aligncenter size-large wp-image-136056" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4-610x552.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4-300x271.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4-768x695.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4-1536x1390.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/howto-adjust-liquid-glass-mac-4.jpg 1704w" sizes="(max-width: 610px) 100vw, 610px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;You don’t need to be all the way to the left or right, you can choose a middle ground or anywhere else on the slider as you like.. &lt;/p&gt;
+&lt;p&gt;Your choice will be reflected everywhere in the MacOS interface, including windows, menus, drop-down, titlebars, Control Center, the Lock Screen clock, basically every part of the interface that &lt;/p&gt;
+&lt;p&gt;You can perform &lt;a href="https://osxdaily.com/2026/10/07/how-to-adjust-liquid-glass-on-iphone-ipad/"&gt;similar Liquid Glass adjustments on iPhone and iPad&lt;/a&gt; if you’d like to change the interface a bit on that side of things as well, where you fan also choose more transparent or opaque look. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/13/how-adjust-liquid-glass-mac/"/>
+    <published>2026-11-13T13:40:13+00:00</published>
   </entry>
 </feed>

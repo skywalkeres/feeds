@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-12T10:41:04+00:00</updated>
+  <updated>2026-11-13T18:17:04+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,116 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709756</id>
-    <title>JSW in London: Willy vuelve a la carga con una aventura de 128 pantallas ambientada en Londres</title>
-    <updated>2026-09-28T08:59:45+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Jet-Set-Willy-in-London.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Hay muchos juegos de &lt;strong&gt;Jet Set Willy&lt;/strong&gt;. Muchísimos. Y probablemente la explicación sea bastante sencilla: el original de &lt;a href="https://www.elmundodelspectrum.com/un-minero-llamado-smith/"&gt;Mathew Smith&lt;/a&gt; nos marcó a todos.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Décadas después de que Matthew convirtiera a Willy en uno de los personajes más reconocibles del ZX Spectrum, la comunidad continúa creando nuevas aventuras, ampliaciones, reinterpretaciones y proyectos completos construidos alrededor de aquel universo. Pocos juegos pueden presumir de mantener una actividad creativa semejante tanto tiempo después de su lanzamiento.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El último en sumarse a esa larga lista es &lt;strong&gt;JSW in London&lt;/strong&gt;, una nueva aventura creada por &lt;strong&gt;Hervé AST&lt;/strong&gt;, autor también de &lt;em&gt;Welcome to Willy’s Fun Park&lt;/em&gt; y &lt;em&gt;JSW in Paris&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y esta vez Willy cambia París por Londres.&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="aligncenter size-large"&gt;&lt;img decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2015/03/matthew-smith-spectrum-1024x671.jpg" alt="Matthew Smith Spectrum" class="wp-image-197708810" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2015/03/matthew-smith-spectrum-1024x671.jpg 1024w, https://www.elmundodelspectrum.com/wp-content/uploads/2015/03/matthew-smith-spectrum-300x197.jpg 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2015/03/matthew-smith-spectrum-768x503.jpg 768w, https://www.elmundodelspectrum.com/wp-content/uploads/2015/03/matthew-smith-spectrum.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"&gt;&lt;figcaption class="wp-element-caption"&gt;Matthew Smith, autor del Jet Set Willy original&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;h2 class="wp-block-heading"&gt;Una aventura de 128 pantallas&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;JSW in London&lt;/strong&gt; es un proyecto desarrollado con el motor &lt;strong&gt;JSW64&lt;/strong&gt; que incluye nada menos que &lt;strong&gt;128 pantallas&lt;/strong&gt;, convirtiéndose así en una aventura de considerable tamaño dentro del universo creado alrededor de &lt;em&gt;Jet Set Willy&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Además, el juego está completamente disponible en &lt;strong&gt;cinco idiomas&lt;/strong&gt;: inglés, español, portugués, francés e italiano.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El escenario principal es, como indica su título, la ciudad de &lt;strong&gt;Londres&lt;/strong&gt;, donde el jugador podrá recorrer diferentes localizaciones inspiradas en algunos de sus lugares más reconocibles.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La aventura incluye también numerosas referencias al cine, a la historia y a diferentes personajes estrechamente relacionados con la capital británica.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Willy llega a Londres en un Boeing 747 SP&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Al igual que ocurría en &lt;em&gt;JSW in Paris&lt;/em&gt;, el viaje comienza en un aeropuerto. Pero esta vez Willy no llega a bordo de un Airbus A380. Para su visita a Londres, el protagonista aterriza en un &lt;strong&gt;Boeing 747 SP&lt;/strong&gt;, iniciando desde allí una aventura que llevará al jugador a recorrer las 128 pantallas diseñadas por Hervé AST.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El autor ha querido mantener así cierta continuidad entre ambos juegos, aunque trasladando la acción a un escenario completamente diferente.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Se puede terminar sin perder ninguna vida&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Uno de los aspectos que Hervé AST destaca especialmente es que &lt;strong&gt;JSW in London ha sido completamente testeado&lt;/strong&gt;. Según su creador, el juego puede completarse de principio a fin &lt;strong&gt;sin perder una sola vida&lt;/strong&gt;. Eso no significa necesariamente que vaya a resultar sencillo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Como buen heredero de &lt;em&gt;Jet Set Willy&lt;/em&gt;, el juego propone plataformas, enemigos, rutas y situaciones que exigirán precisión y conocimiento de cada escenario.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Los jugadores más habilidosos tendrán además un pequeño incentivo adicional. El juego incorpora &lt;strong&gt;tres pantallas de bonificación especiales&lt;/strong&gt; en las que es posible conseguir vidas extra.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Gracias a ellas, un jugador capaz de superar toda la aventura con la suficiente habilidad puede llegar al final de la partida con un total de &lt;strong&gt;10 vidas&lt;/strong&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;La interminable vida de Jet Set Willy&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Quizá lo más interesante de proyectos como &lt;strong&gt;JSW in London&lt;/strong&gt; sea comprobar hasta qué punto &lt;em&gt;Jet Set Willy&lt;/em&gt; continúa siendo un referente y una inspiración creativa para los aficionados. El juego original apareció en 1984, pero más de cuatro décadas después seguimos viendo nuevos mapas, motores modificados, ampliaciones y aventuras completas protagonizadas por Willy.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y no parece que la comunidad tenga intención de detenerse. La facilidad con la que el universo de &lt;em&gt;Jet Set Willy&lt;/em&gt; permite crear nuevos escenarios, unida al cariño que continúa despertando entre los aficionados al ZX Spectrum, ha convertido al título de Matthew Smith en algo más que un clásico.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El juego ya está disponible para su descarga a través de la comunidad &lt;a href="https://jswmm.co.uk/files/file/185-jsw-in-london" target="_blank" rel="noreferrer noopener nofollow"&gt;Jet Set Willy &amp;amp; Manic Miner Community (JSWMM)&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Una nueva excusa, por tanto, para volver a controlar a Willy. Esta vez, por las calles de Londres.&lt;/p&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/jsw-in-london-willy-vuelve-a-la-carga-con-una-aventura-de-128-pantallas-ambientada-en-londres/"/>
-    <published>2026-09-28T08:59:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709759</id>
     <title>Una de actualizaciones</title>
@@ -2065,5 +1955,75 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/la-maldicion-de-dusarlyn-nueva-aventura-de-retroworks/"/>
     <published>2026-11-12T10:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709931</id>
+    <title>Escape from Omega Base: un Doom vectorial que vuela en un Spectrum 48K</title>
+    <updated>2026-11-13T18:17:04+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_escape-from-omega-base.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;De entre los amantes del homebrew hay un nicho de fans que buscan siempre títulos que desborden la capacidad del Spectrum. De esos que cuando los cargas dices: «Uauuu, es increíble que esto funcione en un ZX Spectrum». Y entre ellos los hay que buscan &lt;a href="https://www.elmundodelspectrum.com/doom-en-el-spectrum-con-la-nueva-y-sorprendente-demo-del-motor-quake/"&gt;juegos tipo Doom&lt;/a&gt;, también llamados «juegos en primera persona» o «shooters vectoriales». Pues bien, para ellos os anunciamos el lanzamiento de &lt;strong&gt;Escape from Omega Base&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Desarrollado por Francesco Scagnelli (ZXCesco), este arcade-adventure en primera persona con gráficos 3D vectoriales (wireframe) está pensado para el ZX Spectrum 48K. La ambientación es pura ciencia ficción. 2091: Te encuentras atrapado en la estación espacial Omega Base, orbitando la Tierra. Un virus ha infectado el ordenador central, los robots araña de mantenimiento se han vuelto locos y el reactor está a punto de explotar. Tienes exactamente 14 minutos y 59 segundos para escapar.&lt;/p&gt;
+
+
+
+
+
+&lt;h3 class="wp-block-heading"&gt;¿Qué hace el juego?&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Seis niveles en tiempo real con movimiento continuo y fluido. En los cinco primeros debes encontrar la llave del color correspondiente y abrir la puerta adecuada. Los enemigos son arañas robot que en los primeros niveles puedes saltar; a partir del quinto se vuelven demasiado grandes. En el nivel final hay que recoger dos células de energía y llegar al módulo de escape antes de que la base vuele por los aires. Si el temporizador llega a cero… explosión y a empezar de nuevo.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Dos dificultades: Normal (tres vidas) y Hard (dos vidas, más enemigos y más rápidos). Controles clásicos (QAOP por defecto, Kempston, redefinibles) y un pequeño truco del desarrollador: en el menú de inicio pulsa 9 para desactivar las colisiones si quieres explorar con más tranquilidad.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;El milagro técnico&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lo que más está llamando la atención es lo bien que va. En un 48K, con gráficos vectoriales en primera persona y movimiento real, el juego se siente ágil, casi «mercenary on speed» como ha comentado algún jugador en itch.io. No es un shooter con disparos (no hay arma), sino una exploración y huida pura, pero la sensación de estar dentro de un laberinto 3D vectorial en un Spectrum es una pasada.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El proyecto lleva la etiqueta de AI-assisted (algo cada vez más habitual en la escena actual) y ya va por la versión 1.4, con varias actualizaciones rápidas desde su publicación a finales de octubre de 2026.&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;Descarga&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego es gratuito y está disponible en itch.io en formato .TAP y .TZX:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;&lt;a target="_blank" rel="noopener" href="https://zxcesco.itch.io/escape-from-omega-base"&gt;zxcesco.itch.io/escape-from-omega-base&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/escape-from-omega-base-un-doom-vectorial-que-vuela-en-un-spectrum-48k/"/>
+    <published>2026-11-13T18:17:04+00:00</published>
   </entry>
 </feed>
