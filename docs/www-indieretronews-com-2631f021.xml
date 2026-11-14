@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-13T23:48:35+00:00</updated>
+  <updated>2026-11-14T17:13:50+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6273452749431752182</id>
-    <title>Pinball Illusions – The Vikings table arrives on the Amiga AGA via PC {AI WIP}</title>
-    <updated>2026-11-07T15:54:26+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5SsiWLeszMANKKnNtpTFtepIzRpUB6y5sqWVkubtOPcTKxhaZJjoFvqj0l2Isf9IPwha0pqlf_zNy6gck8G6nUO6qb56au1iO_OuZiVNb030ObUDby3d-S8eSjkZ5PJU9ru97W1e7McQ_KMkEyScBSXoaetVW0uPW0hq5Zkg4mDKPOdaROM2KYpLuTGQ/w640-h442/vikings.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6273452749431752182" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well, here's some interesting news for the weekend, as the elusive fourth table, The Vikings, is unofficially making its way to the Amiga A1200 (AGA). While the original 1995 release of Pinball Illusions famously included only three tables on the Amiga, the PC version was fortunate enough to receive the Norse-themed addition. Now, thanks to a dedicated developer by the name of MrDig, with the help of Claude AI to migrate the PC data, the table is being converted to run natively on the original Amiga engine. The port integrates into the classic menu as a proper fourth selection, complete with its own dedicated high-score list, menu picture, and custom info text.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/-ok4k_HSo-Q" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-ok4k_HSo-Q"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The project has already achieved a small milestone, with full gameplay proving highly stable on both physical A1200 hardware and the FS-UAE emulator. Packed using Imploder to save valuable chip RAM, the conversion successfully runs all core mechanics, including the dot-matrix ship mini-game, Thor and Labrador multiballs, and end-of-ball bonuses. While the table is fully playable via hard-disk installation and WHDLoad, the developer is currently polishing the remaining animations, synchronising the audio with the PC original, and exploring an optional feature to centre the game screen on modern monitors.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Via the sourced linked forum thread you will find table4 bin files you can place in the WHDLoad version "PinballIllusions v2.2 AGA". See the readme.txt for instructions. Expect bugs, and do report them (preferably screenshots/videos of the bugs) so I can feed those to claude and make it better.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124334"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/pinball-illusions-vikings-table-arrives.html"/>
-    <published>2026-11-07T15:54:26+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8377389733740357631</id>
-    <title>Fix it Felix Jr - Another fabulous Arcade port, but this time for the Amstrad CPC Plus by Amstrad GGP!</title>
-    <updated>2026-11-08T11:16:41+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWh-1DE9EkuH6dOigVYOWc7MFCERvwTSLi4y7wMvCsyWDUY0uXC8BlJZqnwrawU6REib9BzKK4jGvc7Lq1NNqXJENUL_1CO9c0R9miKkb9Ccd65UxQTSKE30IKaSxbYa1RMfGihsKCKPCgDo8XWmEcxFl0drFSlFVz-rYJmAg-n0fdLTwGad0Ryy6XE1A/w640-h614/fix.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8377389733740357631" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Amstrad CPC Plus and GX4000 gets a surprise addition to their ever growing software libraries with the release of Fix it Felix Jr, a stunning homebrew arcade game developed by Amstrad GGP. Based on the fictional arcade game featured in the 2012 animated movie series, this project brings a modern pop-culture myth to life on the Amstrad hardware. Players step into the shoes of the iconic repairman, Felix Fixe Junior, who must scale a shifting building to repair windows shattered by the frustrated giant, Ralph.... "GONNA WRECK IT!"&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/hmJrVeTosf4" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hmJrVeTosf4"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Capturing the authentic spirit of the 1980s golden age, the gameplay delivers pure, fast-paced arcade action across multiple floors. As you climb, you must dodge falling bricks and hazardous birds while utilizing Felix's magical golden hammer to fix the damage. Along the way, players can collect medals and eat delicious pies left on windowsills by grateful tenants. Developed as a dedicated fan game, this release perfectly bridges the gap between cartoon fiction and retro reality for Amstrad owners across the globe.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Amstrad Plus Credits:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Original Concept (C) Tobikomi / 2026 GGP Games (Fan Project)&lt;/li&gt;&lt;li&gt;Testing: Gomez Addams GGP&lt;/li&gt;&lt;li&gt;Music &amp;amp; Sound: Echo&lt;/li&gt;&lt;li&gt;Code &amp;amp; Graphics: MaitrejoeGGP &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://amstrad-ggp.itch.io/fix-it-felix-jr"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/fix-it-felix-jr-another-fabulous-arcade.html"/>
-    <published>2026-11-08T11:16:41+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-8822259619692063796</id>
     <title>Amiga 1942 - The Amiga gets a smooth scrolling Arcade port from retrodnagames!</title>
@@ -319,5 +287,37 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/08/aonic-hot-news-as-sonic-hedgehog-gets.html"/>
     <published>2026-11-13T23:48:35+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8453385005796873027</id>
+    <title>Mega Pinball Fantasies - Pinball Fantasies comes to the Sega Mega Drive via DavidGames</title>
+    <updated>2026-11-14T14:14:53+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50LrVrLHGgYiU82fW8I-lgpIdN0A2NpfgVOA4uzZPz8yBHG3fIKTr9dAYyID5qmO3m5o-ECDmhu4sY33oH1gTzDpaO24WmJatmUYw1AcqzFTXrNd4SRkzhGazDwy7JKo-5eXiLBTEbZfc7PV8Y_z65vTxxQuI35Y3fysxdlpQ5S8Wr7h1yBv6lQJDrfI/w640-h228/mega.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8453385005796873027" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;It's been some time since we've featured any Pinball news, so to change all that, here's Mega Pinball Fantasies for the Sega Mega Drive. Originally released in 1992 by Digital Illusions, the iconic title has been recreated for the SEGA Mega Drive under the name Mega Pinball Fantasies. Developed by DavidGames, this ambitious 16-bit port began as a passionate personal project during the pandemic lockdown. After years of research and development, the project aims to recreate the experience of this legendary video game on the hardware of our beloved 16-bit console.&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/NtKd24cTXLk" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=NtKd24cTXLk"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The release faithfully features all four of the original, distinctly themed tables. Players can chase high scores across the vibrant amusement park atmosphere of Party Land, test their reflexes with the high-octane racing elements of Speed Devils, compete for massive virtual cash prizes in Billion Dollar Gameshow, or brave the eerie, supernatural horrors of Stones 'N Bones. More than just a simple conversion, this upcoming port serves as a technical tribute to the capabilities of the Mega Drive, offering Mega Drive owners a brand-new way to experience this masterful pinball simulator by Digital Illusions.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Content&lt;span&gt;	&lt;/span&gt;No-generative AI was used in game development&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1)&lt;a href="https://davidsgame.itch.io/pinball-fantasies-megacd"&gt; Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/mega-pinball-fantasies-pinball.html"/>
+    <published>2026-11-14T14:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4589297879539081977</id>
+    <title>Death Mask 3D -  Apache Software Amiga FPS using using a first-person 3D engine</title>
+    <updated>2026-11-14T17:13:50+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2-XIOEHycJZic8TibJO71Raw9eYFvMOATDzh2wVaFqiMTkGACIl_AyYahhjHEzxHhxV6wAxdB3uahPMfOwgMb_prGPDbNUBfsnIlmVeeCkirJIrCwBTLZV8t2yZEMzVhJGDD2GiSJHO59FBvRgTkpta-6BaDN2NyDw-sUl5p0WRZGfuvhI9jOjvOs-E/w640-h400/dedath.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4589297879539081977" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;CodyJarrett has made available another update for Death Mask 3D, a technical overhaul of Apache Software’s classic Amiga title. While the original game relied on a grid-based, step-by-step movement style reminiscent of Dungeon Master, this updated iteration transforms the experience into a true first-person shooter akin to Wolfenstein 3D. Built with the assistance of the Claude AI model, the new project renders all 34 original campaign missions and 10 multiplayer arenas in a fluid, continuous 3D engine. It preserves the authentic atmosphere of the source material by retaining the original wall textures, enemy sprites, weapon graphics, HUD layout, and sound design. Amiga owners dive into the full single-player campaign—complete with its authentic mission briefings, passwords, and cinematic intro and ending screens—or jump into split-screen mode for two-player co-op or deathmatch battles.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/KU7RWkOQhjQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KU7RWkOQhjQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;Latest source has a newer version&lt;/p&gt;&lt;p&gt;Developed for any Amiga 1200 or above, the game moves away from the original title's support for older A500 machines, requiring at least a 68020 processor, Kickstart 3.0, and 2MB of Chip RAM. Interestingly, advanced AGA chipsets are not necessary, as the visual presentation uses a 32-colour palette with the copper coprocessor handling the vibrant sky, floor, and lighting gradients. CodyJarrett has packed the release with quality-of-life enhancements, including optional Fast RAM optimization for a smoother frame rate, a native Workbench icon, and a live HUD automap that toggles with the press of a key. To ensure the game runs smoothly across different hardware configurations, players can choose between three distinct graphical detail levels or use CD32 joypad support to map strafing to the shoulder buttons. For those who simply wish to explore the nostalgic environments without the pressure of combat, built-in cheat keys are also included.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124359"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/death-mask-3d-apache-software-amiga-fps.html"/>
+    <published>2026-11-14T17:13:50+00:00</published>
   </entry>
 </feed>

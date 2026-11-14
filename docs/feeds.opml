@@ -2,17 +2,17 @@
 <opml version="2.0">
   <head><title>Feeds de texto completo</title></head>
   <body>
-    <outline type="rss" text="Blogdebasket - Baloncesto en estado puro (texto completo)" title="Blogdebasket - Baloncesto en estado puro (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-blogdebasket-com-31775152.xml" htmlUrl="https://www.blogdebasket.com/"/>
+    <outline type="rss" text="https://www.blogdebasket.com/rss.xml" title="https://www.blogdebasket.com/rss.xml" xmlUrl="https://skywalkeres.github.io/feeds/www-blogdebasket-com-31775152.xml" htmlUrl="https://www.blogdebasket.com/rss.xml"/>
     <outline type="rss" text="aBaNDoMoVieZ (texto completo)" title="aBaNDoMoVieZ (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" htmlUrl="https://www.abandomoviez.net/"/>
-    <outline type="rss" text="UN DISCO AL DIA (texto completo)" title="UN DISCO AL DIA (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/undiscoaldia-com-594de322.xml" htmlUrl="https://undiscoaldia.com/"/>
+    <outline type="rss" text="https://undiscoaldia.com/feed" title="https://undiscoaldia.com/feed" xmlUrl="https://skywalkeres.github.io/feeds/undiscoaldia-com-594de322.xml" htmlUrl="https://undiscoaldia.com/feed"/>
     <outline type="rss" text="OS X Daily (texto completo)" title="OS X Daily (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" htmlUrl="https://osxdaily.com/"/>
     <outline type="rss" text="Encestando (texto completo)" title="Encestando (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/encestando-es-06e84561.xml" htmlUrl="https://encestando.es"/>
     <outline type="rss" text="ACB Liga Endesa // marca (texto completo)" title="ACB Liga Endesa // marca (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/objetos-estaticos-marca-com-114749a6.xml" htmlUrl="https://www.marca.com"/>
     <outline type="rss" text="Basket FEB // marca (texto completo)" title="Basket FEB // marca (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/objetos-estaticos-marca-com-be1e8db4.xml" htmlUrl="https://www.marca.com"/>
-    <outline type="rss" text="INSOMNIA (texto completo)" title="INSOMNIA (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/stephenking-com-ar-448590a4.xml" htmlUrl="https://stephenking.com.ar"/>
+    <outline type="rss" text="https://stephenking.com.ar/feed/" title="https://stephenking.com.ar/feed/" xmlUrl="https://skywalkeres.github.io/feeds/stephenking-com-ar-448590a4.xml" htmlUrl="https://stephenking.com.ar/feed/"/>
     <outline type="rss" text="Dentro del Monolito (texto completo)" title="Dentro del Monolito (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/dentrodelmonolito-com-924c00d4.xml" htmlUrl="https://dentrodelmonolito.com/"/>
     <outline type="rss" text="Indie Retro News (texto completo)" title="Indie Retro News (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" htmlUrl="https://www.indieretronews.com/"/>
-    <outline type="rss" text="El Mundo del Spectrum (texto completo)" title="El Mundo del Spectrum (texto completo)" xmlUrl="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" htmlUrl="https://www.elmundodelspectrum.com"/>
+    <outline type="rss" text="https://www.elmundodelspectrum.com/feed" title="https://www.elmundodelspectrum.com/feed" xmlUrl="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" htmlUrl="https://www.elmundodelspectrum.com/feed"/>
     <outline type="rss" text="https://horrorlosers.com/feed/" title="https://horrorlosers.com/feed/" xmlUrl="https://skywalkeres.github.io/feeds/horrorlosers-com-969e5877.xml" htmlUrl="https://horrorlosers.com/feed/"/>
   </body>
 </opml>
