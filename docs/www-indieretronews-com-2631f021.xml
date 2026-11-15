@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-15T13:25:06+00:00</updated>
+  <updated>2026-11-15T17:54:48+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8508260153353292425</id>
-    <title>Aces of the Pacific - An MS-DOS combat flight sim by Dynamix gets a PC modernization</title>
-    <updated>2026-11-08T14:35:33+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiERTKAAsrgtgo2oDIfPRfpzlz2Ffl7J9xPyV8wrh0KYBc7JzM4uUYNHnsZ_nZMumetVrdh6Xrk2MNzUm1RzNYrCnGjLpfaF9qQjbc8y8JKAvDrZdD-NSwJK41Z54BCJQykPeHGejuAsq2sQxpxeGWLpjRhJqW2fNCgcqFqNLQHqfj9QEADlrMwlB4jjRo/w502-h640/s-l500.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8508260153353292425" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;On this Remembrance Sunday, I thought it would be worth mentioning that the legendary MS-DOS combat flight simulator Aces of the Pacific, has un-officially received a modern PC port. Dubbed Aces of the Pacific: Enhanced, this project was developed by Kylofon through reverse-engineering with the help of AI. While completely revitalizing the classic with upgraded modern performance and improved visuals, the new native version faithfully preserves the magic of Dynamix’s original 1992 masterpiece. For many players, the classic title originally published by Sierra On-Line was the definitive World War II Pacific Theater flight simulator, even outclassing heavyweight contemporary rivals like 1942: Pacific Air War.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/3UWvPuawTGA" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3UWvPuawTGA"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The modernized release allows a new generation of players to dive into the historic aerial conflicts of World War II. True to the original, players can pilot individual single missions or embark on extensive career modes, choosing to fly for the United States Navy, Marines, or Army Air Forces, or take to the skies for the Imperial Japanese Army or Navy. By bridging the gap between the nostalgia of the MS-DOS version and modern PC hardware, Kylofon's project honors the legacy of Dynamix—who famously followed up this landmark simulation with Aces Over Europe in 1993—giving aviation enthusiasts a seamless way to revisit one of the most influential flight games ever made.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Smooth 3D view at your display's refresh rate.&lt;/li&gt;&lt;li&gt;High resolution (up to 2560 × 1600) with anti-aliasing; optional 16:9 widescreen.&lt;/li&gt;&lt;li&gt;Three times the view distance, the finest aircraft and ship models at every distance.&lt;/li&gt;&lt;li&gt;Distance haze, a smooth sky and a soft horizon.&lt;/li&gt;&lt;li&gt;Held direction keys combine (Left + Down pulls through a turn).&lt;/li&gt;&lt;li&gt;Separate flaps down and flaps up keys.&lt;/li&gt;&lt;li&gt;A launcher with key bindings.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Requires the CD-ROM version 1.2 of Aces of the Pacific (it includes WWII: 1946). The floppy releases (1.0, 1.01, 1.2 / Patch B and the 1946 expansion disk) don't run: they are separate builds of the game. The launcher and the game say which version a folder holds. A copy is at the Internet Archive: download AcesotP.zip and use the files of its AcesotP\DYNAMIX\AOTP folder.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://github.com/kylofon/acesofthepacific-enhanced"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/aces-of-pacific-ms-dos-combat-flight.html"/>
-    <published>2026-11-08T14:35:33+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3950889416921508373</id>
-    <title>Maldita Castilla - Locomalito's awesome platformer could be coming to the Amiga (AGA) via MainakeProject</title>
-    <updated>2026-11-08T18:58:10+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1dgRla_LRhmYuiVv8Cxb6lIPBuMSFIu19IwEwmUSMv2coSJDp_KE6460vqP1ox4XNWJep8Nj0YulLWIctatpFXW7aR9lCLWDObv1-OFs0K-hiiM9Bm5tz3gnj4I5LABsw3M83h81OEcx9hdHkPYy_lH7vtcv6G1xQcOhnPq9vRBXL4Zf7ySm1qktzhwU/w640-h506/maldita.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3950889416921508373" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;An exciting new release is headed to the Commodore Amiga AGA, courtesy of developer MainakeProject. Announced via itch io, this is an upcoming port of Maldita Castilla (also known as Cursed Castilla), a critically acclaimed action-platformer originally created by Locomalito in 2012. Developed with the full blessing and support of the original creator, this homebrew port utilizes authentic game assets alongside the memorable original soundtrack composed by Gryzor87. Heavily inspired by arcade classics like Ghosts 'n Goblins, the game weaves a dark fantasy tale heavily drawing from Spanish myths, chivalric romances, and European folklore (wiki).&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/z8r86TluItc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=z8r86TluItc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Amiga owners are treated to a gameplay tease, as MainakeProject has launched a playable demo featuring the entire first level. Players can fight their way through the introductory stage and test their skills against its challenging final boss. This teaser also offers a polished glimpse of a brilliant indie game that has been ported over to classic Amiga hardware that the creator has said is made by Amiga fans, for Amiga fans!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Content&lt;span&gt;	&lt;/span&gt;No generative AI was used&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;1) &lt;a href="https://mainakeproject.itch.io/maldita-castilla"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/maldita-castilla-locomalitos-awesome.html"/>
-    <published>2026-11-08T18:58:10+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-2245471017740024062</id>
     <title>The Great Giana Sisters - A famous platformer from the 1980's appears on the ZX Spectrum via AI/kirby2000</title>
@@ -319,5 +287,32 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/ultracore-aga-digital-illusions.html"/>
     <published>2026-11-15T13:25:06+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6969745529904263052</id>
+    <title>Rolling Thunder - A classic Arcade game gets an Amiga AGA remake by JOTD</title>
+    <updated>2026-11-15T17:38:24+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">A new remake of the classic arcade hit Rolling Thunder has un-officially arrived on the Commodore Amiga, courtesy of developer JOTD with music by no9. This new version breathes new life into the franchise, completely distancing itself from the abysmal original Amiga port widely criticized by retro gamers as an abysmal conversion that's not the even the worst outing from the Tiertex developer.</content>
+    <link href="https://www.indieretronews.com/2026/11/rolling-thunder-classic-arcade-game.html"/>
+    <published>2026-11-15T17:38:24+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8870347269983882357</id>
+    <title>Tumblepop - Classic 1991 arcade platformer for the Amiga by Acidbottle</title>
+    <updated>2026-11-15T17:54:48+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggE5zJpiA_vE70gJDE93sXpcRidA4RxjfIb5NN1hNxz0qH3HBpeMfTLc_rDEQZiaD_nUjTcC_dMTikAkOV4VSwRqDCraifl8pbTBNYhsrSXI0q0jtYz-rfosCidjWYap0Eq19-tHQdjJgx1Eg8IFmy03ImkrYcspzu3nPii-ejvqQRiQOmyYw92yE3_1s/w640-h460/acidbottle.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8870347269983882357" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The 1991 arcade smash hit Tumblepop which gained a cult following, has un-officially made its way to the Commodore Amiga, thanks to a brand-new conversion by developer Acidbottle. Originally created by Data East and designed by Makoto Kikuchi, the beloved platformer has been faithfully recreated to bring its coin-op magic straight to the Amiga. The original game was built by a dedicated team responsible for many of Data East's most memorable hits, and this new Amiga version hopefully captures that exact same nostalgic spirit for a whole new generation of retro gamers.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/ht2OOnAxJTg" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ht2OOnAxJTg"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The gameplay follows two intrepid ghosthunters who must travel across the globe on a crazy quest to save the world. Players navigate tricky platforms and dodge dangerous monsters while using a unique vacuum mechanic to capture enemies. Once sucked up, these monsters can be fired back out as destructive, bouncing balls to clear the screen and overcome level obstacles. It is a thrilling addition to the Amiga's modern library that perfectly honors the legacy of the arcade original.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Disclaimer: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Development has been A.I. code assisted.&lt;/li&gt;&lt;li&gt;May currently crash or run too fast/slow on your machine!&lt;/li&gt;&lt;li&gt;More optimisation, and debugging may be required. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://acidbottle.itch.io/tumblepop"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/tumblepop-classic-1991-arcade.html"/>
+    <published>2026-11-15T17:54:48+00:00</published>
   </entry>
 </feed>
