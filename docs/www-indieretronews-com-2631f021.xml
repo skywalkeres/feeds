@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-14T17:13:50+00:00</updated>
+  <updated>2026-11-14T21:48:00+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8822259619692063796</id>
-    <title>Amiga 1942 - The Amiga gets a smooth scrolling Arcade port from retrodnagames!</title>
-    <updated>2026-11-08T11:34:41+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vBUh9BJlmmM5J1CAArkdKtM6iWzIDKM9j22DZz4jGWQ2eulz8UalDnqI4YumGcMjVB_3Xwqlt3_s5ejocBgkcHX9LwTakmaklERIfGuJ14EBd-qPEw0ZQNu3AZMD1J8_ReTAgp-DptUXQSBQew3F0MtQJ4WVOWRP5SZUza6mQHIuqk8ZrFrRHTffTbs/w484-h640/1942.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8822259619692063796" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well, here's a Sunday surprise! As Retrodnagames has released a fan-made port of Capcom’s legendary 1984 arcade shooter 1942! This impressive homebrew project brings the classic vertical shoot-'em-up to the Commodore Amiga with an uncompromising, old-school ethos. Retrodnagames has coded the entire game from the ground up using AsmOne assembly language, painstakingly rebuilding all 32 stages, enemy flight patterns, and maps from scratch simply by studying arcade gameplay videos. Proudly crafted entirely by hand without any AI assistance, the port achieves decent performance too, boasting vibrant 32-colour graphics that run at a silky-smooth 50 frames per second at a native 224x256 resolution.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/p6Q-juvS3Ow" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=p6Q-juvS3Ow"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This ambitious release aims to honor the legacy of the original arcade smash hit designed by Yoshiki Okamoto, which originally served as the foundational entry in Capcom's iconic 194X franchise. Set in the Pacific Theater of World War II and loosely based on the historic Battle of Midway, the game uniquely tasks players with fighting their way to Tokyo to dismantle the enemy air fleet—a design choice originally tailored to capture Western markets that helped the game become a massive global financial success in the mid-1980s (wiki). This definitive Amiga tribute includes every single enemy type from the original cabinets, all the classic power-ups, and there's even a few hidden surprises!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minimum System requirements:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;OCS PAL Amiga. Runs on ECS and AGA as well&lt;/li&gt;&lt;li&gt;Floppy version: 512K chip mem, and 512K any mem&lt;/li&gt;&lt;li&gt;HD version: 512K chip mem, and 1Mb any mem. WHDLoad 17+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://retrodnagames.itch.io/amiga-1942"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/amiga-1942-amiga-gets-smooth-scrolling.html"/>
-    <published>2026-11-08T11:34:41+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-4382766354018113015</id>
     <title>Amiga Outrun AGA - Retrodnagames works his magic on a classic Arcade racer for the Amiga!</title>
@@ -319,5 +303,21 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/death-mask-3d-apache-software-amiga-fps.html"/>
     <published>2026-11-14T17:13:50+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2153631569205749417</id>
+    <title>MicroCity v1.9 - An urban planning simulator for the C64 by Jammet</title>
+    <updated>2026-11-14T21:48:00+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxVV7jE8mDvdlrmbmzIjFHPXC-7MeWpLVZOm6je5Iq9PW1SLzw386YkyLYJ1EAwL66YXlUUI5_R6H5VYMf7GppT8su6QjGa3aMTLJR_V2m62fcdZFjy6LX0NkCtNxqMX-aHoESGiZntc3jtoAaFWCxgLPvl0FjwsW7sbsMsrudkvqNJgNeXKCZM8ySpU/w640-h402/cioty.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2153631569205749417" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We've just been informed through Twitter(x) that developer Jammet has officially released MicroCity v1.9 for the Commodore 64, a comprehensive urban planning simulation inspired by the legendary mechanics of SimCity. The new game casts players as the city mayor, tasking them with turning an empty plot of land into a thriving, glowing metropolis. Future city managers will guide their towns from the foundation of a single, humble home all the way up to rows of towering skyscrapers.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;This release is a direct port from the Arduboy, a credit-card-sized 8-bit handheld system where the original simulation first gained popularity. Bringing the game over to the C64 was no small feat, requiring several months of dedication from Jammet. By developing with the assistance of artificial intelligence to help generate the translation code alongside personal testing, the developer has hopefully bridged the gap between the different systems and brought the project to completion on the C64.&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://unicorn.shmendric.de/"&gt; Source&lt;/a&gt; 2) &lt;a href="https://x.com/Jammet66273469/status/2115859854245982621"&gt;Twitter &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/microcity-v19-urban-planning-simulator.html"/>
+    <published>2026-11-14T21:48:00+00:00</published>
   </entry>
 </feed>

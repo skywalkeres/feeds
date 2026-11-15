@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-14T08:12:52+00:00</updated>
+  <updated>2026-11-14T21:46:12+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,24 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47630</id>
-    <title>De vender armas a reclutar soldados: “Lords of War” muestra su segundo teaser</title>
-    <updated>2026-11-12T12:37:17+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47630.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    Vertical ha publicado un &lt;b&gt;segundo teaser de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=44855" class="am-entity-link" data-tipo="pelicula" data-id="44855"&gt;Lords of War&lt;/a&gt;&lt;/b&gt;, la continuación de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=7505" class="am-entity-link" data-tipo="pelicula" data-id="7505"&gt;El señor de la guerra&lt;/a&gt;. Si el primer avance presentaba el regreso de Yuri Orlov y a su hijo como nuevo rival, este dedica más tiempo a confrontar a los personajes de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=5850" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="5850"&gt;Nicolas Cage&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=27299" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="27299"&gt;Bill Skarsgård&lt;/a&gt;. También deja clara la idea que mueve a Anton: en un negocio construido sobre la venta de armas, él quiere controlar además a quienes las disparan.
-&lt;/p&gt;
-&lt;p&gt;El vídeo dura un minuto y 26 segundos, casi el doble que el &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/noticia.php?film=47535"&gt;primer teaser que publicamos la semana pasada&lt;/a&gt;. La historia enfrenta a Yuri, veterano traficante de armas, con un hijo que está formando su propio ejército de mercenarios. La secuela vuelve a estar escrita y dirigida por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=53272" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="53272"&gt;Andrew Niccol&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p&gt;La película tiene previsto su estreno en los cines de Estados Unidos el &lt;/p&gt;&lt;p&gt;&lt;b&gt;22 de enero de 2027&lt;/b&gt;. Por ahora no hay una fecha de estreno confirmada para España.
-&lt;/p&gt;
-&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/3HPNGrjd4fk" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3HPNGrjd4fk"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-
- 
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47630"/>
-    <published>2026-11-12T12:37:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47631</id>
     <title>Despierta en un hospital y los médicos le dan una identidad que no reconoce: tráiler de “The Patient”</title>
@@ -399,5 +381,32 @@
 &lt;br /&gt;Feige también adelanta un cambio para Gambito. El personaje conservará el carisma que mostró en &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=33235"&gt;Deadpool y Lobezno&lt;/a&gt;, aunque su participación en esta historia tendrá espacio para algo más que las bromas. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=100745"&gt;Anthony Russo&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52336"&gt;Joe Russo&lt;/a&gt; dirigen la película, que llegará a los cines españoles el &lt;b&gt;17 de diciembre de 2026&lt;/b&gt;.</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47649"/>
     <published>2026-11-14T08:12:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47650</id>
+    <title>Avance Taquilla USA: Johnny Depp arrebata el primer puesto a “Godzilla Minus Zero” con su nuevo Scrooge</title>
+    <updated>2026-11-14T21:46:12+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+             “Scrooge y los fantasmas de la Navidad” recauda 6,7 millones de dólares el viernes en Norteamérica; la película de Godzilla cae al cuarto puesto diario.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47650.jpg" class="img-responsive center-block am-content-img-noticia" alt="Avance Taquilla USA: Johnny Depp arrebata el primer puesto a “Godzilla Minus Zero” con su nuevo Scrooge" title="Avance Taquilla USA: Johnny Depp arrebata el primer puesto a “Godzilla Minus Zero” con su nuevo Scrooge" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    El Scrooge de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=60" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="60"&gt;Johnny Depp&lt;/a&gt; ha tomado el relevo de Godzilla al frente de la taquilla norteamericana. &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=49817" class="am-entity-link" data-tipo="pelicula" data-id="49817"&gt;Scrooge y los fantasmas de la Navidad&lt;/a&gt;, la versión del relato de Dickens dirigida por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=40812" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="40812"&gt;Ti West&lt;/a&gt;, ingresó &lt;b&gt;6,7 millones de dólares el viernes&lt;/b&gt; en 3.535 cines. La cifra incluye los 1,5 millones recaudados en los pases previos del jueves, así que todavía habrá que esperar al cierre del domingo para saber el alcance real de su estreno.
+&lt;br&gt;
+&lt;br&gt;Paramount calcula que la película terminará el fin de semana en torno a los &lt;b&gt;20 millones de dólares&lt;/b&gt;. Por ahora, el dato firme es su primer puesto del viernes: en la &lt;a href="https://www.the-numbers.com/box-office-chart/daily/2026/11/13"&gt;clasificación diaria de The Numbers&lt;/a&gt; supera ampliamente los 2,6 millones de &lt;a href="https://www.abandomoviez.net/indie/pelicula.php?film=26444" class="am-entity-link" data-tipo="indie" data-id="26444"&gt;El gato con sombrero&lt;/a&gt; y los 2,23 millones del otro gran estreno, &lt;i&gt;Cómo robar un banco&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Godzilla pierde velocidad en su segunda semana&lt;/b&gt;&lt;/h3&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=45765" class="am-entity-link" data-tipo="pelicula" data-id="45765"&gt;Godzilla Minus Zero&lt;/a&gt; baja del liderato al cuarto puesto diario con &lt;b&gt;2,11 millones de dólares&lt;/b&gt;. La comparación directa con su primer viernes arroja una caída muy pronunciada, aunque aquel día incorporaba 6,7 millones procedentes de pases previos y funciones anticipadas. Las estimaciones sitúan su segundo fin de semana alrededor de los 7,5 millones, frente a los más de 30 millones con los que debutó.
+&lt;br&gt;
+&lt;br&gt;Entre las novedades de género, &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=47866" class="am-entity-link" data-tipo="pelicula" data-id="47866"&gt;Victorian Psycho&lt;/a&gt; empieza bastante más abajo: la película con &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=274277" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="274277"&gt;Maika Monroe&lt;/a&gt; suma unos 464.000 dólares en 1.206 salas. El domingo permitirá ver si el relato navideño de Depp mantiene el impulso del viernes y hasta dónde llega finalmente el descenso de Godzilla.
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47650"/>
+    <published>2026-11-14T21:46:12+00:00</published>
   </entry>
 </feed>
