@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-15T07:59:11+00:00</updated>
+  <updated>2026-11-15T15:11:52+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,86 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47632</id>
-    <title>La “Star Wars” de 1977 volverá a la gran pantalla: Lucasfilm anuncia su reestreno restaurado</title>
-    <updated>2026-11-12T16:02:47+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47632.jpg" /&gt;&lt;/p&gt;La versión original de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=296"&gt;Star Wars: Episodio IV - Una nueva esperanza&lt;/a&gt; regresará a los cines en 2027. &lt;a href="https://www.starwars.com/news/star-wars-50-campaign"&gt;Lucasfilm ha anunciado&lt;/a&gt; una restauración de la película tal como se estrenó en 1977, que volverá a la gran pantalla a partir del &lt;b&gt;19 de febrero&lt;/b&gt; para inaugurar las celebraciones de su 50.º aniversario.
-&lt;br /&gt;
-&lt;br /&gt;El reestreno está previsto en miles de pantallas de todo el mundo y contará con formatos digitales y en película, entre ellos IMAX 70 mm, 35 mm y 4DX. La presentación incorporará antes del largometraje un logotipo conmemorativo acompañado por una nueva orquestación de la música de John Williams. Lucasfilm también ha mostrado un cartel creado para la ocasión por Matt Ferguson, inspirado en el arte promocional de 1977.
-&lt;br /&gt;
-&lt;br /&gt;  &lt;b&gt;El comienzo de un año dedicado a la saga&lt;/b&gt;El regreso al cine de la película de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=38001"&gt;George Lucas&lt;/a&gt; será el eje de un programa que se extenderá durante 2027. Para el 4 de mayo se ha anunciado &lt;i&gt;The Hero Awakens&lt;/i&gt;, un documental de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=673065"&gt;R. J. Cutler&lt;/a&gt; que llegará a Disney+ con imágenes y grabaciones de audio realizadas durante la producción original. Ese mismo mes, el día 28, está previsto el estreno de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44361"&gt;Star Wars: Starfighter&lt;/a&gt;, la nueva aventura dirigida por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7819"&gt;Shawn Levy&lt;/a&gt; y protagonizada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=3623"&gt;Ryan Gosling&lt;/a&gt;.
-&lt;br /&gt;
-&lt;br /&gt;La celebración incluirá además nuevas figuras de Hasbro inspiradas en los juguetes clásicos de Kenner y siete sets de LEGO con minifiguras basadas en los bocetos de Ralph McQuarrie. Lucasfilm ha anunciado el reestreno cinematográfico como un lanzamiento internacional, aunque todavía no ha detallado sus salas ni su fecha concreta para España.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47632"/>
-    <published>2026-11-12T16:02:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47633</id>
-    <title>“Hijos de sangre y hueso” estrena un segundo tráiler antes de su llegada a los cines</title>
-    <updated>2026-11-12T16:07:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47633.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    Paramount ha lanzado un &lt;b&gt;segundo tráiler de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=39373" class="am-entity-link" data-tipo="pelicula" data-id="39373"&gt;Hijos de sangre y hueso&lt;/a&gt;&lt;/b&gt;. Tras el primer avance que publicamos en julio, la película vuelve a mostrar el conflicto que divide Orïsha: Zélie Adebola quiere devolver la magia a su pueblo, mientras la monarquía que se la arrebató está decidida a impedirlo.
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=558515" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="558515"&gt;Thuso Mbedu&lt;/a&gt; interpreta a Zélie, que emprende esa misión junto a su hermano y acaba aliándose con los hijos del rey. &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=339406" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="339406"&gt;Amandla Stenberg&lt;/a&gt; da vida a la princesa Amari y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=377445" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="377445"&gt;Damson Idris&lt;/a&gt; al príncipe Inan. La historia adapta la primera novela de la trilogía escrita por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=513258" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="513258"&gt;Tomi Adeyemi&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=101759" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="101759"&gt;Gina Prince-Bythewood&lt;/a&gt; dirige esta producción fantástica, cuyo reparto incluye también a &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=9279" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="9279"&gt;Viola Davis&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=9661" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="9661"&gt;Idris Elba&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=435051" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="435051"&gt;Cynthia Erivo&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=4796" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="4796"&gt;Chiwetel Ejiofor&lt;/a&gt;. &lt;b&gt;Hijos de sangre y hueso se estrenará en los cines españoles el 15 de enero de 2027.&lt;/b&gt;
-&lt;/p&gt;
-&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/a20LtkPALYM" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=a20LtkPALYM"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-
- &lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47633"/>
-    <published>2026-11-12T16:07:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47634</id>
-    <title>Una estrella, una sospecha y una ciudad corrupta: “Ray Gunn” muestra su nuevo tráiler</title>
-    <updated>2026-11-12T16:15:13+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47634.jpg" /&gt;&lt;/p&gt;El primer tráiler de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=45404"&gt;Ray Gunn&lt;/a&gt; nos enseñó Metropia, una ciudad futurista de coches voladores y callejones propios del cine negro. &lt;b&gt;El nuevo avance ya explica qué lleva a su protagonista a meterse en problemas&lt;/b&gt;: Arnold Dom, marido de la estrella Venus Nova, contrata al detective Raymond Gunn para averiguar si ella le está siendo infiel.
-&lt;br /&gt;
-&lt;br /&gt;Ray, al que pone voz &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=5033"&gt;Sam Rockwell&lt;/a&gt;, fue policía y ahora sobrevive como investigador privado en una ciudad donde buena parte de ese trabajo ha pasado a manos de pequeños robots espía. El encargo le abre las puertas del entorno de Venus Nova, interpretada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=3026"&gt;Scarlett Johansson&lt;/a&gt;, y lo arrastra a una trama que va más allá de una sospecha matrimonial.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Un detective clásico en un futuro lleno de extraterrestres&lt;/b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53767"&gt;Brad Bird&lt;/a&gt; lleva décadas intentando sacar adelante esta mezcla de ciencia ficción y relato detectivesco. La investigación permite recorrer las dos caras de Metropia: el mundo de las celebridades y los intereses que se mueven bajo su brillo. Junto a Ray trabaja Eye-Ra, su compañero extraterrestre de un solo ojo, al que pone voz &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=20915"&gt;Tom Waits&lt;/a&gt;.
-&lt;br /&gt;
-&lt;br /&gt;Netflix ha acompañado el avance con un nuevo cartel y varias imágenes de la película. En una de ellas aparece el número A113 grabado en un arma, un guiño recurrente de Bird a su antigua aula de CalArts que ha señalado &lt;a href="https://www.whats-on-netflix.com/news/ray-gunn-gets-its-most-revealing-trailer-yet-plus-a-new-poster-and-first-looks-with-a-pixar-easter-egg/"&gt;What’s on Netflix&lt;/a&gt;.
-&lt;br /&gt;
-&lt;br /&gt;Ray Gunn llegará a Netflix el &lt;b&gt;18 de diciembre&lt;/b&gt;. Antes tendrá un estreno limitado en cines a partir del 4 de diciembre, aunque Netflix no ha concretado en su anuncio qué salas participarán.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47634"/>
-    <published>2026-11-12T16:15:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47635</id>
-    <title>Schwarzenegger quiere volver a “Depredador”, “Conan” y “Comando”, pero aún espera los guiones</title>
-    <updated>2026-11-12T20:06:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47635.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1710"&gt;Arnold Schwarzenegger&lt;/a&gt; sigue interesado en volver a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=701"&gt;Depredador&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=314"&gt;Conan, el bárbaro&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/indie/pelicula.php?film=565"&gt;Comando&lt;/a&gt;. En su reciente visita a &lt;a href="https://www.youtube.com/watch?v=yxOC3xlazYc"&gt;&lt;i&gt;Jimmy Kimmel Live!&lt;/i&gt;&lt;/a&gt;, el actor habló de las nuevas películas relacionadas con los tres títulos, pero dejó claro que &lt;b&gt;todavía está esperando a que sus guiones estén terminados y pulidos&lt;/b&gt; antes de ponerse a rodar.
-&lt;br /&gt;
-&lt;br /&gt;No es la primera vez que Schwarzenegger menciona estos regresos. En marzo contó que había hablado con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=189477"&gt;Dan Trachtenberg&lt;/a&gt; sobre una nueva película de &lt;i&gt;Depredador&lt;/i&gt;, que existía un guion para &lt;i&gt;Comando 2&lt;/i&gt; y que seguía adelante la posibilidad de retomar a Conan. Su declaración de ahora confirma que continúa pendiente de los proyectos, sin concretar fechas de rodaje ni el alcance de sus posibles papeles.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;El regreso más esperado: Dutch frente al Depredador&lt;/b&gt;Schwarzenegger no ha vuelto a interpretar en acción real a Dutch Schaefer desde la película de 1987. La saga, mientras tanto, ha seguido otros caminos bajo la dirección de Trachtenberg, desde la historia comanche de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=38181"&gt;Predator: La Presa&lt;/a&gt; hasta &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44753"&gt;Predator: Badlands&lt;/a&gt;. Recuperar a Dutch conectaría esa nueva etapa con el protagonista que se enfrentó al cazador alienígena en la primera entrega, pero el actor no ha explicado aún cómo encajaría su personaje en otra película.
-&lt;br /&gt;
-&lt;br /&gt;También sigue sobre la mesa &lt;i&gt;King Conan&lt;/i&gt;, planteada como el regreso de un Conan envejecido décadas después de las aventuras que Schwarzenegger protagonizó en los años ochenta. &lt;i&gt;Comando 2&lt;/i&gt; sería, por su parte, la primera continuación de la película de 1985. De momento, los tres proyectos tienen algo en común: el interés declarado del actor, pero ningún rodaje anunciado.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47635"/>
-    <published>2026-11-12T20:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47636</id>
-    <title>El pacto de “The Spiral” tendrá una versión en inglés: New Line prepara su remake</title>
-    <updated>2026-11-12T20:11:48+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47636.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    New Line Cinema ha comprado los derechos para desarrollar una versión en inglés de &lt;a href="https://www.abandomoviez.net/indie/pelicula.php?film=79180" class="am-entity-link" data-tipo="indie" data-id="79180"&gt;The Spiral&lt;/a&gt;, el thriller psicológico dirigido por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=556428" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="556428"&gt;Paolo Strippoli&lt;/a&gt;. El acuerdo, adelantado en exclusiva por &lt;a href="https://deadline.com/2026/11/new-line-the-spiral-italian-film-1237221714/"&gt;Deadline&lt;/a&gt;, incluye también la distribución de la película italiana en Estados Unidos, Canadá y varios territorios asiáticos. &lt;b&gt;Por ahora se han adquirido los derechos del remake; no se han anunciado director, reparto ni fecha de rodaje.&lt;/b&gt;
-&lt;/p&gt;
-&lt;p&gt;La historia original arranca con la visita inesperada de Anna a su hija Alice durante una tormenta. Llevan años distanciadas y Anna llega dispuesta a contarle el secreto que cambió a su familia: dos décadas atrás hizo un pacto con una mujer desconocida para salvar a su hija tras un accidente. Aquella decisión tuvo consecuencias que todavía no han terminado.
-
-&lt;/p&gt;&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;  &lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/OiPKYpJlRGM" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=OiPKYpJlRGM"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Del terror italiano a los festivales españoles&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Strippoli, director de &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=45072" class="am-entity-link" data-tipo="pelicula" data-id="45072"&gt;La Sonrisa del Mal&lt;/a&gt;, ha llevado &lt;i&gt;The Spiral&lt;/i&gt; a Venecia, Toronto y Sitges. En este último festival, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=67044" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="67044"&gt;Jasmine Trinca&lt;/a&gt; recibió el premio a la mejor actriz y la película obtuvo el Méliès de Plata. Italia la ha elegido como su candidata al Oscar a la mejor película internacional, lo que todavía no supone una nominación.
-&lt;/p&gt;
-&lt;p&gt;La cinta original también forma parte de la programación del &lt;/p&gt;&lt;p&gt;&lt;a href="https://festivalcinesevilla.eu/en/node/12185"&gt;Festival de Cine Europeo de Sevilla&lt;/a&gt;, donde se proyecta en italiano con subtítulos en español. New Line planea darle un estreno limitado en cines estadounidenses antes de que termine el año; el acuerdo anunciado no incluye su distribución en España.&lt;/p&gt;&lt;/div&gt;
-
- 
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47636"/>
-    <published>2026-11-12T20:11:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47637</id>
     <title>“The Beauty” y “Grotesquerie” no tendrían segunda temporada en FX</title>
@@ -405,5 +325,105 @@
 &lt;br /&gt;Lo confirmado hasta ahora es que Miner volverá a la saga que ayudó a definir con la segunda y la tercera entrega, con un guion de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=535296"&gt;David Fliegel&lt;/a&gt; y un estreno previsto para 2027. Si se confirma que &lt;i&gt;Elysian Fields&lt;/i&gt; es esta película, el anuncio habría llegado cuando las cámaras ya estaban funcionando.</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47651"/>
     <published>2026-11-15T07:59:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47652</id>
+    <title>Batman domina la encuesta de DC, pero el Superman de Christopher Reeve conserva su sitio</title>
+    <updated>2026-11-15T08:16:56+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+            “El caballero oscuro” encabeza el ranking elaborado con vuestros cinco títulos favoritos; “Batman” de Tim Burton ocupa la segunda posición.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47652.jpg" class="img-responsive center-block am-content-img-noticia" alt=" Batman domina la encuesta de DC, pero el Superman de Christopher Reeve conserva su sitio" title=" Batman domina la encuesta de DC, pero el Superman de Christopher Reeve conserva su sitio" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    Os pedimos que eligierais las cinco películas de DC que salvaríais, y &lt;b&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=4559" class="am-entity-link" data-tipo="pelicula" data-id="4559"&gt;El caballero oscuro&lt;/a&gt; se ha colocado en cabeza&lt;/b&gt;. La película de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=42285" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="42285"&gt;Christopher Nolan&lt;/a&gt; suma 223 puntos en el ranking, por delante de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=2022" class="am-entity-link" data-tipo="pelicula" data-id="2022"&gt;Batman&lt;/a&gt;, la versión de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=45120" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="45120"&gt;Tim Burton&lt;/a&gt; de 1989, que alcanza los 192. Al consultar los resultados hay 89 selecciones registradas.
+&lt;br&gt;
+&lt;br&gt;El podio lo completa &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=3530" class="am-entity-link" data-tipo="pelicula" data-id="3530"&gt;Superman&lt;/a&gt; (1978), con 137 puntos. Casi medio siglo después de su estreno, la película protagonizada por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=579" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="579"&gt;Christopher Reeve&lt;/a&gt; sigue encontrando un hueco entre vuestros cinco imprescindibles, incluso en una clasificación donde Gotham lleva la voz cantante.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Las cinco películas de DC mejor situadas&lt;/b&gt;&lt;/h3&gt;Tras las dos versiones de Batman y el Superman de Reeve aparecen &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=35588" class="am-entity-link" data-tipo="pelicula" data-id="35588"&gt;Joker&lt;/a&gt; (2019), con 115 puntos, y &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=5395" class="am-entity-link" data-tipo="pelicula" data-id="5395"&gt;Watchmen&lt;/a&gt; (2009), con 111. Apenas cuatro puntos separan a estas dos últimas películas. En la encuesta, cada selección aporta de cinco a un punto según el puesto que ocupa en el top personal de quien vota.
+&lt;br&gt;
+&lt;br&gt;La presencia de Batman va mucho más allá de las dos primeras posiciones: &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=3086" class="am-entity-link" data-tipo="pelicula" data-id="3086"&gt;Batman Begins&lt;/a&gt; es sexta con 76 puntos, &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=18984" class="am-entity-link" data-tipo="pelicula" data-id="18984"&gt;The Batman&lt;/a&gt; séptima con 67 y &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=2023" class="am-entity-link" data-tipo="pelicula" data-id="2023"&gt;Batman vuelve&lt;/a&gt; novena con 54. Entre ellas se cuela &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=7362" class="am-entity-link" data-tipo="pelicula" data-id="7362"&gt;El Hombre de Acero&lt;/a&gt;, octava con 62 puntos. Son elecciones de épocas y estilos muy distintos, pero el personaje vuelve una y otra vez al repasar el ranking. 
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47652"/>
+    <published>2026-11-15T08:16:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47653</id>
+    <title>Tráiler en español de “Adolescencia, sexo y muerte en Campamento Miasma”, que llega a los cines el 20 de noviembre</title>
+    <updated>2026-11-15T08:23:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47653.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
+    Una franquicia de terror agotada, una joven cineasta dispuesta a salvarla y la actriz que sobrevivió a su primera película. Esas son las piezas de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=49368" class="am-entity-link" data-tipo="pelicula" data-id="49368"&gt;Adolescencia, sexo y muerte en Campamento Miasma&lt;/a&gt;, que ya tiene tráiler en español  antes de su estreno en los cines españoles el &lt;b&gt;20 de noviembre&lt;/b&gt;.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=622294" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="622294"&gt;Hannah Einbinder&lt;/a&gt; interpreta a Kris, la directora elegida para devolver la vida a una saga slasher castigada por años de secuelas. Su búsqueda la lleva hasta Billy, la estrella de la entrega original, interpretada por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=9167" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="9167"&gt;Gillian Anderson&lt;/a&gt;. Billy vive apartada del foco público, pero el encuentro entre ambas acaba llevando la historia mucho más lejos de los planes para un simple regreso cinematográfico.
+&lt;/p&gt;
+&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/vPaKapPA41A" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vPaKapPA41A"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Una película sobre la obsesión por los slashers&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=558198" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="558198"&gt;Jane Schoenbrun&lt;/a&gt; vuelve al terror después de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=45342" class="am-entity-link" data-tipo="pelicula" data-id="45342"&gt;El brillo de la televisión&lt;/a&gt;. Esta vez utiliza una franquicia ficticia para jugar con las convenciones del slasher: la «última superviviente», las secuelas que intentan repetir un éxito antiguo y los aficionados que siguen pendientes de cada nueva entrega. La relación entre Kris y Billy introduce en esa historia el deseo y la obsesión que el tráiler deja entrever.
+&lt;/p&gt;
+&lt;p&gt;La película pasó por el Festival de Sitges antes de su llegada a las salas españolas. Junto a Einbinder y Anderson, el reparto incluye a &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=603893" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="603893"&gt;Amanda Fix&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=350481" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="350481"&gt;Jasmin Savoy Brown&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=8234" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="8234"&gt;Dylan Baker&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+
+ &lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47653"/>
+    <published>2026-11-15T08:23:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47654</id>
+    <title>De Blade a Spider-Man, ¿cuáles son tus cinco películas favoritas de Marvel?</title>
+    <updated>2026-11-15T08:34:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_tnt_29_e45d7055b41bec437fb43591.jpg" /&gt;&lt;/p&gt;Ahora que Vengadores están a punto de desembarcar en los cines, nos toca mirar atrás. Antes de que &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=5072"&gt;&lt;em&gt;Iron Man&lt;/em&gt;&lt;/a&gt; arrancara el universo de Marvel Studios, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1114"&gt;Wesley Snipes&lt;/a&gt; ya cazaba vampiros en &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=186"&gt;&lt;em&gt;Blade&lt;/em&gt;&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1247"&gt;Sam Raimi&lt;/a&gt; había llevado a Spider-Man a la gran pantalla. Desde entonces hemos visto a Lobezno despedirse en &lt;em&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=28063"&gt;Logan&lt;/a&gt;&lt;/em&gt;, a Miles Morales saltar de un universo a otro y a los Vengadores medirse con Thanos. ¿Cuál pondrías por delante de todas las demás? 
+&lt;br /&gt;
+&lt;br /&gt;Elige &lt;strong&gt;cinco películas de Marvel estrenadas en cines&lt;/strong&gt;, de cualquier época. También valen las animadas y las producidas fuera del UCM. Toca las carátulas, ordénalas del primer al quinto puesto y publica tu selección. Si quieres, añade una frase para defender tu número uno o explicar qué clásico has dejado fuera.
+&lt;br /&gt;
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47654"/>
+    <published>2026-11-15T08:34:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47655</id>
+    <title>El banquete de Hogwarts reúne a Harry, Ron y Dumbledore en el nuevo vídeo de la serie</title>
+    <updated>2026-11-15T15:06:50+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47655.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
+    HBO ha dejado a un lado los montajes rápidos de los tráilers para enseñar &lt;b&gt;una escena completa del primer banquete en Hogwarts&lt;/b&gt;. En el &lt;a href="https://www.youtube.com/watch?v=lUNaXbZ1zqQ"&gt;vídeo oficial de &lt;/a&gt;&lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=4925" class="am-entity-link" data-tipo="serie" data-id="4925"&gt;Harry Potter&lt;/a&gt;, los alumnos recién llegados ya están sentados en sus mesas después de la ceremonia de selección. Harry observa al director del colegio, la comida aparece sobre las mesas y el Gran Comedor empieza a sentirse como un lugar habitado, más allá de los breves vistazos de los avances anteriores.
+&lt;/p&gt;
+&lt;p&gt;El fragmento también deja escuchar al nuevo trío protagonista. Harry, interpretado por &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=673314" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="673314"&gt;Dominic McLaughlin&lt;/a&gt;, le pregunta a Ron si Dumbledore está un poco loco; su amigo, al que da vida &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=673315" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="673315"&gt;Alastair Stout&lt;/a&gt;, responde sin dudar que sí. Es un intercambio pequeño, pero permite ver cómo funciona su complicidad dentro de una escena, sin los cortes habituales de un tráiler.
+&lt;/p&gt;
+&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/lUNaXbZ1zqQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lUNaXbZ1zqQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Dumbledore y McGonagall hablan de Harry&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Después de hacer aparecer el banquete, el Dumbledore de &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=4437" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="4437"&gt;John Lithgow&lt;/a&gt; se dirige a la McGonagall de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=30852" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="30852"&gt;Janet McTeer&lt;/a&gt;. Le pregunta si está contenta de que Harry haya terminado en Gryffindor. Ella reconoce cuánto se parece a su padre, James Potter, y Dumbledore le recuerda que el parecido físico no determina cómo será el niño. El vídeo reserva así unos segundos para los profesores y para el peso que ya tiene el pasado de Harry en Hogwarts.
+&lt;/p&gt;
+&lt;p&gt;La primera temporada adaptará &lt;/p&gt;&lt;p&gt;&lt;i&gt;Harry Potter y la piedra filosofal&lt;/i&gt; y llegará a &lt;b&gt;HBO Max España el 25 de diciembre&lt;/b&gt;. &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=436496" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="436496"&gt;Francesca Gardiner&lt;/a&gt; es la responsable de la serie y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=100953" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="100953"&gt;Mark Mylod&lt;/a&gt; dirige varios episodios.&lt;/p&gt;&lt;/div&gt;
+
+ &lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47655"/>
+    <published>2026-11-15T15:06:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47656</id>
+    <title>Joel Kinnaman despierta en un laboratorio mientras su cuerpo muta en “The Cell”</title>
+    <updated>2026-11-15T15:11:52+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+            Adam Cooper dirigirá este thriller de criaturas sobre un periodista que investigaba a una farmacéutica antes de convertirse en sujeto de sus experimentos.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47656.jpg" class="img-responsive center-block am-content-img-noticia" alt="Joel Kinnaman despierta en un laboratorio mientras su cuerpo muta en “The Cell”" title="Joel Kinnaman despierta en un laboratorio mientras su cuerpo muta en “The Cell”" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=33370" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="33370"&gt;Joel Kinnaman&lt;/a&gt; protagonizará &lt;i&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=51966" class="am-entity-link" data-tipo="pelicula" data-id="51966"&gt;The Cell&lt;/a&gt;&lt;/i&gt; como Ryan Weaver, un periodista de investigación que está a punto de destapar las actividades de una poderosa farmacéutica. Antes de publicar su historia, despierta encerrado en un centro secreto de pruebas médicas. Sus captores le dicen que padece una enfermedad grave, pero parecen mucho más interesados en estudiar su cuerpo que en curarlo.
+&lt;br&gt;
+&lt;br&gt;Según &lt;a href="https://www.hollywoodreporter.com/movies/movie-news/joel-kinnaman-thriller-the-cell-director-adam-cooper-afm-1236755213/"&gt;la exclusiva de The Hollywood Reporter&lt;/a&gt;, Ryan descubre que los demás pacientes permanecen aislados y sedados mientras son sometidos a experimentos. &lt;b&gt;Su propio cuerpo empieza a mutar&lt;/b&gt; y, al buscar una salida, encuentra indicios de que la compañía está creando algo peor que la enfermedad que afirma combatir.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Del thriller policial al terror de criaturas&lt;/b&gt;&lt;/h3&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=113210" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="113210"&gt;Adam Cooper&lt;/a&gt; dirigirá la película después de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=45439" class="am-entity-link" data-tipo="pelicula" data-id="45439"&gt;Sombras del Pasado&lt;/a&gt;, el thriller protagonizado por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=13338" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="13338"&gt;Russell Crowe&lt;/a&gt;. El guion de &lt;i&gt;The Cell&lt;/i&gt; está firmado por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=258926" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="258926"&gt;Evan Turner&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=405397" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="405397"&gt;Ben Zazove&lt;/a&gt;. La premisa cambia pronto la posición del protagonista: el hombre que buscaba pruebas contra la farmacéutica acaba atrapado dentro de sus instalaciones, sin saber cuánto de lo que le cuentan es cierto.
+&lt;br&gt;
+&lt;br&gt;Highland Film Group está presentando el proyecto a compradores internacionales en el American Film Market. &lt;b&gt;El rodaje está previsto para febrero de 2027&lt;/b&gt;; por ahora no se ha anunciado fecha de estreno.
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47656"/>
+    <published>2026-11-15T15:11:52+00:00</published>
   </entry>
 </feed>

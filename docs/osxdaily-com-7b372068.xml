@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-13T13:40:13+00:00</updated>
+  <updated>2026-11-15T08:19:03+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,18 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136218</id>
-    <title>Deals: MacBook Neo from $670, $200 Off MacBook Air, &amp; More</title>
-    <updated>2026-11-03T22:46:24+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;MacBook Neo is already the most affordable Mac, but Amazon is cutting another $30 off the retail price in a rare discount on the popular budget laptop from Apple. You can find the $30 discount available on a few color options, though the larger storage model has less of a discount applied to it. MacBook ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"&gt;Deals: MacBook Neo from $670, $200 Off MacBook Air, &amp;#038; More&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://osxdaily.com/2026/11/03/deals-macbook-neo-from-670-200-off-macbook-air-more/"/>
-    <published>2026-11-03T22:46:24+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136202</id>
     <title>How to Enable Sound Glow on HomePod &amp; HomePod Mini</title>
@@ -571,5 +559,36 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/13/how-adjust-liquid-glass-mac/"/>
     <published>2026-11-13T13:40:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136315</id>
+    <title>Enjoy a Nifty Apple Moon Logo Wallpaper</title>
+    <updated>2026-11-15T08:19:03+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a target="_blank" href="https://cdn.osxdaily.com/wp-content/uploads/2026/11/apple-moon-logo-saudiuae-wallpaper-r.jpeg"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/apple-moon-logo-saudiuae-wallpaper-r.jpeg" alt="Apple Moon Logo wallpaper" class="aligncenter size-large wp-image-136317"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’re big fans of nice wallpapers around here, and Apple often includes some great default wallpapers as well as occasional wallpaper packs that are available through their websites. In this case, apparently earlier this year Apple’s Saudi Arabia and UAE websites offered downloadable wallpapers featuring a glowing  Apple logo accented with a crescent moon against a starry night sky backdrop, as part of a regional Ramadan wallpaper offering. Because these wallpapers were only offered in certain middle eastern countries it’s no surprise that those of in the USA or elsewhere in the world never saw these wallpapers, but I stumbled into the image on someones desktop recently that used this wallpaper, and so I asked them to share where they got it, and now I am sharing it with you, our readers.&lt;/p&gt;
+&lt;p&gt;Click the image below to open the full sized version into a new window, it’s 6018 × 3386 resolution so works on nearly any display size or type:&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136315"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" href="https://cdn.osxdaily.com/wp-content/uploads/2026/11/apple-moon-logo-saudiuae-wallpaper-r.jpeg"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/apple-moon-logo-saudiuae-wallpaper-r.jpeg" alt="Apple Moon Logo wallpaper" class="aligncenter size-large wp-image-136317"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And sure I suppose there is some regional or religious connotation to this wallpaper, but I just like the way it looks on my Mac desktop regardless of that, so you either like the wallpaper yourself, or you don’t, and either is OK! If this one isn’t for you, &lt;a href="https://osxdaily.com/tag/wallpaper/"&gt;we have many other wallpaper posts&lt;/a&gt; that might better suit your tastes.&lt;/p&gt;
+&lt;p&gt;Cheers to &lt;a href="https://basicappleguy.com/haberdashery/appleramadan" target="_blank"&gt;BasicAppleGuy&lt;/a&gt; for preserving the wallpaper after it was no longer available on the web through Apple.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/15/enjoy-a-nifty-apple-moon-logo-wallpaper/"/>
+    <published>2026-11-15T08:19:03+00:00</published>
   </entry>
 </feed>

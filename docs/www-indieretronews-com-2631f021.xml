@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-14T21:48:00+00:00</updated>
+  <updated>2026-11-15T13:25:06+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4382766354018113015</id>
-    <title>Amiga Outrun AGA - Retrodnagames works his magic on a classic Arcade racer for the Amiga!</title>
-    <updated>2026-11-08T11:55:48+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-2IeYrfJGjAPybaIROtD27kKlB8zxguteM2MdZtEjpldmle60PoAFmwuTdp6GNQ5h-2GmCguqjVmRg9FNXbMdrwpB60wmn8NQPaTz0eG7oe-tOcJ_DpiT786LMwAuNILEV1qWGfyiOBiUMmvM-_SPW0I_V15_C1XU1EfIWddjqum8TOLf5pu1echdVA/w640-h434/outrun.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4382766354018113015" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Amiga news is coming in thick and fast, as now we welcome the release of 'Outrun AGA', an ambitious fan-made reimagining of Sega’s legendary arcade racer built to replace the notoriously poor official Amiga port from back in the day. Developed by retrodnagames, this project is coded entirely from the ground up in old-school assembly language. Steering clear of modern shortcuts, the developer proudly avoided any form of generative AI during creation to hopefully ensure an authentic arcade experience. Built to squeeze every ounce of power from original, 1993-era Commodore hardware, the racing title is purely blitter-driven, requiring a PAL-based AGA Amiga equipped with a standard 68020 CPU and 4MB of fast RAM. Because of its specialized reliance on native Amiga custom chips, faster modern processor upgrades won't alter the game's execution speed.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/jOeCh2kOoqo" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=jOeCh2kOoqo"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;Outrun Amiga, Yeh it's that bad!&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/zA0XOb01qjU" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zA0XOb01qjU"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;Amiga Outrun AGA - Music seems a little glitchy, may be emulator related!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This impressive technical feat perfectly honours the spirit of Yu Suzuki's iconic 1986 masterpiece. This native Amiga recreation packs in all 15 stages bringing the complete journey to life in a crisp 320x224 fullscreen resolution. Visually anchored by a striking 32-colour display mode running at a steady 25 frames per second, the game delivers beautiful sprite-scaling action that mirrors the coin-op original. Players can cruise to all three original music tracks while simultaneously listening to robust three-channel sound effects, keeping the immersive premium stereo experience intact. Best of all, Amiga owners can lock in their best runs with high scores saved directly to a hard drive across every distinct difficulty setting.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Minimum System requirements:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AGA PAL Amiga with 4Mb fast RAM. Runs full speed on 68020. This is intended to run on close to original 1993 C= hardware. Since the game is blitter driven, faster CPU's will not make it run faster.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/amiga-outrun-aga-retrodnagames-works.html"/>
-    <published>2026-11-08T11:55:48+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5115807361130477782</id>
-    <title>Wipeout 2097/XL - A Playstation hit futuristic racer gets an Amiga AI port, albeit beefy Amiga's required!</title>
-    <updated>2026-11-08T12:27:51+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZTg9evy4CkWkD6idCL7l_vwpF-9AGjkmPZRuRBLBgCXetlRhUIh49Qc-zxsaU1m3Ldu6T4CnsgpJ8l1CEFNu6TPCAGKmqZXnwoWL-4y0PC13dfOx_cIfUN0vGYsMGS7KKcRy5bU77au5J9pRiSAxw99trF4u85yOLHIBoMPuXZAHlqTxrBT7QJ1b97tc/w640-h360/wipeout.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5115807361130477782" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Welcome to Wipeout 2097/XL, a native AmigaOS 3 port rebuilt entirely from a source decompilation of the original PlayStation code. Coded by Arcziii (arczi84) with the help of AI, this non-commercial port relies on modern hardware expansions, requiring an Amiga system running PiStorm with a Raspberry Pi 3, 4, or CM4 under Emu68. To handle the high-octane 3D performance, your setup must feature RTG with a 32-bit screen mode, roughly 64 MB of free RAM, and an active AHI sound subsystem. Players can choose between two specialized render versions depending on their software setup: xl-ogles using the ogles2.library with MSAA support, or xl-minigl utilising minigl.library v29. Performance tests show that the MiniGL build provides an extra boost, clocking in at roughly 10 frames per second faster. &lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/liY4LVlRV5U" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=liY4LVlRV5U"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If you've got the power, then this release offers Amiga owners the definitive way to experience one of the greatest video games of all time. Centered around the iconic F5000 AG racing league, the game challenges players to pilot blazing-fast, weapon-equipped futuristic crafts across gravity-defying global race tracks. Wipeout originally defined mid-90s gaming culture, praised heavily by critics for its distinct visual aesthetic, alongside its ground breaking licensed soundtracks featuring artists like The Chemical Brothers and The Prodigy. Wipeout 2097 even received critical acclaim upon release; reviewers praised the game for its dramatic improvements to the controls, graphics, and gameplay of the original Wipeout (Wiki).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You will need to provide your own original Wipeout XL USA PlayStation retail disc (SCUS-94351) or a corresponding digital .bin/.cue image, as the download contains no copyrighted game data. Helpfully, the package does include NR74W's beautiful HD texture pack—originally created for DuckStation—which completely overhauls the in-game HUD, fonts, weapons icons, and title screens with modern high-resolution fidelity.&lt;/li&gt;&lt;li&gt;Caffeine OS has an RTG version of Wipeout included, but even that version with a Pistorm ran incredibly slowly or didn't start at all.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;[&lt;/p&gt;&lt;p&gt;&lt;b&gt;UPDATE&lt;/b&gt;] - To those of you who keep saying to me there's already a port of Wipeout for the Amiga. " WipEout 2097 was officially ported to the Amiga in 1999 by developer Digital Images and publisher Blittersoft, requiring a PowerPC (PPC) accelerator, a 3D graphics card (supporting Warp3D), 24MB+ Fast RAM, and a CD-ROM drive " So yeh, you need a POWER PC Accelerator. This one is for Pistorm users and above.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/wipeout-2097xl-playstation-hit.html"/>
-    <published>2026-11-08T12:27:51+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-8508260153353292425</id>
     <title>Aces of the Pacific - An MS-DOS combat flight sim by Dynamix gets a PC modernization</title>
@@ -319,5 +287,37 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/microcity-v19-urban-planning-simulator.html"/>
     <published>2026-11-14T21:48:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6741079680717114993</id>
+    <title>Crazy Cars II+ - Enhancing a 1980's Amstrad racer using AI assistance by thealfest (WIP)</title>
+    <updated>2026-11-15T10:57:31+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUgj2Ds3DLNY5hahxQda5nF1eL6nl5msNOOGwL_X5lK3OKeLLpDCmpH9hDCbbqJp8bhS503oP7sMXvXacN34O6Ff1Z3y2Vn-9GwjD3EmDf85QRYogit7ChJ6iKUN7HZxCqbetW0-i_WRNuVtZFW6mVRRxQJ0C41okcP6bbsL9uLd16rlj7yjbShYfXL4/w640-h480/crazyCars%20II.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6741079680717114993" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's some fresh Amstrad CPC news, as developer thealfest has introduced Crazy Cars 2+, a modernised enhancement of the classic driving game where players pilot a Ferrari F40 across four US states. The updated version retains the core challenge of racing against the clock to reach a distant city while navigating junctions using an in-game map. While civilian traffic is absent, players must still outrun aggressive police patrol cars and smash through roadblocks. To speed up development, the creator utilised the AI tool Claude Code and brought over various optimisations originally developed for a ZX Spectrum mod.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/rccI5LxA6Ng" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rccI5LxA6Ng"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The project is currently a work in progress but already boasts notable upgrades to the original game. Players will notice a performance boost of over 50 percent, smoother Ferrari animations, and helpful GPS turn hints to guide them through the map. The developer also added a new intro screen, a high score tracker, an easier difficulty setting, and a proper congratulations screen upon victory. Critical code updates have resolved a frustrating score overflow bug alongside other general fixes. For those eager to test their driving skills immediately, the game is also available to play online using the Retro Virtual Machine emulator.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://thealfest.itch.io/crazy-cars-2-amstrad-cpc"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/crazy-cars-ii-enhancing-1980s-amstrad.html"/>
+    <published>2026-11-15T10:57:31+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1555899651749075107</id>
+    <title>Ultracore AGA -  Digital Illusions platform blaster could finally be coming to the Amiga via AI/MrDig</title>
+    <updated>2026-11-15T13:25:06+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIGArzv0_ijMQF7OMl8c3cIdeMj_xN_U0U-rAV6s9VOcHwSAznNRGOrn1cEuuXi1R9NMfI4EUVIBNVI5fXDA8uD9gCiA0EfuvWUuUUY2aB02V_2uac6nCsuWnmw5Vgu5qaIVjoEzSHeGl3yrciFFQHQE-MoYT_0BiQVppFdoHzQF89JIRe-KCun0HdSiU/w640-h408/ultracore.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1555899651749075107" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;MrDig has announced via EAB a new project called Ultracore AGA, a work-in-progress port of the classic run-and-gun shooter. The game has a bit of a history. It originally started development for the Amiga by Digital Illusions under the name Hardcore but was sadly cancelled before completion. Decades later via Strictly Limited Games, the project was resurrected and officially released for modern platforms like the Sega Mega Drive, PlayStation, Xbox, and Nintendo Switch under the title Ultracore. Now, inspired by community discussions on the English Amiga Board (EAB), MrDig has taken on the challenge of bringing this action-packed title back to its original roots.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/FvNQ1fIZ7_8" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FvNQ1fIZ7_8"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The early progress on the port looks promising. A newly released gameplay video showcases the title screen and attract mode, leading into actual gameplay with full sound effects and streaming audio. The current "Ultracore+" build runs at stock Amiga 1200 speeds, though it currently requires a hefty 30 megabytes of Fast RAM to stream the uncompressed, 8-bit mono music. MrDig considers the project a work in progress but has ambitions for the final version. The ultimate goal is to optimize the game so that it runs smoothly with full sound and music on a standard, stock A1200 equipped with only a modest amount of Fast RAM.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124447"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/ultracore-aga-digital-illusions.html"/>
+    <published>2026-11-15T13:25:06+00:00</published>
   </entry>
 </feed>
