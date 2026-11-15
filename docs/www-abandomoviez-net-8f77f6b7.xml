@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-14T21:46:12+00:00</updated>
+  <updated>2026-11-15T07:59:11+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,23 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47631</id>
-    <title>Despierta en un hospital y los médicos le dan una identidad que no reconoce: tráiler de “The Patient”</title>
-    <updated>2026-11-12T13:46:01+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47631.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    Un hombre despierta en un hospital tras un accidente de coche. Está parcialmente paralizado y no recuerda lo ocurrido, pero hay algo que sí cree saber: no se llama como aseguran los médicos. Ese es el punto de partida de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=46954" class="am-entity-link" data-tipo="pelicula" data-id="46954"&gt;The Patient&lt;/a&gt;, el thriller psicológico protagonizado por &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=8476" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="8476"&gt;Ryan Phillippe&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=2067" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="2067"&gt;Kate Beckinsale&lt;/a&gt; cuyo primer tráiler ha presentado &lt;a href="https://theplaylist.net/the-patient-trailer-ryan-phillippe-kate-beckinsale-exclusive-20261111/"&gt;en exclusiva The Playlist&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p&gt;El personal del hospital le identifica como Dean Morris. Él insiste en que es Andrew Wright, un fotógrafo de naturaleza. Mientras intenta recuperarse, empieza a sospechar que su tratamiento y la doctora Rose, interpretada por Beckinsale, forman parte de una manipulación. La película construye así su misterio alrededor de una pregunta que el paciente no puede resolver por sí solo: &lt;/p&gt;&lt;p&gt;&lt;b&gt;¿está confundido por el accidente o alguien quiere convencerlo de que es otra persona?&lt;/b&gt;
-&lt;/p&gt;
-&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt; &lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/E0UAc8mh4sg" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=E0UAc8mh4sg"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Un hospital donde nadie parece digno de confianza&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=104306" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="104306"&gt;Mukunda Michael Dewil&lt;/a&gt; escribe y dirige la película, que vuelve a reunirlo con Phillippe después de &lt;i&gt;Collide&lt;/i&gt;. Completan el reparto David Cade como otro de los médicos, Kelly Greyson en el papel de una enfermera y Michael Sirow.
-&lt;/p&gt;
-&lt;p&gt;Buffalo 8 ha fijado su lanzamiento digital en Estados Unidos para el &lt;/p&gt;&lt;p&gt;&lt;b&gt;4 de diciembre de 2026&lt;/b&gt;. Por ahora no hay fecha confirmada para España.&lt;/p&gt;&lt;/div&gt;
-
- &lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47631"/>
-    <published>2026-11-12T13:46:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47632</id>
     <title>La “Star Wars” de 1977 volverá a la gran pantalla: Lucasfilm anuncia su reestreno restaurado</title>
@@ -408,5 +391,19 @@
 &lt;/div&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47650"/>
     <published>2026-11-14T21:46:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47651</id>
+    <title>¿Ya está rodando Jason? Las pistas que relacionan “Elysian Fields” con el nuevo “Viernes 13”</title>
+    <updated>2026-11-15T07:59:11+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47651.jpg" /&gt;&lt;/p&gt;El regreso de Jason Voorhees podría estar más avanzado de lo que sugería su anuncio del viernes. Una película titulada &lt;i&gt;Elysian Fields&lt;/i&gt; lleva semanas en producción en Georgia, y varios indicios la relacionan con el nuevo &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=16232"&gt;Viernes 13&lt;/a&gt;&lt;/i&gt; que dirigirá &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52551"&gt;Steve Miner&lt;/a&gt;. &lt;b&gt;Por ahora no existe una confirmación oficial de que ambos títulos correspondan a la misma película.&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;La conexión más concreta está en las compañías. Una &lt;a href="https://www.georgiaentertainment.com/2026/10/october-2026-now-filming-in-georgia/"&gt;relación de rodajes en Georgia&lt;/a&gt; identifica &lt;i&gt;Elysian Fields&lt;/i&gt; como un largometraje de Cineverse. La distribuidora acaba de anunciar que llevará a los cines norteamericanos la nueva película de Jason. Además, &lt;a href="https://www.wickedhorror.com/horror-news/exclusive-new-friday-the-13th-already-filming-in-atlanta/"&gt;Wicked Horror asegura&lt;/a&gt;, a partir de sus propias fuentes y de registros empresariales, que el rodaje utiliza el nombre de &lt;i&gt;Elysian Fields&lt;/i&gt; y está relacionado con una sociedad llamada 13 Films LLC.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Un argumento y un reparto todavía sin confirmar&lt;/b&gt;La descripción atribuida a &lt;i&gt;Elysian Fields&lt;/i&gt; habla de un grupo de jóvenes artistas que vive en una comunidad y acaba perseguido por un asesino aparentemente inmortal. Encaja con un slasher, pero &lt;b&gt;Horror, Inc. todavía no ha anunciado la historia de la nueva película de Jason&lt;/b&gt;. Tampoco ha confirmado los nombres que circulan como posibles integrantes del reparto: &lt;a href="https://www.joblo.com/friday-the-13th-jason-filming-casting-rumours/"&gt;JoBlo recoge&lt;/a&gt; informaciones sobre Natalie Alyn Lind y otros intérpretes, así como las ofertas de casting para el rodaje en Atlanta.
+&lt;br /&gt;
+&lt;br /&gt;Lo confirmado hasta ahora es que Miner volverá a la saga que ayudó a definir con la segunda y la tercera entrega, con un guion de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=535296"&gt;David Fliegel&lt;/a&gt; y un estreno previsto para 2027. Si se confirma que &lt;i&gt;Elysian Fields&lt;/i&gt; es esta película, el anuncio habría llegado cuando las cámaras ya estaban funcionando.</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47651"/>
+    <published>2026-11-15T07:59:11+00:00</published>
   </entry>
 </feed>
