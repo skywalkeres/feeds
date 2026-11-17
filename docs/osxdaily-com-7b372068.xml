@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-15T08:19:03+00:00</updated>
+  <updated>2026-11-16T23:23:40+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,54 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136202</id>
-    <title>How to Enable Sound Glow on HomePod &amp; HomePod Mini</title>
-    <updated>2026-11-03T22:47:20+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-610x423.jpg" alt="How to enable Sound Glow on HomePod and HomePod Mini" class="aligncenter size-large wp-image-136207" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-610x423.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-300x208.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1-768x533.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-1.jpg 1194w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Sound Glow is a snazzy new feature introduced for HomePod (2nd gen and later), and HomePod Mini (1st gen and later) that allows the small display on the top of the smart speaker to show a fun little ambient light effect that reacts to the rhythm, beat, and color of whatever you are playing on the device. It adds a bit of character to the HomePod that is particularly enjoyable in a dimmer or dark room. Curiously, Sound Glow is not enabled by default, so if you wish to use the feature you will have to turn it on manually, which we will show you how to do here.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136202"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Sound Glow System Requirements&lt;/h3&gt;
-&lt;p&gt;Sound Glow is compatible with HomePod (2nd gen and later), and HomePod Mini (1st gen and later). The first gen HomePod does not support the feature.&lt;/p&gt;
-&lt;p&gt;Additionally, Sound Glow requires you to update your HomePod to HomeOS 27.2 (or whatever they’re calling it). That’ll happen automatically if you have a paired iPhone or iPad with &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2&lt;/a&gt;, or a Mac with &lt;a href="https://osxdaily.com/2026/10/26/macos-golden-gate-27-2-update-available-to-download/"&gt;MacOS 27.2&lt;/a&gt;. If your HomePod is not yet updated, you can do that manually &lt;a href="https://osxdaily.com/2022/12/26/how-to-update-homepod-from-mac-with-home-app/"&gt;from a Mac&lt;/a&gt; or &lt;a href="https://osxdaily.com/2021/06/19/how-update-homepod-software/"&gt;iPhone/iPad&lt;/a&gt; within the Home app. &lt;/p&gt;
-&lt;p&gt;You will also want to update Spotify, Podcasts, and other apps, so they can support the feature fully.&lt;/p&gt;
-&lt;h2&gt;How to Enable Sound Glow on HomePod &amp;amp; HomePod Mini&lt;/h2&gt;
-&lt;p&gt;Assuming you meet the requirements and have your devices updated, here’s how to enable Sound Glow, which curiously is not enabled by default:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Open the “Home” app on your iPhone, iPad, or Mac running iOS 27.2 or MacOS 27.2&lt;/li&gt;
-&lt;li&gt;Long-press or right-click on the HomePod and choose “Accessory Settings”&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-369x800.jpg" alt="How to enable Sound Glow on Homepod" class="aligncenter size-large wp-image-136204" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-3.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;li&gt;Scroll down and look for the “Sound Glow” option and toggle it ON&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-369x800.jpg" alt="Turn on Sound Glow on HomePod and HomePod Mini" class="aligncenter size-large wp-image-136205" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-enable-soundglow-homepod-2.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;li&gt;Exit out of Home app&lt;/li&gt;
-&lt;li&gt;Now open Music.app, Spotify, Podcasts, or another similar compatible app, and play audio through the HomePod to see SoundGlow in action&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;You should see the colors start to move and change on the little display atop HomePod right away, which will vary depending on the music and beat or what you are listening to.&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-610x352.jpg" alt="HomePod Soundglow" class="aligncenter size-large wp-image-136203" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-610x352.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-300x173.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2-768x444.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homepod-soundglow-2.jpg 1056w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The Sound Glow setting describes the feature as &lt;em&gt;“Display ambient light that responds to the colors and rhythm of what’s playing.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Note that some music and audio streams seem to be a little slower to adapt or catch onto Sound Glow, particularly through third party apps, so if you aren’t seeing immediate feedback you might try Music app or Podcasts app, and you’ll want to be sure to update Spotify and other apps to their latest versions just in case too.&lt;/p&gt;
-&lt;p&gt;If you have a HomePod, try it out yourself, it’s a fun new feature and worth enabling on your Apple smart speakers.&lt;/p&gt;
-&lt;p&gt;This is obviously for compatible HomePod devices, and it remains to be seen if HomeView will have a similar Sound Glow feature, perhaps on the screen itself, but we will find that out soon.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/03/how-to-enable-sound-glow-on-homepod-homepod-mini/"/>
-    <published>2026-11-03T22:47:20+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136222</id>
     <title>Watch Charlie Brown Thanksgiving Free on Apple TV (2026)</title>
@@ -590,5 +542,37 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/15/enjoy-a-nifty-apple-moon-logo-wallpaper/"/>
     <published>2026-11-15T08:19:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136324</id>
+    <title>Beta 2 of iOS 27.3 &amp; MacOS 27.3 Available for Testing</title>
+    <updated>2026-11-16T23:23:40+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg" alt="new iOS 27.3 and MacOS 27.3 betas are out" class="aligncenter size-large wp-image-135173" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-610x262.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-300x129.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-768x330.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas-1536x659.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/07/os-27-suite-public-betas.jpg 1584w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released the second beta versions of iOS 27.3, iPadOS 27.3, and MacOS 27.3 Golden Gate for those enrolled in the beta testing programs for Apple system software.&lt;/p&gt;
+&lt;p&gt;The most notable addition in the iOS 27.3 beta 2 build is the ability to use Face Unlock on iPhone Duo, a device which does not have Face ID. Face Unlock is borrowed from the freshly released HomeView, which uses an alternate method for facial recognition, and works quite well. Hopefully Face Unlock will arrive to more Apple devices across the OS 27.3 suite, but for now only the iPhone Duo supports this feature (other than HomeView anyway). Additionally OS 27.3 betas include support vertical tab options in Safari, automatic dark mode feature in Safari, and iPhone Duo gains a reachability feature. iPhone Duo also will gain additional &lt;a href="https://osxdaily.com/2023/11/09/how-use-standby-mode-iphone/"&gt;Standby Mode clock features&lt;/a&gt; with the beta update. OS 27.3 also includes support for Apple Intelligence in China, and various other smaller changes and improvements. MacOS 27.3 beta includes new warnings and options around Full Disk Access, which can be useful for letting AI agents work on your Mac.&lt;/p&gt;
+&lt;p&gt;Apple typically goes through several iterations of beta before releasing a final version, which suggests the final versions of OS 27.3 suite are likely due sometime in December.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136324"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For iPhone and iPad beta testers, you can find iOS 27.3 beta 2 in Settings &amp;gt; General &amp;gt; Software Update&lt;/p&gt;
+&lt;p&gt;For Mac beta testers, can find MacOS 27.3 beta 2 in System Settings &amp;gt; General &amp;gt; Software Update.&lt;/p&gt;
+&lt;p&gt;Currently the latest stable public builds of system software are &lt;a href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"&gt;MacOS 27.2.1 Golden Gate for Mac&lt;/a&gt;, &lt;a href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"&gt;iOS 27.2.1 for iPhone, and iPadOS 27.2.1 for iPad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/16/beta-2-of-ios-27-3-macos-27-3-available-for-testing/"/>
+    <published>2026-11-16T23:23:40+00:00</published>
   </entry>
 </feed>
