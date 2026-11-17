@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-13T18:17:04+00:00</updated>
+  <updated>2026-11-17T11:44:42+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,118 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709759</id>
-    <title>Una de actualizaciones</title>
-    <updated>2026-09-30T09:58:32+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/sir-clive-sinclair-spectrum.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Curiosamente, los juegos anunciados en las últimas semanas han tenido actualizaciones recientes. Todos ellos, así que nos disponemos a hacer una recopilación de dichas novedades:&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;¡Drácula en español!&lt;/h2&gt;
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Hace dos semanas os anunciábamos &lt;a href="https://www.elmundodelspectrum.com/dracula-illustrated-edition-una-aventura-gotica-creada-para-ver-en-blanco-y-negro/"&gt;Dracula Illustrated Edition&lt;/a&gt;, una aventura gótica creada para ver en blanco y negro. Hemos de reconocer que influimos en Gian Battista Aicardi para que lanzara una versión en español. Le agradecemos que atendiera nuestra petición y ya tenemos disponible la versión en nuestro idioma:&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-center wp-block-paragraph"&gt;&lt;a href="https://giadacu.itch.io/dracula-spanish-128k-zx-spectrum-illustrated-edition" target="_blank" rel="noreferrer noopener nofollow"&gt;Dracula – Spanish – 128K ZX Spectrum Illustrated Edition&lt;/a&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Pulsando en este enlace podréis descargar la demo además de conocer más detalles de este desarrollo tan original que requiere ser jugado en blanco y negro.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Munch Infinity se actualiza con mejoras&lt;/h2&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum-1024x778.png" alt="Munch Infinity Spectrum" class="wp-image-197709744" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum-1024x778.png 1024w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum-300x228.png 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum-768x584.png 768w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Munch-Infinity-Spectrum.png 1059w" sizes="auto, (max-width: 1024px) 100vw, 1024px"&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Memory Loop nos informa a través de ZXLion en Spectrum Computing que &lt;a href="https://www.elmundodelspectrum.com/munch-infinity-un-pacman-griego-super-adictivo/" data-type="post" data-id="197709741"&gt;Munch Infinity&lt;/a&gt;, el comecocos que os anunciamos hace poco, está recibiendo mejoras y que tiene una carpeta con todo el material al día.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://drive.google.com/drive/folders/1iYvSvB-jCKuAfWergBEvFiiDyHdJBDKQ" target="_blank" rel="noreferrer noopener"&gt;Aquí tenéis en enlace de la carpeta con todo el contenido&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Shadows of Belial ya disponible&lt;/h2&gt;
-
-
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum.jpg" alt="Shadows of Belial Spectrum" class="wp-image-197709733" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum.jpg 921w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum-300x300.jpg 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum-150x150.jpg 150w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/09/Shadows-of-Belial-Spectrum-768x770.jpg 768w" sizes="auto, (max-width: 921px) 100vw, 921px"&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Como ya os anunciamos, el nuevo juego de Retroworks, &lt;a href="https://www.elmundodelspectrum.com/shadows-of-belial-vuelve-sir-fred-vuelve-retroworks/"&gt;Shadows of Belial&lt;/a&gt;, estaba a punto de caramelo. Finalmente ha salido antes de lo que pensábamos y ya está &lt;a href="https://www.retroworks.es/php/game.php?id=21" target="_blank" rel="noreferrer noopener"&gt;disponible aquí&lt;/a&gt;. Gracias a Sejuan por avisarnos en nuestro canal de Telegram.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Como ya sabéis, este juego no es otro que &lt;a href="https://www.elmundodelspectrum.com/old-fred-gamesoft-demo-de-sir-fred-2/"&gt;Old Fred&lt;/a&gt;, aquella secuela espiritual del famoso &lt;a href="https://www.elmundodelspectrum.com/sir-fred-1986-made-in-spain/"&gt;Sir Fred&lt;/a&gt; que &lt;a href="https://www.elmundodelspectrum.com/sir-fred-2-freddy-hardest-2-odisea-1001-y-otras-exclusivas-presentadas-por-gamesoft/"&gt;anunciamos en primicia en junio de 2024&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Bonus Track: Motor para crear juegos de Spectrum&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y aunque esto no es una actualización de algo ya mencionado anteriormente, sino que se trata de algo nuevo para El Mundo del Spectrum, no queríamos dejar pasar la oportunidad de mencionarlo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kwyll &lt;/strong&gt;es una herramienta de creación de juegos retro para Windows, macOS y Linux que actualmente permite exportar proyectos a los modelos Spectrum de 48K. Se trata de una herramienta visual diseñada, en última instancia, para permitir que personas sin conocimientos de programación creen juegos para las antiguas máquinas de 8 bits, empezando por el Spectrum.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Los motores nacieron con el objetivo de poder crear juegos de Spectrum sin tener conocimientos técnicos pero al final, siempre necesitas una parte más o menos técnica. Sin embargo, por lo que hemos podido ver, Kwyll realmente ofrece la posibilidad de crear un juego absolútamente desde cero con ningún conocimiento técnico necesario.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;¿Lo habéis probado? ¿Cuál es vuestra opinión de esta herramienta? &lt;a href="https://indigobeetle.itch.io/kwyll" target="_blank" rel="noreferrer noopener nofollow"&gt;Podéis acceder pulsando aquí&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;La versión de Spectrum de Flashback ya tiene enemigos&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Novedades sobre el &lt;a href="https://www.elmundodelspectrum.com/flashback-podria-llegar-al-zx-spectrum/"&gt;Flashback para Spectrum&lt;/a&gt;. Tenemos nuevo vídeo con novedades. Pinta muy bien. Ahora incluye enemigos. Aquí tenéis un vídeo:&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/una-de-actualizaciones/"/>
-    <published>2026-09-30T09:58:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709781</id>
     <title>Le quitan el molesto fondo al Arkanoid 2</title>
@@ -2025,5 +1913,109 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/escape-from-omega-base-un-doom-vectorial-que-vuela-en-un-spectrum-48k/"/>
     <published>2026-11-13T18:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709936</id>
+    <title>Xenon 2 Megablast llega por fin al ZX Spectrum 128K</title>
+    <updated>2026-11-17T11:44:42+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/xenon-2-spectrum-ingame.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Outsoftware vuelve a sorprendernos con otra conversión para nuestro querido Spectrum. Esta vez le toca el turno a Xenon 2 Megablast, uno de los matamarcianos más recordados de finales de los 80, que ya podemos disfrutar en una versión para ZX Spectrum 128K.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Parece que Outsoftware no tiene intención de tomarse un descanso. En las últimas semanas os hemos hablado en varias ocasiones de este proyecto italiano, primero por su impresionante trabajo de preservación y conversiones, después por la inesperada llegada de &lt;a href="https://www.elmundodelspectrum.com/maniac-mansion-llega-al-zx-spectrum/" data-type="post" data-id="197709834"&gt;Maniac Mansion al Spectrum&lt;/a&gt; y, más recientemente, por la renovación de su &lt;a href="https://www.elmundodelspectrum.com/una-bbs-como-las-de-antano-lista-para-trastear-desde-un-spectrum-real/" data-type="post" data-id="197709887"&gt;BBS&lt;/a&gt;, a la que podemos conectarnos incluso desde una máquina original.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Pues bien, Simone vuelve a la carga y esta vez lo hace con un título que muchos recordamos de nuestros tiempos con los ordenadores de 16 bits: &lt;strong&gt;Xenon 2 Megablast&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Un clásico de los Bitmap Brothers que nunca llegó al Spectrum&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lanzado originalmente en 1989 para Amiga y Atari ST (aunque la versión PC fue la que me enamoró), Xenon 2 Megablast fue uno de los grandes exponentes de los juegos de disparos con desplazamiento vertical. Sus detallados gráficos, sus escenarios repletos de enemigos y, por supuesto, su inolvidable banda sonora basada en el tema Megablast de Bomb the Bass lo convirtieron en uno de los títulos más reconocibles de los Bitmap Brothers.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lo curioso es que Xenon 2 estuvo cerca de aparecer en nuestro Spectrum.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En 1991, Dave Spicer desarrolló una demostración técnica para Spectrum 128K que incluía desplazamiento a pantalla completa y gráficos realizados por Jason Brashill. El resultado era prometedor, pero Mirrorsoft rechazó la propuesta y el proyecto terminó cancelándose. Aquella versión nunca llegó a convertirse en un juego comercial, aunque sus demostraciones fueron recuperadas años después.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ahora, 35 años más tarde, tenemos una nueva oportunidad de jugar a Xenon 2 en nuestro ordenador de ocho bits favorito.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Una nueva conversión para Spectrum 128K&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La versión de Outsoftware recupera la acción del clásico matamarcianos, con nuestra nave enfrentándose a formaciones enemigas mientras avanzamos por diferentes escenarios alienígenas.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego incorpora una pantalla de presentación, menú de selección de controles y un sistema de multicarga desde disco para acceder a los diferentes niveles.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Como viene siendo habitual en los últimos trabajos de Outsoftware, se ha prestado especial atención a la compatibilidad con diferentes sistemas de almacenamiento. El juego está disponible en cinco formatos: MGT (+D/DISCiPLE), DSK (Spectrum +3), OPD (Opus Discovery), TRD (TR-DOS) y KDI (Kempston Disc).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La versión para Spectrum +3 utiliza dos caras de disco, mientras que todas las ediciones se distribuyen conjuntamente en un único archivo ZIP.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En cuanto a los controles, podemos jugar con teclado, Kempston, Cursor o Sinclair 2, además de redefinir las teclas a nuestro gusto. La configuración predeterminada utiliza las habituales QAOP para mover la nave y SPACE para disparar.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Y hay otro detalle que empieza a resultar familiar en los trabajos recientes de Outsoftware: &lt;strong&gt;el uso de herramientas de inteligencia artificial como apoyo al desarrollo&lt;/strong&gt;. De hecho, la propia pantalla de carga incluye la referencia «created with Claude + Code».&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Ya disponible para descargar&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La conversión &lt;a href="https://outsoftware.it/es/juegos/xenon-2-megablast-sinclair-zx-spectrum-128k/" rel="noopener"&gt;está disponible en la web oficial de Outsoftware&lt;/a&gt;, donde podemos encontrar los archivos necesarios para los distintos sistemas de disco, además de capturas e instrucciones para poner el juego en marcha.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Con este nuevo lanzamiento, Outsoftware continúa ampliando su catálogo de conversiones para máquinas clásicas, demostrando que todavía quedan muchos títulos por recuperar y adaptar a nuestro Spectrum.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Después de Maniac Mansion, Blake’s 7 y ahora Xenon 2 Megablast, tenemos curiosidad por saber cuál será su próximo proyecto aunque ya podemos ver por ahí un interesante &lt;a href="https://outsoftware.it/es/juegos/tiny-quest-sinclair-zx-spectrum-128k/" rel="noopener"&gt;Tiny Quest&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Mientras tanto, ya tenemos otro juego que probar. ¿Quién nos iba a decir en 1991 que acabaríamos viendo Xenon 2 funcionando en un Spectrum en 2026?&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/xenon-2-megablast-llega-por-fin-al-zx-spectrum-128k/"/>
+    <published>2026-11-17T11:44:42+00:00</published>
   </entry>
 </feed>

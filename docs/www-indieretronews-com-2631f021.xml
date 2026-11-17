@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-16T21:54:24+00:00</updated>
+  <updated>2026-11-17T11:23:30+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6897002810009493974</id>
-    <title>ALIENS NEOPLASMA - A brilliant ZX Spectrum game appears on the Amstrad Plus via AI/Devil System</title>
-    <updated>2026-11-10T16:07:55+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgranPEcSr10JGOr0bU4zTRQJETOf2gOfIEVrvPwOYfVuEpjUXD53K7_dNz8TsqIRYOZMcYuZbU6DLJ9mf_2QXxMPivdyhMTczi3NA_MF1HQrbvdMwn3JRBvBS_20g4tUvtKLezxQDV4mQz8qwypFdDHDXZyTiwISqP_qRUrGu8T1I8DHZPiSNUpVrf6xw/w640-h476/ALIENS.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6897002810009493974" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Amstrad CPC Plus has just received a new release with unofficial port of Aliens NeoPlasma, a tense horror platformer developed by Devil System with the help of AI. Originally released to high acclaim on the ZX Spectrum by the Sanchez Crew, this atmospheric title tasks players with guiding protagonist Ashley Smith after she awakens aboard the starship Achilles. What was meant to be a routine journey quickly devolves into a desperate fight for survival. Players must navigate a treacherous labyrinth of ladders, platforms, and automatic doors, managing scarce resources like ammunition and grenades while searching for the safety of a medical bay.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/7vzKDrC1skE" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7vzKDrC1skE"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This new enhanced version takes full advantage of the Amstrad Plus hardware to deliver a pretty decent effort. The gameplay itself utilizes the system's high-resolution MODE 1 graphics, which are further elevated by custom sprite colours and hardware-accelerated ASIC sprites that hope to ensure smooth, fluid action on screen. While the actual gameplay leans into this sharper display mode, the game's atmospheric cover and title screen still utilize the more colourful MODE 0. Players will need to use every terminal and counter they can find to survive the terrors lurking in the dark corridors of the ship—assuming they can stay alive long enough to reach them.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://neoplasma.devil-system.de/"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/aliens-neoplasm-brilliant-zx-spectrum.html"/>
-    <published>2026-11-10T16:07:55+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5032005330666725661</id>
-    <title>IndieRetroNewsMusic goes live with Ai slop rave remixes of classic games..Amiga,c64 and more!</title>
-    <updated>2026-11-11T14:43:39+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq6m4GEP-36o82OqSnPVBdzXV65fwA_rbl1IgFcxH0TNQjaVA3g65Qs2WJGr9SJRyyGYXRz6-PIaYqyFTh9CZjRAmIupFHJ9CsbBopn6rnKNJK9FuuHeB7TJXoIPIQ7k6UZzutvvBLpxpuk7FQH_NuYfuXFfwg1LuuJfdTgVuoHuXMqKFiJT5kOI32UTw/w640-h316/Clipboard_11-11-2026_01.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5032005330666725661" itemprop="description articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;As many of you know I've been writing IndieRetroNews for over 20 years, featuring a huge range of games from a wide range systems. But in all that time I've always wanted to create remixes of classic games in the style I've wanted. To be honest my skills were mainly limited to using old software like Dance Ejay back in the 90's. I really love the classic tunes, the secret of monkey island, hero quest and the like but nobody really pushed it into a hardcore/rave it was always too soft to me. So I went through AI. Now it's not a case of here's a tune do it, you have to get the right prompts right at least a paragraph of prompts. Then you've got to get the right tempo, and then comes combining etc&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/7V-WXlmGOa8" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7V-WXlmGOa8"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/9NUMLmBrEPQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=9NUMLmBrEPQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/-UJ3LCvhTiQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-UJ3LCvhTiQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Sure it's not to everyone's taste and sure to those that hate it, it's AI SLOP but to me I love it. It gives me something to enjoy away from all the hospital trips and dosed up on strong pain meds. I'm doing something for myself, it makes ME HAPPY. And all my tunes have full credit to the original authors. So if you like it please pop on over and check them all out (&lt;a href="https://www.youtube.com/@IndieRetroNewsMusic"&gt;HERE&lt;/a&gt;). For those that hate it, well don't worry you can ignore it and yes I'll still be writing daily on IndieRetroNews as I have done for all these years.&lt;/p&gt;&lt;p&gt;Peace out friends! Retro love n hugs!&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/indieretronewsmusic-goes-live-with-ai.html"/>
-    <published>2026-11-11T14:43:39+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-5289738492734028305</id>
     <title>Insector X - An unofficial AI fan port of Taito's 1989 horizontal shooter by caiusarcade {WIP}</title>
@@ -319,5 +287,27 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/super-mario-bros-super-mario-bros.html"/>
     <published>2026-11-16T21:54:24+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1087069232990076919</id>
+    <title>Alex Kidd GX in a Miracle AI World GX – An AI Conversion project is in the works bringing the SMS classic over to the Amstrad GX4000!</title>
+    <updated>2026-11-17T11:06:44+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Overange has sparked quite a stir in the Amstrad scene by bringing SEGA’s classic Alex Kidd in Miracle World to the Amstrad GX4000 under the title Alex Kidd GX. What began roughly two weeks ago as a simple experiment to see how hard it would be to convert a Master System title has quickly snowballed into working towards a full-blown port featuring all 17 original levels. Built on top of the Sonic</content>
+    <link href="https://www.indieretronews.com/2026/11/alex-kidd-gx-in-miracle-ai-world-gx-ai.html"/>
+    <published>2026-11-17T11:06:44+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4327069311422505964</id>
+    <title>Blast Grid - A Bomberman clone for your Amiga by sandlbn</title>
+    <updated>2026-11-17T11:23:30+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Amiga owners have a brand-new slice of explosive arcade fun to sink their teeth into with Blast Grid, a Bomberman-inspired title developed by sandlbn for the Amiga. The game packs a substantial single-player Story mode spanning 30 stages across five distinct industrial worlds—Factory, Reactor, Data Lab, Waste Processing, and Deep Core—each featuring unique enemies, power-ups, hidden secrets, and</content>
+    <link href="https://www.indieretronews.com/2026/11/blast-grid-bomberman-clone-for-your.html"/>
+    <published>2026-11-17T11:23:30+00:00</published>
   </entry>
 </feed>
