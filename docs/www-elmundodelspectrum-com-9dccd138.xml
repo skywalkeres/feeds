@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-17T18:34:47+00:00</updated>
+  <updated>2026-11-18T09:24:15+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,52 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709786</id>
-    <title>ZX Desk: Un Windows en el ZX Spectrum</title>
-    <updated>2026-10-09T16:53:12+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/ZX-Desk-spectrum.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Damian Cooper quería un Atari ST. Lo que tenía era un Spectrum. De esa cuenta pendiente sale &lt;strong&gt;ZX Desk&lt;/strong&gt;, un escritorio gráfico escrito en ensamblador Z80 que cabe en 48 KB: barra de menús, ventanas que se solapan, foco, bloc de notas, reloj, calendario y un gestor de ficheros a dos paneles. La versión 1.2.0 se publicó el 4 de octubre de 2026.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Esta locura nos permite tener una especie de Windows en nuestros Spectrums. Para muchos no deja de ser una curiosidad técnica. Para otros es un sueño cumplido.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Arrastra una ventana dentro de un frame de 69.888 T-states. En un 128K añade disco RAM en los bancos libres y sonido AY.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La cinta que hay que bajar, con el escritorio y tres aplicaciones detrás (contador, cronómetro y tally), está aquí: &lt;a href="https://github.com/mindbox77/zxdesk/releases/download/v1.2.0/zxdesk-1.2.0-with-apps.tap" target="_blank" rel="noreferrer noopener nofollow"&gt;zxdesk-1.2.0-with-apps.tap&lt;/a&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Solo el escritorio, sin las apps de ejemplo: &lt;a href="https://github.com/mindbox77/zxdesk/releases/download/v1.2.0/zxdesk-1.2.0.tap" target="_blank" rel="noreferrer noopener nofollow"&gt;zxdesk-1.2.0.tap&lt;/a&gt;. La ficha de la release, con el resto de ficheros .zxa, está en &lt;a href="https://github.com/mindbox77/zxdesk/releases/tag/v1.2.0" target="_blank" rel="noreferrer noopener nofollow"&gt;GitHub, v1.2.0&lt;/a&gt;. Licencia MIT. El código, en &lt;a href="https://github.com/mindbox77/zxdesk" target="_blank" rel="noreferrer noopener nofollow"&gt;mindbox77/zxdesk&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Para probarlo basta un emulador y un ratón Kempston. Recuerda activar estos periféricos en tu emulador. Si vas a probarlo desde un ordenador actual, el uso del ratón moderno en el emulador es cuanto menos, curioso.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Parte de la comunidad lo ha recibido con dudas, diciendo que quizá ha intervenido la IA y también hay que decir que no es el primer intento de Windows para Spectrum pero os aseguramos que se trata de una rareza digna de ser probada. &lt;/p&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/zx-desk-un-windows-en-el-zx-spectrum/"/>
-    <published>2026-10-09T16:53:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709791</id>
     <title>Adiós Homebrew, ¿hola Home-iA-brew?</title>
@@ -2033,5 +1987,58 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/alien-1984-mind-games/"/>
     <published>2026-11-17T18:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709942</id>
+    <title>Cómo se juega al ALIEN de ZX Spectrum</title>
+    <updated>2026-11-18T09:24:15+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_manual_de_alien_para_dummies.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;article id="the-post" class="container-wrapper post-content tie-standard"&gt;
+
+		
+
+		&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Tras el &lt;a href="https://www.elmundodelspectrum.com/alien-1984-mind-games/"&gt;Análisis de ALIEN (1984) Mind Games&lt;/a&gt; se dispusieron Javier Pinteño «Kidsaguf» (autor del artículo) y Alejandro Ibáñez a echar unas partidas para aprender a jugarlo.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tenía fama de complicado y fuimos muchos los chavales que tuvimos la oportunidad de tenerlo sin manual de instrucciones. Te movías y hacías algunas cosas pero era muy frustrante.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Os avisamos que incluso sabiendo cómo se juega, es bastante difícil. Juzgad vosotros mismos.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.youtube.com/watch?v=lfivcyXVop8" rel="noopener"&gt;Ver el vídeo en Youtube&lt;/a&gt;.&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;p class="clearfix"&gt;&lt;/p&gt;
+		
+
+		
+
+		
+	&lt;/article&gt;
+
+	
+	&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/como-se-juega-al-alien-de-zx-spectrum/"/>
+    <published>2026-11-18T09:24:15+00:00</published>
   </entry>
 </feed>

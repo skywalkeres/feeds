@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-17T21:36:36+00:00</updated>
+  <updated>2026-11-18T15:57:17+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,60 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5873298238523016195</id>
-    <title>Blue Max: Megadrive Remake - A fan remake of Blue Max, the 1983 World War I flight game!</title>
-    <updated>2026-11-12T15:28:57+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYV-NrERsVbvRsFZbSTwUdsYqtEr44ZVv8or7mR67Vo1t5PYoVZdSqOplnStfxwMgJqPX2U-34ZHbi9si5jBf3_rFM4Y0V-Tt9nRGgY5aizqULWuZDdb8lh1WLlOpGEtZ3nqdWSUB7TyXqGeODJMDW8B5lUvYdh6O4_eaDWnKa4l6tp0iYyURIuNLk3XA/w640-h448/bluee.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5873298238523016195" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's a new Sega Mega Drive game, it's the 'Blue Max: Megadrive Remake', a homebrew project from developer gerla.cc. Drawing direct inspiration from Peter Adams’ Commodore 64 port of Bob Polin’s 1983 World War I classic, this version preserves the original game's core world and mechanics while giving them a modernized megadrive overhaul. Players are put back in the cockpit of a classic biplane, soaring over rivers, roads, and bridges to bomb enemy tanks, ships, and buildings while dogfighting rival aircraft. Between bombing runs on the enemy city, you will need to touch down on friendly airfields to refuel, repair damage, and restock your ammunition as you work your way up from a lowly Kamikaze Trainee to the prestigious rank of Blue Max.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/e6FdGcJLRqQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=e6FdGcJLRqQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To take full advantage of the Mega Drive and Genesis, gerla.cc rebuilt the game from the ground up to run at a smooth 60 frames per second, introducing a fresh perspective alongside visuals rendered directly from 3D models. The remake also offers plenty of flexibility for both newcomers and seasoned veterans of the 1983 original, featuring three distinct difficulty tiers—Beginner, Advanced, and Expert. Additionally, players can tailor the flight physics to their liking by toggling gravity on or off and switching between Normal and Pilot control schemes, making it easier than ever to jump right in and have a blast.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted &lt;/b&gt;&lt;b&gt;Graphics: AI was used for the rotations of the 3D models.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://charger0277.itch.io/blue-max-md"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/blue-max-megadrive-remake-fan-remake-of.html"/>
-    <published>2026-11-12T15:28:57+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6539964706488825254</id>
-    <title>Wolf500 - Wolfenstein 3D comes over to the Amiga 500 by serpentchain</title>
-    <updated>2026-11-13T13:13:57+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3uq4sojaRg6CQ4qoPxIMMnJmfOqBzn2LetzajVXScFfBd528uvhumxy2pyinjZQtprz8fUd1aPrPXLaB9I15COUaaBkbcbLn7JUnLJKssJIw4EzkylXP-A-E9YAKnuziCAjv6FlP7AvhTrXeZriWLLgEHOfB00pr5LD445OBAS3_s5WT6QcVUni11pdA/w640-h380/olfen.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6539964706488825254" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Throughout the years we've featured many different types of news stories, from gaming updates, to music disks and even scene demos. Well here with another eye opening news story I think you'll like, as if you have a Commodore Amiga, then it might be worth checking out the latest download of Wolf500 by serpentchain for the Unexpanded Amiga 500. The developers aim to port the classic first-person shooter Wolfenstein 3D! The game puts you in the boots of an infiltrator caught trying to steal the plans for Operation Eisenfaust. Thrown into a deep Nazi dungeon while waiting for execution, you manage to overpower your cell guard, grab his knife and pistol, and start fighting your way out through nine packed floors of Castle Wolfenstein to win your freedom. &lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/o1l9gmtbGwI" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=o1l9gmtbGwI"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;What makes this release really stand out is how cleanly it runs on base hardware, requiring only an Amiga 500 OCS with 512 KB of RAM. The entire game plays and saves directly from a single 880 KB floppy disk, offering both PAL and NTSC support right out of the box. Whether you are running a completely stock setup or a machine with extra memory, serpentchain has included support for both unexpanded and expanded modes so anyone with classic Amiga can hopefully jump straight into the action.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://serpentchain.itch.io/wolf500"&gt; Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/wolfenstein-3d-classic-first-person.html"/>
-    <published>2026-11-13T13:13:57+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-9013428007013089827</id>
-    <title>Buggy Boy - A Buggy Boy Bonanza! C64 to Amiga port and enhanced versions!</title>
-    <updated>2026-11-13T14:42:01+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">Amiga owners who remember the 1985 off-road arcade racer Buggy Boy are in for a bit of a treat. While the game famously made its way to home computers like the Amstrad and Amiga back in the day, two fans have just worked on this classic that will hopefully give you another reason to fire it up at home on original hardware or via emulation. Whether you want a smoother take on the original Amiga</content>
-    <link href="https://www.indieretronews.com/2026/11/buggy-boy-buggy-boy-bonanza-c64-to.html"/>
-    <published>2026-11-13T14:42:01+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8483768179937387382</id>
-    <title>Icicle Joe - An Amiga remake of the 1985 C64 game Icicle works</title>
-    <updated>2026-11-13T19:54:42+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">With the festive season fast approaching it seemed just right for developer Peppe74 to release Icicle Joe—subtitled Icicle Works Returns!—a Commodore Amiga remake of the 1985 Commodore 64 classic Icicle Works. Designed to run on a stock Amiga 500 with 512K of RAM or an expanded Amiga 1000, the game puts players in the boots of Joe, a down-on-his-luck Santa impersonator complete with a cheap fake</content>
-    <link href="https://www.indieretronews.com/2026/11/icicle-joe-amiga-remake-of-1985-c64.html"/>
-    <published>2026-11-13T19:54:42+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-7101226456326366773</id>
     <title>Aonic - HOT NEWS as Sonic the Hedgehog gets an early v2 demo on the Amiga and it's impressive! [UPDATE]</title>
@@ -290,7 +236,12 @@
     <author>
       <name>Unknown (noreply@blogger.com)</name>
     </author>
-    <content type="html">Here's some nostalgia for you 8biters! As developer vnomis has released a faithful port of the 1987 Spanish classic The Abbey of Crime. Originally created by Paco Menéndez and Juan Delcán for Opera Soft, this isometric murder mystery puts you in the robes of Friar William alongside your young novice, Adso. You have just seven days to uncover who is behind a string of sinister deaths inside a</content>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWYBjRHA_1cHaoOLBqbOUubSP4UFtPfSRH5jqJuxT2kCJap3J_aIi_0aaXlqz2StofyIZ8TPCo6XNuw4gAYIl9YaqNxEkPV7t0HKxtztOPDoVeXW03FFYbUIwjlhAx4UF2CL_MkfQWhO6W5Ne0nXHGDKEqnmb27G0B6QsCqqN6NnCGy1cg1h9T3CiYFg0/w640-h512/LA.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5442397092639356269" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's some nostalgia for you 8biters! As developer vnomis has released a faithful port of the 1987 Spanish classic The Abbey of Crime. Originally created by Paco Menéndez and Juan Delcán for Opera Soft, this isometric murder mystery puts you in the robes of Friar William alongside your young novice, Adso. You have just seven days to uncover who is behind a string of sinister deaths inside a secluded monastery, all while sticking strictly to the Abbot's rigid schedule of daily meals and prayers so you don't get thrown out before solving the case.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/qsmywzlIhJs" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=qsmywzlIhJs"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Designed to run straight from a single self-booting floppy disk on a standard PAL Amiga 500 with 512 KB of RAM, this release keeps the original game's logic intact while introducing some quality-of-life upgrades. Players can toggle between English and Spanish text, enjoy original or enhanced audio, and pick from three distinct visual styles—including the classic Amstrad CPC palette, an enhanced look, and a Film mode. To make the famously unforgiving adventure a bit more accessible too, vnomis even added direct directional controls alongside the original tank-style movement, on-disk save slots, and dedicated object and mirror screens to cut down on keyboard reliance. There is even a handy bot to handle your daily routines between canonical hours, plus a self-playing movie mode that solves the entire mystery automatically unless you decide to jump in and take over.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://vnomis.itch.io/abadia-amiga"&gt;Source&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/the-abbey-of-crime-amiga-500-version.html"/>
     <published>2026-11-17T19:46:20+00:00</published>
   </entry>
@@ -309,5 +260,69 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/kung-fu-master-a500-edition-port-of.html"/>
     <published>2026-11-17T21:36:36+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7715295071680551350</id>
+    <title>Blue Max Amiga - A conversion of the superb game Blue Max by Bob Polin!</title>
+    <updated>2026-11-18T11:40:25+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2cDIWkBHNs-4DdMMRntAsxBM7J1XuL2E2k_V2cGmLP2JQ78ac8r8BBdvl0ToFmHfWHC793g5B7M3r54QfvgR2fHksrIW2uNepXqM9m1ww9zZRXbUiWObv-iMWbvv4k1k7_ezbN6u4ktkv4nrEgO_sflvnwB02aE8gR2tXMWVum7bYpoxSf9RTrVddsQ/w640-h458/blue%20max.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7715295071680551350" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;LutzGrosshennig has brought the classic aerial shooter Blue Max over to the Commodore Amiga. Originally written by Bob Polin for the Atari 400 and 800, the game later received a popular Commodore 64 conversion by Peter Adams, though it famously skipped the Amiga entirely until now. Working directly from Polin’s publicly released Atari source code, LutzGrosshennig has built a port that runs at a smooth 60 frames per second on a standard Amiga 500 setup. While early builds are hitting that target frame rate in the WinUAE emulator, the project still needs testing on real Amiga hardware.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/KfWfLIvfrGc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KfWfLIvfrGc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Bringing this 1980s dogfighter to a new machine has not been without a few technical hiccups. Beyond wrangling the awkward syntax of the old Synapse assembler, the developer discovered a previously unnoticed copy-paste mistake in the original source files where one data file completely duplicated another. For the initial release however, the port will stick closely to the original Atari 8x8 tiles and sprites rather than the flashier Commodore 64 graphics, largely because the Atari source code is readily available and arguably boasts superior audio. However, fans can look forward to an Amiga Enhanced version with upgraded visuals further down the road.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://lutzgrosshennig.itch.io/blue-max-amiga"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/blue-max-amiga-conversion-of-superb.html"/>
+    <published>2026-11-18T11:40:25+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2699070692656139343</id>
+    <title>Bug Blasts Back! -  An Amstrad CPC scrolling vertical Shoot Em Up from NBSystems (NovaBug)</title>
+    <updated>2026-11-18T14:53:16+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq-uLwd4rajwrngUgl6F_JDjPFV0zhb2A7k3ltIUQiGEDXvFrJroDl9UbTcOpmPzjT8TdYyRWxEj40sQPhhQwxyzCjd7mtAoKh2vp3UE1aR6SOzGD-SMlgtMzLHGQ6r1kL3PwVOnhJjIHsHBbzNPUolryTvaAIfN7E9kVyGbBX5-mVOGUZYZnnyefIlmc/w640-h454/bug.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2699070692656139343" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I've just been contacted through Facebook, to give a shout out to their new game called Bug Blasts Back!, a debut vertical shoot-'em-up from developer NovaBug (NB Systems) for the Amstrad CPC. Drawing on a playful bit of 8-bit rivalry, the game puts players in the cockpit of the GX-4K fighter under the orders of Field Marshal Novabug, launching a daring counter-offensive against rival factions that have overlooked and sidelined the "CPC Empire" for over four decades.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/C_q10gWpRwg" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=C_q10gWpRwg"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;According to the creator, Bug Blasts Back! delivers smooth scrolling at a crisp 50FPS across six action-packed levels. Players will face down more than 14 distinct enemy types and hazards, culminating in massive boss battles, all set to an original custom soundtrack. Rounding out the package are three selectable difficulty settings, a classic demo mode, and a high-score table for anyone looking to prove their arcade skills and defend the Amstrad's place in 8-bit history.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Claude Code AI used to assist assembly (ASM) coding.&lt;/li&gt;&lt;li&gt;BASIC and some ASM code, Graphics, Music created manually&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://novabug808.itch.io/bug-blasts-back"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/bug-blasts-back-amstrad-cpc-scrolling.html"/>
+    <published>2026-11-18T14:53:16+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8576986450109845127</id>
+    <title>Maniac Mansion Deluxe AGA -  Check out the latest AGA remake of the original Lucasfilm Game Adventure for the Amiga!</title>
+    <updated>2026-11-18T15:09:53+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrsvhW0ZUZjFtKONzLRD85MRyUabrE5MoHbkPkVLcmY14inE-orUN3FnRMStg4v8Tkm2_V3dzSABwcmSWnuEyv1BJXXkMO67Q6utBLsFF7kqi8kg1pPREFJo8X2WWQOaB6OOsGmdJ5v4a7x21AMzwNfPvLH7gtpTppfst1sW-B_kYkqd6Isl0LiOGXfss/w640-h304/Clipboard_11-18-2026_01.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8576986450109845127" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Classic adventure fans here's something you may be interested in, as developer Tecniman has just released the final version 2.0 of Maniac Mansion Deluxe AGA. This impressive release brings the beloved PC version of Lucasfilm Games classic natively to the Amiga platform as an AGA remake. Built around the assets and scripts from the original PC installer, Tecniman wrote a completely new game engine from the ground up to recreate all the rooms, puzzles, cutscenes, and character behaviours. While AI tools lent a helping hand in analysing the original game and assisting with code reviews, getting everything running smoothly required massive amounts of manual testing, bug fixing, and careful comparison against the source material.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/QUwVwFu0ZaE" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=QUwVwFu0ZaE"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Getting such a visually rich game onto classic hardware was no small feat, especially since the primary target is a stock Amiga 1200 equipped with a 68020 processor and AGA graphics. To squeeze all those colourful backgrounds and object masks into the machine's tight 2 MB of Chip RAM, the custom engine dynamically dumps each room's data from memory upon exit before loading the next. The developer also had to overcome tricky technical hurdles like rendering characters behind foreground scenery and perfecting screen transitions, while handing audio duties over to ptplayer to drive music modules and sound effects straight through the Paula chip. The port has been thoroughly put through its paces on real hardware including an Amiga CD32 with a hard drive, an accelerated A1200 with a 68030, a PiStorm setup, and a Vampire V4.&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgrIC7sxq32SMYrjDE_XQsp_WW64tnaSoL_H9V26BlTpRLnjm4sjAQnlisVDk2FeEIDnImRSMoigvEkcxyS5ocCf2rFqF-RdTGY8Aw56Hx5YcMwxzH3RXmdBe_Tls_xOZhMm2SePn2ejgCv0o7zu3DWeFawU8LdL2i2_VTLTpCDZDry2V1EXzZOfhL8Bg/s1576/aga.jpg"&gt;&lt;img border="0" data-original-height="855" data-original-width="1576" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgrIC7sxq32SMYrjDE_XQsp_WW64tnaSoL_H9V26BlTpRLnjm4sjAQnlisVDk2FeEIDnImRSMoigvEkcxyS5ocCf2rFqF-RdTGY8Aw56Hx5YcMwxzH3RXmdBe_Tls_xOZhMm2SePn2ejgCv0o7zu3DWeFawU8LdL2i2_VTLTpCDZDry2V1EXzZOfhL8Bg/w640-h348/aga.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Players delving into this new 2.0 version can expect 36 playable rooms, 41 scene sequences, 67 inventory items, 18 music tracks, 87 sound effects, and four intro clips. Alongside this is a brand-new intro screen and localised graphics while the final update squashes lingering visual bugs involving the fence, the TV advert, and the dungeon graffiti. Getting started is as simple as copying the game folder over to Workbench without altering the Data directory, where players can launch the streamlined standard executable—now roughly half the size of the included bug-logging Test edition—while Vampire V4 owners can easily toggle the CPUFAST ToolType to YES if they spot any mask flickering.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://eab.abime.net/showthread.php?t=124480"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/maniac-mansion-deluxe-aga-check-out.html"/>
+    <published>2026-11-18T15:09:53+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2634613060891330325</id>
+    <title>Xenon 2 Megablast - A never released speccy game has been unofficially ported to the ZX Spectrum 128K</title>
+    <updated>2026-11-18T15:57:17+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3T1nZtdPbyKjffrAK0T7VlxPYufejS1-qBt06-M3Ujwdx8ejS4pQ3BJqMPB24RYsr9vqE2s5lY93ADPUdryDEqcDw9PCicwHfETMRtRlMTsNjSVlUnlWPwY1nSCRxJ00_lbLZzII2dufUv1yDrmNKeklzsneRtb80KrZEfZ4bzvC4i0JBdnUqtDAYdk/w640-h480/xenon.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2634613060891330325" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Thirty plus years after its original cancellation, the Bitmap Brothers’ legendary shoot-'em-up Xenon 2 Megablast may have just landed on the ZX Spectrum 128K courtesy of developer Outsoftware. A game that many thought would never see the light of day on Sinclair's classic 8-bit machine. The story behind this long-lost port stretches all the way back to 1991, when Commodore 64 coder and musician Dave Spicer put together an ambitious technical demo to pitch a Spectrum version of the game. Featuring sleek, minimalist early graphics by Jason Brashill, the full-screen demo ran at an impressive 25 frames per second and looked remarkable for the hardware. Despite the promising showcase, publisher Mirrorsoft had little interest in backing 8-bit conversions at the time and ultimately rejected the pitch.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAar5cf6l7BqOeUh6-oe-nzp1Sh2vGm54ZmK87TBJ0IYXKZsth74fngZNm1PXzNLaysTd1YcnetWO9e1gosYvOs6K5OZYKZxxg6v7HaQRP2-REMCVN8H5Itvg6B_VbJo1nLiVtZv-9r_2YF8dMefMe1oszp_Hs53LT8qMw38oeN1exE3AcC4HG8fW8trU/s1024/xenon-2-spectrum-ingame.png" imageanchor="1"&gt;&lt;img border="0" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAar5cf6l7BqOeUh6-oe-nzp1Sh2vGm54ZmK87TBJ0IYXKZsth74fngZNm1PXzNLaysTd1YcnetWO9e1gosYvOs6K5OZYKZxxg6v7HaQRP2-REMCVN8H5Itvg6B_VbJo1nLiVtZv-9r_2YF8dMefMe1oszp_Hs53LT8qMw38oeN1exE3AcC4HG8fW8trU/w640-h480/xenon-2-spectrum-ingame.png"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Determined not to give up right away, Spicer later upgraded his demo with parallax scrolling to better rival the 16-bit editions, trading off just a touch of speed in the process. His plan was to send both the fast standard build and the newer parallax version over to Your Sinclair magazine, hoping that press coverage and fan excitement might force Mirrorsoft to change its mind. That publicity push never materialised and the project was quietly shelved, making Outsoftware’s brand-new release a thrilling piece of gaming history that may be worth loading up on your ZX Spectrum or ZX Next 3!&lt;/p&gt;&lt;p&gt;Massive thanks to &lt;a href="https://www.gamesthatwerent.com/2021/08/xenon-2/"&gt;Gamesthatwerent&lt;/a&gt; for the history of the lost game and &lt;a href="https://www.elmundodelspectrum.com/xenon-2-megablast-llega-por-fin-al-zx-spectrum-128k/"&gt;elmundodelspectrum's&lt;/a&gt; news about the latest conversion. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://outsoftware.it/es/juegos/xenon-2-megablast-sinclair-zx-spectrum-128k/"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/xenon-2-megablast-never-released-speccy.html"/>
+    <published>2026-11-18T15:57:17+00:00</published>
   </entry>
 </feed>
