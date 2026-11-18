@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-18T04:04:18+00:00</updated>
+  <updated>2026-11-18T22:46:49+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,60 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136234</id>
-    <title>Run Mac OS X Tiger, Snow Leopard, Lion, etc on Apple Silicon Macs with Virtual Intel Mac</title>
-    <updated>2026-11-05T16:40:26+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac.jpg" alt="Running Mac OS X Tiger on a modern Mac" class="aligncenter size-large"&gt;&lt;/p&gt;
-&lt;p&gt;Apple Silicon Mac users can now install and run any Intel version of MacOS and Mac OS X directly on their modern Mac, with great performance, thanks to the Virtual Intel Mac project.&lt;/p&gt;
-&lt;p&gt;Virtual Intel Mac, which has a fairly self explanatory name, allows you to run any Intel version of MacOS on a modern Apple Silicon Mac, ranging from Mac OS X 10.4 Tiger to MacOS 11 Big Sur. Yes that means you can install Mac OS X Snow Leopard 10.6, or OS X Mountain Lion 10.8, right now on your modern Apple Silicon Mac. This allows you to be able to run older 32-bit Intel apps on a modern Mac, and even some PPC apps too, even on Apple Silicon. &lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136234"&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Using Virtual Intel Mac is remarkably simple and easy, upon first launch (you’ll probably need to &lt;a href="https://osxdaily.com/2025/04/22/how-allow-open-apps-anywhere-macos-sequoia/"&gt;bypass Gatekeeper&lt;/a&gt; first) you can choose whichever Intel MacOS version you’d like to run. &lt;/p&gt;
-&lt;p&gt;Supported Mac OS X versions by Virtual Intel Mac include; Mac OS X Tiger 10.4, Mac OS X Leopard 10.5, Mac OS X Snow Leopard 10.6, Mac OS X Lion 10.7, OS X Mountain Lion 10.8, OS X Mavericks 10.9, OS X Yosemite 10.10, OS X El Capitan 10.11, macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14, macOS Catalina 10.15, macOS Big Sur 11, and MacOS Monterey 12. Later versions of MacOS can be run on a modern Mac as any standard virtual machine by &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;downloading the desired macOS installer or IPSW&lt;/a&gt; and setting them up in a virtual machine.&lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-610x431.jpg" alt="Create a virtual Intel Mac by choosing which system software to install" class="aligncenter size-large wp-image-136240" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-768x543.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm-1536x1086.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/create-virtual-intel-mac-vm.jpg 1968w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Just pick the version you’d like to install and go through the simple walkthrough, Virtual Intel Mac will then download and install the version of MacOS for you.&lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-610x431.jpg" alt="Downloading and installing Mac OS X Tiger" class="aligncenter size-large wp-image-136242" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-610x431.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-300x212.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-768x543.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger-1536x1086.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/downloading-macosxtiger.jpg 1968w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;You’ll go through the typical installation process of the version of Mac OS X that you chose to install. &lt;/p&gt;
-&lt;p&gt;Note that some versions of Mac OS X will go through an automatic setup process by the app itself that can take up to 30 minutes&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-610x436.jpg" alt="Install Mac OS X Snow Leopard on a modern Apple Silicon Mac" class="aligncenter size-large wp-image-136238" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-610x436.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-300x214.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-768x548.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-1536x1097.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/install-macosx-snow-leopard-2048x1463.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;And soon enough, you’ll be at the desktop of your old Mac OS version of choice. &lt;/p&gt;
-&lt;p&gt;In this screenshot example, Mac OS X 10.4 Tiger is running atop MacOS Golden Gate 27:&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-610x436.jpg" alt="Running Mac OS X Tiger on a modern Mac" class="aligncenter size-large wp-image-136237" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-610x436.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-300x214.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-768x548.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-1536x1097.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/running-mac-os-x-tiger-on-modern-mac-2048x1463.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Virtual Intel Mac supports USB and audio passthrough, networking, file sharing, remote login, and more, so you can use older hardware and software that is compatible if you’d like to.&lt;/p&gt;
-&lt;p&gt;This is a really great project, and if you’re a fan of virtualization, emulators, or older versions of MacOS, you’re sure to appreciate Virtual Intel Mac.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/05/run-mac-os-x-tiger-snow-leopard-lion-etc-on-apple-silicon-macs-with-virtual-intel-mac/"/>
-    <published>2026-11-05T16:40:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136247</id>
-    <title>Deals: Up to $250 Off M5 MacBook Air</title>
-    <updated>2026-11-06T23:56:03+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;Amazon is now cutting up to $250 off the price of the M5 MacBook Air in select models, colors, and configurations. Up to $250 Off M5 MacBook Air 15&amp;#8243; 15&amp;#8243; M5 MacBook Air &amp;#8211; 16GB &amp;#8211; 1TB &amp;#8211; $1549 ($250 off) 15&amp;#8243; M5 MacBook Air &amp;#8211; 24GB &amp;#8211; 1TB &amp;#8211; $1799 ($200 off) 15&amp;#8243; M5 ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"&gt;Deals: Up to $250 Off M5 MacBook Air&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://osxdaily.com/2026/11/06/deals-up-to-250-off-m5-macbook-air/"/>
-    <published>2026-11-06T23:56:03+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136111</id>
     <title>Get the iPhone Duo Default Wallpapers Here</title>
@@ -592,5 +538,98 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/17/troubleshooting-common-homeview-problems-issues/"/>
     <published>2026-11-18T04:04:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136333</id>
+    <title>How to Erase an External USB-C Drive on iPad or iPad</title>
+    <updated>2026-11-18T20:44:20+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad-610x391.jpg" alt="How to erase and format a USB drive on iPhone or iPad" class="aligncenter size-large wp-image-136338" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad-610x391.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad-300x192.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad-768x492.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad-1536x984.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/erase-usb-drive-iphone-ipad.jpg 1907w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;iPhone and iPad have both grown more capable over time for power users, and one of the lesser known newer features of Files app now is that it has the ability to erase and format USB drives, including USB-C flash drives, external SSDs, thumb drives, microSD cards, and any other external USB storage. This is particularly useful on newer iPhone and iPad models where they have a USB-C port, which you can &lt;a href="https://osxdaily.com/2020/05/04/how-connect-external-storage-iphone-ipad/"&gt;connect an external drive or storage directly to&lt;/a&gt; for storage access and management. &lt;/p&gt;
+&lt;p&gt;With iOS and iPadOS and the Files app, you can erase and format a connected USB drive as a variety of commonly used file system formats including ExFAT (Windows, Linux), MS-DOS (FAT32), and APFS (Apple, MacOS, iOS, iPadOS). You can also choose to encrypt the drive if you’d like, which will require a password to access and decrypt, or to make the drive case sensitive.&lt;/p&gt;
+&lt;p&gt;These are all tasks that are more commonly associated with desktop operating systems, but indeed Files app on iOS and iPadOS have these capabilities now, so let’s review how this works on iPhone, and iPad. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136333"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Erase &amp;amp; Format a USB Drive on iPhone &amp;amp; iPad&lt;/h2&gt;
+&lt;p&gt;You’ll obviously need a USB-C external drive, flash drive, thumb drive, SSD, HDD, or similar external USB storage to use this feature, here’s how it works:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the ‘Files’ app on iPhone or iPad&lt;/li&gt;
+&lt;li&gt;Connect the USB drive to the iPhone or iPad&lt;/li&gt;
+&lt;li&gt;Locate the connected USB drive or flash drive that you just connected under the ‘Locations’ section&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-610x424.jpeg" alt="How to erase a USB drive on iPhone or iPad" class="aligncenter size-large wp-image-136334" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-610x424.jpeg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-300x208.jpeg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-768x534.jpeg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-1536x1067.jpeg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-4-2048x1423.jpeg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Tap and hold on the drive name, or right-click on it, and choose “Erase”&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-610x424.jpeg" alt="How to erase a USB drive on iPhone or iPad" class="aligncenter size-large wp-image-136335" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-610x424.jpeg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-300x208.jpeg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-768x534.jpeg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-1536x1067.jpeg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-3-2048x1423.jpeg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Give the USB drive a name, and choose the file system you’d like to format the drive to: ExFAT, MS-DOS FAT, APFS, and optionally if you want the drive name to be case sensitive or encrypted, then choose Erase&lt;/li&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-610x424.jpg" alt="How to erase a USB drive on iPhone or iPad as ExFAT, MS-DOS (FAT), APFS" class="aligncenter size-large wp-image-136336" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-610x424.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-300x208.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-768x534.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-1536x1067.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-1-2048x1423.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Confirm that you want to erase and format the drive, this will erase all data on the USB drive&lt;/li&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-610x424.jpg" alt="How to erase and format a USB drive from iPhone or iPad with Files app" class="aligncenter size-large wp-image-136337" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-610x424.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-300x208.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-768x534.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-1536x1067.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-erase-usb-drive-ipad-iphone-files-2-2048x1423.jpg 2048w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;li&gt;Let the erase and format process complete, and in a moment your newly renamed and formatted USB drive will appear under the Locations section of Files app again&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The process of erasing and formatting is quite fast, but be sure to read and understand the warning dialog as you confirm you wish to erase the drive: &lt;em&gt;“Data on this disk will be deleted, but may still be accessible with recovery tools. Keep the device connected until the erase completes. You can’t undo this action.”&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;In other words, while all data on the drive is removed from standard OS file system access, that does not mean the data would not be accessible via third party recovery tools or forensics. To completely irrevocably delete and erase data to prevent that, typically you need to write data over the deleted data, which happens normally as you copy other data to the disk in question. This is standard with all drive erasure processes by the way, and not unique to Files app in iOS or iPadOS. &lt;/p&gt;
+&lt;p&gt;You will need a modern version of iOS or iPadOS to have this feature available to you, anything from iOS 18+ and iPadOS 18+ should have all the capabilities in Files app as described here. If you do not have the ‘erase’ feature available on your iPhone or iPad, you will need to update the device. The screenshots shown here are with iOS and iPadOS 27.2.1, so obviously anything newer will also support these features too.&lt;/p&gt;
+&lt;p&gt;This obviously covers iOS and iPadOS, but you can perform similar tasks on the Mac &lt;a href="https://osxdaily.com/2023/01/26/how-to-format-usb-drive-mac/"&gt;with Disk Utility on MacOS&lt;/a&gt;, and Finder.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/18/how-to-erase-an-external-usb-c-drive-on-ipad-or-ipad/"/>
+    <published>2026-11-18T20:44:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136348</id>
+    <title>HomeView 27.2.1 Update Released with Bug Fixes</title>
+    <updated>2026-11-18T22:46:49+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup-610x247.jpg" alt="HomeView software updates are available" class="size-large wp-image-136350" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup-610x247.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup-300x122.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup-768x311.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup-1536x622.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/homeview-lineup.jpg 1910w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Apple has released a software update for HomeView that includes multiple bug fixes, versioned as HomeView 27.2.1. The update is recommended to install now for all HomeView users, as it may resolve some of the &lt;a href="https://osxdaily.com/2026/11/17/troubleshooting-common-homeview-problems-issues/"&gt;common problems experienced with the device&lt;/a&gt; thus far, including issues with Siri requests failing, and where using a shared album on the Photos face can cause Siri to become unavailable. &lt;/p&gt;
+&lt;p&gt;You can update HomeView in the same way that you &lt;a href="https://osxdaily.com/2022/12/26/how-to-update-homepod-from-mac-with-home-app/"&gt;update HomePod&lt;/a&gt; from the Home app on Mac, iPhone, or iPad, here’s how it works:&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136348"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Install HomeView 27.2.1 Update&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the “Home” app&lt;/li&gt;
+&lt;li&gt;Choose the (…) button in the corner&lt;/li&gt;
+&lt;li&gt;Choose “Home Settings”&lt;/li&gt;
+&lt;li&gt;Choose to Update for HomeView specifically, or Update All to update all devices with updates available to them&lt;/li&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-369x800.jpg" alt="How to install a HomeView update" class="aligncenter size-large wp-image-136349" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-install-homeview-update.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
+&lt;/p&gt;&lt;/ol&gt;
+&lt;p&gt;HomeView will download and install the update, and restart on its own.&lt;/p&gt;
+&lt;p&gt;You can also install updates directly through the HomeView itself by going to Settings &amp;gt; System &amp;gt; Software Update. &lt;/p&gt;
+&lt;p&gt;HomeView will also attempt to install updates automatically on its own, but that may happen later than you’d like, as automatic updates often occur overnight, so there’s incentive to install them manually right away.&lt;/p&gt;
+&lt;p&gt;Release notes for the HomeView 27.2.1 update are as follows, found via X as they are not yet on Apple’s website, nor are they included in the download itself:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This update provides important bug fixes for your HomeView, including fixes for the following issues:&lt;/p&gt;
+&lt;p&gt;– Setting up a Shared Album on the Photos face may prevent the device from downloading support for Siri, causing Siri to be unavailable&lt;/p&gt;
+&lt;p&gt;– Pairing with an iPhone or iPad running the iOS or iPadOS 27.3 beta may cause Siri requests to fail&lt;/p&gt;
+&lt;p&gt;– Connecting another home hub device may unexpectedly remove HomeView from your home&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Whether or not you have been &lt;a href="https://osxdaily.com/2026/11/17/troubleshooting-common-homeview-problems-issues/"&gt;having issues with HomeView&lt;/a&gt;, it’s a good idea to install this update, as it’s likely to improve the experience.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/18/homeview-27-2-1-update-released-with-bug-fixes/"/>
+    <published>2026-11-18T22:46:49+00:00</published>
   </entry>
 </feed>
