@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-17T11:23:30+00:00</updated>
+  <updated>2026-11-17T21:36:36+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5289738492734028305</id>
-    <title>Insector X - An unofficial AI fan port of Taito's 1989 horizontal shooter by caiusarcade {WIP}</title>
-    <updated>2026-11-11T15:37:08+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBME9f_n5WFKtYYdF_yrHF0fV8ClvWZ9W9-3EMCY6B4Hc11na3JyUzH7GHC3e0pvi90_VjGhQPGAkl5Cx_vMJNqhlp3hyxlfKH5cqfVi1F1ODz20HHbjsDQfGbq-V-P-FZlZ17Gt-eWwOsG5eTKAuefx0pZ1wakweS9mQ55Q7YmuGe5aONbA3urDzlKcc/w640-h384/Clipboard_11-11-2026_01.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5289738492734028305" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Caiusarcade has just released an early build of an unofficial fan port of Taito's 1989 horizontal shooter Insector X for the Commodore Amiga. Rather than building a remake from the ground up, this  conversion uses static recompilation to translate the original arcade machine's dual Z80 processors straight into native 68020 code. Every piece of game logic, artwork, and audio is pulled straight from the coin-op original, with the developer and the full use of AI assistance verifying the translated code frame by frame and matching the Amiga display pixel by pixel against the arcade release.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/t4tucE1_1RY" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=t4tucE1_1RY"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To get this arcade-accurate insect blaster running, you will need an Amiga 1200 (or another AGA based machine) equipped with a hard drive, Kickstart 3.x, around 1.3 MB of free chip RAM, and at least 4 MB of fast RAM, though 8 MB is ideal. While a stock 14 MHz 68020 keeps the gameplay and music running at full speed with a lower refresh rate during hectic moments, stepping up to a 50 MHz 68030 or faster delivers faster performance throughout most of the action. Setting up the game is also straightforward if you have the ROMS, as users can compile the build using a simple one-click tool on Windows 10 or 11, or put it together on Linux and macOS using Python 3 and vasm.&lt;/p&gt;&lt;p&gt;- Please note the Audio seems to be broken in the video which may be early beta related&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics, Sounds, Text&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://caiusarcade.itch.io/unofficial-a1200-aga-port-of-taitos-1989-arcade-shooter-built-from-your-own-roms"&gt;Source&lt;/a&gt; 2) &lt;a href="https://transfert.free.fr/COtUQQw"&gt;Download Full Pack via Amiga France&lt;/a&gt; (Check Source for latest main files to update)&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/insector-x-unofficial-fan-port-of.html"/>
-    <published>2026-11-11T15:37:08+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7457492348848744895</id>
-    <title>AcidBoutique - A new music tool for the Commodore Amiga, a 303 bassline synth and a 808 drum machine!</title>
-    <updated>2026-11-11T18:45:06+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8n_dtGx_ru5QNN01AbAI-jNRPgcD2pl0QAsaDu-P4I14e-wG59LS3IOF1aAcQ695U5fhY29IFaBzush0utRhu9i77LZVOB72mXnusHSTXjidO0QygN93KLDOpsdXT5vrQCtM99ZeGKWTbAelIHaYJ6LnDKI-oo2ovMUTBQFcQvldSxtMkQ7yQmIkyLBU/w640-h528/N5PYRP.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-7457492348848744895" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;On the topic of music and not retro gaming, here's a new piece of software called AcidBoutique, a  music production tool for the Commodore Amiga created by solo developer wintermute303. Built in the developer's spare time with the help of AI, this software squeezes the authentic sound and feel of two iconic electronic instruments—the TB-303 bassline synthesiser and the TR-808 drum machine—onto a classic 40-year-old Amiga 500 with just 1 MB of RAM or more. Instead of relying on rough approximations, the software is the result of reverse-engineering, running the genuine logic of the original hardware in real time on the Amiga's Motorola 68000 processor so that every slide, accent, and drum hit behaves just like the real deal.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/D25p6mFEY28" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=D25p6mFEY28"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;It is the kind of studio setup bedroom producers would've probably liked to have had back in the 1990s. Because of copyright restrictions however, Amiga users will need to supply their own original 303 and 808 ROMs to get started, with full instructions tucked inside the manual. Priced at roughly the cost of a single cup of coffee, wintermute303 is offering the tool to the community in hopes that a little support will help fund future updates for this music development tool.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Thanks to Rochabian and thedaemon letting me know, you can find MAME tr303.zip and tr808.zip by googling it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://wintermute303.itch.io/acidboutique"&gt;Source &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/acidboutique-new-music-tool-for.html"/>
-    <published>2026-11-11T18:45:06+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-5873298238523016195</id>
     <title>Blue Max: Megadrive Remake - A fan remake of Blue Max, the 1983 World War I flight game!</title>
@@ -309,5 +277,32 @@
     <content type="html">Amiga owners have a brand-new slice of explosive arcade fun to sink their teeth into with Blast Grid, a Bomberman-inspired title developed by sandlbn for the Amiga. The game packs a substantial single-player Story mode spanning 30 stages across five distinct industrial worlds—Factory, Reactor, Data Lab, Waste Processing, and Deep Core—each featuring unique enemies, power-ups, hidden secrets, and</content>
     <link href="https://www.indieretronews.com/2026/11/blast-grid-bomberman-clone-for-your.html"/>
     <published>2026-11-17T11:23:30+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5442397092639356269</id>
+    <title>The Abbey of Crime (Amiga 500 Version) - A tribute port of the 1987 game by Paco Menéndez and Juan Delcán</title>
+    <updated>2026-11-17T19:46:20+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Here's some nostalgia for you 8biters! As developer vnomis has released a faithful port of the 1987 Spanish classic The Abbey of Crime. Originally created by Paco Menéndez and Juan Delcán for Opera Soft, this isometric murder mystery puts you in the robes of Friar William alongside your young novice, Adso. You have just seven days to uncover who is behind a string of sinister deaths inside a</content>
+    <link href="https://www.indieretronews.com/2026/11/the-abbey-of-crime-amiga-500-version.html"/>
+    <published>2026-11-17T19:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8101738902362882239</id>
+    <title>Kung-Fu Master A500 Edition  - A port of the 1984 Kung-Fu Master Arcade game to Amiga OCS</title>
+    <updated>2026-11-17T21:36:36+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kXcpIlUHybPCtIyCeZt34Loh0ZyTn8pmOtkwwPLnJy0-alqxYzRUqgDngHonT5Kk_LSafjYKngSMAIG9TpJu31YMCF9zfyC8dZ4066ypCx_bLnOhSMbKuODjMyMeDFHX_-lepFhTCdBrbXsz9SFx_vdU8dQiT6YV9xr3BnXdOU_2xaiA3QJ7M1k7uvQ/w640-h182/Kung.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8101738902362882239" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Modern Vintage Gamer has released a brand-new homebrew port of Irem’s 1984 scrolling beat-'em-up classic, Kung-Fu Master for the Commodore Amiga OCS chipset. Titled Kung-Fu Master A500 Edition, this release delivers a near-identical 1:1 recreation of the original arcade hit, complete with all of the classic sound effects and music. Remarkably according to the developer, the game runs at a silky-smooth 50 or 60 frames per second even on stock Amiga 500 hardware, while also taking advantage of Fast RAM detection and automatic NTSC switching. Players can customize their experience through a dedicated options menu that lets you tweak difficulty settings, select your starting round, toggle auto-fire or invincibility, and choose between keyboard, single-button, or two-button controls—all while keeping track of your best runs with built-in high score saving.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;Video Tomorrow&lt;/p&gt;&lt;p&gt;The gameplay drops you right back into the iconic martial arts rescue mission, where Silvia has been kidnapped and the mysterious Mr. X awaits at the top of the Devil's Temple. To save her, you will have to fight your way up through five distinct floors packed with relentless waves of grippers, knife throwers, dragons, snakes, and exploding balls. Surviving the gauntlet requires defeating the tough guardian waiting at the end of each level before you can climb the stairs to the next challenge.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minimum Requirements&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Any Amiga or accurate emulator with at least 512 KB Chip + 512 KB Slow RAM, 68000, OCS&lt;/li&gt;&lt;li&gt;Tested on PAL A500 / 68000 / OCS in cycle-exact WinUAE and on real hardware&lt;/li&gt;&lt;li&gt;One bootable 880 KB disk or a system capable of running WHDLoad.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Port, reconstruction and Amiga code: MVG&lt;/li&gt;&lt;li&gt;PTPlayer 6.4 by Frank Wille (public domain)&lt;/li&gt;&lt;li&gt;ym2mod (YM/AY/VGM/SDNH converter) by adrdesign&lt;/li&gt;&lt;li&gt;NRV2S 68000 decoder by ross&lt;/li&gt;&lt;li&gt;Shrinkler executable cruncher by Blueberry&lt;/li&gt;&lt;li&gt;Built with Bartman/Abyss's amiga-debug toolchain&lt;/li&gt;&lt;li&gt;Original game © 1984 Irem Corp.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://modernvintagegamer.itch.io/kungfumaster-a500-edition"&gt; Source&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/kung-fu-master-a500-edition-port-of.html"/>
+    <published>2026-11-17T21:36:36+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-16T23:23:40+00:00</updated>
+  <updated>2026-11-17T23:28:07+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,37 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136222</id>
-    <title>Watch Charlie Brown Thanksgiving Free on Apple TV (2026)</title>
-    <updated>2026-11-04T22:34:48+00:00</updated>
-    <author>
-      <name>Jamie Cuevas</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-610x345.jpg" alt="Charlie Brown Thanksgiving on Apple TV" class="aligncenter size-large wp-image-136223" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-610x345.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-300x170.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-768x435.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-1536x870.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/charlie-brown-thanksgiving-1-2048x1159.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Mark you calendars, because everyone can watch “A Charlie Brown Thanksgiving” for free on Apple TV this November. The 1973 animated Peanuts classic movie will be watchable without a subscription or even a free trial, nearly two weeks before Thanksgiving.&lt;/p&gt;
-&lt;p&gt;“A Charlie Brown Thanksgiving” will be made available during a free streaming weekend, on Saturday November 14, and Sunday November 15.&lt;/p&gt;
-&lt;p&gt;The popular classic movie is a 25 minute animated special based on the Peanuts comic strip, and focuses on an unconventional goofy Thanksgiving dinner prepared by Charlie Brown, Snoopy, Woodstock, and the whole Peanuts gang. &lt;/p&gt;
-&lt;p&gt;Anyone interested in watching Charlie Brown Thanksgiving can use the Apple TV app on any device including iPhone, iPad, Mac, Apple TV, Roku, Amazon Fire TV, and various smart TVs, or even the Apple TV website at tv.apple.com, but only on Nov 14 and Nov 15. If you attempt to access the movie before then, or after then, it will not be available free.  &lt;/p&gt;
-&lt;p&gt;Apple made the &lt;a href="https://www.apple.com/tv-pr/news/2026/09/theres-no-place-like-apple-tv-for-the-holidays/"&gt;announcement&lt;/a&gt; of the free watch weekends for Charlie Brown Thanksgiving and Charlie Brown Christmas quietly in September. Charlie Brown Christmas will be available to watch free on December 12 and 13.&lt;/p&gt;
-&lt;p&gt;And if you do have an Apple TV subscription, whether paid or a free trial, you’ll be able to watch these shows anytime too.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/04/watch-charlie-brown-thanksgiving-free-on-apple-tv-2026/"/>
-    <published>2026-11-04T22:34:48+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136229</id>
     <title>Pre-Orders for HomeView Back to $289 at Amazon</title>
@@ -574,5 +543,17 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/16/beta-2-of-ios-27-3-macos-27-3-available-for-testing/"/>
     <published>2026-11-16T23:23:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136329</id>
+    <title>Deals: MacBook Neo from $650</title>
+    <updated>2026-11-17T23:28:07+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;Amazon is offering the biggest discount available yet on MacBook Neo, taking $50 off the retail price for both the 256GB model and the 512GB with Touch ID model. The deal is available in all color options as well. MacBook Neo is the most affordable Mac in Apple&amp;#8217;s lineup and is rarely discounted by much ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"&gt;Deals: MacBook Neo from $650&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"/>
+    <published>2026-11-17T23:28:07+00:00</published>
   </entry>
 </feed>

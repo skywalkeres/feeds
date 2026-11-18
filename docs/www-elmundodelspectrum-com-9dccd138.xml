@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-17T11:44:42+00:00</updated>
+  <updated>2026-11-17T18:34:47+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,252 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709781</id>
-    <title>Le quitan el molesto fondo al Arkanoid 2</title>
-    <updated>2026-10-05T17:14:00+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/arkanoid2enhanced-portada.png"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2021/06/el-mundo-del-spectrum.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;La comunidad del ZX Spectrum no solo lanza juegos nuevos sino que mejora algunos de sus grandes clásicos. La última muestra llega con &lt;strong&gt;una nueva versión mejorada de &lt;em&gt;&lt;a href="https://www.elmundodelspectrum.com/arkanoid-revenge-of-doh-1988-imagine/"&gt;Arkanoid: Revenge of Doh&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;, un trabajo realizado por &lt;strong&gt;Michellekg&lt;/strong&gt; que modifica el juego original de Taito para ofrecer una experiencia más cómoda, personalizable y adaptada a los jugadores actuales.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La principal novedad de esta edición es una característica que muchos aficionados agradecerán especialmente: &lt;strong&gt;la posibilidad de eliminar los patrones de fondo durante la partida&lt;/strong&gt;. Hemos hablado de esto en varias ocasiones, especialmente en el Podcast. Esos gráficos decorativos que acompañaban al escenario original siempre tuvieron defensores y detractores, pero para algunos jugadores acababan resultando molestos, cansando la vista y dificultando la concentración durante las partidas más largas.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Precisamente ese fue el motivo que llevó a &lt;strong&gt;Michellekg&lt;/strong&gt; a iniciar el proyecto. Según explica el propio autor, comenzó trabajando únicamente en la eliminación de esos patrones porque le resultaban incómodos visualmente. Sin embargo, el proyecto fue creciendo hasta convertirse en una revisión mucho más completa de &lt;em&gt;Arkanoid: Revenge of Doh&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Un Arkanoid más limpio y personalizable&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El desarrollo comenzó con la idea de quitar los fondos, pero pronto surgieron nuevas posibilidades. La versión mejorada permite jugar incluso con &lt;strong&gt;un fondo completamente vacío&lt;/strong&gt;, además de ofrecer opciones para modificar en tiempo real los colores de la pala y de los objetos que aparecen en pantalla.&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/arkanoid-2-modificado.gif" alt="Arkanoid 2 sin fondo" class="wp-image-197709782"&gt;&lt;figcaption class="wp-element-caption"&gt;Desde luego sin fondo la acción se desarrolla de forma más limpia&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Una de las decisiones más interesantes del autor ha sido evitar crear un menú externo de configuración. En su lugar, todos estos cambios pueden realizarse directamente durante la partida mediante combinaciones de teclas, manteniendo la esencia de un juego clásico de Spectrum.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Mejoras incluidas en esta nueva versión&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Además de la eliminación de los fondos, &lt;em&gt;Arkanoid: Revenge of Doh Enhanced&lt;/em&gt; incorpora numerosas mejoras:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Eliminación de los gráficos de fondo o sustitución por diferentes modos visuales durante el juego.&lt;/li&gt;
-
-
-
-&lt;li&gt;Cambio del color de la nave y de los objetos móviles cuando se juega sin fondo.&lt;/li&gt;
-
-
-
-&lt;li&gt;Nuevos controles de teclado más convencionales.&lt;/li&gt;
-
-
-
-&lt;li&gt;Compatibilidad con joysticks &lt;strong&gt;Sinclair 1, Sinclair 2 y Kempston&lt;/strong&gt;.&lt;/li&gt;
-
-
-
-&lt;li&gt;Detección automática del joystick Kempston.&lt;/li&gt;
-
-
-
-&lt;li&gt;Nuevo modo pausa.&lt;/li&gt;
-
-
-
-&lt;li&gt;Opción de vidas infinitas.&lt;/li&gt;
-
-
-
-&lt;li&gt;Posibilidad de saltar directamente al siguiente nivel.&lt;/li&gt;
-
-
-
-&lt;li&gt;Nueva pantalla de carga.&lt;/li&gt;
-
-
-
-&lt;li&gt;Corrección de la rutina de impresión del texto &lt;strong&gt;«ROUND»&lt;/strong&gt;.&lt;/li&gt;
-
-
-
-&lt;li&gt;Nuevas rutinas de temporización para reducir el parpadeo de sprites.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El proyecto también contó con colaboración externa para darle una presentación acorde a una nueva edición comercial. Para la versión TAP se utilizó una nueva pantalla de carga realizada con ayuda de &lt;strong&gt;Andrey Polikhanenko (Slider)&lt;/strong&gt;, mientras que la versión TRD cuenta con artwork del artista &lt;strong&gt;Alexey Golubtsov (diver4d)&lt;/strong&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Teclas y controles de la versión mejorada&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Una de las grandes ventajas de esta edición es que todas las opciones están disponibles durante la partida.&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Modos de fondo&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Las teclas &lt;strong&gt;J, K, L y ENTER&lt;/strong&gt; permiten alternar entre los diferentes modos gráficos:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Activar o desactivar los patrones de fondo.&lt;/li&gt;
-
-
-
-&lt;li&gt;Eliminar completamente el fondo de color.&lt;/li&gt;
-
-
-
-&lt;li&gt;Cambiar la presentación visual del juego.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Cambiar colores en modo sin fondo&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cuando se juega sin fondo, las teclas:&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;A, S, D, F y G&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;permiten modificar el color de la pala y de los objetos móviles.&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Controles de movimiento&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La versión actualiza los controles originales:&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Joystick:&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Sinclair 1&lt;/li&gt;
-
-
-
-&lt;li&gt;Sinclair 2&lt;/li&gt;
-
-
-
-&lt;li&gt;Kempston&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Teclado:&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Movimiento izquierda/derecha:
-
-&lt;/li&gt;
-
-
-
-&lt;li&gt;Disparo:
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Fila inferior del teclado (excepto SHIFT)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Nuevas funciones&lt;/h3&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Pausa:&lt;/strong&gt; tecla &lt;strong&gt;H&lt;/strong&gt;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Activar/desactivar vidas infinitas:&lt;/strong&gt;&lt;strong&gt;SHIFT + L&lt;/strong&gt;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Saltar al siguiente nivel:&lt;/strong&gt;
-&lt;ol start="1" class="wp-block-list"&gt;
-&lt;li&gt;Pulsar &lt;strong&gt;SHIFT + D&lt;/strong&gt;&lt;/li&gt;
-
-
-
-&lt;li&gt;Elegir el portal izquierdo o derecho&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Una nueva vida para un clásico del Spectrum&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Aunque durante el desarrollo de esta versión otro conocido miembro de la escena, &lt;strong&gt;Travolter&lt;/strong&gt;, publicó también una modificación con patrones de fondo opcionales, Michellekg considera que ambas propuestas pueden convivir perfectamente. Y es que la escena actual del ZX Spectrum sigue demostrando que diferentes enfoques pueden enriquecer un mismo juego.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Esta nueva edición de &lt;em&gt;Arkanoid: Revenge of Doh&lt;/em&gt; es un buen ejemplo de cómo los aficionados siguen cuidando y mejorando el catálogo del Spectrum décadas después. Una modificación sencilla en apariencia —eliminar unos fondos que podían resultar molestos— ha terminado convirtiéndose en una revisión completa que añade comodidad, personalización y nuevas posibilidades a uno de los clásicos imprescindibles del ordenador de Sinclair.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La versión está disponible en formatos &lt;strong&gt;TAP&lt;/strong&gt; y &lt;strong&gt;TRD&lt;/strong&gt;, siendo recomendable jugar en modo &lt;strong&gt;ZX Spectrum 128K&lt;/strong&gt;, ya que muchas de las mejoras dependen de la memoria adicional.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Descargas:&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/le-quitan-el-molesto-fondo-al-arkanoid-2/"/>
-    <published>2026-10-05T17:14:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709786</id>
     <title>ZX Desk: Un Windows en el ZX Spectrum</title>
@@ -2017,5 +1771,267 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/xenon-2-megablast-llega-por-fin-al-zx-spectrum-128k/"/>
     <published>2026-11-17T11:44:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709908</id>
+    <title>Alien (1984) Mind Games</title>
+    <updated>2026-11-17T18:34:47+00:00</updated>
+    <author>
+      <name>Javier Pinteño</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/alien-spectrum.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Poner cara al miedo era complicado en décadas anteriores y por ello la mejor manera que mantener la tensión era haciéndolo sutilmente, escondiendo el mal y dejándolo ver en todo su esplendor cuando no hubiera tiempo para escapar de la muerte. Steven Spielberg decidió jugar esa carta cuando vio que el funcionamiento de su tiburón animatrónico no aguantaba dos asaltos y caía averiado retrasando el rodaje de lo que sería su primer gran blockbuster: &lt;em&gt;Jaws&lt;/em&gt; ¿Quién no recuerda la frase “necesitará un barco más grande” cuando un aterrorizado jefe de policía Brody pudo contemplar a su archienemigo acuático por primera vez?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Algo parecido decidió hacer en su día Ridley Scott en su obra culmen: mantener oculta la apariencia íntegra del alienígena en la mayor parte del metraje para que la audiencia pudiera crear su propio villano con los mimbres que la primera media hora de la película te daba. Lo que venía después era todo tensión, suspense, humedad y muerte.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Pues bien el juego en el que hoy nos embarcamos nos va a llevar por esos derroteros, mucha intriga, mucho suspense y sobre todo mucha imaginación para averiguar si somos el cazador o el cazado. Una máquina como el ZX Spectrum no podría haber sido lo que fue si no hubiera dejado correr por sus tripas software relacionado con las grandes sagas cinematográficas del momento como esta. Nos espera un viaje de regreso a la Tierra bastante largo así que embarca en la Nostromo e introdúcete en tu cápsula de hipersueño cuanto antes. Hemos de adentramos en los confines estelares, donde el espacio y el tiempo se estiran como un chicle eterno, donde la luz y la oscuridad van y vienen, donde nadie puede ver tu mirada, donde nadie puede oir tus gritos: &lt;em&gt;Alien&lt;/em&gt;.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_loading.png" alt="" class="wp-image-197709909"&gt;&lt;figcaption class="wp-element-caption"&gt;Loading.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;A pesar de que &lt;em&gt;Alien: El Octavo Pasajero&lt;/em&gt; fue estrenada a finales de la década de los 70 el juego no llegó a nuestros televisores hasta 5 años después, en 1984. Por entonces la editorial Argus Press se hacía con los derechos de publicación del videojuego y los ponía en bandeja a un estudio novel pero con mucha miga, un efímero equipo británico de desarrollo nacido de las cenizas de la primera Imagine. Tras el batacazo de la casa de Liverpool en el verano de 1984 sus más valiosos artífices en desarrollo de videojuegos fueron diseminándose por la escena.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Así nacieron por ejemplo el mítico estudio Denton Designs o el que nos atañe hoy: Concept Software. Fundada por el programador y músico Paul Clansey, Concept Software no tardó en traer a su regazo importantes activos como a un joven John Heap, quien llegó incluso a participar en los sonados &lt;em&gt;Megagames&lt;/em&gt; (&lt;em&gt;Bandersnatch&lt;/em&gt; y &lt;em&gt;Psyclapse&lt;/em&gt;), puro hype inacabado que a la postre certificó la defunción temporal de Imagine.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc-1024x1024.png" alt="" class="wp-image-197709911" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc-1024x1024.png 1024w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc-150x150.png 150w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc-300x300.png 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc-768x768.png 768w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ad4865a1-b9f6-4761-8671-54d992b676fc.png 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px"&gt;&lt;figcaption class="wp-element-caption"&gt;Logotipo de Argus Press, responsable de los derechos del videojuego Alien.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Clansey sería el encargado de elaborar el sonido de &lt;em&gt;Alien&lt;/em&gt; mientras que Heap fue el elegido para realizar la conversión a ZX Spectrum, una labor que le daría un buen empujón a su reputación como programador. No mucho después Heap hilaría mucho más fino en juegos como &lt;em&gt;&lt;a href="https://www.elmundodelspectrum.com/the-great-escape-1986-ocean/" data-type="post" data-id="17800"&gt;The Great Escape&lt;/a&gt;&lt;/em&gt; o &lt;em&gt;&lt;a href="https://www.elmundodelspectrum.com/where-time-stood-still-1989-ocean/" data-type="post" data-id="30200"&gt;Where Time Stood Still&lt;/a&gt;&lt;/em&gt;, verdaderas joyas del catálogo y obras de referencia indiscutibles, además de otros títulos singulares como &lt;em&gt;&lt;a href="https://www.elmundodelspectrum.com/foxx-fights-back-1988-denton-designs/" data-type="post" data-id="156500"&gt;Foxx Fights Back&lt;/a&gt;&lt;/em&gt; o &lt;em&gt;Shadowfire&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Alien&lt;/em&gt; se lanzó a través del sello Mind Games (el sello especializado en software propiedad de Argus Press) en el Reino Unido y en 1986 a través de Bug Byte una vez que ésta quebró y fue comprada por Argus Press. Afortunadamente España tuvo una edición propia en 1985 a través de su filial en nuestro país, Mind Games España, en la que se incluía el manual traducido, algo muy de agradecer en la época.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Es de reseñar que Mind Games, en un momento concreto en el que el mercado empezaba a poblarse con licencias y clones de recreativas, optó por desarrollar títulos más centrados en la estrategia y la simulación, es decir, ofrecer un reto más cerebral al usuario del momento, de ahí su nombre (“Juegos Para La Mente”). Por otro lado, la escasa producción del sello hizo que la filial española tuviera que “buscarse las papas” y sacar material propio bastante modesto tanto a nivel educativo como de acción, arcades y plataformas.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-1024x346.png" alt="" class="wp-image-197709912" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-1024x346.png 1024w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-300x101.png 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-766x259.png 766w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-1536x519.png 1536w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_2cartel_retro_de_tripulacion_pixelada-2048x692.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"&gt;&lt;figcaption class="wp-element-caption"&gt;Tripulación de la USCSS Nostromo. Falta uno…&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Y aquí llegamos hasta el comienzo de la historia. Pongamos el juego en contexto, la Nostromo, una nave de transporte comercial de la compañía Weyland-Yutani repleta hasta las manillas de mineral regresa a la Tierra. En cierta parte del trayecto el ordenador central de la nave, conocida como “Madre”, despierta de su hipersueño a la tripulación. Los siete pasajeros de la Nostromo creen estar cerca de casa pero tras una charla del capitán Dallas con Madre, la tripulación descubre con asombro e indignación que la nave ni siquiera ha llegado a nuestro sistema solar y todo a causa de una señal de auxilio proveniente de la luna de un planeta cercano al que la nave se ha dirigido.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La ley obliga a la tripulación a prestar socorro en caso de señal (o habrá pérdida total de emolumentos) así que no queda otra que formar una pequeña expedición que investigue el lugar de procedencia de la señal. Tres son los tripulantes que forman parte de la comitiva designada para bajar, el capitán Dallas, el oficial Kane y la tripulante Joan Lambert. Con gran asombro el grupo topa con lo que parece ser una nave espacial gigantesca.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tras ingresar en ella descubren una estancia en la que un enorme ser extraterrestre yace en una especie de asiento de piloto con un orificio en su abdómen tras una extraña perforación. La expedición sigue su curso y llega a una extraña cámara repleta de lo que parecen ser huevos de gran tamaño. La curiosidad mató al gato y así Kane decide asomar sus hocicos a uno de los huevos que empieza a abrirse tras detectar presencia foránea. Una extraña criatura salta desde dentro del huevo adheriéndose al casco de Kane y logrando entrar en contacto con el tripulante.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_4-1.png" alt="" class="wp-image-197709913"&gt;&lt;figcaption class="wp-element-caption"&gt;Parker se acerca al laboratorio de la Nostromo a ver qué se cuece por allí.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Dallas y Lambert vuelven urgentemente a la Nostromo con Kane en estado inconsciente pero la teniente Ripley, atendiendo al protocolo de cuarentena, niega la entrada a la nave de los expedicionarios. Sin embargo Ash, científico y médico de la tripulación, opta por abrir la escotilla ignorando las órdenes de Ripley. La criatura, adherida al rostro de Kane, no da opción a ser desprendida poniéndo en peligro la vida de su huésped si alguien lo intenta. Por suerte, poco después la criatura aparece desprendida del rostro de Kane y muerta. El afectado despierta aparentemente bien.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En una comida organizada antes del regreso de la tripulación a las cámaras de hipersueño, Kane convulsiona y un embrión acaba saliendo violentamente de su pecho para huir a algún lugar de la Nostromo. El drama está servido, la tripulación se conjura para dar caza al embrión, vengar a Kane y poder de una vez volver a casa. Lo que no saben es que la criatura, un perfecto organismo de ataque, crecerá a velocidad exponencial poniendo en peligro la vida de toda la tripulación además de otros secretos guardados por Madre. Y en este punto empieza &lt;em&gt;Alien&lt;/em&gt;.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_10-1.png" alt="" class="wp-image-197709914"&gt;&lt;figcaption class="wp-element-caption"&gt;Ripley se aventura en los conductos, un mal lugar para explorar.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Antes de nada me veo obligado a aclarar que el juego original publicado en 1984 venía plagado de bugs que lastraban notablemente la jugabilidad del título y embarraban la experiencia sobremanera. Por fortuna hace unos años un desarrollador, con seudónimo Ersh, se aventuró a arreglar el estropicio con una serie de medidas que corregían todos esos bugs y hacían de &lt;em&gt;Alien&lt;/em&gt; el juego que todos quisimos disfrutar en su plenitud por entonces.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Si os aventuráis a jugar a &lt;em&gt;Alien&lt;/em&gt; os recomiendo hacerlo desde esta versión revisada, disfrutaréis mucho más del juego. Ahora sí, el título de Mind Games se nos presenta como un survival horror primigenio en el que se mezclan táctica, estrategía y gestión de recursos. El objetivo del juego consiste en destruir al alienígena de una manera u otra. Sea cual sea nuestra decisión contamos con el módulo de salvamento de la Nostromo (llamado Narcissus) por si acaso. Eso sí, no podemos dejar vivo a ningún tripulante en la Nostromo y hacerla explotar.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_alienbug-bytesoftwareltd-716x1024.jpg" alt="" class="wp-image-197709915" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_alienbug-bytesoftwareltd-716x1024.jpg 716w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_alienbug-bytesoftwareltd-210x300.jpg 210w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_alienbug-bytesoftwareltd-768x1098.jpg 768w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_alienbug-bytesoftwareltd.jpg 927w" sizes="auto, (max-width: 716px) 100vw, 716px"&gt;&lt;figcaption class="wp-element-caption"&gt;Reedición de Bug-Byte. Publicidad en prensa escrita.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego de Clansey y Heap se nos plantea en un “tablero” a tres niveles, cada uno representado por las diferentes cubiertas de la Nostromo y con un total de 35 estancias. Estas cubiertas están entrelazadas por medio de conductos de aire y escalerillas de acceso. En este tablero podremos ir gestionando la tripulación de la nave y sus acciones, que van desde moverse, recoger objetos o usarlos a abrir las escotillas de los conductos de aire o activar el protocolo de autodestrucción de la Nostromo entre otras acciones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Heap ingenió un sistema de control llamado PCS o Sistema de Control de Personajes (Personality Control System) que permite un control multiple de los tripulantes; mientras ordenamos algo a uno, otro ya está realizando una tarea anteriormente asignada. Sin embargo no será tan fácil puesto que cada miembro de la tripulación tiene unas cualidades propias acordes a su cometido profesional y su personalidad así que tendremos que aprender cómo se comportan bajo presión minimizando así los posibles daños y contratiempos que podamos encontrar durante la partida. Y es que a medida que vamos dando órdenes y se suceden los acontecimientos el interfaz nos irá informando del estado de cada tripulante, si está confiado, inquieto, aterrorizado,… Todo esto repercute en su posterior actuación pues en algunos casos los tripulantes dejarán de hacer casos a las órdenes que les demos. Cuando esto sucede es conveniente proteger a la tripulación para que se recupere del trauma o la crisis nerviosa.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_7-1.png" alt="" class="wp-image-197709916"&gt;&lt;figcaption class="wp-element-caption"&gt;Lambert intenta desesperadamente llegar a la Narcissus.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;De esta manera tendremos que ir explorando la Nostromo, sus numerosas estancias y recovecos en busca de armas (como incineradores, porras eléctricas o un arpón) u otros objetos que nos serán de gran valor (como rastreadores de movimiento, extintores o llaves inglesas).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego nos pone en varias situaciones en las que tenemos tomar parte, como apagar incendios, dar con Jonesy (el famoso gato de Ripley, que de vez en cuando se deja ver por las estancias de la Nostromo) o descubrir la identidad del androide ya que este último actuará de acuerdo a las directrices de Weyland Yutani y, por supuesto, no en nuestro beneficio. Cada partida es diferente pues el juego se programó para que cada tripulante muestre un patrón de comportamiento diferente en cada una así que no queda otra que explorar todas las opciones posibles para saber con qué opciones contamos y con cuales no.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El alien hará de las suyas a medida que la partida avance y si no andamos rápidos y locuaces seremos carnaza para el xenomorfo en menos que canta un gallo aunque para ello contamos con un aliado inesperado: Jonesy. El gato hará acto de presencia cuando haya peligro y si logramos atraparlo nos hará un servicio más que provechoso pues tiene un olfato muy fino para oler carne de alien.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego abre menú con dos opciones, juego corto y juego largo. En el juego corto solo manejamos a tres tripulantes (Ripley, Parker y Lambert) lo que hace la partida algo más ligera y sencilla. El juego largo es para comerse el tarro un poco más y en ella sí podremos disponer de toda la tripulación (a excepción de Kane ya que el juego empieza cuando el alien ya le ha reventado el pecho).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El interfaz de Alien es muy importante pues en él se nos dara pormenorizada cuenta de absolutamente todo lo que acontece en la Nostromo además de valiosa información para poder operar. El monitor de mando nos da a elegir qué opciones emprender (mover, coger, usar, atacar, acciones especiales) y el monitor de informes nos facilitará cual es el estado de la tripulación y de la nave y nos mostrará mensajes tanto de la tripulación como de Madre, el ordenador de la nave.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_12-1.png" alt="" class="wp-image-197709917"&gt;&lt;figcaption class="wp-element-caption"&gt;La versión revisada fue todo un acierto al dejar el juego como debió ser publicado originalmente.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;En lo técnico &lt;em&gt;Alien&lt;/em&gt; no es juego que destaque en demasía, entre otras cosas porque fue todavía un juego muy de la primera época; es decir, gráficos y animaciones justitas en contraposición a una jugabilidad notable. Gráficamente es austero pero muy suficiente para lo que ofrece. Esta estética “basic” nos deja unos representaciones más bien minimalistas en las que vamos a dar más valor al texto que a los gráficos. Las animaciónes de Jonesy y del xenomorfo están conseguidas aunque no sean para tirar cohetes y los planos de la Nostromo así como la cabina del Narcissus también tienen su encanto.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Siendo un juego estratégico en tiempo real de 1984 el movimiento no tiene apenas protagonismo en este título pues estamos ante prácticamente un juego de tablero en el que damos órdenes y están se ejecutan algún tiempo después con poca presencia visual. Aunque en lo sonoro &lt;em&gt;Alien&lt;/em&gt; no sea un juego que deslumbre el sonido implementado da tensión a la partida pues a través de él podemos oir los latidos del corazón del tripulante en cuestión, el pitido del detector de movimiento, la apertura de escotillas etc. El efecto del “beeper” venía que ni pintado a un juego como Alien donde la tensión se corta con un cuchillo y donde el silencio es en parte protagonista por lo que la limitada oferta sonora del ZX Spectrum en 1984 aportaba un plus por su simpleza y efectividad.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En resumen, &lt;em&gt;Alien&lt;/em&gt; va a cautivarnos más a través de lo que imaginamos que a través de lo que vemos en pantalla lo cual es algo que casa con su propuesta de juego.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_6-1.png" alt="" class="wp-image-197709918"&gt;&lt;figcaption class="wp-element-caption"&gt;Parker a punto de ser interceptado por el xenomorfo en los conductos de ventilación.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Un breve repaso a la prensa especializada y queda bien claro que el punto fuerte de &lt;em&gt;Alien&lt;/em&gt; es su constante tensión y estrategia en un contexto espacial futurista de horror.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Crash, abril de 1985 en su veredicto final: “Alien es un juego excelente y debería mantenerte enganchado durante semanas. A Hitchcock le hubiera encantado”. La publicación también destaca en cambio algunas cosas a mejorar: “Personalmente habría preferido ser capaz de ver la localización de todos los personajes de una vez y encuentro el selector en el menú un poco incómodo de usar”.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Popular Computing Weekly también dejó una breve crítica del relanzamiento del juego a través de Bug Byte: “Una vez que la acción comienza con todos tus personajes diseminados por la nave y preguntádote quién será el siguiente que pille el Alien es cuando el juego se vuelve absorbente, y sorprendetemente para un juego, muy intrigante”.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sinclair User en su número 37 de abril de 1985 tampoco pasaba por alto las fortalezas del juego de Mind Games: “Aunque los gráficos son simbólicos y la representación del alien poco amedrantadora, hay una tensión tremenda al jugar y da margen para decisiones tácticas extremadamente complejas”.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Your Spectrum afirma que Alien es “en general un juego de estrategia diferente y complicado en el que lleva algún tiempo meterse si bien merece la pena el esfuerzo”. ZX Computing Magazine defiende que el juego de Heap y compañía se trata de “una de las adaptaciones de películas más exitosas […] En ocasiones es tan tenso y emocionante como la película, algo complicado para un juego de ordenador”.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_485884711_1101304338706835_4415109107641645224_n.jpg" alt="" class="wp-image-197709919" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_485884711_1101304338706835_4415109107641645224_n.jpg 720w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_485884711_1101304338706835_4415109107641645224_n-300x164.jpg 300w" sizes="auto, (max-width: 720px) 100vw, 720px"&gt;&lt;figcaption class="wp-element-caption"&gt;Jonesy puede sernos de gran ayuda en el juego.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Y pasando a lo personal decir que siempre me gustó más la secuela, &lt;em&gt;Aliens&lt;/em&gt; (Electric Dreams, 1986), otro survival horror más centrado en la acción pero también un juego tan inmersivo, tenso y asfixiante como el original. Sin embargo, después de haber echado unas partidas, veo con otros ojos a este primer título de la saga, un programa bien pensado y estructurado y muy fiel a la película a la que hace referencia. Por cierto, una de las virtudes de &lt;em&gt;Alien&lt;/em&gt;, además del juego en sí, era su espectacular edición en estuche (de la que por cierto un servidor conserva una copia adquirida hace unos años por un precio irrisorio en perfecto estado de conservación). Dicha edición incluía un generoso libreto de instrucciones con imágenes y diálogos de la película amén de las pertinentes instrucciones. Todo una delicia para cualquier fan de la saga.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-643x1024.jpg" alt="" class="wp-image-197709920" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-643x1024.jpg 643w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-188x300.jpg 188w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-767x1222.jpg 767w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-965x1536.jpg 965w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-1286x2048.jpg 1286w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_ediciones-scaled.jpg 1608w" sizes="auto, (max-width: 643px) 100vw, 643px"&gt;&lt;figcaption class="wp-element-caption"&gt;Comparativa de estuches. Se aprecia el enorme tamaño del estuche (tipo clamshell) de &lt;em&gt;Alien&lt;/em&gt;.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;El año en el que el título oficial hacía su aparación, otro alien, &lt;em&gt;Alien 8&lt;/em&gt;, vio la luz de la mano de &lt;em&gt;Ultimate Play The Game&lt;/em&gt;, aunque eso es otra historia. Y desde entonces numerosas secuelas han contribuido a dar brillo a esta mítica saga. Títulos tan sugerentes como la secuela de Electric Dreams, los arcades &lt;em&gt;Aliens&lt;/em&gt; (Konami, 1990) y Alien Syndrome (Sega, 1987), títulos más modernos como los imprescidibles &lt;em&gt;Alien Isolation&lt;/em&gt; (2014) y &lt;em&gt;Aliens: Dark Descent&lt;/em&gt; (2023), e incluso un programa de relativamente reciente factura para nuestra máquina como &lt;em&gt;Aliens Neoplasma&lt;/em&gt;. Y aquí pongo punto y final a &lt;em&gt;Alien&lt;/em&gt;, una aventura muy especial para aquel lejano 1984 que transformó nuestras teles de tubo en llaves imaginarias a las estancias de la malograda Nostromo donde un octavo pasajero, con billete cortesía de Weyland-Yutani, nos acecha incansablemente. Hasta la próxima. Salud y píxeles.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_isolation.jpg" alt="" class="wp-image-197709921" srcset="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_isolation.jpg 942w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_isolation-300x165.jpg 300w, https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/rsz_isolation-768x423.jpg 768w" sizes="auto, (max-width: 942px) 100vw, 942px"&gt;&lt;figcaption class="wp-element-caption"&gt;Alien Isolation sí pudo reproducir en pantalla la tensión que el &lt;em&gt;Alien &lt;/em&gt;de Ming Games magistralemente dejaba en nuestra imaginación.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;¿Quieres saber cómo se juega al ALIEN?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Muchos siempre hemos querido saber jugar a uno de esos juegos de primera hornada del ZX Spectrum. Más cuando somos fans de la saga Alien. Por eso Alejandro se ha dado cita con Javier Pinteño (Kidsaguf), autor del análisis que estás leyendo, para que le enseñe a jugar.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;No te pierdas este divertido vídeo:&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+		&lt;div class="review_wrap"&gt;
+			&lt;div id="review-box" class="review-box review-bottom review-percentage"&gt;
+								&lt;p class="review-item"&gt;
+									&lt;span&gt;&lt;h5&gt;Gráficos - 65%&lt;/h5&gt;&lt;span data-width="65"&gt;&lt;/span&gt;&lt;/span&gt;
+								&lt;/p&gt;
+							
+								&lt;p class="review-item"&gt;
+									&lt;span&gt;&lt;h5&gt;Movimiento - 60%&lt;/h5&gt;&lt;span data-width="60"&gt;&lt;/span&gt;&lt;/span&gt;
+								&lt;/p&gt;
+							
+								&lt;p class="review-item"&gt;
+									&lt;span&gt;&lt;h5&gt;Sonido - 60%&lt;/h5&gt;&lt;span data-width="60"&gt;&lt;/span&gt;&lt;/span&gt;
+								&lt;/p&gt;
+							
+								&lt;p class="review-item"&gt;
+									&lt;span&gt;&lt;h5&gt;Jugabilidad - 80%&lt;/h5&gt;&lt;span data-width="80"&gt;&lt;/span&gt;&lt;/span&gt;
+								&lt;/p&gt;
+							
+								&lt;p class="review-item"&gt;
+									&lt;span&gt;&lt;h5&gt;Adicción - 85%&lt;/h5&gt;&lt;span data-width="85"&gt;&lt;/span&gt;&lt;/span&gt;
+								&lt;/p&gt;
+							
+				&lt;div class="review-summary"&gt;
+					&lt;p class="review-final-score"&gt;
+						&lt;/p&gt;&lt;h3&gt;70&lt;span&gt;%&lt;/span&gt;&lt;/h3&gt;
+						&lt;h4&gt;&lt;/h4&gt;
+					
+				
+				&lt;div class="review-short-summary"&gt;&lt;p&gt;Es probable que la atmósfera del juego te atrape al igual que el alien. Mucha tensión e intriga. Gráficos simples pero efectivos. Gestión de recursos, estrategia y psicología de personajes.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			
+			&lt;div class="user-rate-wrap"&gt;
+				&lt;p&gt;&lt;span class="user-rating-text"&gt;
+					&lt;strong&gt;User Rating: &lt;/strong&gt;
+					&lt;span class="taq-score"&gt;&lt;/span&gt;
+					&lt;small&gt;No Ratings Yet !&lt;/small&gt;
+				&lt;/span&gt;
+
+				&lt;/p&gt;&lt;p data-rate="0" data-id="197709908" class="user-rate"&gt;
+					&lt;span class="user-rate-image post-large-rate stars-large"&gt;
+						&lt;span&gt;&lt;/span&gt;
+					&lt;/span&gt;
+				&lt;/p&gt;
+
+				&lt;p class="taq-clear"&gt;&lt;/p&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/alien-1984-mind-games/"/>
+    <published>2026-11-17T18:34:47+00:00</published>
   </entry>
 </feed>
