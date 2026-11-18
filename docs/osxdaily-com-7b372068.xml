@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-17T23:28:07+00:00</updated>
+  <updated>2026-11-18T04:04:18+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,36 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136229</id>
-    <title>Pre-Orders for HomeView Back to $289 at Amazon</title>
-    <updated>2026-11-05T06:38:44+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/06/amazon-apple-deals.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;a href="https://link.amazon/B0bmggpyf" target="_blank" rel="nofollow"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2.jpeg" alt="HomeView" class="aligncenter size-full wp-image-135999" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2.jpeg 470w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-base-2-207x300.jpeg 207w" sizes="(max-width: 470px) 100vw, 470px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;HomeView pre-orders are back again with a discount offered via Amazon, taking $10 off the retail price. Furthermore, it appears Amazon ship dates are earlier than HomeView bought directly from Apple, where their delivery estimates are shipping later in the month if not into December. If you’re in the market for a HomeView, this is the best deal yet.&lt;/p&gt;
-
-&lt;p&gt;Currently the discount price is available for HomeView in Space Gray, but Amazon shifts stock around often and previously they had the discount applied to all color models.&lt;/p&gt;
-&lt;p&gt;HomeView looks to be a fascinating new Apple device, featuring a 7″ display that shows a clock, widgets, photo slideshows, and a Home Screen that is similar to iPhone or iPad. HomeView will change depending on the user interacting with it, using facial recognition and iPhone proximity to determine who is who and adjust the device accordingly, and there is a less customized guest mode available as well. HomeView has support for FaceTime, Safari, Messages, Reminders, Podcasts, Music, Siri AI, and some interesting features like Safari being able to convert a recipe webpage into a swipe-able virtual cookbook. HomeView will also support third party apps that have CarPlay support, meaning apps like Spotify and Pandora should be supported as well.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/04/pre-orders-for-homeview-back-to-289-at-amazon/"/>
-    <published>2026-11-05T06:38:44+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136234</id>
     <title>Run Mac OS X Tiger, Snow Leopard, Lion, etc on Apple Silicon Macs with Virtual Intel Mac</title>
@@ -546,14 +516,81 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
   </entry>
   <entry>
     <id>https://osxdaily.com/?p=136329</id>
-    <title>Deals: MacBook Neo from $650</title>
+    <title>Deals: MacBook Neo from $649</title>
     <updated>2026-11-17T23:28:07+00:00</updated>
     <author>
       <name>OSXDaily</name>
     </author>
     <content type="html">&lt;p&gt;Amazon is offering the biggest discount available yet on MacBook Neo, taking $50 off the retail price for both the 256GB model and the 512GB with Touch ID model. The deal is available in all color options as well. MacBook Neo is the most affordable Mac in Apple&amp;#8217;s lineup and is rarely discounted by much ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"&gt;Deals: MacBook Neo from $650&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"&gt;Deals: MacBook Neo from $649&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
     <link href="https://osxdaily.com/2026/11/17/deals-macbook-neo-from-650/"/>
     <published>2026-11-17T23:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136326</id>
+    <title>Troubleshooting Common HomeView Problems &amp; Issues</title>
+    <updated>2026-11-18T04:04:18+00:00</updated>
+    <author>
+      <name>Jamie Cuevas</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-610x343.jpg" alt="HomeView troubleshooting common problems" class="aligncenter size-large wp-image-135995" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-1536x864.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-stand-2048x1152.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;HomeView is a very fascinating new device from Apple that has a lot of potential, as a personal device for the kitchen, bed stand, desk, or elsewhere, and not just as a hub to control your HomeKit devices and use Siri AI, but to communicate with the outside world with FaceTime and Messages, listen to music and podcasts, and much more. &lt;/p&gt;
+&lt;p&gt;While HomeView is new and some users have had trouble-free experiences with the device, that has not been everyones experience with HomeView. Some HomeView users have experienced a variety of issues and problems with the device, and so for those who are having a less than flawless interactions, this article will attempt to troubleshoot the device.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136326"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;HomeView Siri fails to set Timers or Alarms&lt;/h3&gt;
+&lt;p&gt;One of the more frequent complaints of HomeView so far has been that Siri is failing to perform basic tasks like set timers and alarms. Sometimes Siri will say that a software update is required to perform a particular task, will claim it can not perform the task, or will just spin endlessly and fail.&lt;/p&gt;
+&lt;p&gt;One possible solution to this is a little frustrating, but it seems to work in most cases: restart both iPhone and HomeView by turning them off and on (for HomeView, you have to unplug the device because there is no power button). This seems to resync iPhone and Siri with the HomeView, and things start working as they should.&lt;/p&gt;
+&lt;h3&gt;Music or podcasts plays on iPhone instead of HomeView&lt;/h3&gt;
+&lt;p&gt;If you issue a Siri voice command to play or stop music or a podcast on HomeView, or even attempt to manually press play for a podcast or music on the HomeView itself, you may find that the iPhone that it is paired with ends up playing the podcast or music instead. This is weird and kind of irritating, as obviously if you’re interacting with HomeView you probably want to play the audio on the HomeView and not the paired iPhone.&lt;/p&gt;
+&lt;p&gt;Once again, a possible solution is to restart the paired iPhone, though some users have reported that simply toggling AirPlane mode on the iPhone works too.&lt;/p&gt;
+&lt;h3&gt;Siri on HomeView is slow, takes forever to respond, stalls, fails&lt;/h3&gt;
+&lt;p&gt;Some users have experienced unusually slow Siri response times, or outright stalls and failures of Siri.&lt;/p&gt;
+&lt;p&gt;Some users have found the solution to be turning Wi-Fi OFF and back on with the paired iPhone, then restarting iPhone, and then unplugging HomeView for 30 seconds or so and plugging it back in.&lt;/p&gt;
+&lt;h3&gt;HomeView Siri stuck on “Downloading Siri”&lt;/h3&gt;
+&lt;p&gt;Some HomeView devices get stuck on a “Downloading Siri” message,  but Siri does not seem to ever finish downloading or performing whatever task its trying to do, and Siri is unresponsive during this.&lt;/p&gt;
+&lt;p&gt;Unplug HomeView from power, restart the iPhone, then reconnect HomeView again. This should sort things out.&lt;/p&gt;
+&lt;h3&gt;HomeView refuses to pair, gets stuck during setup, stuck on  Apple logo, stuck updating software for hours, etc&lt;/h3&gt;
+&lt;p&gt;If a HomeView won’t even get setup correctly to begin with and is stuck somewhere in the early process, you might have an issue connecting the device to the internet, or it is too far from the pairing iPhone.&lt;/p&gt;
+&lt;p&gt;Make sure the device is not too from a wi-fi router or signal. Then, unplugging the device, restarting iPhone, and plugging HomeView back in again, may resolve the issue.&lt;/p&gt;
+&lt;p&gt;In more rare scenarios, the HomeView may need to be factory reset to resolve this problem. This can be done by connecting the HomeView to a Mac with the latest version of MacOS installed.&lt;/p&gt;
+&lt;h3&gt;Podcasts &amp;amp; Spotify does not display video&lt;/h3&gt;
+&lt;p&gt;Some users have found that Podcasts app and Spotify does not display video of the music, podcast, or audiobook they are listening to. &lt;/p&gt;
+&lt;p&gt;This can either be an issue with the podcast/music stream itself, a quirk of the app like Spotify thinking the HomeView is a CarPlay device, or simply because the app needs to be updated to support these features fully on the HomeView.&lt;/p&gt;
+&lt;p&gt;Be sure to keep your apps up to date, and your devices as well, presumably this will be worked out with future software updates.&lt;/p&gt;
+&lt;h3&gt;Widgets not working as expected, or not at all&lt;/h3&gt;
+&lt;p&gt;Some widgets are not yet compatible with HomeView, but will still place on the device screen as if they should work. They may show a not supported error message, appear as blank, appear unresponsive, or just not function as they should. This is the case with many third party apps like ChatGPT where the widget installs but is not functional, but it can also happen with the Photos widget, Podcasts widget, and some other widgets. &lt;/p&gt;
+&lt;p&gt;This is likely a software issue that will get resolved in future updates to HomeView OS, and to the apps in question.&lt;/p&gt;
+&lt;h3&gt;Siri AI struggles with basic commands, context, device identification, etc&lt;/h3&gt;
+&lt;p&gt;Siri AI and even regular Siri on HomeView has had trouble for some users with basic commands, context for commands (like “reply to this message with XYZ” or “turn on the living room lights”), device identification (claiming “living room lights” do not exist as a HomeKit device when they clearly do), etc.&lt;/p&gt;
+&lt;p&gt;Some users have found that disabling Siri AI on the paired iPhone can help. Other users have found that restarting the iPhone, and HomeView, can fix the issues on their HomeView. &lt;/p&gt;
+&lt;p&gt;Though not everyone is experiencing these problems, some are, and these will likely get resolved in future software updates.&lt;/p&gt;
+&lt;h3&gt;HomeView privacy issues, personal data visible to other users, other household members can see personal data, etc&lt;/h3&gt;
+&lt;p&gt;HomeView is supposed to use facial recognition and voice recognition to identify who you are and display what is on the device accordingly, and generally speaking it works impressively well. But not for everyone, or every time. Some users have found that personal data that is supposed to be unique to their user profile are being shown to multiple users, or anyone even, who uses the HomeView. This may manifest as non-identified users being able to read messages and interact with personal information on HomeView even if they are not setup to use the HomeView, or the user switching fails and specific user data persists on HomeView that allows someone else to see that persons messages, calendar, music, etc. &lt;/p&gt;
+&lt;p&gt;These problems tend to happen if the primary HomeView user is in close proximity to the device, and it fails to recognize that the user has changed.&lt;/p&gt;
+&lt;p&gt;One somewhat goofy solution is to simply remove the primary paired iPhone from any close proximity to the HomeView.&lt;/p&gt;
+&lt;p&gt;Restarting HomeView and any paired iPhone device is also a worthwhile troubleshooting step.&lt;/p&gt;
+&lt;p&gt;Also, be sure to individually add every intended household user of the HomeView to the device, so that HomeView has a Face Unlock scan and voice scan for each intended user. Some problems seem to happen when only one or two people are setup to use HomeView, but multiple other people interact with the device. &lt;/p&gt;
+&lt;h3&gt;Does Apple know about these problems with HomeView? Yes, so stay tuned&lt;/h3&gt;
+&lt;p&gt;Some users have contacted Apple Support about the problems, and have been told they are not alone in experiencing these issues, and that solutions are on the way. Some users are offered basic troubleshooting, which is basically what we covered here; reboot the iPhone, reboot the HomeView, try again.&lt;/p&gt;
+&lt;p&gt;There are enough reports on social media and forums that Apple has acknowledged some of these problems and that these issues will be resolved in future software updates. It’s important to remember the HomeView is brand new and just now getting into the homes of many people, so there will be some quirks that are worked through. Nonetheless, HomeView is already popular, and sure to be more so, and it’s reasonable to expect that software updates and fixes will be released to address these issues, and bring new features, to the new smart home device. &lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;What has been your experience with HomeView? Did the tricks above help fix your issues? Did you find another solution? Share with us your own experiences with HomeView.&lt;/p&gt;
+&lt;p&gt;For me personally, HomeView has largely been trouble-free, though I do find Siri to be not the brightest. I hope that ChatGPT, Claude, Grok, and other AI support arrives soon, because I would much rather be speaking with one of those AI tools which are consistently great with answering questions and retrieving information. I don’t mind using Siri for basic household stuff like setting timers and starting and stopping music, but as mentioned here, sometimes even that fails to work as intended as Siri has played music on my iPhone several times erroneously. So that has been my experience, and overall I really like the HomeView and see a lot of potential, but we want to hear your opinions!&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/17/troubleshooting-common-homeview-problems-issues/"/>
+    <published>2026-11-18T04:04:18+00:00</published>
   </entry>
 </feed>
