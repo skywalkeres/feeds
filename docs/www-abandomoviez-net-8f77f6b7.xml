@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-18T22:05:06+00:00</updated>
+  <updated>2026-11-19T12:41:38+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,69 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47685</id>
-    <title>Renovamos los circuitos de Abandomoviez: puntuar las películas y series que has visto ahora es mucho más fácil</title>
-    <updated>2026-11-17T18:11:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47685.jpg" /&gt;&lt;/p&gt;Los &lt;b&gt;Circuitos de puntuaciones de Abandomoviez&lt;/b&gt; se renuevan. Esta sección, que ya formaba parte de la web, estrena una presentación más visual y un funcionamiento mucho más cómodo para poner nota a esas películas y series que has visto, pero que todavía tienes pendientes de valorar.
-&lt;br /&gt;
-&lt;br /&gt;La idea es sencilla: &lt;b&gt;dedicar unos minutos a puntuar sin tener que ir abriendo fichas una por una&lt;/b&gt;. Eliges un circuito y empiezas a recorrer sus títulos con una ruleta de carátulas que va dando paso a la siguiente película después de cada elección.
-&lt;br /&gt;
-&lt;br /&gt;Las valoraciones se guardan en tu perfil y &lt;b&gt;los títulos que ya hayas puntuado o criticado no vuelven a aparecer entre los pendientes&lt;/b&gt;. Además, en la página general puedes ver cuántos te quedan por valorar dentro de cada circuito.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Tus puntuaciones ayudan a construir las valoraciones de la comunidad.&lt;/b&gt; Si llevas tiempo dejando películas sin su nota, ahora tienes una forma más cómoda de ponerte al día.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/circuitos.php"&gt;Ver circuitos&lt;/a&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47685"/>
-    <published>2026-11-17T18:11:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47686</id>
-    <title>Suma y sigue: Nueve películas de terror más para Prime Video con “Saw X”, “Hereditary” y “Midsommar”</title>
-    <updated>2026-11-17T18:25:56+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47686_prime_0fe0b3dd4210c6dba1f2c7f7.jpg" /&gt;&lt;/p&gt;Prime Video acaba de recibir una tanda especialmente generosa para quienes buscan terror. Entre las incorporaciones   hay dos películas de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=468692"&gt;Ari Aster&lt;/a&gt;, el regreso de Jigsaw, dos entregas japonesas de &lt;i&gt;Ju-on&lt;/i&gt; y propuestas que van de los vampiros al terror espacial. 
-&lt;br /&gt;
-&lt;br /&gt;  Las cuatro primeras son el mejor escaparate de la remesa; después hay sitio para sesiones más pequeñas y para algún título que merece una segunda oportunidad.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=36361"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER01
-&lt;br /&gt;Hereditary (2018)Una familia entierra a su matriarca y descubre que con ella no se ha ido todo lo que dejó atrás. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=36361"&gt;Hereditary&lt;/a&gt; empieza como un drama de duelo y va cerrando el cerco hasta convertir cada habitación de la casa en un lugar sospechoso. Quien aún no la haya visto haría bien en saber lo menos posible.
-&lt;br /&gt;
-&lt;br /&gt;Es el debut de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=468692"&gt;Ari Aster&lt;/a&gt;, sostenido por una &lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=336"&gt;Toni Collette&lt;/a&gt;&lt;/b&gt; extraordinaria. Si buscáis un susto rápido, quizá no sea la elección de la noche; si os interesa ese terror que sigue rondando la cabeza después de apagar la pantalla, empezad aquí.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=36973"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER02Midsommar (2019)Aster cambia la penumbra doméstica por el sol de un verano sueco. En &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=36973"&gt;Midsommar&lt;/a&gt;, Dani acompaña a su novio y a sus amigos a un festival rural que promete una experiencia singular. La luz no es ningún refugio: lo inquietante está a la vista de todos y nadie parece querer marcharse.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=340854"&gt;Florence Pugh&lt;/a&gt;&lt;/b&gt; lleva el peso emocional de una película sobre el duelo, la dependencia y la necesidad de pertenecer a algún sitio. Su duración pide entrar con tiempo; a cambio ofrece imágenes y rituales difíciles de confundir con los de otra película.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=41377"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER03Saw X (2023)&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41377"&gt;Saw X&lt;/a&gt; lleva a John Kramer a México en busca de un tratamiento para su cáncer. Cuando descubre que lo han engañado, pone en marcha una nueva tanda de pruebas. La historia se sitúa entre la primera y la segunda película de la saga, un dato que ayuda a orientarse sin tener que repasar las nueve entregas.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7761"&gt;Tobin Bell&lt;/a&gt;&lt;/b&gt; dispone aquí de más espacio para interpretar a Kramer fuera de la sala de trampas. Eso no significa que falten: &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=56728"&gt;Kevin Greutert&lt;/a&gt; conoce bien la serie y no escatima en mecanismos, sangre ni decisiones imposibles.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=96"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER04La maldición —Ju-on— (2002)Antes de &lt;i&gt;El grito&lt;/i&gt; estadounidense estuvo &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=96"&gt;La maldición&lt;/a&gt; de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=25071"&gt;Takashi Shimizu&lt;/a&gt;. Una cuidadora entra en una casa marcada por una muerte violenta y la historia se abre a otras personas alcanzadas por el mismo lugar. Kayako y Toshio necesitan muy poco tiempo en pantalla para hacer que una escalera o una habitación vacía den miedo.
-&lt;br /&gt;
-&lt;br /&gt;Ojo con la cronología de la saga: esta es la película japonesa de 2002 estrenada en cines, no la entrega de vídeo de 2000 ni el remake de Hollywood. Su estructura fragmentada forma parte del juego.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=182"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER05Km. 666: Desvío al infierno (2003)Una carretera cortada, una ruta secundaria y un bosque del que cuesta salir. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=182"&gt;Km. 666&lt;/a&gt; no inventó el cine de supervivencia con caníbales, pero sí encontró una fórmula directa que acabó dando lugar a toda una saga.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52589"&gt;Rob Schmidt&lt;/a&gt; aprovecha el terreno para alternar persecuciones y escondites. La original tiene el tamaño justo para una sesión de terror de comienzos de los dos mil: personajes que toman malas decisiones, una amenaza física muy concreta y poco interés en explicar de más.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=9503"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER06Pandorum (2009)Dos tripulantes despiertan de la hibernación en una nave aparentemente abandonada. No recuerdan la misión ni saben cuánto tiempo ha pasado, pero pronto descubren que no están solos. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=9503"&gt;Pandorum&lt;/a&gt; convierte ese desconcierto inicial en una carrera por pasillos oscuros y zonas de la nave que nadie querría explorar.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=12305"&gt;Ben Foster&lt;/a&gt;&lt;/b&gt; y &lt;b&gt;Dennis Quaid&lt;/b&gt; encabezan este cruce de ciencia ficción, criaturas y supervivencia. Su mayor atractivo está en la ambientación: el viaje espacial pierde cualquier promesa de aventura y se vuelve una encerrona.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=37507"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER07Mamá te quiere (2020)Chloe ha crecido aislada en casa bajo los cuidados de su madre. Cuando empieza a hacerse preguntas sobre su medicación, cada tarea cotidiana se convierte en una pequeña operación de fuga. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=37507"&gt;Mamá te quiere&lt;/a&gt; trabaja con esa escala doméstica y saca tensión de cosas tan sencillas como hacer una llamada sin que nadie escuche.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=20745"&gt;Sarah Paulson&lt;/a&gt;&lt;/b&gt; y &lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=515218"&gt;Kiera Allen&lt;/a&gt;&lt;/b&gt; sostienen casi todo el duelo. Es la propuesta más cercana al thriller de esta selección y una buena opción si preferís el suspense al terror sobrenatural.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=14676"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER09La maldición de Rookford (2011)Una investigadora que desenmascara fraudes paranormales llega a un internado inglés para examinar la supuesta aparición de un niño. En &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=14676"&gt;La maldición de Rookford&lt;/a&gt;, la pregunta inicial es si hay un fantasma; la más interesante termina siendo qué le pasa a la mujer que intenta demostrar que no existe.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=25026"&gt;Rebecca Hall&lt;/a&gt;&lt;/b&gt; da peso a esa mirada escéptica. Es una película de época, pasillos y silencios, más interesada en construir una atmósfera que en encadenar sobresaltos.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=138"&gt;&lt;/a&gt;&lt;i class="fa fa-play"&gt;&lt;/i&gt;TRÁILER10La maldición 2 —Ju-on 2— (2003)El doblete japonés se completa con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=138"&gt;La maldición 2&lt;/a&gt;, continuación cinematográfica de 2003. Un equipo de televisión entra en la casa de los Saeki y la maldición encuentra nuevas víctimas, incluso cuando estas creen haber dejado atrás el edificio.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=25071"&gt;Takashi Shimizu&lt;/a&gt; mantiene la narración en piezas y la presencia de Kayako y Toshio. Conviene no confundirla con &lt;i&gt;Ju-on 2&lt;/i&gt; de 2000, que pertenece a la etapa directa a vídeo: esta es la secuela de la película de 2002 que aparece unas líneas más arriba.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47686"/>
-    <published>2026-11-17T18:25:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47687</id>
     <title>Un apagón que paraliza el país: Josh Holloway protagoniza la adaptación de “One Second After”</title>
@@ -217,7 +154,7 @@
     <id>https://www.abandomoviez.net/noticia.php?film=47694</id>
     <title>La película número 13 de “Viernes 13” llegará a los cines un viernes 13</title>
     <updated>2026-11-18T15:06:28+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47694.jpg" /&gt;&lt;/p&gt;La nueva película de “Viernes 13” ya tiene título y fecha: se llamará &lt;i&gt;Jason&lt;/i&gt; y su estreno mundial en cines está previsto para el &lt;b&gt;viernes 13 de agosto de 2027&lt;/b&gt;. La coincidencia tiene toda la intención: será la decimotercera entrega de la saga. Según &lt;a href="https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/"&gt;adelanta en exclusiva Deadline&lt;/a&gt;, el rodaje concluye este 18 de noviembre.
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47694_portada_20261119.jpg" /&gt;&lt;/p&gt;La nueva película de “Viernes 13” ya tiene título y fecha: se llamará &lt;i&gt;Jason&lt;/i&gt; y su estreno mundial en cines está previsto para el &lt;b&gt;viernes 13 de agosto de 2027&lt;/b&gt;. La coincidencia tiene toda la intención: será la decimotercera entrega de la saga. Según &lt;a href="https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/"&gt;adelanta en exclusiva Deadline&lt;/a&gt;, el rodaje concluye este 18 de noviembre.
 &lt;br /&gt;
 &lt;br /&gt;Jason lleva sin protagonizar una película desde &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=677"&gt;Viernes 13&lt;/a&gt;, estrenada en 2009. La semana pasada conocimos el regreso de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52551"&gt;Steve Miner&lt;/a&gt;, responsable de la segunda y la tercera entrega, pero entonces aún faltaban tres datos decisivos: quién llevaría la máscara, quién intentaría sobrevivir y cuándo volveríamos a verlo en una sala.
 &lt;br /&gt;&lt;b&gt;Un Jason conocido y una nueva superviviente&lt;/b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=456778"&gt;Schuyler White&lt;/a&gt; interpretará a Jason Voorhees. Ya se había puesto la máscara en el cortometraje &lt;i&gt;Sweet Revenge&lt;/i&gt;, realizado para la franquicia, y ahora dará vida al personaje en un largometraje. Frente a él estará &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=276199"&gt;Natalie Alyn Lind&lt;/a&gt; como Lauren, presentada como la nueva «final girl» de la saga.
@@ -419,5 +356,67 @@
 &lt;/div&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47704"/>
     <published>2026-11-18T22:05:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47705</id>
+    <title>Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”</title>
+    <updated>2026-11-19T06:50:56+00:00</updated>
+    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
+            Zach Lipovsky y Adam B. Stein dirigirán la adaptación de la novela de Joseph Eckert, centrada en un viajero temporal y el vínculo con su hijo.        &lt;/p&gt;
+        &lt;div class="am-content-card"&gt;
+
+                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47705.jpg" class="img-responsive center-block am-content-img-noticia" alt="Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”" title="Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”" decoding="async" fetchpriority="high"&gt;
+        
+        
+ 
+&lt;p class="am-content-cuerpo"&gt;
+    &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=24652" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="24652"&gt;Chris Pratt&lt;/a&gt; protagonizará &lt;i&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=52817" class="am-entity-link" data-tipo="pelicula" data-id="52817"&gt;The Traveler&lt;/a&gt;&lt;/i&gt;, una película de ciencia ficción que Paramount prepara a partir de la novela de Joseph Eckert. Al frente estarán &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=229733" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="229733"&gt;Zach Lipovsky&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=184689" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="184689"&gt;Adam B. Stein&lt;/a&gt;, responsables de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=17917" class="am-entity-link" data-tipo="pelicula" data-id="17917"&gt;Destino Final: Lazos de Sangre&lt;/a&gt;. Después de jugar con las premoniciones y las muertes imposibles de aquella saga, el dúo se pasa a los viajes en el tiempo con una historia que pone el vínculo entre un padre y su hijo en el centro.
+&lt;br&gt;
+&lt;br&gt;La novela sigue a un hombre que viaja en el tiempo a su pesar. La distancia entre ambos puede llegar a medirse en milenios, pero su relación sigue siendo el motor del relato. Por ahora no se han anunciado más detalles del argumento de la adaptación ni el personaje concreto que interpretará Pratt.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Un nuevo proyecto de Pratt con Paramount&lt;/b&gt;&lt;/h3&gt;Según adelanta &lt;a href="https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"&gt;Variety&lt;/a&gt;, &lt;i&gt;The Traveler&lt;/i&gt; forma parte de un acuerdo de producción de tres años que el actor ha firmado con Paramount a través de su compañía Indivisible Productions. El pacto permitirá al estudio estudiar primero sus próximos proyectos, algunos de los cuales podrían tener también a Pratt como protagonista.
+&lt;br&gt;
+&lt;br&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=101003" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="101003"&gt;Justin Rhodes&lt;/a&gt; firma el guion, mientras que Adam Rosenberg y Jules Daly producirán la película. Todavía no se han comunicado fechas de rodaje ni de estreno.
+
+ 
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47705"/>
+    <published>2026-11-19T06:50:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47706</id>
+    <title>Fin de semana movido en las salas españolas: otra tanda de Los juegos del hambre, Campamento Miasma, Gummy y el reestreno de Tesis</title>
+    <updated>2026-11-19T12:41:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47706.jpg" /&gt;&lt;/p&gt;El fin de semana del &lt;b&gt;20 al 22 de noviembre&lt;/b&gt; llega con un buen abanico de posibilidades para acudir a las salas. No sabemos si lo suficientemente potentes como para levantar al espectador del sofá, pero, sobre el papel, «&lt;i&gt;haberlas, haylas&lt;/i&gt;»...
+&lt;br /&gt;
+&lt;br /&gt;Sin duda, la que más expectativas despierta es el regreso de la saga de &lt;b&gt;Los juegos del hambre&lt;/b&gt;, cuyos títulos parecen ser cada vez más largos. Esta vez toca &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44802"&gt;Los juegos del hambre: Amanecer en la cosecha&lt;/a&gt; y, si te sientes perdido, que sepas que es una precuela de la tetralogía original, que actúa a su vez como secuela de la precuela anterior... Vamos, un lío importante si no eres fan acérrimo de la saga.
+&lt;br /&gt;
+&lt;br /&gt;Quizás su mayor reto sea que su protagonista no tiene el peso de su predecesora, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=31704"&gt;Balada de pájaros cantores y serpientes&lt;/a&gt;, que nos hablaba de los tiempos mozos del temible Coriolanus Snow. En esta ocasión, la trama gira en torno a Haymitch Abernathy, que, si no te suena, es el mentor de Katniss y Peeta en la saga original.
+&lt;br /&gt;
+&lt;br /&gt;Si ya su predecesora no tuvo el mismo impacto taquillero que las películas originales (363 millones de dólares en todo el mundo frente a los más de 600 millones que superaron las cintas protagonizadas por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=24802"&gt;Jennifer Lawrence&lt;/a&gt;), me atrevería a augurar unas cifras todavía más modestas. Aunque nunca se sabe, quizás el boca a boca consiga dar la sorpresa.
+&lt;br /&gt;
+&lt;br /&gt;Joseph Zada en Amanecer en la cosecha  &lt;b&gt;El campamento Miasma, la retrasadísima propuesta de slasher... ¿slasher? ¿Seguro?&lt;/b&gt;Otro de los títulos que llegan a la cartelera española este fin de semana es &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=49368"&gt;Adolescencia, sexo y muerte en campamento Miasma&lt;/a&gt;, una especie de homenaje al género slasher que viene de recibir no pocos elogios en festivales y una acogida mayoritariamente positiva por parte de la prensa especializada.
+&lt;br /&gt;
+&lt;br /&gt;La propuesta llega con un retraso notable a nuestros cines, ya que se estrenó en Estados Unidos el pasado mes de agosto. Pero hay que tener ojo con este título, porque detrás de él encontramos a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=558198"&gt;Jane Schoenbrun&lt;/a&gt;, quien ya nos dejó ojipláticos con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=45342"&gt;El brillo de la televisión&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;No es una peli fácil y, por supuesto, tampoco parece un slasher convencional. Es la típica película que o la amas porque te gusta el cine de autor difícil de entender, o la odias porque te quedas con la sensación de que eres idiota y no has entendido nada. Yo soy de los segundos...
+&lt;br /&gt;
+&lt;br /&gt;Gillian Anderson y Hannah Einbinder   &lt;b&gt;Las propuestas españolas: Gummy y el reestreno de Tesis&lt;/b&gt;La oferta más pequeñita del finde (y posiblemente más difícil de ver por su distribución más limitada) es &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=49258"&gt;Gummy&lt;/a&gt;, dirigida por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=387827"&gt;J. Prada&lt;/a&gt;. Una propuesta española de bajo presupuesto que parece haber funcionado bastante bien en su paso por festivales y cuyo principal atractivo es su protagonista: &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=16339"&gt;Javier Botet&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;La niña de Medeiros toma esta vez el papel de un asesino en serie que, tras encontrar a su víctima perfecta, ve cómo todo da un giro inesperado... Y esperemos que sea lo suficientemente original como para que merezca la pena.
+&lt;br /&gt;
+&lt;br /&gt;Lo que el tráiler deja entrever, a priori, es una producción pequeñita que, si consigue sorprender y entretener, podría jugar en la liga de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44930"&gt;La mesita del comedor&lt;/a&gt; o &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=34006"&gt;Matar a Dios&lt;/a&gt;. Estos títulos siempre tienen el hándicap de que el público sepa apreciar lo que ofrecen, sin exigirles los medios de una gran producción.
+&lt;br /&gt;
+&lt;br /&gt;Javier Botet en Gummy 
+&lt;br /&gt;Por último, no quiero olvidarme del reestreno de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=151"&gt;Tesis&lt;/a&gt;. Ahora que parece estar de moda traer de regreso grandes clásicos, la ópera prima de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=41868"&gt;Alejandro Amenábar&lt;/a&gt; sin duda merece estar entre ellos.
+&lt;br /&gt;
+&lt;br /&gt;El tráiler de esta anunciada versión restaurada en 4K luce estupendo y podría ser una buena excusa para revisionarla como nunca, treinta años después de su estreno. Eso sí, siempre que tengas la suerte de vivir en alguna de las localidades donde se proyecta, ya que su regreso es una exclusiva de la cadena Yelmo Cines, que arranca este jueves 19 de noviembre.
+&lt;br /&gt;
+&lt;br /&gt;Y ahora os leemos en los comentarios. ¿Cuál vais a ver este fin de semana? ¿O sois de los que, con esta cartelera, prefieren quedarse en casa?
+&lt;br /&gt;
+&lt;br /&gt;Tesis de Alejandro Amenábar</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47706"/>
+    <published>2026-11-19T12:41:38+00:00</published>
   </entry>
 </feed>
