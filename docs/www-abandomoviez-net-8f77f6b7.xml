@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-19T19:16:23+00:00</updated>
+  <updated>2026-11-19T21:52:36+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,33 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47691</id>
-    <title>De combatir insectos gigantes a ser sheriff entre dinosaurios: Casper Van Dien ficha por “Dinosaurs of the Wild West”</title>
-    <updated>2026-11-18T07:18:45+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
-            La serie de Luke Sparke, director de “Primitive War”, ha iniciado su rodaje en Australia y Nueva Zelanda con un primer lanzamiento previsto para 2027.        &lt;/p&gt;
-        &lt;div class="am-content-card"&gt;
-
-                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47691.jpg" class="img-responsive center-block am-content-img-noticia" alt="De combatir insectos gigantes a ser sheriff entre dinosaurios: Casper Van Dien ficha por “Dinosaurs of the Wild West”" title="De combatir insectos gigantes a ser sheriff entre dinosaurios: Casper Van Dien ficha por “Dinosaurs of the Wild West”" decoding="async" fetchpriority="high"&gt;
-        
-        
- 
-&lt;p class="am-content-cuerpo"&gt;
-    &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=1093" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="1093"&gt;Casper Van Dien&lt;/a&gt; cambia los insectos de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=1911" class="am-entity-link" data-tipo="pelicula" data-id="1911"&gt;Starship Troopers, las brigadas del espacio&lt;/a&gt; por dinosaurios en &lt;i&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=49693" class="am-entity-link" data-tipo="pelicula" data-id="49693"&gt;Dinosaurs of the Wild West&lt;/a&gt;&lt;/i&gt;. El actor interpretará al sheriff Virgil Ross en esta serie de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=271632" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="271632"&gt;Luke Sparke&lt;/a&gt;, cuyo rodaje ya ha comenzado en Australia y Nueva Zelanda. La incorporación de Van Dien y el inicio de la producción han sido anunciados por &lt;a href="https://screenrant.com/dinosaurs-of-the-wild-west-movie-filming-cast-update/"&gt;ScreenRant&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;Sparke ya cruzó a los dinosaurios con otro género en &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=46111" class="am-entity-link" data-tipo="pelicula" data-id="46111"&gt;Primitive War&lt;/a&gt;, donde un grupo de soldados se encontraba con ellos durante la guerra de Vietnam. Esta vez se traslada al Lejano Oeste, aunque en una versión alternativa de 1879: humanos y criaturas prehistóricas han convivido durante generaciones y estas últimas forman parte de los viajes, los asentamientos y las guerras. La historia partirá de una amenaza capaz de alterar esa relación.
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Dos entregas para abrir un mundo más grande&lt;/b&gt;&lt;/h3&gt;El proyecto nace de las ilustraciones de Shaun Keenan y dio a conocer su propuesta mediante una campaña de financiación colectiva. &lt;b&gt;La producción en marcha corresponde a un lanzamiento inicial en dos partes&lt;/b&gt;; sus responsables plantean después una serie de temporadas de ocho episodios, aunque eso no significa que toda la temporada esté ya rodada.
-&lt;br&gt;
-&lt;br&gt;Junto a Van Dien figuran en el reparto &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=30489" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="30489"&gt;Lincoln Lewis&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=39319" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="39319"&gt;Jesse Kove&lt;/a&gt;, &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=221" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="221"&gt;Martin Kove&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=18518" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="18518"&gt;Tony Bonner&lt;/a&gt;, entre otros. La primera entrega está prevista para &lt;b&gt;2027&lt;/b&gt;. Por ahora no se ha anunciado una fecha ni una plataforma de estreno en España.
-
- 
-&lt;/div&gt;
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47691"/>
-    <published>2026-11-18T07:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47692</id>
     <title>“Oblivion” llega a Netflix: Cruise y Kosinski ya volaban juntos antes de “Top Gun: Maverick”</title>
@@ -427,5 +400,22 @@
 &lt;br /&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47710"/>
     <published>2026-11-19T19:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47711</id>
+    <title>“Invencible” ya tiene fecha para su quinta temporada y lo anuncia con una nueva visita al Burger Mart</title>
+    <updated>2026-11-19T21:52:36+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47711.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
+    Parece que las cosas siguen funcionando bastante bien para &lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=4078" class="am-entity-link" data-tipo="serie" data-id="4078"&gt;Invencible&lt;/a&gt;, una de esas series de superhéroes que han demostrado que todavía se pueden contar cosas interesantes en un género que comienza a estar bastante saturado. Prime Video acaba de anunciar que su quinta temporada llegará el &lt;b&gt;17 de febrero de 2027&lt;/b&gt;, y lo ha hecho recuperando una tradición que ya conocen sus seguidores.
+&lt;/p&gt;
+&lt;p&gt;Y es que Mark Grayson vuelve al &lt;/p&gt;&lt;p&gt;&lt;b&gt;Burger Mart&lt;/b&gt;, ese restaurante de comida rápida que parece haberse convertido en el lugar oficial para anunciar las nuevas temporadas. Esta vez comparte mesa con Damien Darkblood, el peculiar detective demoníaco, en una conversación donde hay más bromas que pistas sobre lo que nos espera.
+&lt;/p&gt;
+&lt;p&gt;Eso sí, la nueva temporada promete seguir complicándole la vida a nuestro protagonista, que todavía tiene mucho que digerir después de lo ocurrido en la cuarta. Su intención de hacer del mundo un lugar mejor podría acabar poniendo en peligro a sus amigos, sus relaciones y prácticamente todo lo que le importa. Vamos, que lo de ser superhéroe sigue sin salirle precisamente barato.
+
+&lt;/p&gt;&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/8OomIu5JJwQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8OomIu5JJwQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+ &lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47711"/>
+    <published>2026-11-19T21:52:36+00:00</published>
   </entry>
 </feed>
