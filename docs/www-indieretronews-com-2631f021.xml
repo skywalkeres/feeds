@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-19T23:22:52+00:00</updated>
+  <updated>2026-11-20T15:05:23+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,54 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4589297879539081977</id>
-    <title>Death Mask 3D -  Apache Software Amiga FPS using using a first-person 3D engine</title>
-    <updated>2026-11-14T17:13:50+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2-XIOEHycJZic8TibJO71Raw9eYFvMOATDzh2wVaFqiMTkGACIl_AyYahhjHEzxHhxV6wAxdB3uahPMfOwgMb_prGPDbNUBfsnIlmVeeCkirJIrCwBTLZV8t2yZEMzVhJGDD2GiSJHO59FBvRgTkpta-6BaDN2NyDw-sUl5p0WRZGfuvhI9jOjvOs-E/w640-h400/dedath.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4589297879539081977" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;CodyJarrett has made available another update for Death Mask 3D, a technical overhaul of Apache Software’s classic Amiga title. While the original game relied on a grid-based, step-by-step movement style reminiscent of Dungeon Master, this updated iteration transforms the experience into a true first-person shooter akin to Wolfenstein 3D. Built with the assistance of the Claude AI model, the new project renders all 34 original campaign missions and 10 multiplayer arenas in a fluid, continuous 3D engine. It preserves the authentic atmosphere of the source material by retaining the original wall textures, enemy sprites, weapon graphics, HUD layout, and sound design. Amiga owners dive into the full single-player campaign—complete with its authentic mission briefings, passwords, and cinematic intro and ending screens—or jump into split-screen mode for two-player co-op or deathmatch battles.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/KU7RWkOQhjQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KU7RWkOQhjQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;Latest source has a newer version&lt;/p&gt;&lt;p&gt;Developed for any Amiga 1200 or above, the game moves away from the original title's support for older A500 machines, requiring at least a 68020 processor, Kickstart 3.0, and 2MB of Chip RAM. Interestingly, advanced AGA chipsets are not necessary, as the visual presentation uses a 32-colour palette with the copper coprocessor handling the vibrant sky, floor, and lighting gradients. CodyJarrett has packed the release with quality-of-life enhancements, including optional Fast RAM optimization for a smoother frame rate, a native Workbench icon, and a live HUD automap that toggles with the press of a key. To ensure the game runs smoothly across different hardware configurations, players can choose between three distinct graphical detail levels or use CD32 joypad support to map strafing to the shoulder buttons. For those who simply wish to explore the nostalgic environments without the pressure of combat, built-in cheat keys are also included.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124359"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/death-mask-3d-apache-software-amiga-fps.html"/>
-    <published>2026-11-14T17:13:50+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2153631569205749417</id>
-    <title>MicroCity v1.9 - An urban planning simulator for the C64 by Jammet</title>
-    <updated>2026-11-14T21:48:00+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxVV7jE8mDvdlrmbmzIjFHPXC-7MeWpLVZOm6je5Iq9PW1SLzw386YkyLYJ1EAwL66YXlUUI5_R6H5VYMf7GppT8su6QjGa3aMTLJR_V2m62fcdZFjy6LX0NkCtNxqMX-aHoESGiZntc3jtoAaFWCxgLPvl0FjwsW7sbsMsrudkvqNJgNeXKCZM8ySpU/w640-h402/cioty.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2153631569205749417" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;We've just been informed through Twitter(x) that developer Jammet has officially released MicroCity v1.9 for the Commodore 64, a comprehensive urban planning simulation inspired by the legendary mechanics of SimCity. The new game casts players as the city mayor, tasking them with turning an empty plot of land into a thriving, glowing metropolis. Future city managers will guide their towns from the foundation of a single, humble home all the way up to rows of towering skyscrapers.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;This release is a direct port from the Arduboy, a credit-card-sized 8-bit handheld system where the original simulation first gained popularity. Bringing the game over to the C64 was no small feat, requiring several months of dedication from Jammet. By developing with the assistance of artificial intelligence to help generate the translation code alongside personal testing, the developer has hopefully bridged the gap between the different systems and brought the project to completion on the C64.&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://unicorn.shmendric.de/"&gt; Source&lt;/a&gt; 2) &lt;a href="https://x.com/Jammet66273469/status/2115859854245982621"&gt;Twitter &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/microcity-v19-urban-planning-simulator.html"/>
-    <published>2026-11-14T21:48:00+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6741079680717114993</id>
-    <title>Crazy Cars II+ - Enhancing a 1980's Amstrad racer using AI assistance by thealfest (WIP)</title>
-    <updated>2026-11-15T10:57:31+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUgj2Ds3DLNY5hahxQda5nF1eL6nl5msNOOGwL_X5lK3OKeLLpDCmpH9hDCbbqJp8bhS503oP7sMXvXacN34O6Ff1Z3y2Vn-9GwjD3EmDf85QRYogit7ChJ6iKUN7HZxCqbetW0-i_WRNuVtZFW6mVRRxQJ0C41okcP6bbsL9uLd16rlj7yjbShYfXL4/w640-h480/crazyCars%20II.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6741079680717114993" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's some fresh Amstrad CPC news, as developer thealfest has introduced Crazy Cars 2+, a modernised enhancement of the classic driving game where players pilot a Ferrari F40 across four US states. The updated version retains the core challenge of racing against the clock to reach a distant city while navigating junctions using an in-game map. While civilian traffic is absent, players must still outrun aggressive police patrol cars and smash through roadblocks. To speed up development, the creator utilised the AI tool Claude Code and brought over various optimisations originally developed for a ZX Spectrum mod.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/rccI5LxA6Ng" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rccI5LxA6Ng"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The project is currently a work in progress but already boasts notable upgrades to the original game. Players will notice a performance boost of over 50 percent, smoother Ferrari animations, and helpful GPS turn hints to guide them through the map. The developer also added a new intro screen, a high score tracker, an easier difficulty setting, and a proper congratulations screen upon victory. Critical code updates have resolved a frustrating score overflow bug alongside other general fixes. For those eager to test their driving skills immediately, the game is also available to play online using the Retro Virtual Machine emulator.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://thealfest.itch.io/crazy-cars-2-amstrad-cpc"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/crazy-cars-ii-enhancing-1980s-amstrad.html"/>
-    <published>2026-11-15T10:57:31+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-1555899651749075107</id>
     <title>Ultracore AGA -  Digital Illusions platform blaster could finally be coming to the Amiga via AI/MrDig</title>
@@ -324,5 +276,53 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/champions-of-krynn-classic-gold-box-rpg.html"/>
     <published>2026-11-19T23:22:52+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3528722176885434893</id>
+    <title>Another World - HOT NEWS as the 20th Anniversary Edition arrives on the Amiga as an AGA/RTG port!</title>
+    <updated>2026-11-20T10:18:27+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixk9Xpot10RWDHey_d2S-F7VzanxmyBq5IczxziiaXxAF0Q39N0-EiuUqS054nxzYEF958osm9olaiDfCCfETN6z8n6UswPEFt2jah0PInDmxQQyK4K3EbzU6Np53Cj57p0FkKJvVAwckuSEca9-iiKGG5IEdfVgDsPJufQ0oVLl5KEQVDZ2Q8mNjobp4/w640-h402/another.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3528722176885434893" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;After making its debut on the Commodore Amiga back in 1991 and hopping across countless platforms over the decades, Lester has gone full circle and come back home. AmiKit has just brought Another World - 20th Anniversary Edition back to its original roots, closing the circle with remastered audio and crisp high-definition visuals. While plenty of computers have come and gone since the game's initial release—and its 2013 PC remaster—this new AGA and RTG port proves the Commodore Amiga scene is full of life and sees no sign of ending.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/oblMWuBbsKc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=oblMWuBbsKc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The release comes packed in five different versions to suit a wide range of setups, scaling all the way from a stock Amiga 1200 running at 640x200 to high-end RTG graphics cards pushing 1728x1080 in 32-bit colour. By converting assets from your own copy of the 20th Anniversary Edition, the port swaps out the original Amiga 500 backdrops for the redrawn HD artwork while keeping Lester, the alien creatures, and every moving object as high-resolution versions of their classic polygons. Even better, AmiKit’s converter cleans up the fine checkerboard dithering found in the original 256-colour PC backgrounds while keeping edges razor-sharp, arguably making this RTG release the best-looking version of Another World ever made.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eab.abime.net/showthread.php?t=124490"&gt;Discussion&lt;/a&gt; 2) &lt;a href="https://github.com/AmiKit/AnotherWorld_AGA-RTG"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/another-world-hot-news-as-20th.html"/>
+    <published>2026-11-20T10:18:27+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8007634742183559173</id>
+    <title>Underworld Revisited - An open-source Unity reimplementation of Ultima Underworld 1 and 2!</title>
+    <updated>2026-11-20T14:35:46+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0sHEibXyASAzV5eSR_-enBAF9M-Uvc8DaMGpCJEB07cwkGfRXaABqpDKN78qP4tZ4mkHyDyWAWV8gnu23CM_7LShwS9vlVpBbmz26b5HMl0eVpJw8CvJdGPPXhvKprJwYcWrHMSMFFuxFCIdooHQs5LvOLi2t-IToiQJMm0zEA0l3ncyuRYo8vj7CpY/w640-h358/ultima.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8007634742183559173" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;If you love a bit of dungeon-crawling, then this latest update is for you! As PQMarine’s has teased their latest project, Underworld Revisited. Built in Unity as an open-source reimplementation of both Ultima Underworld: The Stygian Abyss and Ultima Underworld 2: Labyrinth of Worlds, the engine bypasses DOSBox entirely by reading data directly from existing GOG, Steam, or EA app installations. The original title is playable from character creation to the final credits, faithfully executing original bytecode for everything from dialogue to trading while maintaining two-way save compatibility with the classic DOS version. &lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkE3UBLz6Jc1yPheD1PJFDZyavdinxus-YdWvpVUNTcreYi4dsT52BrcFG5uguGeJkfApBDtyoscTZrdsZf17WqliRRsPAgOaYBF5T5zgwb7eNoIytdiOJMvXABKVCi3dmTvvW0iSnPcpZsCLln4as9mzz3YcKP8rm_xZAFHxENQUYqLQFQ_lKmFzKrJY/s1920/ur02.jpg" imageanchor="1"&gt;&lt;img border="0" data-original-height="1080" data-original-width="1920" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkE3UBLz6Jc1yPheD1PJFDZyavdinxus-YdWvpVUNTcreYi4dsT52BrcFG5uguGeJkfApBDtyoscTZrdsZf17WqliRRsPAgOaYBF5T5zgwb7eNoIytdiOJMvXABKVCi3dmTvvW0iSnPcpZsCLln4as9mzz3YcKP8rm_xZAFHxENQUYqLQFQ_lKmFzKrJY/w640-h360/ur02.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;While purists can play with authentic Palette lighting and fixes for game-breaking 1992 bugs, optional enhancements add widescreen support, modern mouse-look and gamepad controls, a live map, and a Remastered lighting mode featuring relief, shadows, and glow. You can also customise the audio with AdLib, General MIDI, emulated MT-32, or custom recordings, alongside full support for Underworld Editor (Avalonia) mods and a community translation kit. Behind the scenes, the project represents a massive revival over a decade in the making. PQMarine originally started the endeavour back in 2011 before putting it on hold in 2012, only picking it back up this September with the help of Claude Code—an AI-assisted workflow where Claude generates the code while the developer directs the features and tests everything step-by-step against the original source. Work on the sequel, Ultima Underworld 2, is already far along and available to test as an early preview, with only the cutscenes, ending sequence, and a full playthrough remaining before it reaches official beta status.&lt;/p&gt;&lt;p&gt;Thanks &lt;a href="https://ultimacodex.com/"&gt;UltimaCodex&lt;/a&gt; for the heads up&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; 1) &lt;a href="https://pqmarine.github.io/"&gt;Source &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/underworld-revisited-open-source-unity.html"/>
+    <published>2026-11-20T14:35:46+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-427848880508591260</id>
+    <title>Underworld Exhumed - A decompile of both incredible RPG DOS games with native ports for Windows and more!</title>
+    <updated>2026-11-20T15:05:23+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr-y0EIMtPTMKa0T1vdUXK2vZRSMenIwUD8innV6-XhU3pOpBQut1ZV2NmLFMQryFz8vTaiETNQ7-WUP1dd-lEVKgUB9ErpZX_T3ruJV6S9NtLzIOtGAuM2cn72gKw5Mg3cDeRpNmQGMDSDQJTcZbXhkLbIBdeySb2I60lKNByhs30c_tffHkQQ6GAR_0/w640-h320/underworlddd.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-427848880508591260" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well here's another reason to visit this classic RPG series, as we welcome the latest update of Underworld Exhumed, a massive preservation project by developer abedegno that brings the 1992 classic Ultima Underworld: The Stygian Abyss and its 1993 sequel, Labyrinth of Worlds, into the modern era. By reverse-engineering the original DOS executables, the creator has reconstructed the full source code for both titles. Not only has the code been cleaned up with readable names, shared headers, and helpful documentation explaining how each file works, but it is so accurate that compiling it with the original Borland tools produces byte-for-byte identical versions of the shipped UW.EXE and UW2.EXE files.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdDTLmw_s-drjwRNxnGOSFCchGdeLjzJYuVxF77SeTq3Q22dv5RBfiK07H5n7UpadF1jzBVo1ECMf_RRA9UBkdhftLlgys8bDYJuMlwrf7MCIWRioBke96OP4cxa-SlKj4wok_eg2egQQNlUBlBzgdLtq7p-P_nJWUJN5fE2EmDTvYYhDbd6BaC-mALDg/s1126/ultimaaa.jpg" imageanchor="1"&gt;&lt;img border="0" data-original-height="864" data-original-width="1126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdDTLmw_s-drjwRNxnGOSFCchGdeLjzJYuVxF77SeTq3Q22dv5RBfiK07H5n7UpadF1jzBVo1ECMf_RRA9UBkdhftLlgys8bDYJuMlwrf7MCIWRioBke96OP4cxa-SlKj4wok_eg2egQQNlUBlBzgdLtq7p-P_nJWUJN5fE2EmDTvYYhDbd6BaC-mALDg/w640-h492/ultimaaa.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Abedegno has used this reconstructed code to build native ports for Windows, macOS, and Linux, allowing players to run both dungeon crawlers in a window complete with their original speech, music, and sound effects. Every tweak made to these ports is strictly verified against recorded DOS gameplay sessions to ensure total authenticity, though players will need to supply their own game data—such as the GOG releases—since the repository doesn't host copyrighted assets. For anyone who just wants to jump straight in without tinkering with files, the developer also compiled the port to WebAssembly, hosting a separate browser-based version that lets you explore both worlds with zero installation required.&lt;/p&gt;&lt;p&gt;Thanks @PixelCNinja for the heads up!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://github.com/abedegno/underworld-exhumed"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/underworld-exhumed-decompile-of-both.html"/>
+    <published>2026-11-20T15:05:23+00:00</published>
   </entry>
 </feed>

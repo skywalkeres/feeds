@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-20T08:00:21+00:00</updated>
+  <updated>2026-11-20T18:06:25+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,77 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47693</id>
-    <title>“Pinocho desatado” confirma su estreno en España para el 1 de enero</title>
-    <updated>2026-11-18T11:19:19+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47693.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    El retraso de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=45752" class="am-entity-link" data-tipo="pelicula" data-id="45752"&gt;Pinocho desatado&lt;/a&gt; ya tiene nueva fecha. &lt;b&gt;Flins &amp;amp; Pinículas estrenará la película en los cines españoles el 1 de enero de 2027&lt;/b&gt;, según confirma la distribuidora en una nota de prensa remitida a Abandomoviez. La versión de terror del personaje de Carlo Collodi estaba prevista inicialmente para el 20 de noviembre y, hasta ahora, solo se conocía que llegaría en enero.
-&lt;/p&gt;
-&lt;p&gt;La película clausuró la 37.ª Semana de Cine Fantástico y de Terror de San Sebastián antes de preparar su paso por las salas. Supone además una nueva incursión en los cuentos infantiles convertidos en cine de terror de &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=571717" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="571717"&gt;Rhys Frake-Waterfield&lt;/a&gt;, responsable de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=43128" class="am-entity-link" data-tipo="pelicula" data-id="43128"&gt;Winnie the Pooh: Miel y Sangre&lt;/a&gt;.
-&lt;/p&gt;&lt;section class="amnf-card" data-amnf-film="45752" data-amnf-db="1" data-amnf-title="Pinocho desatado" aria-label="Tu opinión sobre Pinocho desatado"&gt;&lt;a class="amnf-poster" href="https://www.abandomoviez.net/db/pelicula.php?film=45752" aria-label="Ver ficha de Pinocho desatado"&gt;&lt;img src="https://images.abandomoviez.net/db/foto/db_45752_86399.jpg" alt="Carátula de Pinocho desatado" loading="lazy" decoding="async"&gt;&lt;/a&gt;&lt;div class="amnf-copy"&gt;&lt;p class="amnf-eyebrow"&gt;TU OPINIÓN CUENTA&lt;/p&gt;&lt;h3 class="amnf-title"&gt;Pinocho desatado &lt;span&gt;2026&lt;/span&gt;&lt;/h3&gt;&lt;p class="amnf-invite"&gt;¿La has visto? Compártelo con tu nota.&lt;/p&gt;&lt;p class="amnf-actions"&gt;&lt;button type="button" class="amnf-vote" data-amnf-vote aria-haspopup="dialog" aria-controls="amv-dialog"&gt;&lt;span aria-hidden="true"&gt;★&lt;/span&gt; &lt;span data-amnf-vote-label&gt;Puntúala&lt;/span&gt;&lt;/button&gt;&lt;button type="button" class="amnf-add" data-amnf-add aria-haspopup="dialog" aria-controls="modalAnadirLista"&gt;&lt;span aria-hidden="true"&gt;＋&lt;/span&gt; Añadir a…&lt;/button&gt;&lt;/p&gt;&lt;/div&gt;&lt;/section&gt;&lt;h3&gt;&lt;b&gt;Una marioneta con una idea peligrosa del bien&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Geppetto presenta a su nieto James una marioneta mágica. Cuando el niño le enseña el mundo exterior, Pinocho empieza a juzgar a las personas con una lógica incapaz de admitir matices: si cree que alguien es malo, decide acabar con él. Esa interpretación extrema de una lección moral es el punto de partida de la película.
-
-&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=8087" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="8087"&gt;Richard Brake&lt;/a&gt; interpreta a Geppetto y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=64" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="64"&gt;Robert Englund&lt;/a&gt; pone voz a Pepito Grillo. El reparto incluye también a &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=586829" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="586829"&gt;Peter DeSouza-Feighoney&lt;/a&gt;.
-&lt;/p&gt;
-&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;   &lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/AdB40XxrgL0" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=AdB40XxrgL0"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-
- &lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47693"/>
-    <published>2026-11-18T11:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47694</id>
-    <title>La película número 13 de “Viernes 13” llegará a los cines un viernes 13</title>
-    <updated>2026-11-18T15:06:28+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47694.jpg" /&gt;&lt;/p&gt;La nueva película de “Viernes 13” ya tiene título y fecha: se llamará &lt;i&gt;Jason&lt;/i&gt; y su estreno mundial en cines está previsto para el &lt;b&gt;viernes 13 de agosto de 2027&lt;/b&gt;. La coincidencia tiene toda la intención: será la decimotercera entrega de la saga. Según &lt;a href="https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/"&gt;adelanta en exclusiva Deadline&lt;/a&gt;, el rodaje concluye este 18 de noviembre.
-&lt;br /&gt;
-&lt;br /&gt;Jason lleva sin protagonizar una película desde &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=677"&gt;Viernes 13&lt;/a&gt;, estrenada en 2009. La semana pasada conocimos el regreso de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52551"&gt;Steve Miner&lt;/a&gt;, responsable de la segunda y la tercera entrega, pero entonces aún faltaban tres datos decisivos: quién llevaría la máscara, quién intentaría sobrevivir y cuándo volveríamos a verlo en una sala.
-&lt;br /&gt;&lt;b&gt;Un Jason conocido y una nueva superviviente&lt;/b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=456778"&gt;Schuyler White&lt;/a&gt; interpretará a Jason Voorhees. Ya se había puesto la máscara en el cortometraje &lt;i&gt;Sweet Revenge&lt;/i&gt;, realizado para la franquicia, y ahora dará vida al personaje en un largometraje. Frente a él estará &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=276199"&gt;Natalie Alyn Lind&lt;/a&gt; como Lauren, presentada como la nueva «final girl» de la saga.
-&lt;br /&gt;
-&lt;br /&gt;El reparto incluye también a &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=447225"&gt;Matt Cornett&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=587386"&gt;Lilia Buckingham&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=481030"&gt;John Owen Lowe&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=540543"&gt;Summer Madison&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=20071"&gt;Guillermo Diaz&lt;/a&gt;, entre otros. Por ahora no se ha revelado el argumento, así que todavía queda por saber dónde transcurrirá esta nueva matanza y qué relación tendrán sus personajes con Crystal Lake.
-&lt;br /&gt;
-&lt;br /&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=535296"&gt;David Fliegel&lt;/a&gt; firma el guion y Horror, Inc., la compañía que controla la franquicia, financia y produce la película. Cineverse se ocupará de distribuirla en Norteamérica. Aunque se ha anunciado un estreno mundial para el 13 de agosto, &lt;b&gt;todavía no se ha detallado su distribución en España&lt;/b&gt;.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47694"/>
-    <published>2026-11-18T15:06:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47695</id>
-    <title>Compartir HBO Max con alguien de otra casa ya cuesta 5,99 euros al mes</title>
-    <updated>2026-11-18T15:44:01+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47695.jpg" /&gt;&lt;/p&gt;HBO Max ha empezado a advertir en España a usuarios que comparten su cuenta con personas de otro domicilio. Según ha documentado &lt;a href="https://bandaancha.eu/articulos/hbo-max-actua-contra-cuentas-compartidas-11992"&gt;BandaAncha&lt;/a&gt;, algunos ya ven mensajes que les indican que necesitan contratar el complemento de miembro adicional para mantener ese acceso. Su precio es de &lt;b&gt;5,99 euros al mes, además de la suscripción habitual&lt;/b&gt;.
-&lt;br /&gt;
-&lt;br /&gt;La distinción que hace la plataforma es sencilla: una cuenta puede utilizarse entre las personas que viven en el mismo hogar, pero no compartirse sin más con un amigo o familiar que reside en otro lugar. Para identificar los dispositivos del hogar, HBO Max explica que combina datos de la cuenta, de la red y del dispositivo, incluida la dirección IP.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Una opción que no sirve para todos los abonados&lt;/b&gt;El complemento permite añadir &lt;b&gt;una sola persona&lt;/b&gt;, que tendrá su propia contraseña y un perfil. Podrá ver el contenido en un dispositivo cada vez y conservará las características del plan principal, incluida la calidad 4K si el titular tiene Premium. No tendrá acceso al complemento Deportes. También es posible transferirle un perfil adulto existente para que conserve su historial y su lista.
-&lt;br /&gt;
-&lt;br /&gt;Hay una limitación importante: según el &lt;a href="https://help.hbomax.com/ES-es/Answer/Detail/000002598"&gt;centro de ayuda de HBO Max&lt;/a&gt;, solo pueden contratar el miembro adicional quienes pagan la suscripción directamente a la plataforma y no la tienen incluida en un paquete. Si te factura una tienda de aplicaciones, una operadora o un proveedor de televisión, esa opción no está disponible por ahora. Además, los 5,99 euros quedan a solo un euro del plan Básico con anuncios, que cuesta 6,99 euros al mes y ofrece una cuenta independiente.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;¿Qué ocurre si estás de viaje?&lt;/b&gt;Usar HBO Max fuera de casa no equivale necesariamente a compartir la cuenta. La &lt;a href="https://help.hbomax.com/ES-es/Answer/Detail/000002592"&gt;propia plataforma&lt;/a&gt; indica que, si el titular o alguien de su hogar recibe el aviso mientras viaja, puede elegir «Estoy de viaje» y verificar el acceso mediante un código enviado al correo de la cuenta. Esa opción tiene un número limitado de usos.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47695"/>
-    <published>2026-11-18T15:44:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47696</id>
-    <title>Abandomoviez estrena un diario de visionados y renueva sus listas de películas y series</title>
-    <updated>2026-11-18T17:05:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47696.jpg" /&gt;&lt;/p&gt;Abandomoviez incorpora «&lt;b&gt;Diario y listas&lt;/b&gt;», una sección para llevar un registro de las películas y series que has visto, organizar tus pendientes y compartir recomendaciones con otros usuarios. Está disponible desde la cabecera de la web y, en móvil, dentro del menú de usuario.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;La principal novedad es el diario de visionados&lt;/b&gt;. Su funcionamiento es sencillo: buscas un título, indicas cuándo lo viste y lo guardas. Si quieres, puedes añadir una puntuación, el lugar donde lo viste y una anotación personal, que será privada. Después podrás consultar tus sesiones por meses o por días y corregir cualquier entrada.
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;Listas de películas con más posibilidades&lt;/b&gt;Las listas también se renuevan. Ahora puedes añadirles una descripción, elegir entre una presentación con carátulas o en formato lista y decidir si serán públicas, privadas o visibles solo para amigos. Tus listas anteriores se incorporarán automáticamente cuando accedas por primera vez al nuevo apartado.
-&lt;br /&gt;
-&lt;br /&gt;Para descubrir recomendaciones, &lt;b&gt;la opción «Explorar» reúne las colecciones públicas de otros usuarios&lt;/b&gt;. Desde ahí puedes encontrar nuevas ideas y compartir tus propias selecciones.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;También hemos integrado estas funciones en las fichas de películas, Indie y series. &lt;b&gt;El botón «Añadir a…» permite guardar un título en una lista o registrar un visionado en el diario&lt;/b&gt;. Al puntuar encontrarás además una fecha opcional: si la mantienes, la película se añadirá también al diario; si solo quieres guardar la nota, puedes quitarla con la X.
-&lt;br /&gt;
-&lt;br /&gt;En «Por ver», marcar una película como vista te pedirá la fecha y, al guardar, la trasladará al diario y la retirará de pendientes. Por su parte, «Tu año» ofrece un resumen de tus visionados para echar la vista atrás y repasar tus descubrimientos.
-&lt;br /&gt;
-&lt;br /&gt;Ya puedes entrar en Diario y listas y probar las novedades. Nos gustaría conocer tu opinión: qué te resulta útil, qué mejorarías y qué echas en falta.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47696"/>
-    <published>2026-11-18T17:05:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47697</id>
     <title>“El regreso de los muertos vivientes” prepara una nueva secuela con Johnny Knoxville y Doug Jones</title>
@@ -421,5 +350,66 @@
 &lt;br /&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47712"/>
     <published>2026-11-20T08:00:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47713</id>
+    <title>Primer vistazo a Rosario Dawson como Claire Temple en “Spider-Man: Brand New Day”</title>
+    <updated>2026-11-20T11:54:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47713.jpg" /&gt;&lt;/p&gt;Hace unos días os contábamos que Sony tenía previsto lanzar en los cines estadounidenses una versión extendida de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=40013"&gt;Spider-Man: Brand New Day&lt;/a&gt;, recuperando, entre otras, las escenas eliminadas de Claire Temple, interpretada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7475"&gt;Rosario Dawson&lt;/a&gt;. Una decisión que no sentó precisamente bien a algunos seguidores cuando se supo que su aparición había terminado en la sala de montaje.
+&lt;br /&gt;
+&lt;br /&gt;Ahora, por fin, podemos echar un primer vistazo a Dawson junto al trepamuros, gracias a una imagen compartida por la propia actriz en sus redes sociales. En ella vemos a ambos personajes en una habitación de hospital, con Claire vestida de enfermera y Spider-Man con una bata hospitalaria, aunque sin quitarse su inseparable máscara.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;La enfermera de los superhéroes de Nueva York&lt;/b&gt; Para los que no recuerden al personaje, Claire Temple fue una de las caras habituales de las series de Marvel que Netflix desarrolló hace ya unos cuantos años. Debutó en &lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=2043"&gt;Daredevil&lt;/a&gt; y posteriormente apareció en otras producciones como &lt;i&gt;Luke Cage&lt;/i&gt; o &lt;i&gt;Los Defensores&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;Su particularidad es que, sin tener superpoderes ni nada parecido, se convirtió en una especie de enfermera de guardia de los superhéroes callejeros de Nueva York, curándoles las heridas cada vez que terminaban bastante maltrechos después de sus peleas. Vamos, que trabajo precisamente no le faltaba...
+&lt;br /&gt;
+&lt;br /&gt;La versión extendida de Spider-Man llegará a los cines de Estados Unidos el próximo &lt;b&gt;4 de diciembre&lt;/b&gt;, incorporando nuevas escenas y alguna que otra sorpresa que Sony todavía se guarda. Por ahora seguimos sin noticias de si este montaje también llegará a las salas españolas, o si tendremos que conformarnos con verlo más adelante en formato doméstico.
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47713"/>
+    <published>2026-11-20T11:54:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47714</id>
+    <title>“Train to Busan” volverá a los cines españoles el 9 de abril de 2027</title>
+    <updated>2026-11-20T14:32:49+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47714.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;
+    &lt;p&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=32609" class="am-entity-link" data-tipo="pelicula" data-id="32609"&gt;Train to Busan&lt;/a&gt; tiene fecha para volver a los cines españoles: &lt;b&gt;el 9 de abril de 2027&lt;/b&gt;. &lt;a href="https://x.com/RentrakESP/status/2121171515387585002"&gt;Rentrak España ha incorporado el reestreno a su calendario&lt;/a&gt; con Selecta Visión como distribuidora. La película de &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=275358" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="275358"&gt;Yeon Sang-ho&lt;/a&gt; regresa a la gran pantalla dentro de la campaña internacional que celebra sus diez años.
+&lt;/p&gt;
+&lt;p&gt;La premisa sigue conservando toda su fuerza: un padre y su hija suben a un tren de Seúl a Busan justo cuando un brote zombi se extiende por Corea del Sur. Los vagones se convierten en una sucesión de refugios precarios, con pasajeros obligados a decidir a quién dejan pasar y a quién abandonan al otro lado de la puerta.
+&lt;/p&gt;&lt;section class="amnf-card" data-amnf-film="32609" data-amnf-db="1" data-amnf-title="Train to Busan" aria-label="Tu opinión sobre Train to Busan"&gt;&lt;a class="amnf-poster" href="https://www.abandomoviez.net/db/pelicula.php?film=32609" aria-label="Ver ficha de Train to Busan"&gt;&lt;img src="https://images.abandomoviez.net/db/foto/db_32609_75368.jpg" alt="Carátula de Train to Busan" loading="lazy" decoding="async"&gt;&lt;/a&gt;&lt;div class="amnf-copy"&gt;&lt;p class="amnf-eyebrow"&gt;TU OPINIÓN CUENTA&lt;/p&gt;&lt;h3 class="amnf-title"&gt;Train to Busan &lt;span&gt;2016&lt;/span&gt;&lt;/h3&gt;&lt;p class="amnf-invite"&gt;¿La has visto? Compártelo con tu nota.&lt;/p&gt;&lt;p class="amnf-actions"&gt;&lt;button type="button" class="amnf-vote" data-amnf-vote aria-haspopup="dialog" aria-controls="amv-dialog"&gt;&lt;span aria-hidden="true"&gt;★&lt;/span&gt; &lt;span data-amnf-vote-label&gt;Puntúala&lt;/span&gt;&lt;/button&gt;&lt;button type="button" class="amnf-add" data-amnf-add aria-haspopup="dialog" aria-controls="modalAnadirLista"&gt;&lt;span aria-hidden="true"&gt;＋&lt;/span&gt; Añadir a…&lt;/button&gt;&lt;/p&gt;&lt;/div&gt;&lt;/section&gt;&lt;h3&gt;&lt;b&gt;Un aniversario que también pasa por España&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;&lt;i&gt;Train to Busan&lt;/i&gt; formó parte de las &lt;a href="https://www.festival-cannes.com/en/press/press-releases/the-2016-official-selection/"&gt;sesiones de medianoche del Festival de Cannes de 2016&lt;/a&gt; y acabó dando lugar a la precuela animada &lt;i&gt;Seoul Station&lt;/i&gt; y a &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=37639" class="am-entity-link" data-tipo="pelicula" data-id="37639"&gt;Train to Busan 2: Península&lt;/a&gt;. Su décimo aniversario ya ha llevado la película de nuevo a las salas de varios países.
+&lt;/p&gt;
+&lt;p&gt;La campaña internacional utiliza una &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.koreanfilm.or.kr/eng/news/news.jsp?blbdComCd=601006&amp;amp;mode=VIEW&amp;amp;seq=6465"&gt;versión remasterizada en imagen y sonido 4K&lt;/a&gt;. Por ahora no se han detallado las características de la copia que proyectará Selecta Visión en España ni las salas que participarán en el reestreno.&lt;/p&gt;&lt;/div&gt;
+
+ &lt;/div&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47714"/>
+    <published>2026-11-20T14:32:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47715</id>
+    <title>Del último caso de los Warren a los cocodrilos de “Mandíbulas 3”: qué llega en streaming este fin de semana</title>
+    <updated>2026-11-20T15:22:51+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_tnt_42_5b76ec717c7c869221bf458c.jpg" /&gt;&lt;/p&gt;&lt;p&gt;No es un fin de semana especialmente brillante en cuanto a lo que llega a las plataformas de streaming, pero si finalmente te quedas en casa y quieres practicar un poco eso de «mantita y Netflix» (o la plataforma que te dé la gana), aquí van cuatro títulos que acaban de aterrizar en sus catálogos.&lt;/p&gt;&lt;p&gt;No son lanzamientos excesivamente novedosos, pero sí lo bastante variados como para salvarte alguna que otra noche frente al televisor.&lt;/p&gt;&lt;a class="asw-platform" href="#asw-netflix"&gt;&lt;strong&gt;Netflix&lt;/strong&gt;2 películas&lt;/a&gt;&lt;a class="asw-platform" href="#asw-filmin"&gt;&lt;strong&gt;Filmin&lt;/strong&gt;1 película&lt;/a&gt;&lt;a class="asw-platform" href="#asw-movistar"&gt;&lt;strong&gt;Movistar Plus+&lt;/strong&gt;1 película&lt;/a&gt;En NetflixSábado 21 de noviembre&lt;a class="asw-poster am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41378"&gt;&lt;/a&gt;&lt;p class="asw-kicker"&gt;Una noche de terror&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=41378"&gt;Expediente Warren: El último rito&lt;/a&gt;2025 · Película&lt;p class="asw-description"&gt;Ed y Lorraine Warren se despiden de la saga principal con un caso que también pone en peligro a su hija Judy. &lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=16540"&gt;Vera Farmiga&lt;/a&gt;&lt;/b&gt; y &lt;b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=9266"&gt;Patrick Wilson&lt;/a&gt;&lt;/b&gt; siguen siendo la mejor razón para volver a esta familia, incluso si ya conoces de sobra las reglas de sus investigaciones paranormales. Si te apetece una noche de casas malditas y sobresaltos, es la elección más evidente de las cuatro.&lt;/p&gt;&lt;a class="asw-poster am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=14235"&gt;&lt;/a&gt;&lt;p class="asw-kicker"&gt;Serie B sin complejos&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=14235"&gt;Mandíbulas 3&lt;/a&gt;2010 · Película&lt;p class="asw-description"&gt;La saga de &lt;i&gt;Lake Placid&lt;/i&gt; sigue adelante con cocodrilos que han crecido demasiado y una producción televisiva que no pretende competir con grandes estrenos de cine. Aquí el atractivo es otro: monstruos, víctimas potenciales y el gusto por una serie B que se deja ver sin pedirle solemnidad. Una opción para quien prefiera algo más gamberro que el último caso de los Warren.&lt;/p&gt;En FilminViernes 20 de noviembre&lt;a class="asw-poster am-entity-link" href="https://www.abandomoviez.net/indie/pelicula.php?film=77120"&gt;&lt;/a&gt;&lt;p class="asw-kicker"&gt;La opción diferente&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/indie/pelicula.php?film=77120"&gt;Mala bestia&lt;/a&gt;2026 · Película&lt;p class="asw-description"&gt;Atenea vive en un orfanato donde los niños desaparecen al hacerse mayores. Una pareja la acoge y le ofrece la posibilidad de tener un hogar, pero el miedo a perderlo empieza a torcerlo todo. El debut de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=671512"&gt;Bàrbara Farré&lt;/a&gt; se mueve entre el drama y la fábula inquietante: es la propuesta menos convencional de la lista y la que más depende de que entres en su atmósfera.&lt;/p&gt;En Movistar Plus+Desde el jueves 19 de noviembre&lt;a class="asw-poster am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50208"&gt;&lt;/a&gt;&lt;p class="asw-kicker"&gt;Espadas y mitología&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=50208"&gt;La venganza de Kalevala&lt;/a&gt;2026 · Película&lt;p class="asw-description"&gt;Kullervo es un joven marcado por la pérdida y la traición en esta adaptación de la gran epopeya finlandesa. Hay espadas y mitología, pero también una historia familiar bastante amarga bajo toda esa escala fantástica. El &lt;i&gt;Kalevala&lt;/i&gt; fue una de las influencias de Tolkien, así que puede tener un atractivo especial para quienes ven estos días &lt;i&gt;Los anillos de poder&lt;/i&gt; y quieren explorar otro rincón del imaginario que lo inspiró.&lt;/p&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47715"/>
+    <published>2026-11-20T15:22:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47716</id>
+    <title>Más de 130.000 firmas contra “El cuerpo”: la serie de Netflix que algunos querían cancelar antes de estrenarse</title>
+    <updated>2026-11-20T18:06:25+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47716.jpg" /&gt;&lt;/p&gt;La polémica está servida. &lt;b&gt;Más de 130.000 personas han firmado una petición para que Netflix retire de su catálogo &lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=6520"&gt;El cuerpo&lt;/a&gt;&lt;/b&gt;, una serie de terror estrenada el pasado 11 de noviembre que está siendo acusada de ser «&lt;i&gt;anticristiana&lt;/i&gt;» por su utilización de imágenes, símbolos y rituales religiosos.
+&lt;br /&gt;
+&lt;br /&gt;Así lo consideran los promotores de una campaña impulsada por CitizenGO, que acusa a la producción de burlarse de la fe cristiana y de utilizar la religión católica de una manera ofensiva. Entre sus críticas encontramos las referencias a rituales satánicos y una campaña promocional en la que las protagonistas aparecían representadas como santas.
+&lt;br /&gt;
+&lt;br /&gt;Pero lo más curioso del asunto es que &lt;b&gt;la recogida de firmas comenzó el 5 de noviembre, seis días antes de que se estrenase la serie&lt;/b&gt;. Vamos, que ya había quien pedía retirarla sin que los espectadores hubieran tenido siquiera la oportunidad de verla.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Visiones, religión y una serie que no parece funcionar nada mal&lt;/b&gt;Creada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=30836"&gt;Quinn Shephard&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/dbs/serie.php?film=6520"&gt;El cuerpo&lt;/a&gt; nos lleva hasta un colegio católico donde unas alumnas comienzan a experimentar inquietantes visiones proféticas después de que una iniciación del equipo de baile salga bastante mal. Lo que empieza como un incidente entre adolescentes termina provocando una auténtica histeria colectiva en toda la comunidad.
+&lt;br /&gt;
+&lt;br /&gt;La serie utiliza el terror y los elementos sobrenaturales para hablar también de cuestiones como la identidad, la represión y la religión, temas que su creadora ha relacionado con sus propias experiencias durante la adolescencia.
+&lt;br /&gt;
+&lt;br /&gt;Y mientras la petición sigue sumando firmas, lo cierto es que a la serie no le está yendo precisamente mal. Según los datos oficiales de Netflix, &lt;b&gt;ha conseguido 5,1 millones de visualizaciones en sus primeros cinco días&lt;/b&gt;, lo que le ha valido el tercer puesto mundial entre las series de habla inglesa durante la semana de su estreno.
+&lt;br /&gt;
+&lt;br /&gt;Y vosotros, ¿habéis visto la serie? ¿Creéis que este tipo de polémicas terminan perjudicando a las producciones o, por el contrario, consiguen que todavía más gente sienta curiosidad por ellas?</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47716"/>
+    <published>2026-11-20T18:06:25+00:00</published>
   </entry>
 </feed>
