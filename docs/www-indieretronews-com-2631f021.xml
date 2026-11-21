@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-20T15:05:23+00:00</updated>
+  <updated>2026-11-20T19:42:31+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1555899651749075107</id>
-    <title>Ultracore AGA -  Digital Illusions platform blaster could finally be coming to the Amiga via AI/MrDig</title>
-    <updated>2026-11-15T13:25:06+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIGArzv0_ijMQF7OMl8c3cIdeMj_xN_U0U-rAV6s9VOcHwSAznNRGOrn1cEuuXi1R9NMfI4EUVIBNVI5fXDA8uD9gCiA0EfuvWUuUUY2aB02V_2uac6nCsuWnmw5Vgu5qaIVjoEzSHeGl3yrciFFQHQE-MoYT_0BiQVppFdoHzQF89JIRe-KCun0HdSiU/w640-h408/ultracore.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1555899651749075107" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;MrDig has announced via EAB a new project called Ultracore AGA, a work-in-progress port of the classic run-and-gun shooter. The game has a bit of a history. It originally started development for the Amiga by Digital Illusions under the name Hardcore but was sadly cancelled before completion. Decades later via Strictly Limited Games, the project was resurrected and officially released for modern platforms like the Sega Mega Drive, PlayStation, Xbox, and Nintendo Switch under the title Ultracore. Now, inspired by community discussions on the English Amiga Board (EAB), MrDig has taken on the challenge of bringing this action-packed title back to its original roots.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/FvNQ1fIZ7_8" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FvNQ1fIZ7_8"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The early progress on the port looks promising. A newly released gameplay video showcases the title screen and attract mode, leading into actual gameplay with full sound effects and streaming audio. The current "Ultracore+" build runs at stock Amiga 1200 speeds, though it currently requires a hefty 30 megabytes of Fast RAM to stream the uncompressed, 8-bit mono music. MrDig considers the project a work in progress but has ambitions for the final version. The ultimate goal is to optimize the game so that it runs smoothly with full sound and music on a standard, stock A1200 equipped with only a modest amount of Fast RAM.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://eab.abime.net/showthread.php?t=124447"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/ultracore-aga-digital-illusions.html"/>
-    <published>2026-11-15T13:25:06+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-6969745529904263052</id>
-    <title>Rolling Thunder - A classic Arcade game gets an Amiga AGA remake by JOTD</title>
-    <updated>2026-11-15T17:38:24+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLPltlxurzPoWCLEO1XR883XdjLPssGwtg8LQ727T0k8mtk6pE9knQs5QBnVyec8J1jIhyphenhyphenYfvA5alERMybIQqCIDnYzThsGIUE5HmQ0U-8FuHa87icIufoelEOpvTPG0wU2ujupOYoN10jNUyKY4cTo4SUIOlHUdV8hobFuoTSA_AiCqU4QrxTPNVww6g/w640-h458/rolling.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-6969745529904263052" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A new remake of the classic arcade hit Rolling Thunder has un-officially arrived on the Commodore Amiga, courtesy of developer JOTD with music by no9. This new version breathes new life into the franchise, completely distancing itself from the abysmal original Amiga port widely criticized by retro gamers as an abysmal conversion that's not the even the worst outing from the Tiertex developer. Built specifically for AGA machines as a remake that brings it closer to the Arcade version by Namco, the game requires fastmem and WHDLoad to run.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/GDcioPNQcy4" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GDcioPNQcy4"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The technical achievements of this port are impressive, largely due to a unique assist during development. While No9 handled the music, JOTD however handled the core reverse-engineering, 68020 transcoding, but also utilized Claude A.I. to help rip graphics, manage multi-CPU synchronization, handle asynchronous blitting, and hunt down code bugs. The game looks to be optimized for performance as well, delivering 50Hz arcade-speed experience on high-end 68040 and 68060 processors, while those of you running classic 68020 or 030 setups, the game features a smooth 25Hz mode to keep the action fast and playable.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Besides helping me to rip the graphics (as MAME didn't work for this) and to find a lot of bugs, A.I. helped creating an optimized async renderer from my non optimized async blitting renderer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://jotd666.itch.io/rolling-thunder"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/rolling-thunder-classic-arcade-game.html"/>
-    <published>2026-11-15T17:38:24+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-8870347269983882357</id>
     <title>Tumblepop - Classic 1991 arcade platformer for the Amiga by Acidbottle</title>
@@ -324,5 +292,37 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/underworld-exhumed-decompile-of-both.html"/>
     <published>2026-11-20T15:05:23+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-837523088579255904</id>
+    <title>Eddy &amp; Co - A colourful DOS platformer from 1995 gets an Amiga port via mc68060</title>
+    <updated>2026-11-20T19:29:06+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2WVylHRRzBiQiAxZmFC9fed4rtgFbqmlwPqtkdiyrD7aAqhkZSm59lbj4BupucbJPMtjgY1NsRU-tjjoeGFgOG9VOu9HWz1cTWq0dKIJE2tdHVDc2x6skqR3q7ub0sHnGmqQsij-AvhBRfmuRfLV4vcJ3L-1c1ecBvsBbagc3yE2PV1q-lpM8mBpbOOY/w640-h360/eddy.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-837523088579255904" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;With Christmas fast approaching there's no wonder we'd start to see some festive like games appearing, and here we are with mc68060's latest DOS to Amiga 1200 port of Eddy &amp;amp; Co, a vibrant platformer that originally arrived on DOS back in 1995 as a free promotional title for Eismann. Rather than cutting corners for modern setups, this conversion aims for pure mid-nineties authenticity by arriving on a single floppy-disk image complete with a classic trackloader—capturing the exact feel of an official release from the era. Paired with crisp snowy visuals and a standout soundtrack from legendary composer Chris Huelsbeck, it is an ideal pick for a cold afternoon.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12N8zzcjn_Aloe7GP0S4haU0l_yFJf1Rie5M1iG1QEsfE3LqIZzFlhyphenhyphen9C_M-e1hC_7HENyDjfeMiEQXYDbEr7OyMkADPJKCz2LErx_YtNJMyYml2hYoM26mFJdkbNqBaIM22y9wdR07y6xxafOFIVPJu4whObhXGEQd6b56xAz21XX2plJpyz-fK86lg/s640/DG9_9S.png" imageanchor="1"&gt;&lt;img border="0" data-original-height="400" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12N8zzcjn_Aloe7GP0S4haU0l_yFJf1Rie5M1iG1QEsfE3LqIZzFlhyphenhyphen9C_M-e1hC_7HENyDjfeMiEQXYDbEr7OyMkADPJKCz2LErx_YtNJMyYml2hYoM26mFJdkbNqBaIM22y9wdR07y6xxafOFIVPJu4whObhXGEQd6b56xAz21XX2plJpyz-fK86lg/w640-h400/DG9_9S.png"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Once you load up the disk, you take control of Eddy and his three companions as they trek across a sprawling, frozen landscape. Players run and jump through four massive stages packed with icy hazards, snowdrifts, and stormy rain clouds while fending off a quirky roster of enemies ranging from rats and bats to polar bears and werewolves. Along the way, you can boost your high score by gathering sweets, top up your health with ice crystals, and snag cakes that let you hurl snowballs at incoming threats. Surviving each stage requires taking down a final boss to unlock the exit and push deeper into the winter wonderland.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Requirements&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Amiga 1200 or 4000 (AGA chipset), Kickstart 3.0 or higher&lt;/li&gt;&lt;li&gt;An unexpanded A1200 with 2 MB chip RAM is enough&lt;/li&gt;&lt;li&gt;With fast RAM the game uses the full 256 colours; without it, it runs in 64-colour mode&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://mc68060.itch.io/eddy-co"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/eddy-co-colourful-dos-platformer-from.html"/>
+    <published>2026-11-20T19:29:06+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-2289191208187684770</id>
+    <title>Krakout – Amiga AGA Enhanced Edition released by thall72!</title>
+    <updated>2026-11-20T19:42:31+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt7BBC2KajgyFDgxeGR435DB-xKPzF58bVfHSj8UnL4yxuiqHRPAdStqAXf-LD6CdJqHiCuK7szZohjINLhoqP1H1UmrkObxfpm3pCukRyQ8Gc_k3FpwgoiXS-dF9xlwzyM8aQxKveKrgFXNKOCbHFBQybrGNJthhHY0XR3S_ZRL2H8r9Hmdg2w0vfhFE/w640-h432/krak.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-2289191208187684770" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Back in the heyday of the Commodore 64, Gremlin Graphics flipped the classic brick-breaker formula on its side—literally—with Krakout, a fast-paced arcade hit set to a memorable SID soundtrack by Ben Daglish. Despite its popularity, the game never received a dedicated Amiga 1200 release, a gap that developer thall72 has finally filled with Krakout Amiga AGA Enhanced Edition. Built entirely from scratch in native Amiga machine code with the help of AI to run at full speed on a stock 68020 processor without emulation, this release keeps the underlying gameplay logic completely faithful to the 8-bit original. Amiga gamers will find all 100 brick-filled screens, left-or-right bat placement, bonus bricks, and troublesome floating enemies intact, ensuring the frantic bounces feel just as they did decades ago.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtI1LicHYrZnDY5RGtaKkRPqJUgazLa7bOvk6Y8_im_AVuu5coIG4ujgRXzjejVTjDiJskLJzf6q27db2CmMaLmqwZtXNE8SURf59UX62VwQwFi_xL0VIv3_nIJ2YMyqgdv8b75GTS-0894HHgVMhic_O9mz6XqDOHi0kJsECCiazVNZic6fxeJPaMXU/s960/YEtpCr.png" imageanchor="1"&gt;&lt;img border="0" data-original-height="648" data-original-width="960" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtI1LicHYrZnDY5RGtaKkRPqJUgazLa7bOvk6Y8_im_AVuu5coIG4ujgRXzjejVTjDiJskLJzf6q27db2CmMaLmqwZtXNE8SURf59UX62VwQwFi_xL0VIv3_nIJ2YMyqgdv8b75GTS-0894HHgVMhic_O9mz6XqDOHi0kJsECCiazVNZic6fxeJPaMXU/w640-h432/YEtpCr.png"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;While the core mechanics remain untouched, the audio visual presentation has been completely overhauled for the A1200’s AGA chipset. Players are greeted by a 256-colour hi-res intro showcasing the original cover art before diving into stages packed with shiny chrome-and-gold bricks, rich scrolling backgrounds, redrawn sprites, and a sleek new HUD. Daglish’s whimsical music has also been lovingly rearranged using sampled instruments and an added drum kit while preserving every original note and timing, backed up by crisp new sound effects for every smash and explosion. Rounding out the package are welcome extras, including high scores that save directly to disk and a streamlined options menu where a quick tap of the fire button toggles settings&lt;/p&gt;&lt;p&gt;&lt;b&gt;Requirements&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Amiga model: Amiga 1200 (or any AGA Amiga), stock, no expansions needed&lt;/li&gt;&lt;li&gt;Memory: 2 MB chip RAM, no fast RAM needed&lt;/li&gt;&lt;li&gt;Kickstart: 3.0 or 3.1&lt;/li&gt;&lt;li&gt;Video: PAL or NTSC, one disk works on both. On NTSC machines the game switches to 50 Hz so it runs at its original speed, which needs a display that accepts a 50 Hz signal; most RGB monitors and adapters do.&lt;/li&gt;&lt;li&gt;Media: ADF disk image (write-enable the disk to keep your high scores)&lt;/li&gt;&lt;li&gt;Tested on a real NTSC Amiga 1200 and in emulation &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thanks AmigaGuru.com for the heads up!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://thall72.itch.io/krakout-amiga-aga-enhanced-edition"&gt;Source&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/krakout-amiga-aga-enhanced-edition.html"/>
+    <published>2026-11-20T19:42:31+00:00</published>
   </entry>
 </feed>
