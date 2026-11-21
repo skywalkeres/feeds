@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-20T23:03:45+00:00</updated>
+  <updated>2026-11-21T00:18:40+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,20 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47701</id>
-    <title>“La Odisea” llega a casa: disponible tanto en  digital como en físico desde hoy</title>
-    <updated>2026-11-18T19:14:10+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47701.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48124"&gt;La Odisea&lt;/a&gt; ya puede verse en casa, y esta vez los coleccionistas no tienen que esperar a que termine la ventaja del formato digital. La película de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=42285"&gt;Christopher Nolan&lt;/a&gt; coincide esta semana en las plataformas de compra con la salida en España de sus ediciones en &lt;b&gt;DVD, Blu-ray y 4K Ultra HD&lt;/b&gt;, disponibles desde hoy, 18 de noviembre.
-&lt;br /&gt;
-&lt;br /&gt;Lo habitual en los grandes estrenos recientes es poder comprar primero la película en una plataforma y encontrar el disco semanas después o incluso meses. Aquí las dos opciones se presentan prácticamente juntas.  
-&lt;br /&gt;
-&lt;br /&gt;Precio de lanzamiento &lt;b&gt;28,95 €&lt;/b&gt;&lt;a class="odyssey-buy" href="https://www.amazon.es/dp/B0HN5K79L4?tag=abandomoviez-21"&gt;Comprar en Amazon ↗&lt;/a&gt;&lt;b&gt;Seis cajas para quien prefiera tenerla en la estantería&lt;/b&gt;En físico hay bastante más donde elegir que entre DVD, Blu-ray y 4K. También se han lanzado &lt;b&gt;dos steelbooks con portadas distintas&lt;/b&gt; y una edición coleccionista con libreto, postales y póster. Las presentaciones UHD incluyen además el Blu-ray de la película y otro disco con unos 90 minutos de extras. Las diferencias entre las seis cajas, sus discos y sus especificaciones están detalladas en &lt;a href="https://www.abandomoviez.net/noticia.php?film=47584"&gt;nuestra guía de ediciones&lt;/a&gt;. 
-&lt;br /&gt;
-&lt;br /&gt;El estreno doméstico llega después de un recorrido en salas difícil de pasar por alto. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=48124"&gt;La Odisea&lt;/a&gt; ha superado los &lt;b&gt;1.800 millones de dólares en todo el mundo&lt;/b&gt;. En España acumula &lt;b&gt;39,5 millones de euros&lt;/b&gt; y ocupa el segundo puesto de la taquilla anual.</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47701"/>
-    <published>2026-11-18T19:14:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47702</id>
     <title>Netflix canceló “Grendel” en acción real y ahora prepara una serie animada</title>
@@ -435,5 +421,25 @@
 &lt;/div&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47720"/>
     <published>2026-11-20T23:03:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47721</id>
+    <title>Las críticas de Skullboo: “El hombre de la furgoneta blanca”… arranca el motor, pero no termina de avanzar</title>
+    <updated>2026-11-21T00:18:40+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47721.jpg" /&gt;&lt;/p&gt;Saludos, mortales. Soy &lt;b&gt;Skullboo&lt;/b&gt; y he de reconocer que tengo debilidad por esas películas que llegan casi a escondidas, a veces años después de haberse estrenado en otro país. Nadie les organiza una alfombra roja, pero algunas están hechas con verdadero oficio. Te sientas a verlas sin grandes expectativas y, de vez en cuando, descubres una joyita. &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=43392"&gt;El hombre de la furgoneta blanca&lt;/a&gt;&lt;/i&gt; no es una de ellas.
+&lt;br /&gt;
+&lt;br /&gt;La idea me atraía. Quien haya crecido en un pueblo habrá oído alguna versión del aviso: «&lt;i&gt;Cuidado, que hay una furgoneta blanca llevándose a los niños&lt;/i&gt;». Bastaba ver una doblar la esquina para volver a casa batiendo un récord personal de velocidad. La película recupera ese miedo y lo lleva a la Florida de los setenta, donde Annie empieza a notar que una furgoneta la sigue. Sus padres, por supuesto, creen que imagina cosas.  
+&lt;br /&gt;
+&lt;br /&gt;Sobre el papel, estupendo. En pantalla, la furgoneta aparece, Annie se asusta, nadie la cree y repetimos la maniobra. A la tercera vuelta ya quería llamar yo a la policía desde el sofá. Sí, estamos en los setenta. Teléfonos había.
+&lt;br /&gt;&lt;b&gt;Marcha atrás para llenar el depósito... una y otra vez&lt;/b&gt;Como la historia no consigue avanzar, la película intercala escenas de secuestros anteriores para recordarnos que es un thriller de terror. Pero cada viaje al pasado corta el poco impulso que había ganado la protagonista, y yo acabé queriendo gritarle a la pantalla: «¡&lt;i&gt;Ya sabemos lo que hizo antes! ¡Contadnos qué está pasando ahora!&lt;/i&gt;».
+&lt;br /&gt;
+&lt;br /&gt;Hay cosas que funcionan. La época está bien recreada, la furgoneta inquieta precisamente porque no sabemos quién va al volante y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=311142"&gt;Madison Wolfe&lt;/a&gt; sostiene a Annie con más convicción de la que el guion pone en escucharla. Pero el ritmo nunca termina de arrancar. La película tarda tanto en llegar al enfrentamiento que, cuando lo hace, su resolución previsible y forzada no compensa la espera.
+&lt;br /&gt;
+&lt;br /&gt;   Madison Wolfe como Annie&lt;b&gt;Veredicto de Skullboo&lt;/b&gt;&lt;i&gt;El hombre de la furgoneta blanca&lt;/i&gt;&lt;b&gt; no es un desastre&lt;/b&gt;. Tiene una buena premisa, algunos momentos tensos y puede sacarte de una tarde aburrida de domingo. Tampoco es la joyita escondida que esperaba encontrar. Llega a España casi tres años después de su primera presentación y se queda en lo justo: &lt;b&gt;justa para verla, justa para aprobarla y justa para que mañana me cueste recordar&lt;/b&gt; algo más que el color del vehículo.
+&lt;br /&gt;&lt;b&gt;☠️☠️☠️☆☆ — 5/10&lt;/b&gt;Ahora, si me disculpáis, voy a mirar por la ventana. Lleva un rato aparcada una furgoneta blanca delante de casa. Si es el repartidor, le pediré perdón. Si es el guionista, le pediré que vaya al grano.
+&lt;br /&gt;
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47721"/>
+    <published>2026-11-21T00:18:40+00:00</published>
   </entry>
 </feed>
