@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-18T09:24:15+00:00</updated>
+  <updated>2026-11-22T13:31:32+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,90 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709791</id>
-    <title>Adiós Homebrew, ¿hola Home-iA-brew?</title>
-    <updated>2026-10-10T15:49:05+00:00</updated>
-    <author>
-      <name>Alejandro</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/home-ia-brew.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Los que tenemos ya unos años, entre 45 y 60, hemos tenido la fortuna de vivir el nacimiento de la informática y su evolución a lo largo del tiempo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Los románticos hemos seguido recordando aquellos primeros años durante décadas. No solo hemos jugado recurrentemente a los títulos más míticos de los años 80 sino que hemos recibido con gusto los lanzamientos nuevos creados por amantes del retro que pensaban que tenían que dar un paso más allá y convertirse en programadores de Spectrum. Nunca es tarde si la dicha es buena.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;De esta manera gozamos durante muchos años del homebrew. Juegos indie o caseros programados para una plataforma obsoleta en cuestión de mercado pero muy viva en nuestros corazones.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Las cosas evolucionan. Qué nos van a contar a nosotros. Y hace ya años se impusieron los motores para la creación de esos nuevos títulos.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Al ganar en sencillez el proceso de creación, la escena se inundó de lanzamientos y muchas personas pudieron ver cumplido su sueño de publicar su juego. Seguían saliendo programas más artesanos programados directamente para la máquina pero aquella otra tendencia se volvió mayoritaria.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y ahora tenemos un nuevo fenómeno. La iA.&lt;/p&gt;
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La iA ha venido para quedarse. Esta nueva revolución industrial va a dominar nuestro día a día. Muchos somos los que la usamos como herramienta a diario en el sector profesional. Después de tantos años leyendo y viendo ciencia ficción, distopías y predicciones de un futuro incierto, parece que ha llegado a nuestras casas de una manera fulgurante. Los cambios profundos que trajo la revolución industrial se van a quedar en anécdota con lo que va a suponer la Inteligencia Artificial.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;No quiero centrarme en la generalidad, no es objetivo de este artículo, sino en lo que ahora me ocupa: su aplicación en el homebrew. De unos meses a esta parte estamos viendo cómo los lanzamientos de juegos nuevos para plataformas antiguas se están multiplicando. Algunos usándola como mero apoyo. Otros creando el proyecto casi integralmente con ella.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;También el software para máquinas actuales, como por ejemplo los emuladores, están viviendo un nuevo impulso recibiendo lanzamientos con múltiples mejoras. Proyectos estancados o directamente parados, están volviendo a la vida gracias a la iA. También conversiones directas de juegos de otras plataformas están llegando al Spectrum a una velocidad increíble. Incluso de antiguas recreativas. ¿Cuánta optimización será capaz de lograr la iA en el Spectrum? Ya hemos visto casos de Nintendo NES asombrosos.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Y no nos olvidemos de varios casos recientes en los que se ha usado esta herramienta para mejorar juegos clásicos que adolecían de algún defecto bien conocido.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Personalmente he de reconocer, que tras una conversación en el canal de Telegram de El Mundo del Spectrum, probé Claude para crear un juego de cero. Con un prompt de apenas 3 líneas, esta conocida iA me creó un tap perfecto con un juego jugable y acabado llamado «Bebé Biberón». Muy básico sí, pero mi asombro fue absoluto. ¿Cómo una Inteligencia Artificial era capaz de programar en ensamblador para una máquina de hace más de 40 años? Una locura.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Sin entrar a analizar si eso está bien o está mal éticamente. Sin valorar lo que supone como persona humana que algo tan artesanal y bello puede ser sustituido por la labor de una máquina, debo reconocer que me encuentro expectante ante semejante movimiento tecnológico, social y cultural.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;¿Morirá el hombrew que conocíamos para dar paso a una especie de home-iA-brew? Sí es cierto que cuando se lanzaron los motores, los desarrollos a medida desde cero se redujeron y el espacio fue ocupado por los primeros. ¿Pasará lo mismo ahora que la iA puede encargarse de casi todo? ¿Acabará encargándose incluso de la parte más artística?&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Solo el tiempo dirá lo que va a ocurrir pero si proyectamos lo que pasó en el más inmediato pasado y lo que estamos viendo hoy día, es fácil llegar a la conclusión de que pronto serán las iAs las que se encarguen de la parte más tediosa y serán las personas las que ideen el juego y piensen la jugabilidad o esbocen lo artístico. Haciendo de abogado del diablo me pregunto, ¿eso es malo?&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Abrimos debate. Escribid aquí lo que opináis en los comentarios de esta entrada o en nuestras redes sociales. Os leeremos y quizá algún día hagamos un podcast especial con esta temática.&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/arkanoid-2-modificado.gif" alt="Arkanoid 2 sin fondo" class="wp-image-197709782"&gt;&lt;figcaption class="wp-element-caption"&gt;Recientemente se usó la iA como apoyo para mejorar un juego existente.&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/adios-homebrew-hola-home-ia-brew/"/>
-    <published>2026-10-10T15:49:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709806</id>
     <title>GALACTICON, una edición física BRUTAL</title>
@@ -2040,5 +1956,153 @@
 	&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/como-se-juega-al-alien-de-zx-spectrum/"/>
     <published>2026-11-18T09:24:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709946</id>
+    <title>Wolfenstein 3D se hace realidad en el ZX Spectrum</title>
+    <updated>2026-11-22T13:31:32+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/wolfenstein-3d-zx-title.png"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2021/06/el-mundo-del-spectrum.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Si hay un tipo de juego que se ha intentado portar una y otra vez al Spectrum, ese ha sido el «shooter en primera persona». Hay muchos casos de los que os hemos hablado desde nuestros orígenes a finales de los años 90.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lo que hoy os mostramos en vídeo es el Wolfenstein 3D que al fin llega al ZX Spectrum cuando parecía imposible.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lo ha convertido Outsoftware con IA, que &lt;a href="https://www.elmundodelspectrum.com/maniac-mansion-llega-al-zx-spectrum/" data-type="post" data-id="197709834"&gt;últimamente están a tope&lt;/a&gt;. Pronto os mostraremos más ejemplos de sus conversiones que, si bien tienen margen de mejora, sorprenden por todo lo que son capaces de meter en un 128k.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Destaca nada más empezar la partida lo mucho que se parece al original. Es cierto que el tratamiento del color es mejorable pero esa carga gráfica y el movimiento que tiene parecen imposibles en un Spectrum.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Si quieres verlo en funcionamiento, dale al PLAY y míralo en movimiento:&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego es tan extenso que se ofrece en varios discos. Tal y como hicimos con el &lt;a href="https://www.elmundodelspectrum.com/maniac-mansion-llega-al-zx-spectrum/" data-type="post" data-id="197709834"&gt;Maniac Mansion&lt;/a&gt; os recordamos cómo se cargan estos juegos de disco en los distintos emuladores.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://outsoftware.it/es/juegos/wolfenstein-3d-zx-spectrum/" rel="noopener"&gt;Descargar Wolfenstein 3D para ZX Spectrum&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cómo cargar en Fuse&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;br&gt;🔥 Selecciona el modelo ZX Spectrum 128K.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;🔌 Activa la interfaz de disco +D en las opciones de periféricos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;💾 Inserta el archivo .mgt en la unidad 1.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;▶️ En BASIC 128, escribe RUN y pulsa Intro.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cómo cargar en ZEsarUX&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;br&gt;🔥 Selecciona el modelo ZX Spectrum 128K.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;🔌 Activa la emulación de la interfaz de disco MGT / +D, si está disponible en tu versión.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;💾 Inserta el archivo .mgt en la unidad 1.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;▶️ En BASIC 128, escribe RUN y pulsa Intro.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cómo cargar en Retro Virtual Machine&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;br&gt;🔥 Selecciona el modelo ZX Spectrum 128K.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;🔌 Activa la interfaz de disco DISCiPLE o +D, si está disponible en tu versión.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;💾 Inserta el archivo .mgt en la unidad 1.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;▶️ En BASIC 128, escribe RUN y pulsa Intro.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cómo cargar en Spectaculator&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;br&gt;🔥 Selecciona Tools → Options → Hardware y activa la interfaz MGT/Datel Plus D Disk Interface.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;💾 Abre View → Disk Drives y carga el archivo .mgt en la unidad 1.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;▶️ En BASIC 128, escribe RUN y pulsa Intro.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Importante: deja el disco insertado durante toda la partida, ya que el juego necesita cargar datos a medida que avanzas.&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/wolfenstein-3d-se-hace-realidad-en-el-zx-spectrum/"/>
+    <published>2026-11-22T13:31:32+00:00</published>
   </entry>
 </feed>
