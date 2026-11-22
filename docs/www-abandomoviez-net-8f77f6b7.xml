@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-21T14:19:19+00:00</updated>
+  <updated>2026-11-22T07:33:27+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,33 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47705</id>
-    <title>Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”</title>
-    <updated>2026-11-19T06:50:56+00:00</updated>
-    <content type="html">&lt;div&gt;&lt;p class="am-content-subtitulo"&gt;
-            Zach Lipovsky y Adam B. Stein dirigirán la adaptación de la novela de Joseph Eckert, centrada en un viajero temporal y el vínculo con su hijo.        &lt;/p&gt;
-        &lt;div class="am-content-card"&gt;
-
-                    &lt;img src="https://images.abandomoviez.net/noticias/noticia_47705.jpg" class="img-responsive center-block am-content-img-noticia" alt="Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”" title="Los directores de “Destino Final: Lazos de Sangre” llevarán a Chris Pratt a través del tiempo en “The Traveler”" decoding="async" fetchpriority="high"&gt;
-        
-        
- 
-&lt;p class="am-content-cuerpo"&gt;
-    &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=24652" class="am-entity-link" data-tipo="persona" data-rol="actor" data-id="24652"&gt;Chris Pratt&lt;/a&gt; protagonizará &lt;i&gt;&lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=52817" class="am-entity-link" data-tipo="pelicula" data-id="52817"&gt;The Traveler&lt;/a&gt;&lt;/i&gt;, una película de ciencia ficción que Paramount prepara a partir de la novela de Joseph Eckert. Al frente estarán &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=229733" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="229733"&gt;Zach Lipovsky&lt;/a&gt; y &lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=184689" class="am-entity-link" data-tipo="persona" data-rol="director" data-id="184689"&gt;Adam B. Stein&lt;/a&gt;, responsables de &lt;a href="https://www.abandomoviez.net/db/pelicula.php?film=17917" class="am-entity-link" data-tipo="pelicula" data-id="17917"&gt;Destino Final: Lazos de Sangre&lt;/a&gt;. Después de jugar con las premoniciones y las muertes imposibles de aquella saga, el dúo se pasa a los viajes en el tiempo con una historia que pone el vínculo entre un padre y su hijo en el centro.
-&lt;br&gt;
-&lt;br&gt;La novela sigue a un hombre que viaja en el tiempo a su pesar. La distancia entre ambos puede llegar a medirse en milenios, pero su relación sigue siendo el motor del relato. Por ahora no se han anunciado más detalles del argumento de la adaptación ni el personaje concreto que interpretará Pratt.
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Un nuevo proyecto de Pratt con Paramount&lt;/b&gt;&lt;/h3&gt;Según adelanta &lt;a href="https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"&gt;Variety&lt;/a&gt;, &lt;i&gt;The Traveler&lt;/i&gt; forma parte de un acuerdo de producción de tres años que el actor ha firmado con Paramount a través de su compañía Indivisible Productions. El pacto permitirá al estudio estudiar primero sus próximos proyectos, algunos de los cuales podrían tener también a Pratt como protagonista.
-&lt;br&gt;
-&lt;br&gt;&lt;a href="https://www.abandomoviez.net/db/persona.php?id_persona=101003" class="am-entity-link" data-tipo="persona" data-rol="guionista" data-id="101003"&gt;Justin Rhodes&lt;/a&gt; firma el guion, mientras que Adam Rosenberg y Jules Daly producirán la película. Todavía no se han comunicado fechas de rodaje ni de estreno.
-
- 
-&lt;/div&gt;
-&lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47705"/>
-    <published>2026-11-19T06:50:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47706</id>
     <title>Fin de semana movido en las salas españolas: otra tanda de Los juegos del hambre, Campamento Miasma, Gummy y el reestreno de Tesis</title>
@@ -435,5 +408,23 @@
 &lt;br /&gt;Lo que parece bastante claro es que &lt;b&gt;Amanecer en la cosecha se quedará con el número uno de la taquilla estadounidense&lt;/b&gt; y con una diferencia considerable respecto al resto de películas.</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47724"/>
     <published>2026-11-21T14:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47725</id>
+    <title>¿Se queda “1997: Rescate en Nueva York” sin Zack Snyder? Carpenter menciona a Robert Rodriguez</title>
+    <updated>2026-11-22T07:33:27+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47725.jpg" /&gt;&lt;/p&gt;Parece que el regreso de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=228"&gt;1997: Rescate en Nueva York&lt;/a&gt; todavía tiene algunas incógnitas por resolver. Aunque &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52526"&gt;Zack Snyder&lt;/a&gt; fue anunciado como guionista y director de la nueva versión del clásico de 1981, ahora su propio creador, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=1244"&gt;John Carpenter&lt;/a&gt;, ha dejado caer que las cosas podrían cambiar.
+&lt;br /&gt;
+&lt;br /&gt;Durante su participación en el pódcast &lt;a href="https://www.youtube.com/watch?v=a9j9cwZgyXU" rel="noopener noreferrer" target="_blank"&gt;Dropping Names with Brent and Jonny&lt;/a&gt;, Carpenter fue preguntado por la implicación de Snyder y su respuesta no terminó de aclarar demasiado el panorama. El cineasta aseguró que ya no estaba, pero que intentaba regresar, antes de añadir que le cae bien y que habrá que esperar para ver qué ocurre.
+&lt;br /&gt;
+&lt;br /&gt;Pero lo más interesante llegó cuando mencionó una posible alternativa: &lt;b&gt;Robert Rodriguez&lt;/b&gt;. Según Carpenter, el responsable de &lt;i&gt;Abierto hasta el amanecer&lt;/i&gt; tiene una nueva historia que le gustaría hacer, aunque no explicó si se trataría del mismo proyecto o de una versión diferente.
+&lt;br /&gt;&lt;b&gt;Un remake que lleva años dando vueltas&lt;/b&gt;Lo cierto es que Rodriguez no es precisamente un recién llegado a este proyecto. Ya estuvo vinculado a una versión anterior del remake, que durante años ha pasado por diferentes manos sin conseguir llegar al rodaje.
+&lt;br /&gt;
+&lt;br /&gt;Por ahora, &lt;b&gt;no hay confirmación oficial de que Snyder haya abandonado la película ni de que Rodriguez vaya a sustituirlo&lt;/b&gt;. Tampoco conocemos quién interpretará al nuevo Snake Plissken, el mítico personaje al que dio vida &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=836"&gt;Kurt Russell&lt;/a&gt;, ni existe una fecha de estreno anunciada.
+&lt;br /&gt;
+&lt;br /&gt;Mientras tanto, Carpenter también ha mostrado su intención de encargarse de la música, recuperando y rehaciendo la banda sonora que compuso para la película original. Así que, de momento, seguimos sin saber quién terminará llevando a Snake de regreso a aquella Manhattan convertida en una gigantesca prisión.
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47725"/>
+    <published>2026-11-22T07:33:27+00:00</published>
   </entry>
 </feed>
