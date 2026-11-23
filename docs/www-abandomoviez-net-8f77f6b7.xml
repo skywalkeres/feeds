@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.abandomoviez.net/rss.php</id>
   <title>aBaNDoMoVieZ (texto completo)</title>
-  <updated>2026-11-22T21:19:01+00:00</updated>
+  <updated>2026-11-23T09:23:39+00:00</updated>
   <author>
     <name>aBaNDoMoVieZ</name>
   </author>
@@ -10,67 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-abandomoviez-net-8f77f6b7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.abandomoviez.net/rss.php</subtitle>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47710</id>
-    <title>¿Ganas de “Matrix 5”? Pues su futuro se complica: las Wachowski reclaman los derechos de la saga</title>
-    <updated>2026-11-19T19:16:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47710.jpg" /&gt;&lt;/p&gt;Parece que los derechos de las sagas comienzan a ser un auténtico quebradero de cabeza para los estudios, sobre todo cuando hablamos de franquicias que ya peinan canas. Si precisamente hace unas horas hablábamos de los casos de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=7"&gt;Pesadilla en Elm Street&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=106"&gt;Viernes 13&lt;/a&gt;, ahora se suma al embrollo &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=391"&gt;Matrix&lt;/a&gt;, ya que sus creadoras, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52524"&gt;Lana Wachowski&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=52525"&gt;Lilly Wachowski&lt;/a&gt;, quieren recuperar los derechos.
-&lt;br /&gt;
-&lt;br /&gt;Y lo curioso es que todo esto llega cuando Warner tiene en desarrollo &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=16507"&gt;Matrix 5&lt;/a&gt;&lt;/i&gt;, una nueva entrega que, después de lo ocurrido con &lt;i&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=16506"&gt;Matrix Resurrections&lt;/a&gt;&lt;/i&gt;, tampoco parece que tenga precisamente un camino fácil por delante.
-&lt;br /&gt;
-&lt;br /&gt;Según informa &lt;a href="https://puck.news/hollywood/2026/11/the-wachowskis-are-reclaiming-the-matrix" rel="noopener noreferrer" target="_blank"&gt;Puck&lt;/a&gt;, las hermanas Wachowski ya han notificado formalmente a Warner su intención de ejercer un derecho que permite a determinados autores recuperar los derechos de sus obras después de varias décadas. En este caso, &lt;b&gt;el estudio podría perder el control de la franquicia en Estados Unidos a partir de febrero de 2029&lt;/b&gt;, aunque el asunto tiene bastante más miga de lo que parece.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;¿Significa esto que Matrix 5 corre peligro?&lt;/b&gt;De momento no necesariamente. El cambio de derechos no sería inmediato y Warner todavía tiene margen para negociar un nuevo acuerdo con las Wachowski. Vamos, que la cosa podría solucionarse con dinero y unos cuantos contratos encima de la mesa, aunque tampoco se descarta que termine convirtiéndose en una batalla judicial.
-&lt;br /&gt;
-&lt;br /&gt;Y es que el estudio podría defender que la primera &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=391"&gt;Matrix&lt;/a&gt; fue creada como un trabajo por encargo, algo que complicaría la reclamación de sus autoras. Por el contrario, las Wachowski podrían apoyarse en que comenzaron a desarrollar la historia antes de alcanzar su acuerdo con Warner.
-&lt;br /&gt;
-&lt;br /&gt;Mientras tanto, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=57992"&gt;Drew Goddard&lt;/a&gt; continúa vinculado a la quinta entrega, un proyecto del que llevamos hablando desde 2024, pero del que todavía conocemos bastante poco.
-&lt;br /&gt;
-&lt;br /&gt;Y vosotros, ¿tenéis ganas de una quinta Matrix o pensáis que la saga ya debería haberse quedado donde estaba?
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47710"/>
-    <published>2026-11-19T19:16:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47711</id>
-    <title>“Invencible” ya tiene fecha para su quinta temporada y lo anuncia con una nueva visita al Burger Mart</title>
-    <updated>2026-11-19T21:52:36+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47711.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="am-content-cuerpo"&gt;&lt;p&gt;
-    Parece que las cosas siguen funcionando bastante bien para &lt;a href="https://www.abandomoviez.net/dbs/serie.php?film=4078" class="am-entity-link" data-tipo="serie" data-id="4078"&gt;Invencible&lt;/a&gt;, una de esas series de superhéroes que han demostrado que todavía se pueden contar cosas interesantes en un género que comienza a estar bastante saturado. Prime Video acaba de anunciar que su quinta temporada llegará el &lt;b&gt;17 de febrero de 2027&lt;/b&gt;, y lo ha hecho recuperando una tradición que ya conocen sus seguidores.
-&lt;/p&gt;
-&lt;p&gt;Y es que Mark Grayson vuelve al &lt;/p&gt;&lt;p&gt;&lt;b&gt;Burger Mart&lt;/b&gt;, ese restaurante de comida rápida que parece haberse convertido en el lugar oficial para anunciar las nuevas temporadas. Esta vez comparte mesa con Damien Darkblood, el peculiar detective demoníaco, en una conversación donde hay más bromas que pistas sobre lo que nos espera.
-&lt;/p&gt;
-&lt;p&gt;Eso sí, la nueva temporada promete seguir complicándole la vida a nuestro protagonista, que todavía tiene mucho que digerir después de lo ocurrido en la cuarta. Su intención de hacer del mundo un lugar mejor podría acabar poniendo en peligro a sus amigos, sus relaciones y prácticamente todo lo que le importa. Vamos, que lo de ser superhéroe sigue sin salirle precisamente barato.
-
-&lt;/p&gt;&lt;p class="embed-responsive embed-responsive-16by9"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/8OomIu5JJwQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8OomIu5JJwQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-
- &lt;/div&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47711"/>
-    <published>2026-11-19T21:52:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.abandomoviez.net/noticia.php?film=47712</id>
-    <title>“Amanecer en la cosecha” sorprende y firma el segundo mejor arranque de “Los juegos del hambre” en los pases previos</title>
-    <updated>2026-11-20T08:00:21+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47712.jpg" /&gt;&lt;/p&gt;Pese a la posible sensación de que estamos ante una saga algo desgastada, los primeros números que nos llegan desde Estados Unidos con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44802"&gt;Los juegos del hambre: Amanecer en la cosecha&lt;/a&gt; son realmente sorprendentes. La película dirigida por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53479"&gt;Francis Lawrence&lt;/a&gt; habría arrancado con nada menos que &lt;b&gt;21,25 millones de dólares en sus pases previos&lt;/b&gt;, lo que supondría el segundo mejor registro de toda la franquicia.
-&lt;br /&gt;
-&lt;br /&gt;Solo &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=18979"&gt;Los juegos del hambre: En llamas&lt;/a&gt; habría conseguido superarla, con los 25,2 millones que recaudó en sus pases previos allá por 2013. No está nada mal para una saga que lleva ya seis películas a sus espaldas y que se mueve entre precuelas de personajes secundarios.
-&lt;br /&gt;
-&lt;br /&gt;Los números provisionales se repartirían entre los 5 millones obtenidos el miércoles en las sesiones anticipadas de IMAX y otros formatos especiales, y los 16,25 millones recaudados durante el jueves.
-&lt;br /&gt;
-&lt;br /&gt;Los protagonistas de Amanecer en la cosecha &lt;b&gt;Muy por encima de Balada de pájaros cantores y serpientes&lt;/b&gt; Si comparamos con su predecesora, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=31704"&gt;Balada de pájaros cantores y serpientes&lt;/a&gt;, la diferencia resulta bastante significativa. Aquella película arrancó con 5,75 millones de dólares en los pases del jueves de 2023 y terminó cerrando su primer fin de semana con 44,6 millones. Eso sí, hay que tener en cuenta que ahora estamos sumando también las sesiones especiales del miércoles.
-&lt;br /&gt;
-&lt;br /&gt;En esta nueva entrega, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=663686"&gt;Joseph Zada&lt;/a&gt; interpreta al joven Haymitch Abernathy durante los 50.º Juegos del Hambre, mientras que &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53479"&gt;Francis Lawrence&lt;/a&gt; vuelve a ponerse detrás de las cámaras. La película llega hoy a las salas españolas, el mismo día que a las estadounidenses.
-&lt;br /&gt;
-&lt;br /&gt;Y ahora la gran pregunta es hasta dónde puede llegar durante el fin de semana. Las previsiones apuntan a que podría superar los &lt;b&gt;100 millones de dólares en su estreno norteamericano&lt;/b&gt;, una cifra que supondría un salto considerable respecto a la anterior precuela.
-&lt;br /&gt;
-&lt;br /&gt;Parece que a Los juegos del hambre todavía les queda bastante cuerda.
-&lt;br /&gt;
-&lt;br /&gt;</content>
-    <link href="https://www.abandomoviez.net/noticia.php?film=47712"/>
-    <published>2026-11-20T08:00:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.abandomoviez.net/noticia.php?film=47713</id>
     <title>Primer vistazo a Rosario Dawson como Claire Temple en “Spider-Man: Brand New Day”</title>
@@ -427,5 +366,49 @@
 &lt;/div&gt;</content>
     <link href="https://www.abandomoviez.net/noticia.php?film=47729"/>
     <published>2026-11-22T21:19:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47730</id>
+    <title>“La otra madre” llega hoy al mercado digital con escenas eliminadas y extras de rodaje</title>
+    <updated>2026-11-23T07:48:55+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47730.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=49216"&gt;La otra madre&lt;/a&gt; ya está disponible en el mercado digital español. Tras su paso por los cines, la película de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=404510"&gt;Rob Savage&lt;/a&gt; se puede &lt;b&gt;alquilar o comprar en Apple TV, Prime Video y Rakuten&lt;/b&gt;. Y quienes prefieran añadirla a su biblioteca encontrarán un detalle interesante: la edición de compra en 4K incluye iTunes Extras.
+&lt;br /&gt;
+&lt;br /&gt;Entre esos contenidos figuran &lt;b&gt;escenas eliminadas y alternativas&lt;/b&gt;, además de dos piezas dedicadas a la producción. &lt;i&gt;Cómo crear miedo&lt;/i&gt; aborda el trabajo de efectos especiales y visuales con el que se construye la tensión; &lt;i&gt;Una familia rota&lt;/i&gt; se centra en la familia que protagoniza la historia y en su trabajo detrás de las cámaras.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Los extras también tienen sitio en digital&lt;/b&gt;Estamos acostumbrados a asociar este tipo de material al Blu-ray, pero algunas compras digitales ya ofrecen una experiencia parecida, con acceso a tráileres y contenidos adicionales desde la propia película. Hay, eso sí, una diferencia que conviene tener presente al elegir modalidad: &lt;b&gt;los iTunes Extras corresponden a la compra, no al alquiler&lt;/b&gt;, como explica &lt;a href="https://support.apple.com/es-es/108354"&gt;Apple en su página de ayuda&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;Protagonizada por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=27481"&gt;Jessica Chastain&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=669564"&gt;Arabella Olivia Clark&lt;/a&gt;, la película sigue a Bela, una niña que empieza a ver en su casa a una presencia idéntica a su madre. La adaptación de la novela de Josh Malerman convierte esa aparición en una amenaza cada vez más difícil de mantener fuera de la vida familiar.</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47730"/>
+    <published>2026-11-23T07:48:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47731</id>
+    <title>De la Tierra Media al Estrangulador de Boston: cinco novedades para ver gratis en Playmoviez</title>
+    <updated>2026-11-23T08:11:54+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47731.jpg" /&gt;&lt;/p&gt;Si teníais pendiente volver a la Tierra Media, esta semana hay una buena excusa: las tres películas de &lt;i&gt;El señor de los anillos&lt;/i&gt; figuran entre las últimas incorporaciones de &lt;a href="https://www.abandomoviez.net/play/"&gt;Playmoviez&lt;/a&gt;. Y, para cambiar de registro después de tantas batallas y caminatas hacia Mordor, también han llegado dos thrillers: &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=28118"&gt;Obsesión&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44128"&gt;El estrangulador de Boston&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;Como siempre, Playmoviez reúne las opciones de visionado gratuito y legal disponibles en España. Cada ficha indica dónde está la película y facilita el acceso al servicio que la ofrece.
+&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;La trilogía de “El señor de los anillos”&lt;/b&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=919"&gt;La comunidad del anillo&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=920"&gt;Las dos torres&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=924"&gt;El retorno del rey&lt;/a&gt; se pueden ver a través de Atresplayer. Son tres películas que funcionan como un único viaje: Frodo sale de la Comarca con una misión que parece imposible, la Comunidad se rompe mientras la guerra se extiende y todo desemboca en la batalla por la Tierra Media y el destino del Anillo Único. Podéis entrar directamente en la entrega que os apetezca o aprovechar para hacer la maratón completa.La Tierra Media, de principio a fin&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-924" style="width: 72%;"&gt;&lt;/a&gt;&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-920" style="width: 72%;"&gt;&lt;/a&gt;&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-919" style="width: 72%;"&gt;&lt;/a&gt;Las tres películas de Peter Jackson, disponibles gratis en Atresplayer.&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-919"&gt;La comunidad →&lt;/a&gt;&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-920"&gt;Las dos torres →&lt;/a&gt;&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-924"&gt;El retorno del rey →&lt;/a&gt;&lt;b&gt;Dos formas muy distintas de pasar un mal rato&lt;/b&gt;En &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=28118"&gt;Obsesión&lt;/a&gt;, &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=2949"&gt;Jennifer Lopez&lt;/a&gt; interpreta a una profesora recién divorciada cuya relación con un vecino joven toma un rumbo cada vez más peligroso cuando intenta ponerle fin. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=54044"&gt;Rob Cohen&lt;/a&gt; dirige este thriller de acoso que podéis encontrar en RTVE Play.ObsesiónUn romance que se transforma en una amenaza. Gratis en RTVE Play.&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-28118"&gt;Ver en Playmoviez →&lt;/a&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=278133"&gt;Matt Ruskin&lt;/a&gt; cambia la amenaza íntima por una investigación periodística en &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=44128"&gt;El estrangulador de Boston&lt;/a&gt;. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=6138"&gt;Keira Knightley&lt;/a&gt; y &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=319151"&gt;Carrie Coon&lt;/a&gt; interpretan a las reporteras que relacionaron una serie de asesinatos mientras se enfrentaban a los obstáculos de una redacción dominada por hombres. También está disponible en RTVE Play.El estrangulador de BostonUn caso criminal contado desde las periodistas que se negaron a dejar de investigarlo. Gratis en RTVE Play.&lt;a href="https://www.abandomoviez.net/play/pelicula/pelicula-44128"&gt;Ver en Playmoviez →&lt;/a&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47731"/>
+    <published>2026-11-23T08:11:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.abandomoviez.net/noticia.php?film=47732</id>
+    <title>Tres películas, tres Navidades negras: la versión de 2019  de “Navidad sangrienta”  llega a Netflix</title>
+    <updated>2026-11-23T09:23:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.abandomoviez.net/noticias/noticia_47732.jpg" /&gt;&lt;/p&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=39175"&gt;Navidad sangrienta&lt;/a&gt;, la versión de &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=50178"&gt;Sophia Takal&lt;/a&gt; estrenada en 2019, ya figura en &lt;a href="https://www.netflix.com/es/title/81151909"&gt;Netflix&lt;/a&gt;. Su llegada es una buena ocasión para aclarar un pequeño lío de títulos: es la &lt;b&gt;tercera película nacida de &lt;i&gt;Black Christmas&lt;/i&gt;&lt;/b&gt;, después de la original de 1974 y su primer remake de 2006.
+&lt;br /&gt;
+&lt;br /&gt;Esta vez la historia transcurre en la Universidad Hawthorne. Riley y sus compañeras de hermandad se preparan para las vacaciones cuando un agresor enmascarado empieza a perseguirlas. &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=10992"&gt;Imogen Poots&lt;/a&gt; encabeza el reparto de una película que conserva la Navidad, el campus y la amenaza contra un grupo de estudiantes, pero cambia buena parte de lo que había detrás de esa amenaza.
+&lt;br /&gt;   &lt;b&gt;De las llamadas anónimas a la sangre de 2006&lt;/b&gt;Todo empezó con &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=1180"&gt;Navidades negras&lt;/a&gt;, dirigida por &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=7423"&gt;Bob Clark&lt;/a&gt; en 1974. En una residencia universitaria casi vacía por las fiestas, unas jóvenes reciben llamadas obscenas mientras una de ellas desaparece. Clark construía el miedo dejando al asesino en las sombras y aprovechando una idea especialmente inquietante: que el peligro podía estar mucho más cerca de lo que las protagonistas creían. La película llegó antes de que el &lt;i&gt;slasher&lt;/i&gt; tuviera las reglas que acabarían asociándose al género.
+&lt;br /&gt;
+&lt;br /&gt;&lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=53834"&gt;Glen Morgan&lt;/a&gt; volvió a esa casa en &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/pelicula.php?film=4419"&gt;Negra Navidad&lt;/a&gt; (2006), pero eligió otro camino. Su remake dio más espacio a la historia del asesino, Billy, y apostó por muertes mucho más explícitas. Donde la original administraba el misterio, esta versión enseñaba más y subía considerablemente la cantidad de sangre.
+&lt;br /&gt;
+&lt;br /&gt;La &lt;i&gt;Navidad sangrienta&lt;/i&gt; de 2019 tampoco intenta repetir a Clark plano por plano. Takal y la guionista &lt;a class="am-entity-link" href="https://www.abandomoviez.net/db/persona.php?id_persona=510359"&gt;April Wolfe&lt;/a&gt; sitúan en primer término la relación entre las estudiantes y el sexismo que encuentran en el campus. Por eso, aunque las tres comiencen con una premisa reconocible, la que acaba de llegar a Netflix propone una lectura propia de aquella pesadilla navideña.
+&lt;br /&gt;
+&lt;br /&gt;</content>
+    <link href="https://www.abandomoviez.net/noticia.php?film=47732"/>
+    <published>2026-11-23T09:23:39+00:00</published>
   </entry>
 </feed>
