@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.elmundodelspectrum.com/feed</id>
   <title>El Mundo del Spectrum (texto completo)</title>
-  <updated>2026-11-22T13:31:32+00:00</updated>
+  <updated>2026-11-23T17:10:13+00:00</updated>
   <author>
     <name>El Mundo del Spectrum</name>
   </author>
@@ -10,68 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-elmundodelspectrum-com-9dccd138.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.elmundodelspectrum.com/feed</subtitle>
-  <entry>
-    <id>https://www.elmundodelspectrum.com/?p=197709806</id>
-    <title>GALACTICON, una edición física BRUTAL</title>
-    <updated>2026-10-13T18:12:22+00:00</updated>
-    <author>
-      <name>El Mundo del Spectrum</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/10/rsz_galacticon-spectrum.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
-
-			
-			
-&lt;p class="wp-block-paragraph"&gt;Hoy tenemos el placer de mostrar la edición física (Especial) de GALACTICON, la versión de Spectrum, creada por MATRA y que nos ha dejado impresionados.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Descubre con nosotros una edición repleta de sorpresas que van mucho más allá de un estuche con cinta serigrafiada. Pocas veces hemos podido ver algo tan completo en una cuidada edición especial que va a dar mucho de qué hablar.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
-
-&lt;/p&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Sobre el juego&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Galacticon es un videojuego con el aspecto y el «feeling» de las máquinas recreativas de principios de los años 80 al estilo de los clásicos de Williams: «Defender» o «Joust», con la jugabilidad del mítico «Jetpac», y con toques de «puzzle». Salió para otras plataformas pero esta versión Spectrum es la que más nos interesa.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Podemos ver &lt;a href="https://www.matranet.net/boutique/zx/galacticon/galacticon.php" target="_blank" rel="noreferrer noopener nofollow"&gt;en la web de Matra&lt;/a&gt; su sinopsis:&lt;/p&gt;
-
-
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;Los humanos son criaturas diminutas de un planeta del cinturón exterior que, gracias a sus monstruosidades biomecánicas, han invadido, explotado y esclavizado a la mayoría de las especies de la galaxia. El consejo interestelar se ha reunido por primera vez en eones y ha determinado que solo queda una opción para exterminar esta plaga… una opción que siempre ha sido temida porque podría ser tan poderosa como peligrosa: invocar al Galacticon, una criatura legendaria y letal —mitad dios, mitad máquina— y rezar para que todo salga bien…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;En el vídeo, además de ver la edición física, podréis echar un vistazo a los primeros minutos de una primera partida.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Si quieres hacerte con una de estas ediciones especiales puedes &lt;a href="https://www.matranet.net/boutique/zx/galacticon/galacticon.php" target="_blank" rel="noreferrer noopener nofollow"&gt;hacerlo aquí&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Un vídeo de Alejandro Ibáñez.&lt;/p&gt;
-
-			
-		&lt;/div&gt;
-
-				
-
-		&lt;/div&gt;</content>
-    <link href="https://www.elmundodelspectrum.com/galacticon-una-edicion-fisica-brutal/"/>
-    <published>2026-10-13T18:12:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.elmundodelspectrum.com/?p=197709810</id>
     <title>Wizball recibe una actualización con mejoras</title>
@@ -2104,5 +2042,143 @@
 		&lt;/div&gt;</content>
     <link href="https://www.elmundodelspectrum.com/wolfenstein-3d-se-hace-realidad-en-el-zx-spectrum/"/>
     <published>2026-11-22T13:31:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.elmundodelspectrum.com/?p=197709952</id>
+    <title>THE SECRET OF MONKEY ISLAND llega al ZX Spectrum 128K</title>
+    <updated>2026-11-23T17:10:13+00:00</updated>
+    <author>
+      <name>El Mundo del Spectrum</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.elmundodelspectrum.com/wp-content/uploads/2026/11/monkey-island-spectrum-villa-ingame.png"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="entry-content entry clearfix"&gt;
+
+			
+			
+&lt;p class="wp-block-paragraph"&gt;Si hace unas semanas nos sorprendíamos con la llegada de &lt;a href="https://www.elmundodelspectrum.com/maniac-mansion-llega-al-zx-spectrum/" data-type="post" data-id="197709834"&gt;&lt;em&gt;Maniac Mansion&lt;/em&gt; al ZX Spectrum&lt;/a&gt;, preparaos porque Outsoftware vuelve a la carga con otra conversión que hace unos años nos hubiera parecido imposible. Nada menos que &lt;strong&gt;The Secret of Monkey Island&lt;/strong&gt;, una de las aventuras gráficas más míticas de todos los tiempos, ya se puede jugar en un ZX Spectrum 128K.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sí, como lo oís. Guybrush Threepwood, Elaine Marley, LeChuck y compañía desembarcan en nuestro querido ordenador de ocho bits gracias a una nueva conversión de Outsoftware.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El clásico de Lucasfilm Games, publicado originalmente en 1990 y que pudimos disfrutar en ordenadores como PC, Amiga o Atari ST, nunca tuvo versión para Spectrum. Hasta ahora.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;De Maniac Mansion a Monkey Island&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Parece que Simone y Outsoftware no tienen intención de tomarse un descanso. En las últimas semanas os hemos hablado en varias ocasiones de este proyecto italiano, primero por su trabajo de preservación y conversiones de juegos clásicos, después por la sorprendente llegada de &lt;em&gt;Maniac Mansion&lt;/em&gt; al Spectrum y, más recientemente, por la renovación de su &lt;a href="https://www.elmundodelspectrum.com/una-bbs-como-las-de-antano-lista-para-trastear-desde-un-spectrum-real/" data-type="post" data-id="197709887"&gt;BBS&lt;/a&gt; y la conversión de &lt;em&gt;&lt;a href="https://www.elmundodelspectrum.com/xenon-2-megablast-llega-por-fin-al-zx-spectrum-128k/" data-type="post" data-id="197709936"&gt;Xenon 2 Megablast&lt;/a&gt;&lt;/em&gt; o &lt;a href="https://www.elmundodelspectrum.com/wolfenstein-3d-se-hace-realidad-en-el-zx-spectrum/" data-type="post" data-id="197709946"&gt;Wolfenstein 3D&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ahora le toca el turno a uno de los grandes referentes de las aventuras gráficas.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Y es que &lt;em&gt;The Secret of Monkey Island&lt;/em&gt; no es precisamente un juego sencillo de trasladar a nuestro Spectrum. Hablamos de una aventura enorme, repleta de escenarios, personajes, diálogos, objetos y puzles. Todo un desafío para una máquina con las limitaciones de memoria y gráficos que todos conocemos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La conversión permite controlar a Guybrush mediante un puntero, desplazarnos por los escenarios e interactuar con los elementos de la aventura utilizando el clásico sistema de acciones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Evidentemente, no podemos esperar el apartado gráfico de un Amiga o un PC. Pero poder recorrer la isla de Mêlée en un Spectrum 128K es algo que seguramente ninguno de nosotros habría imaginado en aquellos años.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Como en otras conversiones recientes de Outsoftware, el proyecto se enmarca en esta nueva etapa de desarrollo apoyado en herramientas de inteligencia artificial. Una fórmula que está permitiendo afrontar retos técnicos que hasta hace poco parecían inalcanzables.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Habrá que comprobar hasta dónde llega esta adaptación y qué aspectos pueden mejorarse en futuras versiones, como ya sucedió con &lt;em&gt;Maniac Mansion&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;¿Quieres verlo funcionando? Dale al PLAY&lt;/h2&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p class="wp-block-embed__wrapper"&gt;
+
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cómo jugar a Monkey Island en Spectrum&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Al igual que sucedía con &lt;em&gt;Maniac Mansion&lt;/em&gt;, esta conversión necesita algo más que nuestro Spectrum y una cinta de casete.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El juego está disponible para &lt;strong&gt;ZX Spectrum 128K con interfaz de disco +D y G+DOS&lt;/strong&gt;, y utiliza imágenes de disco en formato MGT.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Para ponerlo en marcha desde un emulador compatible:&lt;/p&gt;
+
+
+
+&lt;ol start="1" class="wp-block-list"&gt;
+&lt;li&gt;Selecciona un ZX Spectrum 128K.&lt;/li&gt;
+
+
+
+&lt;li&gt;Activa la interfaz de disco +D con G+DOS.&lt;/li&gt;
+
+
+
+&lt;li&gt;Introduce la primera imagen MGT en la unidad 1.&lt;/li&gt;
+
+
+
+&lt;li&gt;Accede al BASIC 128 y escribe &lt;code&gt;RUN&lt;/code&gt;.&lt;/li&gt;
+
+
+
+&lt;li&gt;Pulsa ENTER para iniciar la carga del juego.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Los controles básicos utilizan las teclas &lt;strong&gt;Q, A, O y P&lt;/strong&gt; para desplazar el puntero y &lt;strong&gt;ESPACIO&lt;/strong&gt; para seleccionar las acciones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Outsoftware también ha preparado versiones para SAM Coupé y Sinclair QL, ampliando todavía más las plataformas clásicas capaces de ejecutar esta aventura.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Descargar The Secret of Monkey Island para Spectrum&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La conversión ya está disponible gratuitamente desde la web oficial de Outsoftware, donde podéis descargar el archivo ZIP con las imágenes de disco necesarias.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;&lt;a href="https://outsoftware.it/es/juegos/the-secret-of-monkey-island-sinclair-zx-spectrum-128k/" target="_blank" rel="noreferrer noopener"&gt;Descargar The Secret of Monkey Island para ZX Spectrum 128K&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;No sabemos qué será lo próximo que nos traerá Simone, pero después de &lt;em&gt;Maniac Mansion&lt;/em&gt;, &lt;em&gt;Xenon 2 Megablast&lt;/em&gt; y ahora &lt;em&gt;Monkey Island&lt;/em&gt;, está claro que Outsoftware está empeñada en ampliar los límites de nuestro ordenador favorito.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Quién nos iba a decir en 1990 que algún día podríamos escuchar a Guybrush Threepwood decir que quería ser pirata desde un ZX Spectrum?&lt;/p&gt;
+
+			
+		&lt;/div&gt;
+
+				
+
+		&lt;/div&gt;</content>
+    <link href="https://www.elmundodelspectrum.com/the-secret-of-monkey-island-llega-al-zx-spectrum-128k/"/>
+    <published>2026-11-23T17:10:13+00:00</published>
   </entry>
 </feed>

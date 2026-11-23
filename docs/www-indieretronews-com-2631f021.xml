@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-23T08:48:26+00:00</updated>
+  <updated>2026-11-23T19:32:01+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,17 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4327069311422505964</id>
-    <title>Blast Grid - A Bomberman clone for your Amiga by sandlbn</title>
-    <updated>2026-11-17T11:23:30+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">Amiga owners have a brand-new slice of explosive arcade fun to sink their teeth into with Blast Grid, a Bomberman-inspired title developed by sandlbn for the Amiga. The game packs a substantial single-player Story mode spanning 30 stages across five distinct industrial worlds—Factory, Reactor, Data Lab, Waste Processing, and Deep Core—each featuring unique enemies, power-ups, hidden secrets, and</content>
-    <link href="https://www.indieretronews.com/2026/11/blast-grid-bomberman-clone-for-your.html"/>
-    <published>2026-11-17T11:23:30+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-5442397092639356269</id>
     <title>The Abbey of Crime (Amiga 500 Version) - A tribute port of the 1987 game by Paco Menéndez and Juan Delcán</title>
@@ -324,5 +313,21 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/shadow-of-beast-3-trilogy-is-now.html"/>
     <published>2026-11-23T08:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5004511307790690019</id>
+    <title>Blade of Victory - Another fabulous platformer for the C64 by Donut 80!</title>
+    <updated>2026-11-23T19:32:01+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV0Jz47dXBLTtF6BO6h8w5tc2n37N2rJX1yF-3BV87CIYJZnRVtt-6eMAmWGSXvfojo_TCIkzK0AeUofP2Y5PyTEd-IJvajgKQVaTPvm2mnagI-Fh444ICBq_gt0PTo4Oc5cpJkcx5r23lBxnre5UTYnbIcq2bZKPLDi9s1D9Z16WzH0uvMPUGaiP3T7o/w640-h400/blade.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5004511307790690019" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Welcome to 'Blade of Victory', a new fantasy action-platformer from developer Donut 80. Players grab their sword and set off across eight distinct regions—ranging from blistering deserts and shadowy caverns to treacherous lakes and towering castles—in a mission to overthrow the Evil Warlock and bring peace back to the land. Along the way, you'll have to fend off a bizarre rogues' gallery of skeletons, armoured knights, ghosts, and strange winged beasts, using both sharp blade work and well-timed enemy stomps to survive. Every stage hides its own secrets and builds up to a showdown against one of eight unique bosses guarding the path to the final battle.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/zP5C2Rpfn-Y" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zP5C2Rpfn-Y"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Players will need to gather coins and track down travelling merchants tucked away inside the levels. Managing your gold carefully is key, since those hard-earned coins can be traded for extra lives, health-boosting hearts, or score-multiplying diamonds. Knowing the right moment to hoard your cash versus spending it on vital upgrades can easily make or break a run. For C64 owners looking to test their grit, Blade of Victory offers a classic mix of exploration, combat, and old-school resource management. So yes, if this sounds like the sort of game you might enjoy, then make sure to check it out below!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://donut80.com/c64.html"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/blade-of-victory-another-fabulous.html"/>
+    <published>2026-11-23T19:32:01+00:00</published>
   </entry>
 </feed>

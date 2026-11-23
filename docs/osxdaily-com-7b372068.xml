@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-21T22:20:26+00:00</updated>
+  <updated>2026-11-23T11:34:51+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,56 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136253</id>
-    <title>iOS 27.2.1 Update Released for iPhone &amp; iPad with Bug Fixes</title>
-    <updated>2026-11-09T18:38:10+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg" alt="updates for iOS 27 and iPadOS 27 are available now" class="aligncenter size-large wp-image-135834" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/09/ios-27-update.jpg 1024w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;iOS 27.2.1 and iPadOS 27.2.1 have been released by Apple for iPhone and iPad, respectively. These new system software updates include unspecified bug fixes and security fixes, and are recommended for all users to install on their devices.&lt;/p&gt;
-&lt;p&gt;Separately, Apple has also released &lt;a href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"&gt;macOS 27.2.1 Golden Gate&lt;/a&gt;, updates for MacOS Tahoe 26 and Sequoia 15, watchOS 27.2.1, iOS 26.7.3, and iOS 18.7.12 as software updates.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136253"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install iOS 27.2.1 and iPadOS 27.2.1 Update&lt;/h2&gt;
-&lt;p&gt;Be sure to &lt;a href="https://osxdaily.com/how-backup-iphone-ipad-icloud/"&gt;backup iPhone or iPad to iCloud&lt;/a&gt; or a computer before starting a system software update:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Open the “Settings” app on iPhone or iPad&lt;/li&gt;
-&lt;li&gt;Go to “General”, and then to “Software Update”&lt;/li&gt;
-&lt;li&gt;Select “Update Now” for iOS 27.2.1 or iPadOS 27.2.1 &lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-369x800.jpg" alt="iOS 27.2.1 update" class="aligncenter size-large wp-image-136254" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/ios-27-2-1-update.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
-&lt;/p&gt;&lt;/ol&gt;
-&lt;p&gt;Your iPhone or iPad will need to restart to finish installation. &lt;/p&gt;
-&lt;h3&gt;iOS 27.2.1 Update Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes for iOS 27.2.1 update are short:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;iOS 27.2.1&lt;/p&gt;
-&lt;p&gt;This update provides bug fixes and security updates for your iPhone.&lt;/p&gt;
-&lt;p&gt;For information on the security content of Apple software updates, please visit:&lt;br&gt;
-https://support.apple.com/
-&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2&gt;iOS 27.2.1 IPSW Firmware Download Links&lt;/h2&gt;
-&lt;p&gt;iOS 27.2.1 IPSW files on Apple CDN servers are linked below:&lt;/p&gt;
-
-&lt;h3&gt;iPadOS 27.2.1 IPSW&lt;/h3&gt;
-
-&lt;p&gt;Don’t forget to update your other Apple devices as well, most of which also received software updates today.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"/>
-    <published>2026-11-09T18:38:10+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136268</id>
     <title>Pre-Order HomeView for $289, and $250 Off M5 MacBook Air 13″ &amp; 15″</title>
@@ -657,5 +607,47 @@ Requirements are pretty basic for this. You will obviously need WhatsApp already
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/21/black-friday-deals-250-off-m5-macbook-air-airpods-pro-3-for-179-100-off-ipad-air-more/"/>
     <published>2026-11-21T22:20:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=135505</id>
+    <title>Eliminate the Spaces Transition Time on MacOS</title>
+    <updated>2026-11-23T11:34:51+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-610x395.jpg" alt="Remove the Spaces animation time from swiping between Spaces on MacOS" class="aligncenter size-large wp-image-135523" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/remove-spaces-animation-swipe-mac-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Spaces are the Mac implementation of virtual desktops, an incredibly useful feature that allows you have multiple virtual desktop environments for organizing workflows and reducing screen clutter, enabling you to quickly switch between different tasks and workspaces. Many power users rely on Spaces heavily for keeping things organized, and to help focusing on a particular task or project, but one complaint of some users is that it takes nearly a second to switch between Spaces using the traditional three-finger side swipe gesture. &lt;/p&gt;
+&lt;p&gt;There are a few ways to go about speeding up your movement between Spaces on MacOS; one is using Control keys for instant switching, but the other is for users who prefer the swipe method of switching Spaces and that’s where you can achieve the complete removal of the Spaces transition via a free third party app.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-135505"&gt;&lt;/span&gt;&lt;br&gt;
+You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/create-new-desktop-space-mac-os-x-mission-control/"&gt;at least two different Spaces available&lt;/a&gt; or full screen apps open to test out this capability and use this app, if you don’t use Spaces and the swipe gesture to switch between them, there’s not much utility here.&lt;/p&gt;
+&lt;h3&gt;Instant Spaces Switching with Control Keys&lt;/h3&gt;
+&lt;p&gt;One approach you can take to dramatically speed up the Spaces transition time is to &lt;a href="https://osxdaily.com/2011/09/06/switch-between-desktops-spaces-faster-in-os-x-with-control-keys/"&gt;enable Control Keys switching between Spaces on Mac&lt;/a&gt; (a tip we covered a decade and a half ago but still works great today on MacOS!). That method is basically instantaneous and allows you to just hit Control+1, Control+2, Control+3, etc, to immediately move to another virtual desktop within the Spaces feature.&lt;/p&gt;
+&lt;p&gt;But if you rely on the three-finger left/right swipe to switch between Spaces, the time delay still exists, and to get rid of that you’ll have to turn to a free third party too.&lt;/p&gt;
+&lt;h2&gt;How to Remove Spaces Swipe Transition Time on Mac with Space Rabbit&lt;/h2&gt;
+&lt;p&gt;There are a few third party utilities out there that remove the Spaces swipe gesture transition time, but the primary one we are going to cover here is called Space Rabbit. It’s a free download, super easy to use, and has a fun little feature where it keeps track of your total Spaces switching and time saved by eliminating the nearly one-second long transition.&lt;/p&gt;
+
+&lt;p&gt;Space Rabbit is just a simple menubar app with simple toggles to turn the feature off and on, so there’s not a whole lot of complexity to it, and there’s not a complicated setup necessary. Just download the app and run it, enable the feature, and use Spaces as usual. The longer you use Space Rabbit, the more the fun little time saved and total switches feature becomes.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/08/space-rabbit-stats-save-time-and-spaces-transition-mac-610x301.jpeg" alt="Space Rabbit shows stats of time saved and total switches between Spaces for a fun look into how effective the feature is" class="aligncenter size-large wp-image-135509" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/08/space-rabbit-stats-save-time-and-spaces-transition-mac-610x301.jpeg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/space-rabbit-stats-save-time-and-spaces-transition-mac-300x148.jpeg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/space-rabbit-stats-save-time-and-spaces-transition-mac-768x379.jpeg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/08/space-rabbit-stats-save-time-and-spaces-transition-mac.jpeg 1354w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;(Screenshot via developer, since their time saved stats are much more impressive than mine having just started using this tool)&lt;/p&gt;
+&lt;p&gt;The developer @valeriansaliou on X has a little before and after video of Space Rabbit in action, see that embedded below if you want to take a look before giving it a run yourself:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you use Spaces on a Mac to create and manage multiple virtual desktops for task switching, focus, reducing screen clutter, or general workspace organization, try out the Space Rabbit app, it just might save you some time in the long run too.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/23/eliminate-the-spaces-transition-time-on-macos/"/>
+    <published>2026-11-23T11:34:51+00:00</published>
   </entry>
 </feed>
