@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-23T11:34:51+00:00</updated>
+  <updated>2026-11-24T09:08:24+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,39 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136268</id>
-    <title>Pre-Order HomeView for $289, and $250 Off M5 MacBook Air 13″ &amp; 15″</title>
-    <updated>2026-11-09T23:09:35+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;a href="https://link.amazon/B0bmggpyf" target="_blank" rel="nofollow"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-610x723.jpg" alt="HomeView with speaker base" class="aligncenter size-large wp-image-136007" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-610x723.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-253x300.jpg 253w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base-768x910.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-speaker-base.jpg 1266w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you’re considering buying an Apple HomeView, pre-ordering at Amazon remains the only place to get a discount on the upcoming device. The discounted price is available for the Space Gray color, but some users have reported other colors too.&lt;/p&gt;
-
-&lt;p&gt;HomeView is sure to be a popular gift for Apple households this holiday season, so whether you want one for yourself or someone else, enjoy the discount.&lt;/p&gt;
-&lt;h3&gt;Up to $250 Off M5 MacBook Air 15″ &amp;amp; 13″&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://link.amazon/B08sfKk3q" rel="nofollow" target="_blank"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg" alt="MacBook Air in midnight" class="aligncenter size-large wp-image-123638" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-300x177.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-768x452.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-1536x904.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight.jpg 1570w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon is taking up to $250 off the price of the M5 MacBook Air in select models, colors, and configurations, in both screen sizes:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/09/pre-order-homeview-289-and-250-off-m5-macbook-air/"/>
-    <published>2026-11-09T23:09:35+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136256</id>
     <title>MacOS Golden Gate 27.2.1 Update with Security Patches &amp; Bug Fixes Released</title>
@@ -649,5 +616,49 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/23/eliminate-the-spaces-transition-time-on-macos/"/>
     <published>2026-11-23T11:34:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136375</id>
+    <title>XNULinux Runs macOS 27 on Linux, Without a Virtual Machine</title>
+    <updated>2026-11-24T09:08:24+00:00</updated>
+    <author>
+      <name>Paul Horowitz</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-and-linux-uname-results-610x381.jpg" alt="MacOS and Linux uname results running side by side" class="aligncenter size-large wp-image-136378" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-and-linux-uname-results-610x381.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-and-linux-uname-results-300x188.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-and-linux-uname-results-768x480.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-and-linux-uname-results.jpg 1280w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;XNULinux is an interesting new project that loads Apple’s XNU kernel directly into the Linux kernel as a loadable module, allowing you to have a fully operational MacOS desktop running alongside Linux on the same hardware.&lt;/p&gt;
+&lt;p&gt;For a long time, if you wanted to run MacOS in a non-traditional setting, you’d be going the virtualization route, or the Hackintosh route, which allowed certain PC builds to run a modified MacOS. But now there’s another emerging option in XNULinux, and it doesn’t rely on virtualization at all. &lt;/p&gt;
+&lt;p&gt;The XNULinux project is open source and available on Github as an experimental implementation, aimed at advanced users, where MacOS Golden Gate 27.2.1 will load a fully working desktop, including Finder, Dock, Spotlight, Safari, and the typical MacOS components and apps that make up the Mac experience. It’s not ready for general users yet, but it’s potentially aiming that direction in time.&lt;/p&gt;
+&lt;p&gt;This project is certainly worth paying attention to, and could be a compelling option for Linux users out there. If you want to give it a whirl yourself, check out the project below on Github, where you can find more technical information, system requirements, build instructions, and more:&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-136375"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;And yes, the MacOS desktop can SSH directly into the underlying Linux host, and access it through network connections. &lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about-610x421.jpg" alt="XNULinux running MacOS on Linux" class="aligncenter size-large wp-image-136377" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about-610x421.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about-300x207.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about-768x530.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about-1536x1060.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/xnulinux-dgx-spark-about.jpg 1600w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;If you want to try it yourself, general requirements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux proficiency&lt;/li&gt;
+&lt;li&gt;ARM64 Linux host with pointer authentication support&lt;/li&gt;
+&lt;li&gt;Linux kernel using 4KB memory pages&lt;/li&gt;
+&lt;li&gt;16GB+ RAM&lt;/li&gt;
+&lt;li&gt;Mac with Xcode for building the MacOS system disk and GPU components&lt;/li&gt;
+&lt;li&gt;An existing MacOS 27 installation created using Apple’s installer (you can &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;download any MacOS installer here&lt;/a&gt;)
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;XNULinux is currently very much a developer focused project, so it’s not yet at the point where more casual or curious users can simply install MacOS on Linux with a click or few. But you never know, as the project progresses, setup will likely get better and better, and maybe at some point installing MacOS on Ubuntu Linux will be as easy as installing any other package? &lt;/p&gt;
+&lt;p&gt;Cheers to the XNULinux github page for the screenshots provided here, as I do not have a Linux machine readily available to test this out myself.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/24/xnulinux-runs-macos-27-on-linux-without-a-virtual-machine/"/>
+    <published>2026-11-24T09:08:24+00:00</published>
   </entry>
 </feed>
