@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-23T19:32:01+00:00</updated>
+  <updated>2026-11-24T00:06:46+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5442397092639356269</id>
-    <title>The Abbey of Crime (Amiga 500 Version) - A tribute port of the 1987 game by Paco Menéndez and Juan Delcán</title>
-    <updated>2026-11-17T19:46:20+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWYBjRHA_1cHaoOLBqbOUubSP4UFtPfSRH5jqJuxT2kCJap3J_aIi_0aaXlqz2StofyIZ8TPCo6XNuw4gAYIl9YaqNxEkPV7t0HKxtztOPDoVeXW03FFYbUIwjlhAx4UF2CL_MkfQWhO6W5Ne0nXHGDKEqnmb27G0B6QsCqqN6NnCGy1cg1h9T3CiYFg0/w640-h512/LA.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5442397092639356269" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's some nostalgia for you 8biters! As developer vnomis has released a faithful port of the 1987 Spanish classic The Abbey of Crime. Originally created by Paco Menéndez and Juan Delcán for Opera Soft, this isometric murder mystery puts you in the robes of Friar William alongside your young novice, Adso. You have just seven days to uncover who is behind a string of sinister deaths inside a secluded monastery, all while sticking strictly to the Abbot's rigid schedule of daily meals and prayers so you don't get thrown out before solving the case.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/qsmywzlIhJs" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=qsmywzlIhJs"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Designed to run straight from a single self-booting floppy disk on a standard PAL Amiga 500 with 512 KB of RAM, this release keeps the original game's logic intact while introducing some quality-of-life upgrades. Players can toggle between English and Spanish text, enjoy original or enhanced audio, and pick from three distinct visual styles—including the classic Amstrad CPC palette, an enhanced look, and a Film mode. To make the famously unforgiving adventure a bit more accessible too, vnomis even added direct directional controls alongside the original tank-style movement, on-disk save slots, and dedicated object and mirror screens to cut down on keyboard reliance. There is even a handy bot to handle your daily routines between canonical hours, plus a self-playing movie mode that solves the entire mystery automatically unless you decide to jump in and take over.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://vnomis.itch.io/abadia-amiga"&gt;Source&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/the-abbey-of-crime-amiga-500-version.html"/>
-    <published>2026-11-17T19:46:20+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-8101738902362882239</id>
-    <title>Kung-Fu Master A500 Edition  - A port of the 1984 Kung-Fu Master Arcade game to Amiga OCS</title>
-    <updated>2026-11-17T21:36:36+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kXcpIlUHybPCtIyCeZt34Loh0ZyTn8pmOtkwwPLnJy0-alqxYzRUqgDngHonT5Kk_LSafjYKngSMAIG9TpJu31YMCF9zfyC8dZ4066ypCx_bLnOhSMbKuODjMyMeDFHX_-lepFhTCdBrbXsz9SFx_vdU8dQiT6YV9xr3BnXdOU_2xaiA3QJ7M1k7uvQ/w640-h182/Kung.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-8101738902362882239" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Modern Vintage Gamer has released a brand-new homebrew port of Irem’s 1984 scrolling beat-'em-up classic, Kung-Fu Master for the Commodore Amiga OCS chipset. Titled Kung-Fu Master A500 Edition, this release delivers a near-identical 1:1 recreation of the original arcade hit, complete with all of the classic sound effects and music. Remarkably according to the developer, the game runs at a silky-smooth 50 or 60 frames per second even on stock Amiga 500 hardware, while also taking advantage of Fast RAM detection and automatic NTSC switching. Players can customize their experience through a dedicated options menu that lets you tweak difficulty settings, select your starting round, toggle auto-fire or invincibility, and choose between keyboard, single-button, or two-button controls—all while keeping track of your best runs with built-in high score saving.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;Video Tomorrow&lt;/p&gt;&lt;p&gt;The gameplay drops you right back into the iconic martial arts rescue mission, where Silvia has been kidnapped and the mysterious Mr. X awaits at the top of the Devil's Temple. To save her, you will have to fight your way up through five distinct floors packed with relentless waves of grippers, knife throwers, dragons, snakes, and exploding balls. Surviving the gauntlet requires defeating the tough guardian waiting at the end of each level before you can climb the stairs to the next challenge.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Minimum Requirements&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Any Amiga or accurate emulator with at least 512 KB Chip + 512 KB Slow RAM, 68000, OCS&lt;/li&gt;&lt;li&gt;Tested on PAL A500 / 68000 / OCS in cycle-exact WinUAE and on real hardware&lt;/li&gt;&lt;li&gt;One bootable 880 KB disk or a system capable of running WHDLoad.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Port, reconstruction and Amiga code: MVG&lt;/li&gt;&lt;li&gt;PTPlayer 6.4 by Frank Wille (public domain)&lt;/li&gt;&lt;li&gt;ym2mod (YM/AY/VGM/SDNH converter) by adrdesign&lt;/li&gt;&lt;li&gt;NRV2S 68000 decoder by ross&lt;/li&gt;&lt;li&gt;Shrinkler executable cruncher by Blueberry&lt;/li&gt;&lt;li&gt;Built with Bartman/Abyss's amiga-debug toolchain&lt;/li&gt;&lt;li&gt;Original game © 1984 Irem Corp.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://modernvintagegamer.itch.io/kungfumaster-a500-edition"&gt; Source&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/kung-fu-master-a500-edition-port-of.html"/>
-    <published>2026-11-17T21:36:36+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-7715295071680551350</id>
     <title>Blue Max Amiga - A conversion of the superb game Blue Max by Bob Polin!</title>
@@ -329,5 +297,27 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/blade-of-victory-another-fabulous.html"/>
     <published>2026-11-23T19:32:01+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-7290428017162560665</id>
+    <title>Lands of Lore AGA - Westwood's incredible PC Dungeon Crawler could be coming to the Amiga!</title>
+    <updated>2026-11-23T23:53:59+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">After more than six years of blood, sweat, and tears, developer Vairn has revealed a native Commodore Amiga port of Westwood Studios' classic dungeon crawler, Lands of Lore is in the works. Prompted into the final stretch after seeing fellow coder Cfou experiment with an AI-assisted port, Vairn is building Lands of Lore AGA entirely with hand-rolled C code—zero AI and zero chunky-to-planar (C2P)</content>
+    <link href="https://www.indieretronews.com/2026/11/lands-of-lore-aga-westwoods-incredible.html"/>
+    <published>2026-11-23T23:53:59+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1555899651749075107</id>
+    <title>Ultracore AGA -  Digital Illusions platform blaster is finally coming to the Amiga via AI/MrDig (TEST BUILD g106)</title>
+    <updated>2026-11-24T00:06:46+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">MrDig has announced via EAB a new project called Ultracore AGA, a work-in-progress port of the classic run-and-gun shooter. The game has a bit of a history. It originally started development for the Amiga by Digital Illusions under the name Hardcore but was sadly cancelled before completion. Decades later via Strictly Limited Games, the project was resurrected and officially released for modern</content>
+    <link href="https://www.indieretronews.com/2026/11/ultracore-aga-digital-illusions.html"/>
+    <published>2026-11-24T00:06:46+00:00</published>
   </entry>
 </feed>
