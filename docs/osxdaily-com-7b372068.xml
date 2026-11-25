@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-24T09:08:24+00:00</updated>
+  <updated>2026-11-24T23:38:25+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,55 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136256</id>
-    <title>MacOS Golden Gate 27.2.1 Update with Security Patches &amp; Bug Fixes Released</title>
-    <updated>2026-11-09T23:22:01+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg" alt="MacOS 27 Golden Gate update 27.2.1 is available" class="aligncenter size-large wp-image-136132" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update.jpg 1518w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-300x203.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-610x412.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/macos-27-golden-gate-update-768x519.jpg 768w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;MacOS 27.2.1 Golden Gate has been released by Apple as a system software update for Mac users. The update includes non-specific bug fixes and security patches, and is recommended for all Mac users running Golden Gate to install. &lt;/p&gt;
-&lt;p&gt;Separately, Apple has released MacOS Tahoe 26.7.3, MacOS Sequoia 15.8.3, &lt;a href="https://osxdaily.com/2026/10/26/ios-27-2-update-for-iphone-ipad-released/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1 update, and more. &lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136256"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install MacOS 27.2.1 Golden Gate Update&lt;/h2&gt;
-&lt;p&gt;Don’t forget to &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup Mac with Time Machine&lt;/a&gt; prior to installing any system software update.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;From the  Apple menu and go to “System Settings”&lt;/li&gt;
-&lt;li&gt;Go to “General”, and then go to “Software Update”&lt;/li&gt;
-&lt;li&gt;Choose “Update Now” to install MacOS 27.2.1 in software update&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-610x552.jpg" alt="MacOS 27.2.1 update" class="aligncenter size-large wp-image-136258" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-610x552.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-300x271.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-768x695.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update-1536x1390.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-27-2-1-update.jpg 1704w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The Mac must restart to complete installation.&lt;/p&gt;
-&lt;p&gt;The update is a bit over 3GB in size, and can take a while to install. &lt;/p&gt;
-&lt;p&gt;If you are not currently running MacOS 27 Golden Gate then will instead find an update to MacOS Tahoe or MacOS Sequoia available instead.&lt;/p&gt;
-&lt;h2&gt;MacOS 27.2.1 Golden Gate Full Installer &amp;amp; IPSW Direct Download Links&lt;/h2&gt;
-&lt;p&gt;You can download the full installer or IPSW file for MacOS 27.2.1 from the Apple CDN links below:&lt;/p&gt;
-
-&lt;h3&gt;MacOS Tahoe 26.7.3 &amp;amp; MacOS Sequoia 15.8.3 Full Installer Download Links&lt;/h3&gt;
-
-&lt;p&gt;You can also refer to &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;our updated list of available MacOS installers and IPSW files here&lt;/a&gt; as a helpful resource.&lt;/p&gt;
-&lt;h3&gt;MacOS 27.2.1 Golden Gate Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes are short and nonspecific:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;This update provides bug fixes and security updates for your Mac.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Don’t forget to update your other Apple devices as well, as basically every Apple device has an update available, including &lt;a href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1, and more.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"/>
-    <published>2026-11-09T23:22:01+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136279</id>
     <title>MacOS Sequoia 15.8.3 &amp; MacOS Tahoe 26.7.3 Security Updates Released</title>
@@ -660,5 +611,17 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/24/xnulinux-runs-macos-27-on-linux-without-a-virtual-machine/"/>
     <published>2026-11-24T09:08:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136381</id>
+    <title>Black Friday Deals: AirPods Pro 3 for $149, Apple Watch 12 for $299, &amp; More</title>
+    <updated>2026-11-24T23:38:25+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;Amazon is offering an all-time low prices on AirPods Pro 3 for Black Friday, taking $100 off the retail price (40% off!). Black Friday has has sort of turned into Black Friday week at Amazon, which makes grabbing these deals a bit easier, though inventory moves quick as do prices. AirPods Pro 3 for $149 ... &lt;a class="read-more" href="https://osxdaily.com/2026/11/24/black-friday-deals-airpods-pro-3-for-149/"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/24/black-friday-deals-airpods-pro-3-for-149/"&gt;Black Friday Deals: AirPods Pro 3 for $149, Apple Watch 12 for $299, &amp;#038; More&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
+    <link href="https://osxdaily.com/2026/11/24/black-friday-deals-airpods-pro-3-for-149/"/>
+    <published>2026-11-24T23:38:25+00:00</published>
   </entry>
 </feed>
