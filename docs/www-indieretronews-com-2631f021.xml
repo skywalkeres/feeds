@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-24T11:30:00+00:00</updated>
+  <updated>2026-11-25T11:56:20+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,22 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5196166551710716980</id>
-    <title>GREAT AXE - This Golden Axe ATARI XE/XL conversion by Vega looks sublime!</title>
-    <updated>2026-11-19T14:05:31+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj45dMMOAa_pTI9Nz-dPAKLMddREYT0GDi7cgqnJHEzW5_n_hTsorKKijkdf3f6tyBPM4apdXiM2a-fH5LBYmtnwbiOUs4yTtBDEsSZe8-uaHwN7viVgCA3JLBmCwYYvCz7c_QZ7eFOxn68oZVwh5-fQ-OUz8Ln3qZh0Sp6_ZPqwuh0ZjXRso_4aOYE13o/w640-h422/great.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5196166551710716980" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Well here's another HOT news story for you all, especially if you have an Atari XL/XE, as I've just been informed by Saberman that you can now download the latest release of Great Axe, an incredible looking free fan port of Sega’s 1989 arcade hit Golden Axe for the Atari XL/XE. Built entirely from scratch by the A-8bit Redefined Team without using code from other platforms—or any help from AI—this 2026 release brings Makoto Uchida’s sword-and-sorcery classic to 8-bit Atari machines as a non-commercial gift to the community.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/ssXcMKuRAjQ" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ssXcMKuRAjQ"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Under the hood, Great Axe runs on a brand-new custom engine capable of pushing up to five large software sprites on screen alongside smooth fine scrolling. Retro gamers can even battle through all five original stages, right up to the final demo sequence. Best of all, the team engineered the game to run across the entire Atari XL/XE lineup, supporting both PAL and NTSC formats on everything from stock hardware and XEGS consoles to upgraded setups. So yes if you loved the Arcade classic of Golden Axe and wanted to play this on your Atari XL/XE now's best your chance!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Requirements:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Atari XL/XE or XEGS with 64 KB, PAL or NTSC.&lt;/li&gt;&lt;li&gt;One or Two Joystick(s). Support Joy2B+.&lt;/li&gt;&lt;li&gt;You need SUB-CART, AVG CART etc. to load this ATARIMAX CAR file on the real ATARI &lt;/li&gt;&lt;li&gt;Emulator: Altirra works great.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Main code: Vega&lt;/li&gt;&lt;li&gt;Graphics: Gaspar and Vega&lt;/li&gt;&lt;li&gt;Music and SFX: Miker &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://vegaatari.itch.io/great-axe"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/great-axe-this-golden-axe-atari-xexl.html"/>
-    <published>2026-11-19T14:05:31+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-5983982273097119648</id>
     <title>Champions of Krynn - A classic Gold Box RPG is reversed and bug fixed for the Amiga</title>
@@ -355,5 +339,16 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/enter-worlds-of-woody-woodys-world.html"/>
     <published>2026-11-24T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5819209069849996544</id>
+    <title>The Hobbit – They're Taking the Hobbits to Isengard in this new Amiga AGA AI Enhanced Edition by thall72!</title>
+    <updated>2026-11-25T11:56:20+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">Thanks to a heads up by my good friend AmigaGuru, I've been told that thall72 has just released The Hobbit – Amiga AGA Enhanced Edition. Built with the help of AI, this new port brings Melbourne House’s beloved 1982 text adventure to the Amiga 1200 and other AGA-equipped machines. Inspired by how Magnetic Scrolls classics like The Pawn and The Guild of Thieves elevated the genre on the platform,</content>
+    <link href="https://www.indieretronews.com/2026/11/the-hobbit-theyre-taking-hobbits-to.html"/>
+    <published>2026-11-25T11:56:20+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-24T23:38:25+00:00</updated>
+  <updated>2026-11-25T11:46:38+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,53 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136279</id>
-    <title>MacOS Sequoia 15.8.3 &amp; MacOS Tahoe 26.7.3 Security Updates Released</title>
-    <updated>2026-11-10T22:19:48+00:00</updated>
-    <author>
-      <name>Paul Horowitz</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg" alt="MacOS Sequoia 15.8.3 update" class="aligncenter size-large wp-image-136280" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Apple has released MacOS Tahoe 26.7.3 and MacOS Sequoia 15.8.3 as software updates for Mac users who are not running the Golden Gate operating system. The updates are said to include security patches and bug fixes, and are recommended to all users. &lt;/p&gt;
-&lt;p&gt;Separately, Apple has release &lt;a href="https://osxdaily.com/2026/11/09/macos-golden-gate-27-2-1-update-with-security-patches-bug-fixes-released/"&gt;MacOS 27.2.1 Golden Gate&lt;/a&gt;, &lt;a href="https://osxdaily.com/2026/11/09/ios-27-2-1-update-released-for-iphone-ipad-with-bug-fixes/"&gt;iOS 27.2.1, iPadOS 27.2.1&lt;/a&gt;, watchOS 27.2.1, iOS 26.7.3, iOS 18.7.12, and other updates as well.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136279"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;How to Download &amp;amp; Install MacOS Sequoia 15.8.3 Update or MacOS Tahoe 26.7.3 Update&lt;/h2&gt;
-&lt;p&gt;Always &lt;a href="https://osxdaily.com/how-to-backup-a-mac-with-time-machine/"&gt;backup your Mac with Time Machine&lt;/a&gt; before installing any system software update. &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;From the  Apple menu, choose “System Settings”&lt;/li&gt;
-&lt;li&gt;Go to “General”, and then choose “Software Update”&lt;/li&gt;
-&lt;li&gt;Scroll down below the “MacOS 27.2.1” banner promoting Golden Gate, and look for the “Other Updates” section where you can choose to install MacOS Tahoe 26.7.3 or MacOS Sequoia 15.8.3 instead * &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg" alt="MacOS Sequoia 15.8.3 update" class="aligncenter size-large wp-image-136280" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-610x580.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-300x285.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-768x730.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update-1536x1460.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/macos-sequoia-15-8-3-update.jpg 1654w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;* Be mindful that if you click the (i) info button to get additional information about the MacOS Sequoia or Tahoe update, then MacOS 27.2.1 update will be selected to install by default. Uncheck that, and check the Tahoe or Sequoia update instead. You can &lt;a href="https://osxdaily.com/2026/10/09/how-to-update-macos-sequoia-without-installing-macos-27-golden-gate/"&gt;read more about avoiding accidentally installing MacOS Golden Gate here&lt;/a&gt; if you’d like. &lt;/p&gt;
-&lt;p&gt;Your Mac must restart to complete installation. &lt;/p&gt;
-&lt;h3&gt;MacOS Sequoia 15.8.3 &amp;amp; MacOS Tahoe 26.7.3 Full Installer Download Links&lt;/h3&gt;
-
-&lt;p&gt;We maintain an &lt;a href="https://osxdaily.com/where-download-macos-installers/"&gt;updated list of all available MacOS installers here&lt;/a&gt; as a helpful resource.&lt;/p&gt;
-&lt;h3&gt;MacOS Sequoia 15.8.3 &amp;amp; MacOS Tahoe 26.7.3 Release Notes Release Notes&lt;/h3&gt;
-&lt;p&gt;Release notes are brief:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;This update provides important security fixes and is recommended for all users.&lt;/p&gt;
-&lt;p&gt;For information on the security content of Apple software updates, please visit this website: https://support.apple.com/100100
-&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;You will want to update your other Apple devices as well, as just about everything received security updates.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/10/macos-sequoia-15-8-3-macos-tahoe-26-7-3-security-updates-released/"/>
-    <published>2026-11-10T22:19:48+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136285</id>
     <title>How to Set WhatsApp as Default Messaging App on iPhone &amp; iPad</title>
@@ -623,5 +576,45 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
 &lt;p&gt;The post &lt;a href="https://osxdaily.com/2026/11/24/black-friday-deals-airpods-pro-3-for-149/"&gt;Black Friday Deals: AirPods Pro 3 for $149, Apple Watch 12 for $299, &amp;#038; More&lt;/a&gt; appeared first on &lt;a href="https://osxdaily.com"&gt;OS X Daily&lt;/a&gt;.&lt;/p&gt;</content>
     <link href="https://osxdaily.com/2026/11/24/black-friday-deals-airpods-pro-3-for-149/"/>
     <published>2026-11-24T23:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=133847</id>
+    <title>Mac Error: “Operation can’t be completed because another operation is in progress” – What it Means and How to Fix It</title>
+    <updated>2026-11-25T11:46:38+00:00</updated>
+    <author>
+      <name>Ali Khan</name>
+    </author>
+    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/01/operation-cant-be-completed-because-another-operation-in-progress-mac-error-610x274.jpg" alt="Mac error that says Operation can not be completed now because another operation is in progress " class="aligncenter size-large wp-image-133857" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/01/operation-cant-be-completed-because-another-operation-in-progress-mac-error-610x274.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/01/operation-cant-be-completed-because-another-operation-in-progress-mac-error-300x135.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/01/operation-cant-be-completed-because-another-operation-in-progress-mac-error-768x345.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/01/operation-cant-be-completed-because-another-operation-in-progress-mac-error.jpg 1032w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Usually the MacOS Finder does things quietly in the background as you use the file system manager, but from time to time you might see an error message or other alert popup. One such alert message that might appear suddenly and cause some alarm says this: &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“The operation can’t be completed right now because another operation is in progress, such as moving or copying an item or emptying the Trash.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This error message can be particularly confusing because it’s not particularly helpful or specific, especially if there’s nothing meaningful going on in Finder. &lt;/p&gt;
+&lt;p&gt;If you encounter this error message, you might want to know why the message appears, and what can be done about it. &lt;/p&gt;
+&lt;p&gt;&lt;span id="more-133847"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Why you might see this error message and what it really means&lt;/h3&gt;
+&lt;p&gt;Finder will not allow two conflicting operations to happen at the same time. For example, copying and deleting of the same file, or modifying a file that is being copied, or renaming and batch renaming the same files, or attempting to delete an active Time Machine backup folder, or similar operations. &lt;/p&gt;
+&lt;p&gt;Typically if you see this error message, that means Finder believes there is still some task or process going on with the file or folder you are attempting to interact with.&lt;/p&gt;
+&lt;p&gt;A stalled of paused Finder operation will often trigger this error message, even if nothing is perceptible to you, the user, except for the error message. This is particularly common with large file copies and transfers, slower drives being written to or accessed, accessing or using a network share, Trash operations are still ongoing, and much more. &lt;/p&gt;
+&lt;p&gt;Occasionally, you might see this error message if your disk space is running very low as well, since that often causes sluggishness and stalling in Finder as well, which can also trigger this problem.&lt;/p&gt;
+&lt;h3&gt;How do you fix this problem?&lt;/h3&gt;
+&lt;p&gt;The best thing to do is let Finder finish its task, whatever it might be.&lt;/p&gt;
+&lt;p&gt;If you’ve been performing a lot of intensive activities within Finder, like many searches and batch renaming or copying of files, that very well could be what is holding things up and must complete first. &lt;/p&gt;
+&lt;p&gt;The error message rarely persists for too long, but if you do see it after you know all file modifications have long ago completed, then you can always restart your Mac too, which should resolve the issue triggering the error completely. &lt;/p&gt;
+&lt;p&gt;The best thing to do moving forward in order to avoid triggering the same error again is the following; avoid interrupting large file copies and relocations, do not interrupt other active Finder tasks like renaming or moving, always eject external drives properly, let the Trash complete its emptying before interacting with Finder again, and make sure that you have enough disk space available too since low storage capacity can trigger Finder stalling and sluggishness as well. &lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/25/mac-error-operation-cant-be-completed-because-another-operation-is-in-progress-what-it-means-and-how-to-fix-it/"/>
+    <published>2026-11-25T11:46:38+00:00</published>
   </entry>
 </feed>
