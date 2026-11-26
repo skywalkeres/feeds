@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-25T11:56:20+00:00</updated>
+  <updated>2026-11-26T14:02:32+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,38 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5983982273097119648</id>
-    <title>Champions of Krynn - A classic Gold Box RPG is reversed and bug fixed for the Amiga</title>
-    <updated>2026-11-19T23:22:52+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHx0XHXfzh6OIuR0jwZNAtDE9WkldEy6K6kqXZIbu_i4QWFrvis7dSnjKvYuqBEziDxnxYqx2S2Hd8lWDiES0LK1fTv6D2FOgXFMWqTt4fDqQlRDjN-99EqZaANNLpkH3uD5BYBYTtGiX5n6VPo2ZM7Lk-0JUhPBCTAdIXXrSj51kEN6O1dgc1wd8vSdU/w610-h640/diugeons.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5983982273097119648" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Classic RPG fans running upgraded Amiga setups might have another reason to revisit Krynn this week thanks to a newly released reverse-engineered effort from developer mOoNsHaDo. Driven by a childhood love for SSI's classic Gold Box titles, mOoNsHaDo set out to make the Amiga port of Champions of Krynn play nicely with Kickstart 3.x, faster processors, and newer chipsets. Best of all, the updated executable now multitasks properly in the background alongside your regular Workbench apps, bringing a feeling of modernization to an incredible classic. &lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8R6HRBixgWD-2W2Km0L4-zAWgsWWTdO3cwNZ0rN7yRJmL7NA5m1dg3OBNF7DNNb9ScRFGDgXGgGVBKd50rKqDb_nupJNGXY_FZBECTeY6rnk2_xcFzQehJaiAVZImrMwYLWHLlMFMk_SwIMBfL1sIFYx6WSE3aLFilhGt-AtdoZlS21GA8ZD0S00ZJg/s642/6vnJmr.jpg"&gt;&lt;img border="0" data-original-height="381" data-original-width="642" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8R6HRBixgWD-2W2Km0L4-zAWgsWWTdO3cwNZ0rN7yRJmL7NA5m1dg3OBNF7DNNb9ScRFGDgXGgGVBKd50rKqDb_nupJNGXY_FZBECTeY6rnk2_xcFzQehJaiAVZImrMwYLWHLlMFMk_SwIMBfL1sIFYx6WSE3aLFilhGt-AtdoZlS21GA8ZD0S00ZJg/w640-h380/6vnJmr.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The update squashes several nasty bugs that previously plagued expanded machines—even when running through WHDLoad. The patch resolves a blitter race condition on faster CPUs that used to leave bitplanes half-drawn and mess up LBM image colors, alongside an IPrefs screenmode promotion fix that stops mismatched monitor views from causing severe stretching or black screen flashing. It also clears up black flashing glitches tied to missing save games and patches out-of-bounds memory reads that caused random crashes. While this is available to download right now, mOoNsHaDo is asking players to send their save files over to marranosoft@gmail.com if they encounter bugs.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This folder is a from-scratch C port of the Amiga version of Champions of Krynn written by converting, with various AIs, routine by routine, from annotated 68000 assembly decompilation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://moonshado.itch.io/championsfix"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/champions-of-krynn-classic-gold-box-rpg.html"/>
-    <published>2026-11-19T23:22:52+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3528722176885434893</id>
-    <title>Another World - HOT NEWS as the 20th Anniversary Edition arrives on the Amiga as an AGA/RTG port!</title>
-    <updated>2026-11-20T10:18:27+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixk9Xpot10RWDHey_d2S-F7VzanxmyBq5IczxziiaXxAF0Q39N0-EiuUqS054nxzYEF958osm9olaiDfCCfETN6z8n6UswPEFt2jah0PInDmxQQyK4K3EbzU6Np53Cj57p0FkKJvVAwckuSEca9-iiKGG5IEdfVgDsPJufQ0oVLl5KEQVDZ2Q8mNjobp4/w640-h402/another.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3528722176885434893" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;After making its debut on the Commodore Amiga back in 1991 and hopping across countless platforms over the decades, Lester has gone full circle and come back home. AmiKit has just brought Another World - 20th Anniversary Edition back to its original roots, closing the circle with remastered audio and crisp high-definition visuals. While plenty of computers have come and gone since the game's initial release—and its 2013 PC remaster—this new AGA and RTG port proves the Commodore Amiga scene is full of life and sees no sign of ending.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/oblMWuBbsKc" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=oblMWuBbsKc"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The release comes packed in five different versions to suit a wide range of setups, scaling all the way from a stock Amiga 1200 running at 640x200 to high-end RTG graphics cards pushing 1728x1080 in 32-bit colour. By converting assets from your own copy of the 20th Anniversary Edition, the port swaps out the original Amiga 500 backdrops for the redrawn HD artwork while keeping Lester, the alien creatures, and every moving object as high-resolution versions of their classic polygons. Even better, AmiKit’s converter cleans up the fine checkerboard dithering found in the original 256-colour PC backgrounds while keeping edges razor-sharp, arguably making this RTG release the best-looking version of Another World ever made.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://eab.abime.net/showthread.php?t=124490"&gt;Discussion&lt;/a&gt; 2) &lt;a href="https://github.com/AmiKit/AnotherWorld_AGA-RTG"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/another-world-hot-news-as-20th.html"/>
-    <published>2026-11-20T10:18:27+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-8007634742183559173</id>
     <title>Underworld Revisited - An open-source Unity reimplementation of Ultima Underworld 1 and 2!</title>
@@ -355,5 +323,37 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/the-hobbit-theyre-taking-hobbits-to.html"/>
     <published>2026-11-25T11:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5661477420764578173</id>
+    <title>Robocop Arcade - Ranx is working on an Arcade-like version of Robocop for Amiga 500 {AI} [UPDATE]</title>
+    <updated>2026-11-26T12:06:34+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cMd1xFufsgxwLNG7jkG_saw21dOSHeO_BvTo52xetkrq-XAZlpR84v5pZgEDO8e7Gql3I7te0BG5Wr-Pfha2GmHw0XdqS2L5WyQXGOrxAwTz6AcNcXtCHdyKGeE7t-VQOLgEvCXlbS2gmUBVu-9JdjZTuP3jWi29NQsSngz_4Nh4zwXr97oKKNwKcSI/w640-h432/robocop.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5661477420764578173" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The Commodore Amiga community has just been treated to a bit of a tease, with the reveal of RoboCop Arcade, a brand-new conversion of Data East’s legendary 1988 coin-op developed by Ranx with the help of AI. While the original Amiga port of the era often left fans wanting more, this  project aims to recreate the arcade game's authentic 1:1 visuals and raw gameplay feel on the humble, unexpanded Amiga 500 OCS. Built strictly around the machine's base hardware—including a stock Motorola 68000 processor and a tight 512 KB of RAM—the game aims to have hardware scrolling, Blitter-driven sprites, and all nine action-packed stages, including the iconic target-shooting bonus ranges.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/bywksqYkq_E" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bywksqYkq_E"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Fitting an arcade-accurate experience onto a standard setup does require a lot of optimization, culminating in the entire game being packed onto a single 880 KB floppy disk. Ranx managed this through aggressive resource compression, sophisticated multi-stage loading systems, and meticulous memory management, leaving a mere 1,536 bytes of free space remaining on the disk. Amiga owners can even look forward to a classic "cracktro" sequence upon booting, alongside digitized speech and sound effects that make full use of the Amiga’s four-channel Paula audio chip. As this impressive passion project continues to evolve, the developer is actively seeking community feedback to fine-tune what is shaping up to be the definitive retro tribute to an arcade classic.&lt;/p&gt;&lt;p&gt;&lt;b&gt;[UPDATE]&lt;/b&gt; A new build has been released with the following features!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;All nine stages, including the two shooting galleries.&lt;/li&gt;&lt;li&gt;Arcade graphics at 1:1 scale, displayed in 256 × 240 pixels with 32 colours.&lt;/li&gt;&lt;li&gt;Hardware scrolling and Blitter-based graphics.&lt;/li&gt;&lt;li&gt;Music adapted to Paula’s four audio channels, with sampled speech and sound effects from the arcade.&lt;/li&gt;&lt;li&gt;A cracktro-style startup menu, including a trainer.&lt;/li&gt;&lt;li&gt;One-button and two-button joystick modes, with a separate jump button in two-button mode.&lt;/li&gt;&lt;li&gt;The entire game on one 880 KB ADF disk image.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://ranx31.itch.io/robocop-arcade-amiga-500-ocs"&gt;Download/Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/robocop-arcade-ranx-is-working-on.html"/>
+    <published>2026-11-26T12:06:34+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5983982273097119648</id>
+    <title>Champions of Krynn / Death Knights of Krynn - Classic Gold Box RPG's are reversed and bug fixed for the Amiga</title>
+    <updated>2026-11-26T14:02:32+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHx0XHXfzh6OIuR0jwZNAtDE9WkldEy6K6kqXZIbu_i4QWFrvis7dSnjKvYuqBEziDxnxYqx2S2Hd8lWDiES0LK1fTv6D2FOgXFMWqTt4fDqQlRDjN-99EqZaANNLpkH3uD5BYBYTtGiX5n6VPo2ZM7Lk-0JUhPBCTAdIXXrSj51kEN6O1dgc1wd8vSdU/w610-h640/diugeons.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5983982273097119648" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Classic RPG fans running upgraded Amiga setups might have another reason to revisit Krynn this week thanks to a newly released reverse-engineered effort from developer mOoNsHaDo. Driven by a childhood love for SSI's classic Gold Box titles, mOoNsHaDo set out to make the Amiga port of Champions of Krynn play nicely with Kickstart 3.x, faster processors, and newer chipsets. Best of all, the updated executable now multitasks properly in the background alongside your regular Workbench apps, bringing a feeling of modernization to an incredible classic. &lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8R6HRBixgWD-2W2Km0L4-zAWgsWWTdO3cwNZ0rN7yRJmL7NA5m1dg3OBNF7DNNb9ScRFGDgXGgGVBKd50rKqDb_nupJNGXY_FZBECTeY6rnk2_xcFzQehJaiAVZImrMwYLWHLlMFMk_SwIMBfL1sIFYx6WSE3aLFilhGt-AtdoZlS21GA8ZD0S00ZJg/s642/6vnJmr.jpg"&gt;&lt;img border="0" data-original-height="381" data-original-width="642" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8R6HRBixgWD-2W2Km0L4-zAWgsWWTdO3cwNZ0rN7yRJmL7NA5m1dg3OBNF7DNNb9ScRFGDgXGgGVBKd50rKqDb_nupJNGXY_FZBECTeY6rnk2_xcFzQehJaiAVZImrMwYLWHLlMFMk_SwIMBfL1sIFYx6WSE3aLFilhGt-AtdoZlS21GA8ZD0S00ZJg/w640-h380/6vnJmr.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The update squashes several nasty bugs that previously plagued expanded machines—even when running through WHDLoad. The patch resolves a blitter race condition on faster CPUs that used to leave bitplanes half-drawn and mess up LBM image colors, alongside an IPrefs screenmode promotion fix that stops mismatched monitor views from causing severe stretching or black screen flashing. It also clears up black flashing glitches tied to missing save games and patches out-of-bounds memory reads that caused random crashes. While this is available to download right now, mOoNsHaDo is asking players to send their save files over to marranosoft@gmail.com if they encounter bugs.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;This folder is a from-scratch C port of the Amiga version of Champions of Krynn written by converting, with various AIs, routine by routine, from annotated 68000 assembly decompilation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1) &lt;a href="https://moonshado.itch.io/championsfix"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/champions-of-krynn-classic-gold-box-rpg.html"/>
+    <published>2026-11-26T14:02:32+00:00</published>
   </entry>
 </feed>
