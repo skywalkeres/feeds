@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-26T23:39:59+00:00</updated>
+  <updated>2026-11-27T00:43:51+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -532,9 +532,45 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
     <published>2026-11-25T11:46:38+00:00</published>
   </entry>
   <entry>
+    <id>https://osxdaily.com/?p=136400</id>
+    <title>Griswold Adds Christmas Lights, Santa, Snow, &amp; More to the Mac Desktop</title>
+    <updated>2026-11-26T23:39:59+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg" alt="Griswold brings Christmas lights, snow, Santa, and more to the Mac desktop" class="aligncenter size-large wp-image-136404" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;If you enjoy the idea of adding some seasons greetings and holiday personality to your Mac desktop, the free Griswold app offers another fun approach to decorate your desktop for the holidays.&lt;/p&gt;
+&lt;p&gt;Griswold adds animated snowfall (with customizations and accumulating snowfall options), Christmas lights with multiple bulb options, and there’s a fun “Surprise Me” menu with even more options for squirrel, sleds, northern lights, and Santa and his reindeer cruising around on your screen. Griswold also includes a built-in countdown to Christmas in the menu bar, adding to the holiday cheer.&lt;/p&gt;
+&lt;p&gt;As you might have recognized from the name, Griswold is clearly inspired by the classic movie National Lampoon’s Christmas Vacation, and if you feel so inclined you can max out every customization option to gain that infamous Griswold over-the-top Christmas decoration experience on your Mac with little Easter Eggs from the movie, like the crazed squirrel running across your windows, or a sled ripping through the snow and across the screen.&lt;/p&gt;
+
+&lt;p&gt;Griswold is free, open source, and runs quietly in the background as a menu bar item where you can customize to your hearts content.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg" alt="Griswold surprise customization options" class="aligncenter size-large wp-image-136403" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Check out the video below from the developer (via X) to see Griswold in action, or grab it yourself and bring some Christmas cheer to your Mac desktop.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Griswold is fairly small and has broad compatibility, working on MacOS Ventura 13 or later. And, unlike some of the other snow and Christmas themed apps out there, it’s signed and notarized by Apple from a registered developer, so there’s no Gatekeeper bypass required to run. &lt;/p&gt;
+&lt;p&gt;Cheers to developer &lt;a rel="nofollow" href="https://x.com/SiliconForested/status/2126048339959664965"&gt;@SiliconForested on X&lt;/a&gt; for the great Mac app! And if you’re a regular reader, you might recognize the developer as who &lt;a href="https://osxdaily.com/2026/08/28/play-warcraft-2-on-macos-with-chonkcraft/"&gt;brought Warcraft 2 to modern MacOS with Chonkcraft&lt;/a&gt;, so if you’re interested in some retro RTS gaming fun check that out too.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/26/griswold-adds-christmas-lights-santa-snow-more-to-the-mac-desktop/"/>
+    <published>2026-11-26T23:39:59+00:00</published>
+  </entry>
+  <entry>
     <id>https://osxdaily.com/?p=136401</id>
     <title>Black Friday Deals: $400 Off M5 MacBook Air! AirPods Pro 3 for $149!</title>
-    <updated>2026-11-26T21:03:51+00:00</updated>
+    <updated>2026-11-27T00:43:51+00:00</updated>
     <author>
       <name>OSXDaily</name>
     </author>
@@ -576,42 +612,6 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
 
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/26/black-friday-deals-400-off-m5-macbook-air-airpods-pro-3-for-149/"/>
-    <published>2026-11-26T21:03:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136400</id>
-    <title>Griswold Adds Christmas Lights, Santa, Snow, &amp; More to the Mac Desktop</title>
-    <updated>2026-11-26T23:39:59+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg" alt="Griswold brings Christmas lights, snow, Santa, and more to the Mac desktop" class="aligncenter size-large wp-image-136404" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;If you enjoy the idea of adding some seasons greetings and holiday personality to your Mac desktop, the free Griswold app offers another fun approach to decorate your desktop for the holidays.&lt;/p&gt;
-&lt;p&gt;Griswold adds animated snowfall (with customizations and accumulating snowfall options), Christmas lights with multiple bulb options, and there’s a fun “Surprise Me” menu with even more options for squirrel, sleds, northern lights, and Santa and his reindeer cruising around on your screen. Griswold also includes a built-in countdown to Christmas in the menu bar, adding to the holiday cheer.&lt;/p&gt;
-&lt;p&gt;As you might have recognized from the name, Griswold is clearly inspired by the classic movie National Lampoon’s Christmas Vacation, and if you feel so inclined you can max out every customization option to gain that infamous Griswold over-the-top Christmas decoration experience on your Mac with little Easter Eggs from the movie, like the crazed squirrel running across your windows, or a sled ripping through the snow and across the screen.&lt;/p&gt;
-
-&lt;p&gt;Griswold is free, open source, and runs quietly in the background as a menu bar item where you can customize to your hearts content.&lt;/p&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg" alt="Griswold surprise customization options" class="aligncenter size-large wp-image-136403" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;Check out the video below from the developer (via X) to see Griswold in action, or grab it yourself and bring some Christmas cheer to your Mac desktop.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Griswold is fairly small and has broad compatibility, working on MacOS Ventura 13 or later. And, unlike some of the other snow and Christmas themed apps out there, it’s signed and notarized by Apple from a registered developer, so there’s no Gatekeeper bypass required to run. &lt;/p&gt;
-&lt;p&gt;Cheers to developer &lt;a rel="nofollow" href="https://x.com/SiliconForested/status/2126048339959664965"&gt;@SiliconForested on X&lt;/a&gt; for the great Mac app! And if you’re a regular reader, you might recognize the developer as who &lt;a href="https://osxdaily.com/2026/08/28/play-warcraft-2-on-macos-with-chonkcraft/"&gt;brought Warcraft 2 to modern MacOS with Chonkcraft&lt;/a&gt;, so if you’re interested in some retro RTS gaming fun check that out too.&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/26/griswold-adds-christmas-lights-santa-snow-more-to-the-mac-desktop/"/>
-    <published>2026-11-26T23:39:59+00:00</published>
+    <published>2026-11-27T00:43:51+00:00</published>
   </entry>
 </feed>
