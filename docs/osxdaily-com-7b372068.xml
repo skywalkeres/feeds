@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://osxdaily.com/feed/</id>
   <title>OS X Daily (texto completo)</title>
-  <updated>2026-11-25T11:46:38+00:00</updated>
+  <updated>2026-11-26T23:39:59+00:00</updated>
   <author>
     <name>OS X Daily</name>
   </author>
@@ -10,92 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/osxdaily-com-7b372068.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://osxdaily.com/feed/</subtitle>
-  <entry>
-    <id>https://osxdaily.com/?p=136285</id>
-    <title>How to Set WhatsApp as Default Messaging App on iPhone &amp; iPad</title>
-    <updated>2026-11-10T23:23:28+00:00</updated>
-    <author>
-      <name>Ali Khan</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-610x426.jpg" alt="Set WhatsApp as the default messaging app on iPhone or iPad" class="aligncenter size-large wp-image-136290" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-610x426.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-300x209.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-768x536.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone-1536x1072.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/set-whatsapp-default-messager-iphone.jpg 1650w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
-&lt;p&gt;The latest versions of system software for iPhone and iPad allow you to set WhatsApp as the default messaging app, which can be very handy for many users who rely on WhatsApp as their primary communications method. Whether you’re using WhatsApp as your primary messaging app, or just while traveling abroad, here’s how you can change the default messenger client from Messages to WhatsApp on iPhone and iPad.&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-136285"&gt;&lt;/span&gt;&lt;br&gt;
-Requirements are pretty basic for this. You will obviously need WhatsApp already installed and setup on your iPhone or iPad to be able to select it as your messaging app. You will also need a modern version of iOS/iPadOS system software, from 26.0 and later.&lt;/p&gt;
-&lt;h2&gt;How to Make WhatsApp the Default Messaging App on iPhone &amp;amp; iPad&lt;/h2&gt;
-&lt;p&gt;Assuming you’re on a compatible iOS/iPadOS verson and you have WhatsApp already installed on your device, here’s how to use it as the default messager:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Go to “Settings” on iPhone or ipad&lt;/li&gt;
-&lt;li&gt;Scroll down and choose “Apps”&lt;/li&gt;
-&lt;li&gt;At the top of the Apps screen tap on “Default Apps”&lt;/li&gt;
-&lt;li&gt;Tap on “Messaging”&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-369x800.jpg" alt="Change your default apps" class="size-large wp-image-136286" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-1.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;&lt;/p&gt;
-&lt;li&gt;Select “WhatsApp” as the default messaging app&lt;/li&gt;
-&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-369x800.jpg" alt="Select WhatsApp as the default messaging app" class="aligncenter size-large wp-image-136287" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-369x800.jpg 369w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-139x300.jpg 139w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-768x1663.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-709x1536.jpg 709w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2-946x2048.jpg 946w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/how-set-whatsapp-default-messager-2.jpg 960w" sizes="(max-width: 369px) 100vw, 369px"&gt;
-&lt;/p&gt;&lt;/ol&gt;
-&lt;p&gt;Now anytime you go to send a message from another app, share something, or any other task that involves opening the default messaging app, WhatsApp will now open instead of Messages.&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon.jpg" alt="WhatsApp icon" class="aligncenter size-full wp-image-81079" srcset="https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon.jpg 362w, https://cdn.osxdaily.com/wp-content/uploads/2019/01/whatsapp-icon-292x300.jpg 292w" sizes="auto, (max-width: 362px) 100vw, 362px"&gt;&lt;/p&gt;
-&lt;p&gt;Messages and iMessages is wildly popular and super convenient, and there’s no denying that. But with that said, WhatsApp is incredibly popular as well, especially abroad, and so whether you are traveling, visiting relatives, living abroad, or just find yourself using WhatsApp most often, setting WhatsApp as the default messager can be a powerful choice.&lt;/p&gt;
-&lt;p&gt;If you don’t use WhatsApp all the time, you probably do not want to make this change, and it is best to avoid messing with default settings like this. &lt;/p&gt;
-&lt;p&gt;Check out &lt;a href="https://osxdaily.com/tag/whatsapp/"&gt;more WhatsApp tips here&lt;/a&gt; if you’d like. &lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/10/how-to-set-whatsapp-as-default-messaging-app-on-iphone-ipad/"/>
-    <published>2026-11-10T23:23:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://osxdaily.com/?p=136294</id>
-    <title>Deals: 4-Pack of AirTags 2 for $70</title>
-    <updated>2026-11-12T11:23:03+00:00</updated>
-    <author>
-      <name>OSXDaily</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/06/amazon-apple-deals.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
-&lt;p&gt;&lt;a href="https://amzn.to/3SisrgH" rel="nofollow noopener" target="_blank"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg" alt="AirTags" class="aligncenter size-large wp-image-124228" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-300x161.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-768x413.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-1536x826.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags.jpg 1844w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon is back again, with the 4-pack of AirTags 2 available at a 28% discount for just $70. The second generation of &lt;a href="https://osxdaily.com/2024/11/21/7-helpful-uses-of-airtags-from-pets-to-packages/"&gt;handy multipurpose personal trackers&lt;/a&gt; offers better precision finding capabilities, letting you keep track of just about anything using the Find My network. These are useful for just about anyone, and make for a great gift idea, or stocking stuffers, for Apple fans.&lt;/p&gt;
-
-&lt;h3&gt;M5 MacBook Air up to $250 Off&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://link.amazon/B00QZVrmG" rel="nofollow" target="_blank"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg" alt="MacBook Air in midnight" class="aligncenter size-large wp-image-123638" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-300x177.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-768x452.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-1536x904.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight.jpg 1570w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon is taking up to $250 off the price of the M5 MacBook Air in select models, colors, display sizes, and configurations.&lt;/p&gt;
-&lt;h3&gt;Up to $250 Off M5 MacBook Air 15″&lt;/h3&gt;
-
-&lt;h3&gt;Up to $250 Off M5 MacBook Air 13″ &lt;/h3&gt;
-
-&lt;p&gt;&lt;span id="more-136294"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;HomeView Pre-Orders for $289&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://link.amazon/B0cdzlyoE" target="_blank" rel="nofollow"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-610x343.jpg" alt="HomeView interactions" class="aligncenter size-large wp-image-135996" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-610x343.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-300x169.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-768x432.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-1536x864.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/10/homeview-interactions-2048x1152.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Amazon is still offering pre-orders for HomeView at a small discount, bringing the price to $289 for the Space Grey model. HomeView will launch on November 13.&lt;/p&gt;
-
-&lt;h3&gt;Miscellaneous Apple Deals&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
-	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;</content>
-    <link href="https://osxdaily.com/2026/11/12/deals-4-pack-of-airtags-2-for-70/"/>
-    <published>2026-11-12T11:23:03+00:00</published>
-  </entry>
   <entry>
     <id>https://osxdaily.com/?p=136295</id>
     <title>How to Save Video Frame as Still Photo on iPhone &amp; iPad</title>
@@ -616,5 +530,88 @@ You’ll obviously need to have &lt;a href="https://osxdaily.com/2015/12/29/crea
 &lt;/div&gt;</content>
     <link href="https://osxdaily.com/2026/11/25/mac-error-operation-cant-be-completed-because-another-operation-is-in-progress-what-it-means-and-how-to-fix-it/"/>
     <published>2026-11-25T11:46:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136401</id>
+    <title>Black Friday Deals: $400 Off M5 MacBook Air! AirPods Pro 3 for $149!</title>
+    <updated>2026-11-26T21:03:51+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/06/amazon-apple-deals.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/3TrUZVC" rel="nofollow" target="_blank"&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg" alt="MacBook Air in midnight" class="aligncenter size-large wp-image-123638" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-610x359.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-300x177.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-768x452.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight-1536x904.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/09/macbook-air-midnight.jpg 1570w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is offering a whopper discount of up to $400 off select M5 MacBook Air models, and $300 off others. The $400 off deal is available on the top-end model with 24GB RAM and 1TB SSD in multiple color options, for both the 13″ and 15″ display sizes. If you’ve been looking at the MacBook Air, this is an unusually good deal.&lt;/p&gt;
+&lt;h3&gt;Up to $400 Off M5 MacBook Air 15″&lt;/h3&gt;
+
+&lt;h3&gt;Up to $400 Off M5 MacBook Air 13″ &lt;/h3&gt;
+
+&lt;h3&gt;MacBook Neo from $599&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/4uDSFIn" target="_blank" rel="nofollow"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/03/macbook-neo-citrus-610x457.jpg" alt="MacBook Neo in Citrus color" class="aligncenter size-large wp-image-134032" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/03/macbook-neo-citrus-610x457.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/macbook-neo-citrus-300x225.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/macbook-neo-citrus-768x575.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/03/macbook-neo-citrus.jpg 1514w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MacBook Neo is discounted $100 off the retail price for both the 256GB model and the 512GB with Touch ID model, a rare discount on what is already the most affordable Mac laptop. &lt;/p&gt;
+
+&lt;h3&gt;$100 Off Apple Watch 12&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/4ARqWYs" target="_blank" rel="nofollow"&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup-610x227.jpg" alt="Apple Watch" class="aligncenter size-large wp-image-130668" srcset="https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup-610x227.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup-300x112.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup-768x286.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup-1536x572.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2024/09/apple-watch-series-10-lineup.jpg 1686w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Apple Watch Series 12 is deep discounted on Amazon in select color and band combinations, taking $100 off:&lt;/p&gt;
+
+&lt;h3&gt;AirPods Pro 3 from $149&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/4aiWHyO" target="_blank" rel="nofollow"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2025/12/airpods-pro-3-610x462.jpg" alt="AirPods Pro 3" class="aligncenter size-large wp-image-133745"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Amazon is offering $100 off on AirPods Pro 3 and AirPods Max:&lt;/p&gt;
+
+&lt;h3&gt;AirTags 2 4-pack for $80&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amzn.to/3SisrgH" rel="nofollow noopener" target="_blank"&gt;&lt;img loading="lazy" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg" alt="AirTags" class="aligncenter size-large wp-image-124228" srcset="https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-610x328.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-300x161.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-768x413.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags-1536x826.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2022/11/airtags.jpg 1844w" sizes="auto, (max-width: 610px) 100vw, 610px"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A 4-pack of AirTags 2 is avialable at $80. AirTags are &lt;a href="https://osxdaily.com/2024/11/21/7-helpful-uses-of-airtags-from-pets-to-packages/"&gt;useful multi-purpose trackers&lt;/a&gt; that rely on the Find My network to keep track of items.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;FTC: OSXDaily is an affiliate partner with Amazon, meaning if you click a link and make a purchase, we may receive a small payment which goes towards keeping the site running.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/26/black-friday-deals-400-off-m5-macbook-air-airpods-pro-3-for-149/"/>
+    <published>2026-11-26T21:03:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osxdaily.com/?p=136400</id>
+    <title>Griswold Adds Christmas Lights, Santa, Snow, &amp; More to the Mac Desktop</title>
+    <updated>2026-11-26T23:39:59+00:00</updated>
+    <author>
+      <name>OSXDaily</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-scaled.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="contenttext"&gt;
+&lt;p&gt;&lt;img fetchpriority="high" decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg" alt="Griswold brings Christmas lights, snow, Santa, and more to the Mac desktop" class="aligncenter size-large wp-image-136404" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-mac-christmas-lights-santa-fun-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;If you enjoy the idea of adding some seasons greetings and holiday personality to your Mac desktop, the free Griswold app offers another fun approach to decorate your desktop for the holidays.&lt;/p&gt;
+&lt;p&gt;Griswold adds animated snowfall (with customizations and accumulating snowfall options), Christmas lights with multiple bulb options, and there’s a fun “Surprise Me” menu with even more options for squirrel, sleds, northern lights, and Santa and his reindeer cruising around on your screen. Griswold also includes a built-in countdown to Christmas in the menu bar, adding to the holiday cheer.&lt;/p&gt;
+&lt;p&gt;As you might have recognized from the name, Griswold is clearly inspired by the classic movie National Lampoon’s Christmas Vacation, and if you feel so inclined you can max out every customization option to gain that infamous Griswold over-the-top Christmas decoration experience on your Mac with little Easter Eggs from the movie, like the crazed squirrel running across your windows, or a sled ripping through the snow and across the screen.&lt;/p&gt;
+
+&lt;p&gt;Griswold is free, open source, and runs quietly in the background as a menu bar item where you can customize to your hearts content.&lt;/p&gt;
+&lt;p&gt;&lt;img decoding="async" src="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg" alt="Griswold surprise customization options" class="aligncenter size-large wp-image-136403" srcset="https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-610x395.jpg 610w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-300x194.jpg 300w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-768x497.jpg 768w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-1536x994.jpg 1536w, https://cdn.osxdaily.com/wp-content/uploads/2026/11/griswold-surprises-customizations-squirrel-sled-etc-mac-desktop-holida-2048x1326.jpg 2048w" sizes="(max-width: 610px) 100vw, 610px"&gt;&lt;/p&gt;
+&lt;p&gt;Check out the video below from the developer (via X) to see Griswold in action, or grab it yourself and bring some Christmas cheer to your Mac desktop.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Griswold is fairly small and has broad compatibility, working on MacOS Ventura 13 or later. And, unlike some of the other snow and Christmas themed apps out there, it’s signed and notarized by Apple from a registered developer, so there’s no Gatekeeper bypass required to run. &lt;/p&gt;
+&lt;p&gt;Cheers to developer &lt;a rel="nofollow" href="https://x.com/SiliconForested/status/2126048339959664965"&gt;@SiliconForested on X&lt;/a&gt; for the great Mac app! And if you’re a regular reader, you might recognize the developer as who &lt;a href="https://osxdaily.com/2026/08/28/play-warcraft-2-on-macos-with-chonkcraft/"&gt;brought Warcraft 2 to modern MacOS with Chonkcraft&lt;/a&gt;, so if you’re interested in some retro RTS gaming fun check that out too.&lt;/p&gt;
+
+&lt;p id="jp-relatedposts" class="jp-relatedposts"&gt;
+	&lt;/p&gt;&lt;h3 class="jp-relatedposts-headline"&gt;&lt;em&gt;Related&lt;/em&gt;&lt;/h3&gt;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;/div&gt;</content>
+    <link href="https://osxdaily.com/2026/11/26/griswold-adds-christmas-lights-santa-snow-more-to-the-mac-desktop/"/>
+    <published>2026-11-26T23:39:59+00:00</published>
   </entry>
 </feed>
