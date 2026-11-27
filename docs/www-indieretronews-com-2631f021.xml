@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://www.indieretronews.com/feeds/posts/default</id>
   <title>Indie Retro News (texto completo)</title>
-  <updated>2026-11-26T21:27:47+00:00</updated>
+  <updated>2026-11-27T13:29:36+00:00</updated>
   <author>
     <name>Indie Retro News</name>
   </author>
@@ -10,54 +10,6 @@
   <link href="https://skywalkeres.github.io/feeds/www-indieretronews-com-2631f021.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Versión con artículo completo de https://www.indieretronews.com/feeds/posts/default</subtitle>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-5505604112615576153</id>
-    <title>Pole Position Remastered has been released for the Amiga &amp; Atari ST by Jonathan Thomas</title>
-    <updated>2026-11-22T13:01:59+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOcGXBiJV_lzlKnHCohEzXIT9ioFs5ZekmV2eKvOIwgLRyBEPOTVn1gAW-jBaZ4NAHAgwEChKeEcbUJ6GKLdsDQz5hNXgRiHrdfftY5ClmGmAeHE-LyhqaUIagRLwB8do_5Ir8X3ttbseLiI89BhKHZ-Is7LN3jG4QY5RoadnK-KeFalXfVL1Jlzncr6k/w640-h448/POLE.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-5505604112615576153" itemprop="description articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Here's a nice little treat for a Sunday, as we welcome the arrival of Pole Position Remastered, a brand new release for the Atari STE and Commodore Amiga (OCS/ECS/AGA). Created by developer Jonathan Thomas, the 2026 release is a complete, ground-up rebuild of his original 2017 STE port—which was crafted through manual reverse engineering—now overhauled using his deep knowledge of the hardware alongside AI assistance. By pulling the original arcade machine's exact game logic, graphics, and sound, the remaster delivers an almost authentic coin-op experience complete with real-time sprite scaling and a crisp 320x224 widescreen overscan display. While it is fully playable on standard 1MB machines, players with 2MB or 4MB memory expansions will benefit from even smoother performance.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/fd-p1wGpFhg" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=fd-p1wGpFhg"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Originally designed by Sho Osugi and released by Namco in 1982 as a follow-up to earlier electro-mechanical racers like F-1, Pole Position quickly became a global arcade phenomenon. Distributed in North America by Atari, Inc., the game claimed the title of Japan's highest-grossing arcade hit in its debut year before becoming the world's most popular coin-op title in 1983 (Wiki). Its dominance in North America continued as the top-earning arcade machine throughout 1983 and 1984—remaining in the top five well into 1985—making Thomas's faithful, enhanced 2026 port a fitting tribute to one of gaming's most influential racers.&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links :&lt;/b&gt;1) &lt;a href="https://retroracing.itch.io/pole-position-remastered-for-atari-ste-amiga"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/pole-position-remastered-has-been.html"/>
-    <published>2026-11-22T13:01:59+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-1604799814614064954</id>
-    <title>Space Harrier Enhanced - A classic game gets a 75% performance increase and other improvements on the Atari ST/STE!</title>
-    <updated>2026-11-22T13:21:05+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-1604799814614064954" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNA0BV7KNIJWowDAj_9ZFtkLzhLTFva48JtLSQvNXbUOfH_lJXJ_pWdMH67CoIK9njhtrkj912nSpqxIRjKcKXo_yBwUyoQmisdXzDMO6JmytenIa9tUufs45dWEVGOUp7MICEnW_RmEQFW9ELyu8IJHNtEKFXzCetdBtnfyTjZWk7EyVLkB1orBYL720/s1024/spacehar.jpg"&gt;&lt;img border="0" data-original-height="654" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNA0BV7KNIJWowDAj_9ZFtkLzhLTFva48JtLSQvNXbUOfH_lJXJ_pWdMH67CoIK9njhtrkj912nSpqxIRjKcKXo_yBwUyoQmisdXzDMO6JmytenIa9tUufs45dWEVGOUp7MICEnW_RmEQFW9ELyu8IJHNtEKFXzCetdBtnfyTjZWk7EyVLkB1orBYL720/w640-h408/spacehar.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Atari ST fans can finally experience a classic coin-op conversion the way it was meant to be played thanks to Space Harrier Enhanced, a newly released overhaul from developer Obsolete Media. The original 1988 ST port had its supporters, yet it suffered from sluggish frame rates and punishing difficulty that paled in comparison to the 1989 Commodore Amiga release. Set out to explore how a 1989 re-release utilizing the Blitter chip and Atari STe hardware might have stacked up against the Amiga, this edition pushes the engine to run 75% faster—jumping from the original's 8.81 FPS up to a much smoother 15.55 FPS—while slashing mouse latency from 124 ms down to 77 ms for far tighter controls. Alongside full-screen support, single-pixel background scrolling, faster loading times with a progress bar, and disk-saved high scores, STe owners get extra perks including higher-quality audio samples, smooth stage fades, and new colorful background modes inspired by the Amiga and modern reimagining's.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/dQbjqXjzyFk" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dQbjqXjzyFk"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Gameplay has also been balanced to feel much fairer and closer to the arcade cabinet, introducing an optional two-hit energy system, arcade-style flashing boss weak points, an automatic attract mode, and a handy title menu to tweak lives, starting stages, screen sizes, and music. Perhaps most remarkable is how the project came together: built over roughly seven weeks between late September and mid-November 2026, Obsolete Media combined 70 hours of hands-on direction, benchmarking, and rigorous playtesting with 927 prompts fed into ChatGPT to overhaul the code. The result is a passionate technical showcase that gives the Atari classic a new lease of life.&lt;/p&gt;&lt;p&gt;Thanks @asmodean1200.bsky.social for the heads up!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; 1) &lt;a href="https://archive.org/details/space-harrier-enhanced-atari-st-ste"&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/space-harrier-enhanced-classic-game.html"/>
-    <published>2026-11-22T13:21:05+00:00</published>
-  </entry>
-  <entry>
-    <id>tag:blogger.com,1999:blog-1503226992848377894.post-298025287844382875</id>
-    <title>Fate's Hand Amiga - An AI assisted Amiga version of Vcastro99's Commodore 64 game, Fate’s Hand 64</title>
-    <updated>2026-11-22T13:48:45+00:00</updated>
-    <author>
-      <name>Unknown (noreply@blogger.com)</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFDofQTLFhYiJnF022EkFew8MCdl4n4URGwt9bZq3JdeiO-JTEWrrnsW1QNoz2kK-FCznAN2B5AeELWjO_SNlv3K9c43STPOKwaDd_lekbhuXRPxkip68SQt1kM3u6kdZAFikelju7MzJTnpi0s-lFIRxnqxK5vecER7bHL3P3aWg2_3VJoaEzBY0yMYw/w640-h450/faTTES%23.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-298025287844382875" itemprop="articleBody"&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Vcastro99 has released Fate’s Hand Amiga, a fantasy deck-building adventure created for the Commodore Amiga. Following in the footsteps of its predecessor, Fate’s Hand 64, this port tasks players with assembling a custom deck on the fly as they battle through 40 challenging stages—stretching from the dungeon outskirts right up to the Dark Temple—for a final showdown against Arch-Lich Malakor. With 42 distinct cards, 13 strategy-altering relics, and 18 unpredictable mystery events, every playthrough offers a fresh set of enemies, campsite stops, and merchant upgrades that force you to adapt to whatever hand you are dealt.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/lHdPW64uzJE" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lHdPW64uzJE"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;While the core mechanics, story, and C64-inspired soundtrack remain faithful to the original version, Fate’s Hand Amiga takes full advantage of the platform's superior memory, colour palette, and resolution. Furthermore, the upgrade brings newly illustrated relics, detailed visuals, and animated enemies and backgrounds to the screen, that have been all tested directly on the very same Amiga 500 the developer has owned since he was a kid.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The game runs on PAL and NTSC Amigas with at least 1 MB of RAM, as well as emulators. The free download includes an ADF, a hard drive installer, and a Card Companion Guide PDF.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;AI Disclosure&lt;span&gt;	&lt;/span&gt;AI Assisted, Code, Graphics&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links &lt;/b&gt;:1)&lt;a href="https://vcastro99.itch.io/fates-hand-amiga"&gt; Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;</content>
-    <link href="https://www.indieretronews.com/2026/11/fates-hand-amiga-amiga-version-of.html"/>
-    <published>2026-11-22T13:48:45+00:00</published>
-  </entry>
   <entry>
     <id>tag:blogger.com,1999:blog-1503226992848377894.post-6611859444925018391</id>
     <title>Enhanced framerate versions of Amiga games via AI and Vesuri - PART 2 (BIG FEATURE)</title>
@@ -355,5 +307,53 @@
 &lt;/div&gt;</content>
     <link href="https://www.indieretronews.com/2026/11/mirror-signal-manslaughter-sensible.html"/>
     <published>2026-11-26T21:27:47+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-3945084539320123312</id>
+    <title>Vroom - A brilliant Amiga racer from the 90's gets a performance boost via Vesuri</title>
+    <updated>2026-11-27T12:55:59+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZceOqqPbfgMMpaTjVchvM3WIv-c0TulOQr2nb5zhZafSIt0-1KBG9Ngeac14Wao2NTPfdX3pJq5s4t629SwxuoQf4YHGhtYRxAWDZLDC5LPkH7mKaQqxYU6UfnDd9ECiVkv2HdErUkYZSP0trDc5TWdblSz5f539wJ1CYVahtn21FlqZdkrTN0C3o1oc/w640-h400/vrooon.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-3945084539320123312" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Time for some great Friday news, as developer Vesuri has released a brand-new update called Vroom Enhanced. Originally programmed by Daniel Macré and published by Lankhor in 1991, Vroom quickly earned a reputation for its simple yet addictive gameplay—even prompting Amiga Computing to joke that the fast-paced racer had turned their reviewer into a "driving freak." Now, more than three decades after its debut on the Atari ST, Amiga, and MS-DOS, this beloved speedster is getting a serious boost overhaul tailored for expanded Amiga hardware.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/Cp0HXklJtuw" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Cp0HXklJtuw"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p class="separator"&gt;Real Hardware&lt;/p&gt;&lt;p&gt;When running on 68020+ machines, Vroom Enhanced unlocks its full original NTSC speed even on PAL setups, rendering at a silky-smooth 50 or 60 frames per second with interpolated movement between game steps. The update also cleans up the audio and controls, ensuring music and sound effects play at their proper tempo on PAL systems while eliminating annoying audio pops and clicks during the practice race. Players can now pick the Red Player’s port and input device directly from the splash window, and a long-standing bug where rapid mouse movements sent the control marble flying in the wrong direction has finally been squashed, with the installed icon automatically handling the new CUSTOM4, CUSTOM5, and CACHE settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="http://eab.abime.net/showpost.php?p=1833765&amp;amp;postcount=184"&gt;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/vroom-brilliant-amiga-racer-from-90s.html"/>
+    <published>2026-11-27T12:55:59+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-376498360966084674</id>
+    <title>Tyrian - A legendary DOS scrolling shooter, playable in your browser!</title>
+    <updated>2026-11-27T13:13:36+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni4SFdLDjYPpwGxYl-GxmXuMxqywwW5bC-3m43HyUNBgrZUHnpTfTI46bDYMh16wS0umOjrVP8E2Nt2iHT_ogHqsXD6OOhryF9HSeQLpC8vlWSaNY6WR2t6R_hI2Y-q8Oi_eWaMiHKALtAp1h3No34Pap_Y8ZqkdHBT4MjWWiSbHL6na6ReFC3CLBkgA/w640-h484/tyrrian.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-376498360966084674" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Shoot em ups and Shooters have never gone out of fashion, there's something to be said about blasting waves of enemies on screen, while collecting wicked power ups and listening to that thumping soundtrack. Thankfully one such developer likes to keep the retro goodness going, as OpenTyrian has made available through browser play 'Tyrian'. A legendary DOS game from Eclipse Software that was launched way back in 1995. To coincide with this news, I've got a video from the game to give you a glimpse of what this shooter is like to play.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/ajaLO_vmEJg" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ajaLO_vmEJg"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Blast your way through a classic 1990s space shooter without downloading a single file, thanks to a new browser-based version of Tyrian from the OpenTyrian team. Originally created by Eclipse Software back in 1995, this legendary vertical-scrolling arcade shooter eventually became beloved freeware—and this web build comes pre-packaged with all the original freeware data so you can jump straight into the action. Set in the year 20,031, the game puts you in the cockpit as Trent Hawkins, a skilled fighter pilot hired to take down the corrupt MicroSol corporation and save the galaxy. Whether you want to dive in to finish the full story campaign, or play just a couple of levels this classic shooter is ready to play right from your browser window.&lt;/p&gt;&lt;p&gt;Links :1) &lt;a href="https://www.recompiled.games/games/tyrian?from=%2F%3Fplatform%3Dpc"&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/tyrian-legendary-dos-scrolling-shooter.html"/>
+    <published>2026-11-27T13:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1503226992848377894.post-4482775097991433418</id>
+    <title>FASTER - A super-fast and silky-smooth racing game for the Atari STE by Jonathan Thomas gets an Amiga version!</title>
+    <updated>2026-11-27T13:29:36+00:00</updated>
+    <author>
+      <name>Unknown (noreply@blogger.com)</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTVTk4ROm8mW_gZED38Zjyw-yc8v2lAsL3hq7KYTX4ZXrkQ9unjLy-gwkOS6WEYFVJqD4vz0_dwMaw0JcKENwuVhJL-00U23wcgKuEzJHK0A8Jl0Hq3Y3oz0WqZuCb6DbzW0cokcmqu-S2ztdrIO-ItdQ-xunJgayW6hhZ26nhGnC5vExxmAzY0JLNaho/w640-h436/racing.jpg"&gt;&lt;/p&gt;&lt;div&gt;&lt;div class="post-body entry-content" id="post-body-4482775097991433418" itemprop="articleBody"&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Glorious news Amiga owners, as we've just found out through Twitter, that Jonathan Thomas has brought over the super fast and silky smooth facing game of 'FASTER' from the &lt;a href="https://www.indieretronews.com/2024/12/faster-new-super-fast-and-silky-smooth.html"&gt;Atari STE&lt;/a&gt; over to the Commodore Amiga. As in the words of the creator about the STE version "Don't expect endless game modes, achievements, tutorials or cutscenes - this is pure, unfettered and uncomplicated 1980's-style arcade action". To coincide with this news, we've got some footage from the game so you know what to expect with the Amiga version released today.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="separator"&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/mmpDOq9gM8Q" width="560" height="315" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mmpDOq9gM8Q"&gt;▶ Ver vídeo en YouTube&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Meet FASTER, a brand-new, silky-smooth 2.5D racer built from scratch for the Atari STE—and now available on the Amiga, too. By combining modern development tools and techniques with classic hardware, this game pushes these retro machines to the max. In fact, the Atari STE version took home 1st place in the Atari ST/STE games competition way back in the Silly Venture 2024 WE!&lt;/p&gt;&lt;p&gt;Here is what you can expect under the hood:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;True 50fps speed: Blistering racing action running smoothly on an 8MHz Atari STE or Amiga.&lt;/li&gt;&lt;li&gt;Packed screens: Over 15 large, full-colour sprites rendered at once using the Blitter chip.&lt;/li&gt;&lt;li&gt;Rich visuals: More than 30 colours on screen at a time, taking full advantage of the STE's expanded palette.&lt;/li&gt;&lt;li&gt;Dynamic lighting: A full 24-hour day-to-night cycle as you race.&lt;/li&gt;&lt;li&gt;Layered audio: Simultaneous digital engine roars, sound effects, and a classic YM soundtrack playing together.&lt;/li&gt;&lt;li&gt;visceral feedback: Custom screen-shaking effects powered by the STE's hardware scrolling.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Links&lt;/b&gt; :1) &lt;a href="https://retroracing.itch.io/faster-atari-ste"&gt;Source&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+    <link href="https://www.indieretronews.com/2026/11/faster-super-fast-and-silky-smooth.html"/>
+    <published>2026-11-27T13:29:36+00:00</published>
   </entry>
 </feed>
